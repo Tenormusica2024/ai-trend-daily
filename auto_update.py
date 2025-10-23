@@ -9,7 +9,7 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
 from collect_trends import collect_all_trends
-from visualize import generate_json, generate_html
+from visualize_growth import generate_growth_json, generate_growth_html
 
 def main():
     """メイン処理: データ収集 → 可視化"""
@@ -24,10 +24,10 @@ def main():
         
         print("\n")
         
-        # 可視化
-        print("Generating Visualization...")
-        generate_json()
-        generate_html()
+        # 可視化（伸び率ランキング）
+        print("\nGenerating Growth Rate Visualization...")
+        generate_growth_json()
+        generate_growth_html()
         
         print("\n[SUCCESS] Auto-update completed")
         return 0
