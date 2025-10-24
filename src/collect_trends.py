@@ -4,7 +4,7 @@ Wikipedia Pageviews APIからトレンドデータを収集
 import requests
 from datetime import datetime, timedelta
 import time
-from config import AI_KEYWORDS, USER_AGENT
+from config import AI_KEYWORDS, EXCLUDED_KEYWORDS, USER_AGENT
 from database import TrendDatabase
 
 def get_pageviews(article, days=1):
@@ -69,16 +69,19 @@ def collect_all_trends():
         else:
             print("No data")
         
-        # レート制限対策（200ms待機 - タイムアウト対策）
-        time.sleep(0.2)
+        # レート制限対策（100ms待機 - 高速化）
+        time.sleep(0.1)
     
-    # Top10抽出
-    trends.sort(key=lambda x: x['pageviews'], reverse=True)
-    top10 = trends[:10]
+    # 除外ワードをフィルタリング
+    filtered_trends = [t for t in trends if t['keyword'] not in EXCLUDED_KEYWORDS]
+    
+    # Top20抽出
+    filtered_trends.sort(key=lambda x: x['pageviews'], reverse=True)
+    top10 = filtered_trends[:20]
     
     print()
     print("=" * 70)
-    print("Top 10 AI Trend Keywords")
+    print("Top 20 AI Trend Keywords")
     print("=" * 70)
     
     # データベースに保存

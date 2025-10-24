@@ -3,48 +3,72 @@
 """
 
 # AI関連キーワードリスト（Wikipedia記事名）
-# 常連ワード除外版 - 伸び率重視
+# バズワード・急上昇ワード専用リスト（少数精鋭版）
 AI_KEYWORDS = [
+    # 2024-2025 新興AIサービス（厳選10個）
+    "Perplexity.ai",
+    "Mistral_AI",
+    "Character.AI",
+    "Cohere",
+    "Stability_AI",
+    "xAI",
+    "Moonshot_AI",
+    "Inflection_AI",
+    "Poe_(chatbot)",
+    "ElevenLabs",
+    
+    # 新興画像・動画AI（厳選5個）
+    "Sora_(人工知能モデル)",  # Sora - 日本語版Wikipedia
+    "Runway_(company)",
+    "Kling_AI",
+    "Luma_AI",
+    "Synthesia",
+    
+    # 最新技術トレンド（厳選5個）
+    "Agentic_AI",
+    "Constitutional_AI",
+    "Mixture_of_experts",
+    "LoRA_(machine_learning)",
+    "RLHF",
+    
+    # AIハードウェア（厳選3個）
+    "Cerebras",
+    "TPU",
+    "Inferentia",
+    
+    # AI規制・倫理（厳選2個）
+    "AI_alignment",
+    "Superintelligence"
+]
+
+# 除外ワード（常連・基礎用語）- ランキングから完全除外
+EXCLUDED_KEYWORDS = [
+    "Artificial_intelligence",
+    "ChatGPT",
     "GPT-4",
+    "OpenAI",
+    "Llama_(language_model)",
+    "Large_language_model",
+    "Machine_learning",
+    "Deep_learning",
+    "Neural_network",
+    "Transformer_(machine_learning_model)",
+    "Generative_artificial_intelligence",
+    "Natural_language_processing",
+    "Computer_vision",
+    "Reinforcement_learning",
+    "Anthropic",
+    "Google_DeepMind",
+    "Meta_AI",
     "Claude_(language_model)",
     "Gemini_(chatbot)",
     "Midjourney",
     "Stable_Diffusion",
     "DALL-E",
-    "Runway_(company)",
-    "Sora_(text-to-video_model)",
-    "Generative_artificial_intelligence",
-    "Deep_learning",
-    "Anthropic",
-    "Google_DeepMind",
-    "GitHub_Copilot",
-    "Prompt_engineering",
-    "Perplexity.ai",
-    "Mistral_AI",
-    "Grok_(chatbot)",
-    "Meta_AI",
-    "Hugging_Face",
-    "LangChain",
-    "Vector_database",
-    "Retrieval-augmented_generation",
-    "Fine-tuning_(deep_learning)",
-    "Transfer_learning",
-    "Computer_vision",
-    "Natural_language_processing",
-    "Reinforcement_learning",
-    "Agent_(artificial_intelligence)",
-    "Multimodal_learning",
-    "Diffusion_model"
-]
-
-# 除外ワード（常連・基礎用語）
-EXCLUDED_KEYWORDS = [
-    "Artificial_intelligence",
-    "ChatGPT",
-    "OpenAI",
-    "Llama_(language_model)",
-    "Large_language_model",
-    "Machine_learning"
+    # 追加除外（常連化したワード）
+    "Grok_(chatbot)",  # Grok - 常連化
+    "Retrieval-augmented_generation",  # RAG - 常連化
+    "Groq"  # Groq - 常連化
 ]
 
 # データベースパス

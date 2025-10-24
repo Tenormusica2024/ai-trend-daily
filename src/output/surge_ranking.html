@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Trend Keywords - Weekly Surge Top 20</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 2rem;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        
+        h1 {
+            color: #2d3748;
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .updated {
+            color: #718096;
+            font-size: 0.9rem;
+        }
+        
+        .ranking {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        
+        .rank-item {
+            display: flex;
+            align-items: center;
+            padding: 1rem;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+        
+        .rank-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+        
+        .rank-number {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #667eea;
+            min-width: 50px;
+            text-align: center;
+        }
+        
+        .keyword {
+            flex: 1;
+            font-size: 1.1rem;
+            color: #2d3748;
+            padding: 0 1rem;
+        }
+        
+        .surge-rate {
+            font-size: 1.3rem;
+            font-weight: bold;
+            min-width: 120px;
+            text-align: right;
+        }
+        
+        .surge-rate.high {
+            color: #48bb78;  /* 緑 - 高い上昇率 */
+        }
+        
+        .surge-rate.medium {
+            color: #ed8936;  /* オレンジ - 中程度 */
+        }
+        
+        .surge-rate.low {
+            color: #f56565;  /* 赤 - 低い/マイナス */
+        }
+        
+        .views {
+            color: #718096;
+            font-size: 0.9rem;
+            min-width: 120px;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 AI Trend Keywords - Weekly Surge</h1>
+            <p class="updated">Last Updated: 2025-10-24 11:47:30</p>
+            <p class="updated">直近3日 vs 過去7日平均比較</p>
+        </div>
+        
+        <div class="ranking">
+            <div class="rank-item">
+                <div class="rank-number">#1</div>
+                <div class="keyword">Inferentia</div>
+                <div class="surge-rate medium">+36.8%</div>
+                <div class="views">5 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#2</div>
+                <div class="keyword">Cohere</div>
+                <div class="surge-rate medium">+25.4%</div>
+                <div class="views">461 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#3</div>
+                <div class="keyword">Mixture_of_experts</div>
+                <div class="surge-rate medium">+18.4%</div>
+                <div class="views">410 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#4</div>
+                <div class="keyword">Moonshot_AI</div>
+                <div class="surge-rate medium">+15.9%</div>
+                <div class="views">270 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#5</div>
+                <div class="keyword">Constitutional_AI</div>
+                <div class="surge-rate medium">+15.7%</div>
+                <div class="views">20 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#6</div>
+                <div class="keyword">Superintelligence</div>
+                <div class="surge-rate medium">+14.4%</div>
+                <div class="views">751 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#7</div>
+                <div class="keyword">Synthesia</div>
+                <div class="surge-rate medium">+14.1%</div>
+                <div class="views">48 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#8</div>
+                <div class="keyword">Agentic_AI</div>
+                <div class="surge-rate medium">+13.6%</div>
+                <div class="views">1,529 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#9</div>
+                <div class="keyword">Inflection_AI</div>
+                <div class="surge-rate medium">+12.9%</div>
+                <div class="views">233 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#10</div>
+                <div class="keyword">Mistral_AI</div>
+                <div class="surge-rate medium">+12.1%</div>
+                <div class="views">1,071 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#11</div>
+                <div class="keyword">ElevenLabs</div>
+                <div class="surge-rate medium">+8.3%</div>
+                <div class="views">932 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#12</div>
+                <div class="keyword">Perplexity.ai</div>
+                <div class="surge-rate medium">+7.1%</div>
+                <div class="views">65 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#13</div>
+                <div class="keyword">Runway_(company)</div>
+                <div class="surge-rate medium">+4.7%</div>
+                <div class="views">477 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#14</div>
+                <div class="keyword">Cerebras</div>
+                <div class="surge-rate medium">+4.6%</div>
+                <div class="views">351 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#15</div>
+                <div class="keyword">Stability_AI</div>
+                <div class="surge-rate medium">+3.8%</div>
+                <div class="views">298 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#16</div>
+                <div class="keyword">Character.AI</div>
+                <div class="surge-rate medium">+0.0%</div>
+                <div class="views">16 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#17</div>
+                <div class="keyword">AI_alignment</div>
+                <div class="surge-rate low">-0.3%</div>
+                <div class="views">580 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#18</div>
+                <div class="keyword">TPU</div>
+                <div class="surge-rate low">-2.5%</div>
+                <div class="views">19 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#19</div>
+                <div class="keyword">Sora_(人工知能モデル)</div>
+                <div class="surge-rate low">-3.2%</div>
+                <div class="views">214 views</div>
+            </div>
+            <div class="rank-item">
+                <div class="rank-number">#20</div>
+                <div class="keyword">RLHF</div>
+                <div class="surge-rate low">-9.1%</div>
+                <div class="views">2 views</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
