@@ -38,15 +38,16 @@
             max-width: 1200px;
             margin: 0 auto;
             background: linear-gradient(135deg, 
-                rgba(26, 26, 26, 0.95) 0%, 
-                rgba(35, 35, 35, 0.95) 50%, 
-                rgba(45, 45, 45, 0.95) 100%);
+                rgba(15, 15, 15, 0.95) 0%, 
+                rgba(30, 30, 30, 0.95) 30%,
+                rgba(50, 50, 50, 0.95) 70%,
+                rgba(35, 35, 35, 0.95) 100%);
             border-radius: 16px;
             padding: 3rem 2rem;
             box-shadow: 
                 0 20px 60px rgba(0, 0, 0, 0.8),
-                inset 0 1px 0 rgba(255, 255, 255, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.1);
+                inset 0 1px 0 rgba(255, 255, 255, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.15);
             position: relative;
             z-index: 1;
         }
@@ -114,7 +115,9 @@
             grid-template-columns: 60px 1fr 140px 140px;
             align-items: center;
             padding: 1.2rem;
-            background: rgba(255, 255, 255, 0.05);
+            background: linear-gradient(135deg, 
+                rgba(20, 20, 20, 0.8) 0%, 
+                rgba(35, 35, 35, 0.8) 100%);
             border-radius: 12px;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             border: 1px solid rgba(255, 255, 255, 0.1);
@@ -124,12 +127,13 @@
         .rank-item:hover {
             transform: translateY(-2px);
             background: linear-gradient(135deg, 
-                rgba(74, 158, 255, 0.12) 0%, 
-                rgba(138, 43, 226, 0.08) 100%);
-            border-color: #4a9eff;
+                rgba(45, 45, 45, 0.9) 0%, 
+                rgba(60, 60, 60, 0.9) 50%,
+                rgba(50, 50, 50, 0.9) 100%);
+            border-color: rgba(255, 255, 255, 0.25);
             box-shadow: 
-                0 8px 24px rgba(74, 158, 255, 0.25),
-                inset 0 1px 0 rgba(74, 158, 255, 0.2);
+                0 8px 24px rgba(0, 0, 0, 0.6),
+                inset 0 1px 0 rgba(255, 255, 255, 0.2);
         }
         
         .rank-number {
