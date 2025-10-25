@@ -244,7 +244,7 @@
         <div class="header">
             <h1>Video AI Ranking</h1>
             <p class="subtitle">Top 10 Video Generation AI Tools</p>
-            <p class="updated-time">Updated: October 2025</p>
+            <p class="updated-time" id="updated-time">Loading...</p>
         </div>
         
         <div class="description">
@@ -350,5 +350,45 @@
             <p>Project: <a href="https://github.com/Tenormusica2024/ai-trend-daily" target="_blank">ai-trend-daily on GitHub</a></p>
         </div>
     </div>
+    
+    <script>
+        async function loadRanking() {
+            try {
+                const response = await fetch('video_ranking.json');
+                const data = await response.json();
+                
+                // 更新日時を表示
+                document.getElementById('updated-time').textContent = 
+                    `Last Updated: ${data.updated_at}`;
+                
+                // ランキングHTML生成
+                const rankingHTML = data.ranking.map(item => {
+                    return `
+                        <div class="rank-item">
+                            <div class="rank-number">#${item.rank}</div>
+                            <div class="ai-name">
+                                <a href="${item.url}" target="_blank">${item.name}</a>
+                                <div class="ai-description">${item.description}</div>
+                            </div>
+                            <div class="company">${item.company}</div>
+                        </div>
+                    `;
+                }).join('');
+                
+                document.querySelector('.ranking').innerHTML = rankingHTML;
+                
+            } catch (error) {
+                console.error('Error loading ranking data:', error);
+                document.getElementById('updated-time').textContent = 
+                    'Failed to load data.';
+            }
+        }
+        
+        // ページロード時にランキング読み込み
+        loadRanking();
+        
+        // 10分ごとに自動更新
+        setInterval(loadRanking, 600000);
+    </script>
 </body>
 </html>
