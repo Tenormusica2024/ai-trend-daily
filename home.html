@@ -147,7 +147,8 @@
             backdrop-filter: blur(10px);
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             text-decoration: none;
-            display: block;
+            display: flex;
+            flex-direction: column;
         }
         
         .page-card:hover {
@@ -198,6 +199,21 @@
         
         .page-card:hover .page-card-link::after {
             transform: translateX(4px);
+        }
+        
+        .page-card-thumbnail {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin: 1rem 0 1.5rem 0;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+        }
+        
+        .page-card:hover .page-card-thumbnail {
+            border-color: rgba(255, 255, 255, 0.2);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
         }
         
         .footer {
@@ -263,6 +279,10 @@
             <a href="index.html" class="page-card">
                 <span class="page-card-icon">📈</span>
                 <div class="page-card-title">AI Trend Keywords</div>
+                <img src="https://tenormusica2024.github.io/ai-trend-daily/screenshots/ai-trend-keywords.png" 
+                     alt="AI Trend Keywords Ranking Preview" 
+                     class="page-card-thumbnail"
+                     onerror="this.style.display='none'">
                 <div class="page-card-description">
                     Wikipedia英語版・日本語版のページビューデータを基に、AI関連キーワードの1週間の急上昇率をランキング化。3時間ごとに自動更新。
                 </div>
@@ -272,6 +292,10 @@
             <a href="video-ai-ranking.html" class="page-card">
                 <span class="page-card-icon">🎬</span>
                 <div class="page-card-title">動画生成AIランキング</div>
+                <img src="https://tenormusica2024.github.io/ai-trend-daily/screenshots/video-ai-ranking.png" 
+                     alt="Video AI Ranking Preview" 
+                     class="page-card-thumbnail"
+                     onerror="this.style.display='none'">
                 <div class="page-card-description">
                     2025年最新の動画生成AI技術をTop 10形式で紹介。性能、使いやすさ、出力品質、コストパフォーマンスを総合評価。毎日午前3時に自動更新。
                 </div>
