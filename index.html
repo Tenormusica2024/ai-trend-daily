@@ -13,80 +13,72 @@
         
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #0a0a0a;
             min-height: 100vh;
             padding: 2rem 1rem;
+            color: #ffffff;
         }
         
         .container {
             max-width: 1200px;
             margin: 0 auto;
-            background: rgba(255, 255, 255, 0.95);
-            border-radius: 24px;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            border-radius: 16px;
             padding: 3rem 2rem;
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+            border: 1px solid #333;
         }
         
         .header {
             text-align: center;
             margin-bottom: 3rem;
-            position: relative;
-        }
-        
-        .header::before {
-            content: '🚀';
-            font-size: 4rem;
-            display: block;
-            margin-bottom: 1rem;
-            animation: float 3s ease-in-out infinite;
-        }
-        
-        @keyframes float {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-10px); }
+            padding-bottom: 2rem;
+            border-bottom: 1px solid #333;
         }
         
         h1 {
-            color: #2d3748;
+            color: #ffffff;
             font-size: 2.5rem;
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.8rem;
             font-weight: 700;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            letter-spacing: -0.02em;
         }
         
         .subtitle {
-            color: #718096;
+            color: #999;
             font-size: 1.1rem;
             margin-bottom: 0.5rem;
+            font-weight: 400;
         }
         
         .updated-time {
-            color: #a0aec0;
+            color: #666;
             font-size: 0.9rem;
             margin-top: 1rem;
+            font-weight: 400;
         }
         
         .description {
-            background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
-            border-left: 4px solid #667eea;
+            background: rgba(255, 255, 255, 0.03);
+            border-left: 3px solid #4a9eff;
             padding: 1.5rem;
             margin: 2rem 0;
             border-radius: 8px;
+            backdrop-filter: blur(10px);
         }
         
         .description h2 {
-            color: #2d3748;
+            color: #ffffff;
             font-size: 1.2rem;
-            margin-bottom: 0.8rem;
+            margin-bottom: 1rem;
+            font-weight: 600;
         }
         
         .description p {
-            color: #4a5568;
+            color: #aaa;
             line-height: 1.8;
             margin-bottom: 0.5rem;
+            font-size: 0.95rem;
         }
         
         .ranking {
@@ -100,33 +92,32 @@
             grid-template-columns: 60px 1fr 140px 140px;
             align-items: center;
             padding: 1.2rem;
-            background: white;
-            border-radius: 16px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-            border: 2px solid transparent;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
         }
         
         .rank-item:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
-            border-color: #667eea;
+            transform: translateY(-2px);
+            background: rgba(255, 255, 255, 0.08);
+            border-color: #4a9eff;
+            box-shadow: 0 8px 24px rgba(74, 158, 255, 0.15);
         }
         
         .rank-number {
             font-size: 1.8rem;
-            font-weight: 800;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            font-weight: 700;
+            color: #4a9eff;
             text-align: center;
+            font-variant-numeric: tabular-nums;
         }
         
         .keyword {
             font-size: 1.15rem;
-            color: #2d3748;
-            font-weight: 600;
+            color: #ffffff;
+            font-weight: 500;
             padding: 0 1.5rem;
         }
         
@@ -137,7 +128,7 @@
         }
         
         .keyword a:hover {
-            color: #667eea;
+            color: #4a9eff;
         }
         
         .surge-rate {
@@ -145,31 +136,33 @@
             font-weight: 700;
             text-align: right;
             padding-right: 1rem;
+            font-variant-numeric: tabular-nums;
         }
         
         .surge-rate.high {
-            color: #48bb78;
+            color: #00d47e;
         }
         
         .surge-rate.medium {
-            color: #ed8936;
+            color: #ffa726;
         }
         
         .surge-rate.low {
-            color: #f56565;
+            color: #ff5252;
         }
         
         .views {
-            color: #718096;
+            color: #888;
             font-size: 0.95rem;
             text-align: right;
-            font-weight: 500;
+            font-weight: 400;
+            font-variant-numeric: tabular-nums;
         }
         
         .loading {
             text-align: center;
             padding: 3rem;
-            color: #718096;
+            color: #666;
             font-size: 1.2rem;
         }
         
@@ -177,19 +170,20 @@
             text-align: center;
             margin-top: 3rem;
             padding-top: 2rem;
-            border-top: 2px solid #e2e8f0;
-            color: #718096;
+            border-top: 1px solid #333;
+            color: #666;
             font-size: 0.9rem;
         }
         
         .footer a {
-            color: #667eea;
+            color: #4a9eff;
             text-decoration: none;
-            font-weight: 600;
+            font-weight: 500;
+            transition: color 0.2s;
         }
         
         .footer a:hover {
-            text-decoration: underline;
+            color: #66b3ff;
         }
         
         @media (max-width: 768px) {
@@ -199,7 +193,7 @@
             
             .container {
                 padding: 2rem 1rem;
-                border-radius: 16px;
+                border-radius: 12px;
             }
             
             h1 {
@@ -240,15 +234,15 @@
         </div>
         
         <div class="description">
-            <h2>このランキングについて</h2>
-            <p>📊 Wikipedia英語版・日本語版のページビューデータを基に、AI関連キーワードの1週間の急上昇率をランキング化しています。</p>
-            <p>📈 計算方法：直近3日間の平均ページビュー数 vs 過去7日間の平均ページビュー数の変化率</p>
-            <p>🔄 データは3時間ごとに自動更新されます。</p>
-            <p>⚠️ ChatGPT、Claude、GPT-4などの一般的なAI用語は除外しています。</p>
+            <h2>About This Ranking</h2>
+            <p>Wikipedia英語版・日本語版のページビューデータを基に、AI関連キーワードの1週間の急上昇率をランキング化しています。</p>
+            <p>計算方法：直近3日間の平均ページビュー数 vs 過去7日間の平均ページビュー数の変化率</p>
+            <p>データは3時間ごとに自動更新されます。</p>
+            <p>ChatGPT、Claude、GPT-4などの一般的なAI用語は除外しています。</p>
         </div>
         
         <div id="ranking" class="ranking">
-            <div class="loading">データを読み込んでいます...</div>
+            <div class="loading">Loading data...</div>
         </div>
         
         <div class="footer">
@@ -264,7 +258,7 @@
                 const data = await response.json();
                 
                 document.getElementById('updated-time').textContent = 
-                    `最終更新: ${data.updated_at} (${data.period})`;
+                    `Last Updated: ${data.updated_at} (${data.period})`;
                 
                 const rankingHTML = data.ranking.map(item => {
                     const surgeRate = item.surge_rate;
@@ -295,7 +289,7 @@
             } catch (error) {
                 console.error('Error loading ranking data:', error);
                 document.getElementById('ranking').innerHTML = 
-                    '<div class="loading">データの読み込みに失敗しました。</div>';
+                    '<div class="loading">Failed to load data.</div>';
             }
         }
         
