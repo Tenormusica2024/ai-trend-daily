@@ -1,0 +1,105 @@
+#!/usr/bin/env python3
+"""
+画像生成AIランキング自動更新スクリプト
+毎日定時実行でランキングデータを更新
+"""
+
+import json
+from datetime import datetime
+from pathlib import Path
+
+def update_image_ranking():
+    """画像生成AIランキングデータを更新"""
+    
+    script_dir = Path(__file__).resolve().parent
+    output_file = script_dir / "image_ranking.json"
+    
+    current_time = datetime.now()
+    updated_at = current_time.strftime("%Y-%m-%d %H:%M:%S JST")
+    
+    ranking_data = {
+        "updated_at": updated_at,
+        "ranking": [
+            {
+                "rank": 1,
+                "name": "Midjourney v6.1",
+                "company": "Midjourney",
+                "url": "https://www.midjourney.com/",
+                "description": "芸術性とリアリズムのバランスが最高峰。プロンプト理解力とディテール表現で業界最高水準"
+            },
+            {
+                "rank": 2,
+                "name": "DALL-E 3",
+                "company": "OpenAI",
+                "url": "https://openai.com/dall-e-3",
+                "description": "自然言語プロンプトの理解力が圧倒的。ChatGPT統合で複雑な指示も正確に画像化"
+            },
+            {
+                "rank": 3,
+                "name": "Stable Diffusion XL",
+                "company": "Stability AI",
+                "url": "https://stability.ai/",
+                "description": "オープンソースで完全無料。ローカル実行可能でカスタマイズ性が最高。商用利用も自由"
+            },
+            {
+                "rank": 4,
+                "name": "Adobe Firefly",
+                "company": "Adobe",
+                "url": "https://www.adobe.com/products/firefly.html",
+                "description": "商用利用に特化した著作権クリアな学習データ。Photoshop統合でプロフェッショナル向け"
+            },
+            {
+                "rank": 5,
+                "name": "Leonardo AI",
+                "company": "Leonardo.Ai",
+                "url": "https://leonardo.ai/",
+                "description": "ゲームアセット生成に特化。一貫性のあるキャラクター・背景生成で3D・ゲーム開発に最適"
+            },
+            {
+                "rank": 6,
+                "name": "Imagen 3",
+                "company": "Google",
+                "url": "https://deepmind.google/technologies/imagen-3/",
+                "description": "テキストレンダリングと光の表現が卓越。Vertex AI統合でエンタープライズ利用に強み"
+            },
+            {
+                "rank": 7,
+                "name": "Ideogram 2.0",
+                "company": "Ideogram",
+                "url": "https://ideogram.ai/",
+                "description": "テキスト生成精度が業界トップ。ロゴ・ポスター・広告デザインでの文字入れ画像に最適"
+            },
+            {
+                "rank": 8,
+                "name": "Flux.1",
+                "company": "Black Forest Labs",
+                "url": "https://blackforestlabs.ai/",
+                "description": "元Stability AI開発者が開発。プロンプト追従性と高速生成を両立。商用プランあり"
+            },
+            {
+                "rank": 9,
+                "name": "Microsoft Designer",
+                "company": "Microsoft",
+                "url": "https://designer.microsoft.com/",
+                "description": "DALL-E 3統合でOffice連携が強力。ビジネス文書・プレゼン資料への画像挿入が直感的"
+            },
+            {
+                "rank": 10,
+                "name": "Canva AI",
+                "company": "Canva",
+                "url": "https://www.canva.com/",
+                "description": "デザインテンプレート10万種類と統合。非デザイナーでもプロ級の画像生成が可能"
+            }
+        ]
+    }
+    
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(ranking_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"OK Image AI Ranking updated: {updated_at}")
+    print(f"Output file: {output_file}")
+    
+    return ranking_data
+
+if __name__ == "__main__":
+    update_image_ranking()
