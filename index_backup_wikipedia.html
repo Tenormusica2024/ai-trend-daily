@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Trend Ranking - Daily Update</title>
+    <title>AI Trend Keywords - Weekly Surge Ranking</title>
     <style>
         * {
             margin: 0;
@@ -145,7 +145,7 @@
         
         .rank-item {
             display: grid;
-            grid-template-columns: 60px 1fr 120px;
+            grid-template-columns: 60px 1fr 140px 140px;
             align-items: center;
             padding: 1.2rem;
             background: linear-gradient(135deg, 
@@ -177,49 +177,48 @@
             font-variant-numeric: tabular-nums;
         }
         
-        .repo-info {
-            padding: 0 1.5rem;
-        }
-        
-        .repo-name {
+        .keyword {
             font-size: 1.15rem;
             color: #ffffff;
             font-weight: 500;
-            margin-bottom: 0.3rem;
+            padding: 0 1.5rem;
         }
         
-        .repo-name a {
+        .keyword a {
             color: inherit;
             text-decoration: none;
             transition: color 0.2s;
         }
         
-        .repo-name a:hover {
+        .keyword a:hover {
             color: #4a9eff;
         }
         
-        .repo-desc {
-            font-size: 0.9rem;
-            color: #aaa;
-            line-height: 1.5;
-            margin-top: 0.5rem;
-        }
-        
-        .repo-lang {
-            display: inline-block;
-            font-size: 0.85rem;
-            color: #666;
-            margin-top: 0.5rem;
-            padding: 0.2rem 0.6rem;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 4px;
-        }
-        
-        .stars {
-            color: #ffa726;
-            font-size: 1rem;
+        .surge-rate {
+            font-size: 1.2rem;
+            font-weight: 700;
             text-align: right;
-            font-weight: 600;
+            padding-right: 1rem;
+            font-variant-numeric: tabular-nums;
+        }
+        
+        .surge-rate.high {
+            color: #00d47e;
+        }
+        
+        .surge-rate.medium {
+            color: #ffa726;
+        }
+        
+        .surge-rate.low {
+            color: #ff5252;
+        }
+        
+        .views {
+            color: #888;
+            font-size: 0.95rem;
+            text-align: right;
+            font-weight: 400;
             font-variant-numeric: tabular-nums;
         }
         
@@ -270,12 +269,19 @@
                 padding: 1rem;
             }
             
-            .repo-info {
+            .keyword {
                 grid-column: 1 / -1;
                 padding: 0.5rem 0;
+                font-size: 1rem;
             }
             
-            .stars {
+            .surge-rate {
+                text-align: left;
+                padding-left: 50px;
+                font-size: 1.3rem;
+            }
+            
+            .views {
                 text-align: left;
                 padding-left: 50px;
             }
@@ -285,16 +291,17 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>GitHub Trend Ranking</h1>
-            <p class="subtitle">Daily Trending Repositories</p>
+            <h1>AI Trend Keywords</h1>
+            <p class="subtitle">Weekly Surge Ranking - Wikipedia Pageviews</p>
             <p class="updated-time" id="updated-time">Loading...</p>
         </div>
         
         <div class="description">
             <h2>About This Ranking</h2>
-            <p>GitHubのトレンドリポジトリを毎日自動収集してランキング化しています。</p>
-            <p>各リポジトリの説明、使用言語、スター数、プロジェクトの概要を表示しています。</p>
-            <p>データは1日1回、午前9時に自動更新されます。</p>
+            <p>Wikipedia英語版・日本語版のページビューデータを基に、AI関連キーワードの1週間の急上昇率をランキング化しています。</p>
+            <p>計算方法：直近3日間の平均ページビュー数 vs 過去7日間の平均ページビュー数の変化率</p>
+            <p>データは3時間ごとに自動更新されます。</p>
+            <p>ChatGPT、Claude、GPT-4などの一般的なAI用語は除外しています。</p>
         </div>
         
         <div id="ranking" class="ranking">
@@ -302,7 +309,7 @@
         </div>
         
         <div class="footer">
-            <p>Data Source: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
+            <p>Data Source: <a href="https://wikimedia.org/api/rest_v1/" target="_blank">Wikimedia REST API</a></p>
             <p>Project: <a href="https://github.com/Tenormusica2024/ai-trend-daily" target="_blank">ai-trend-daily on GitHub</a></p>
         </div>
     </div>
@@ -310,24 +317,32 @@
     <script>
         async function loadRanking() {
             try {
-                const response = await fetch('github_ranking.json');
+                const response = await fetch('surge_ranking.json');
                 const data = await response.json();
                 
                 document.getElementById('updated-time').textContent = 
-                    `Last Updated: ${data.updated_at}`;
+                    `Last Updated: ${data.updated_at} (${data.period})`;
                 
                 const rankingHTML = data.ranking.map(item => {
+                    const surgeRate = item.surge_rate;
+                    let rateClass = 'low';
+                    if (surgeRate >= 10) rateClass = 'high';
+                    else if (surgeRate >= 0) rateClass = 'medium';
+                    
+                    const keyword = item.keyword.replace('_(', ' (').replace(/_/g, ' ');
+                    
+                    const wikiUrl = item.keyword.includes('人工知能モデル') 
+                        ? `https://ja.wikipedia.org/wiki/${item.keyword}`
+                        : `https://en.wikipedia.org/wiki/${item.keyword}`;
+                    
                     return `
                         <div class="rank-item">
                             <div class="rank-number">#${item.rank}</div>
-                            <div class="repo-info">
-                                <div class="repo-name">
-                                    <a href="https://github.com/${item.repo_name}" target="_blank">${item.repo_name}</a>
-                                </div>
-                                <div class="repo-desc">${item.description}</div>
-                                ${item.language ? `<div class="repo-lang">${item.language}</div>` : ''}
+                            <div class="keyword">
+                                <a href="${wikiUrl}" target="_blank">${keyword}</a>
                             </div>
-                            <div class="stars">⭐ ${item.stars.toLocaleString()}</div>
+                            <div class="surge-rate ${rateClass}">${surgeRate > 0 ? '+' : ''}${surgeRate.toFixed(1)}%</div>
+                            <div class="views">${item.recent_views.toLocaleString()} views</div>
                         </div>
                     `;
                 }).join('');
@@ -343,7 +358,6 @@
         
         loadRanking();
         
-        // 10分ごとにリロード
         setInterval(loadRanking, 600000);
     </script>
 </body>

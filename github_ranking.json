@@ -1,0 +1,111 @@
+{
+  "updated_at": "2025-10-27 12:11:10",
+  "total_repos": 15,
+  "ranking": [
+    {
+      "rank": 1,
+      "repo_name": "LadybirdBrowser/ladybird",
+      "description": "完全に独立したウェブブラウザプロジェクト。既存のブラウザエンジンに依存せず、ゼロから構築された真の独立ブラウザを目指している。",
+      "language": "C++",
+      "stars": 53714
+    },
+    {
+      "rank": 2,
+      "repo_name": "yeongpin/cursor-free-vip",
+      "description": "Cursor AI の MachineID リセットとトークン制限バイパスをサポートするツール。0.49.x バージョンに対応し、無料で VIP 機能を利用可能にする。",
+      "language": "Python",
+      "stars": 37925
+    },
+    {
+      "rank": 3,
+      "repo_name": "cjpais/Handy",
+      "description": "完全にオフラインで動作する無料のオープンソース音声認識アプリケーション。拡張可能な設計で、インターネット接続なしで音声をテキストに変換できる。",
+      "language": "TypeScript",
+      "stars": 3482
+    },
+    {
+      "rank": 4,
+      "repo_name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "OpenAI、Anthropic、Gemini、オープンソースモデルを使用した AI エージェントと RAG を備えた LLM アプリのコレクション。実用的な AI アプリケーション例を多数収録。",
+      "language": "Python",
+      "stars": 73212
+    },
+    {
+      "rank": 5,
+      "repo_name": "microsoft/agent-lightning",
+      "description": "AI エージェントのトレーニングを効率化する Microsoft の絶対的トレーナー。エージェントの開発とデプロイを高速化するためのツールセット。",
+      "language": "Python",
+      "stars": 2372
+    },
+    {
+      "rank": 6,
+      "repo_name": "public-apis/public-apis",
+      "description": "無料で利用可能な API の包括的なコレクション。Web 開発・アプリ開発で使える様々な公開 API をカテゴリ別に整理したリスト。",
+      "language": "Python",
+      "stars": 350000
+    },
+    {
+      "rank": 7,
+      "repo_name": "coinbase/x402",
+      "description": "HTTP 上に構築されたインターネット用決済プロトコル。Web 上での支払いをシンプルかつ効率的に実現する新しい決済標準。",
+      "language": "TypeScript",
+      "stars": 1200
+    },
+    {
+      "rank": 8,
+      "repo_name": "donnemartin/system-design-primer",
+      "description": "大規模システム設計の学習リソース。システム設計面接対策に最適で、Anki フラッシュカードも含まれる包括的なガイド。",
+      "language": "Python",
+      "stars": 280000
+    },
+    {
+      "rank": 9,
+      "repo_name": "MHSanaei/3x-ui",
+      "description": "マルチプロトコル・マルチユーザー対応の Xray パネル。有効期限、トラフィック制限、IP 制限などの機能を備えた VPN 管理ツール。",
+      "language": "HTML",
+      "stars": 25177
+    },
+    {
+      "rank": 10,
+      "repo_name": "2dust/v2rayN",
+      "description": "Windows、Linux、macOS 用の GUI クライアント。Xray、sing-box などの複数プロトコルをサポートする VPN クライアント。",
+      "language": "C#",
+      "stars": 88802
+    },
+    {
+      "rank": 11,
+      "repo_name": "chartdb/chartdb",
+      "description": "単一のクエリでデータベースを視覚化・設計できるデータベース図エディタ。DB スキーマの可視化と設計を簡単に行える。",
+      "language": "TypeScript",
+      "stars": 19728
+    },
+    {
+      "rank": 12,
+      "repo_name": "go-gitea/gitea",
+      "description": "「お茶と一緒に Git を」がコンセプトの痛みのないセルフホスト型オールインワン開発サービス。GitHub の代替として人気の軽量 Git ホスティングソリューション。",
+      "language": "Go",
+      "stars": 51534
+    },
+    {
+      "rank": 13,
+      "repo_name": "hoppscotch/hoppscotch",
+      "description": "オープンソースの API 開発エコシステム。オフライン、オンプレミス、クラウドに対応し、Web、デスクトップ、CLI で利用可能な API テストツール。",
+      "language": "TypeScript",
+      "stars": 76195
+    },
+    {
+      "rank": 14,
+      "repo_name": "paperless-ngx/paperless-ngx",
+      "description": "コミュニティサポートのスーパーチャージド文書管理システム。すべての文書をスキャン、インデックス、アーカイブできるペーパーレス管理ツール。",
+      "language": "Python",
+      "stars": 33718
+    },
+    {
+      "rank": 15,
+      "repo_name": "cloudcommunity/Free-Certifications",
+      "description": "無料の認定資格付きコースのキュレーションリスト。各種技術分野の無料認定資格を取得できるコース情報をまとめたリポジトリ。",
+      "language": "",
+      "stars": 40040
+    }
+  ]
+}
