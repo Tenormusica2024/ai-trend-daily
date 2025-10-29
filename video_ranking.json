@@ -1,75 +1,85 @@
 {
-  "updated_at": "2025-10-29 11:31:53 JST",
+  "updated_at": "2025-10-29 20:41:04 JST",
   "ranking": [
     {
       "rank": 1,
       "name": "Sora 2",
       "company": "OpenAI",
       "url": "https://openai.com/sora",
-      "description": "音声・効果音・セリフを映像と同期生成。Cameo機能で人物を任意のシーンに挿入可能"
+      "description": "Synchronized generation of audio, sound effects, and dialogue with video. Cameo feature allows inserting people into any scene",
+      "description_ja": "音声・効果音・セリフを映像と同期生成。Cameo機能で人物を任意のシーンに挿入可能"
     },
     {
       "rank": 2,
       "name": "Runway Gen-3",
       "company": "Runway",
       "url": "https://runwayml.com/",
-      "description": "Motion Brushで動きをペイント指定。Act-One機能で実写から高品質アニメーション生成"
+      "description": "Paint-specify motion with Motion Brush. Act-One feature generates high-quality animation from live-action",
+      "description_ja": "Motion Brushで動きをペイント指定。Act-One機能で実写から高品質アニメーション生成"
     },
     {
       "rank": 3,
       "name": "Pika",
       "company": "Pika Labs",
       "url": "https://www.pika.art/",
-      "description": "Pikaframes機能で開始・終了フレームを指定し中間を自動生成。10秒1080p対応"
+      "description": "Pikaframes feature specifies start/end frames and auto-generates in-between. Supports 10-second 1080p",
+      "description_ja": "Pikaframes機能で開始・終了フレームを指定し中間を自動生成。10秒1080p対応"
     },
     {
       "rank": 4,
       "name": "Stable Video Diffusion",
       "company": "Stability AI",
       "url": "https://stability.ai/",
-      "description": "オープンソースで商用利用可。カスタマイズ性と低コスト運用が魅力"
+      "description": "Open-source and commercially available. Attractive customizability and low-cost operation",
+      "description_ja": "オープンソースで商用利用可。カスタマイズ性と低コスト運用が魅力"
     },
     {
       "rank": 5,
       "name": "Synthesia",
       "company": "Synthesia",
       "url": "https://www.synthesia.io/",
-      "description": "企業研修・教育特化で240種類以上のAIアバター。SOC2/GDPR完全準拠で大企業導入実績"
+      "description": "Corporate training and education focused with 240+ AI avatars. Full SOC2/GDPR compliance with enterprise adoption",
+      "description_ja": "企業研修・教育特化で240種類以上のAIアバター。SOC2/GDPR完全準拠で大企業導入実績"
     },
     {
       "rank": 6,
       "name": "HeyGen",
       "company": "HeyGen",
       "url": "https://www.heygen.com/",
-      "description": "マーケティング動画特化で無制限生成可能。300種類の音声とカスタムアバター作成に強み"
+      "description": "Marketing video focused with unlimited generation. Strong in 300 voice types and custom avatar creation",
+      "description_ja": "マーケティング動画特化で無制限生成可能。300種類の音声とカスタムアバター作成に強み"
     },
     {
       "rank": 7,
       "name": "Luma Dream Machine",
       "company": "Luma AI",
       "url": "https://lumalabs.ai/",
-      "description": "Ray3エンジンで16bit HDR出力対応。10秒以内の超高速生成と4Kアップスケール"
+      "description": "Ray3 engine supports 16-bit HDR output. Ultra-fast generation under 10 seconds and 4K upscaling",
+      "description_ja": "Ray3エンジンで16bit HDR出力対応。10秒以内の超高速生成と4Kアップスケール"
     },
     {
       "rank": 8,
       "name": "NVIDIA VideoLDM",
       "company": "NVIDIA",
       "url": "https://www.nvidia.com/",
-      "description": "研究レベルの最先端技術。長時間動画と高解像度出力の先駆者"
+      "description": "Research-level cutting-edge technology. Pioneer in long-form video and high-resolution output",
+      "description_ja": "研究レベルの最先端技術。長時間動画と高解像度出力の先駆者"
     },
     {
       "rank": 9,
       "name": "Descript Underlord",
       "company": "Descript",
       "url": "https://www.descript.com/",
-      "description": "音声編集と統合。テキストベースで動画とオーディオを同時編集可能"
+      "description": "Integrated with audio editing. Text-based simultaneous video and audio editing",
+      "description_ja": "音声編集と統合。テキストベースで動画とオーディオを同時編集可能"
     },
     {
       "rank": 10,
       "name": "InVideo AI",
       "company": "InVideo",
       "url": "https://www.invideo.ai/",
-      "description": "GPT-4連携でスクリプトから完全自動生成。Shopify/WooCommerce同期で商品動画を自動更新"
+      "description": "GPT-4 integration for full automation from script. Shopify/WooCommerce sync auto-updates product videos",
+      "description_ja": "GPT-4連携でスクリプトから完全自動生成。Shopify/WooCommerce同期で商品動画を自動更新"
     }
   ]
 }
