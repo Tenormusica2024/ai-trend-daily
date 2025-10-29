@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-10-28 09:00:03",
-  "total_repos": 12,
+  "updated_at": "2025-10-29 09:00:03",
+  "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
@@ -18,65 +18,65 @@
     },
     {
       "rank": 3,
-      "repo_name": "codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "language": "Markdown",
-      "stars": 0
-    },
-    {
-      "rank": 4,
       "repo_name": "microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "stars": 0
     },
     {
-      "rank": 5,
-      "repo_name": "LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
-      "language": "C++",
-      "stars": 0
-    },
-    {
-      "rank": 6,
-      "repo_name": "TheRobotStudio/SO-ARM100",
-      "description": "Standard Open Arm 100",
-      "language": "",
-      "stars": 0
-    },
-    {
-      "rank": 7,
-      "repo_name": "coinbase/x402",
-      "description": "A payments protocol for the internet. Built on HTTP.",
-      "language": "TypeScript",
-      "stars": 0
-    },
-    {
-      "rank": 8,
-      "repo_name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
+      "rank": 4,
+      "repo_name": "spipm/Depixelization_poc",
+      "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
       "language": "Python",
       "stars": 0
     },
     {
-      "rank": 9,
-      "repo_name": "bol-van/zapret",
-      "description": "DPI bypass multi platform",
-      "language": "C",
-      "stars": 0
-    },
-    {
-      "rank": 10,
-      "repo_name": "block/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "rank": 5,
+      "repo_name": "longbridge/gpui-component",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "stars": 0
     },
     {
-      "rank": 11,
+      "rank": 6,
+      "repo_name": "juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "stars": 0
+    },
+    {
+      "rank": 7,
+      "repo_name": "harvard-edge/cs249r_book",
+      "description": "Introduction to Machine Learning Systems",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "rank": 8,
       "repo_name": "qeeqbox/social-analyzer",
       "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
       "language": "JavaScript",
+      "stars": 0
+    },
+    {
+      "rank": 9,
+      "repo_name": "patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "stars": 0
+    },
+    {
+      "rank": 10,
+      "repo_name": "cloudcommunity/Free-Certifications",
+      "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
+      "language": "",
+      "stars": 0
+    },
+    {
+      "rank": 11,
+      "repo_name": "coinbase/x402",
+      "description": "A payments protocol for the internet. Built on HTTP.",
+      "language": "TypeScript",
       "stars": 0
     },
     {
@@ -84,6 +84,27 @@
       "repo_name": "Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
+      "stars": 0
+    },
+    {
+      "rank": 13,
+      "repo_name": "cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "rank": 14,
+      "repo_name": "iam-veeramalla/aws-devops-zero-to-hero",
+      "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "rank": 15,
+      "repo_name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
       "stars": 0
     }
   ]
