@@ -127,36 +127,19 @@ def parse_trending_repos(html_content):
             lang_elem = article.find('span', itemprop='programmingLanguage')
             language = lang_elem.get_text(strip=True) if lang_elem else ""
             
-            # スター数（複数の取得方法を試行）
+            # スター数取得（"1,289 stars today" 形式）
             stars = 0
-            
-            # 方法1: octicon-star から取得
-            star_elem = article.find('svg', class_='octicon-star')
-            if star_elem:
-                parent = star_elem.find_parent('a')
-                if parent:
-                    stars_text = parent.get_text(strip=True)
-                    try:
-                        # "k" を 1000 に変換
-                        if 'k' in stars_text.lower():
-                            stars = int(float(stars_text.lower().replace('k', '').replace(',', '').strip()) * 1000)
-                        else:
-                            stars = int(stars_text.replace(',', '').strip())
-                    except:
-                        pass
-            
-            # 方法2: star-count クラスから取得
-            if stars == 0:
-                star_count = article.find('span', class_='d-inline-block float-sm-right')
-                if star_count:
-                    stars_text = star_count.get_text(strip=True)
-                    try:
-                        if 'k' in stars_text.lower():
-                            stars = int(float(stars_text.lower().replace('k', '').replace(',', '').strip()) * 1000)
-                        else:
-                            stars = int(stars_text.replace(',', '').strip())
-                    except:
-                        pass
+            star_count = article.find('span', class_='d-inline-block float-sm-right')
+            if star_count:
+                stars_text = star_count.get_text(strip=True)
+                try:
+                    # "1,289 stars today" から数字のみ抽出
+                    import re
+                    numbers = re.findall(r'[\d,]+', stars_text)
+                    if numbers:
+                        stars = int(numbers[0].replace(',', ''))
+                except:
+                    pass
             
             # 説明文を日本語に翻訳（レート制限対策で0.5秒待機）
             description_ja = translate_to_japanese(description) if description != "No description provided" else "説明なし"
