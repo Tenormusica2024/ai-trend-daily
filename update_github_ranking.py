@@ -12,45 +12,69 @@ from bs4 import BeautifulSoup
 import time
 def translate_to_japanese(text):
     """
-    英語テキストを日本語に翻訳（簡易的な技術用語翻訳）
+    Gemini APIを使用して英語テキストを日本語に翻訳
     """
     if text == "No description provided":
         return "説明なし"
     
-    # 基本的な技術用語の翻訳マッピング
-    translation_map = {
-        "knowledge base": "ナレッジベース",
-        "open-source": "オープンソース",
-        "open source": "オープンソース",
-        "self-hosted": "セルフホスト型",
-        "implementation": "実装",
-        "cross-platform": "クロスプラットフォーム",
-        "desktop application": "デスクトップアプリケーション",
-        "speech-to-text": "音声テキスト変換",
-        "Machine Learning": "機械学習",
-        "AI agent": "AIエージェント",
-        "social media": "ソーシャルメディア",
-        "free courses": "無料コース",
-        "certifications": "認定資格",
-        "payments protocol": "決済プロトコル",
-        "tutorials": "チュートリアル",
-        "real-world": "実世界の",
-        "privacy first": "プライバシー優先",
-        "customizable": "カスタマイズ可能",
-        "planning": "計画",
-        "sorting": "整理",
-        "creating": "作成",
-    }
+    API_KEY = "AIzaSyBKVL0MW3hbTFX7llfbuF0TL73SKNR2Rfw"
+    # Gemini 2.0 Flash (thinking機能なし、安定版)
+    API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent"
     
-    # 翻訳を適用（大文字小文字を無視）
-    translated = text
-    for eng, jpn in translation_map.items():
-        # 大文字小文字を保持しつつ置換
-        import re
-        pattern = re.compile(re.escape(eng), re.IGNORECASE)
-        translated = pattern.sub(jpn, translated)
+    prompt = f"""以下の英語のGitHubリポジトリ説明文を自然な日本語に翻訳してください。
+
+【翻訳ルール】
+1. 技術用語は適切に日本語化してください
+2. 読みやすく簡潔な表現にしてください
+3. 翻訳結果のみを出力し、説明や前置きは不要です
+4. 原文の意味を正確に伝えてください
+
+【原文】
+{text}
+
+【翻訳】"""
     
-    return translated
+    try:
+        response = requests.post(
+            f"{API_URL}?key={API_KEY}",
+            headers={"Content-Type": "application/json"},
+            json={
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {
+                    "temperature": 0.3,
+                    "topK": 40,
+                    "topP": 0.95,
+                    "maxOutputTokens": 200,
+                    "responseModalities": ["TEXT"]
+                }
+            },
+            timeout=10
+        )
+        
+        if response.status_code == 200:
+            data = response.json()
+            # レスポンス構造のデバッグ
+            if 'candidates' in data and len(data['candidates']) > 0:
+                candidate = data['candidates'][0]
+                if 'content' in candidate:
+                    content = candidate['content']
+                    if 'parts' in content and len(content['parts']) > 0:
+                        translated = content['parts'][0]['text'].strip()
+                        return translated
+                    elif 'text' in content:
+                        # 新しいレスポンス形式の可能性
+                        translated = content['text'].strip()
+                        return translated
+            # フォールバック: レスポンス全体をログ出力
+            print(f"Unexpected response structure: {data}")
+            return text
+        else:
+            print(f"Translation API error: {response.status_code}, response: {response.text}")
+            return text
+            
+    except Exception as e:
+        print(f"Translation error: {e}, using original text")
+        return text
 
 def fetch_github_trending():
     """
@@ -134,8 +158,9 @@ def parse_trending_repos(html_content):
                     except:
                         pass
             
-            # 説明文を日本語に翻訳
+            # 説明文を日本語に翻訳（レート制限対策で0.5秒待機）
             description_ja = translate_to_japanese(description) if description != "No description provided" else "説明なし"
+            time.sleep(0.5)
             
             repos.append({
                 'rank': idx,
