@@ -3,6 +3,8 @@ name: Deploy to GitHub Pages (Auto-Enable)
 on:
   push:
     branches: [ main ]
+  schedule:
+    - cron: '0 1 * * *'  # Runs daily at 1:00 AM UTC (10:00 AM JST)
   workflow_dispatch:
 
 permissions:
