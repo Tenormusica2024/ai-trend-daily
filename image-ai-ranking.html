@@ -351,7 +351,7 @@
                             <div class="rank-number">#${item.rank}</div>
                             <div class="ai-name">
                                 <a href="${item.url}" target="_blank">${item.name}</a>
-                                <div class="ai-description">${item.description}</div>
+                                <div class="ai-description">${currentLang === 'ja' ? (item.description_ja || item.description) : item.description}</div>
                             </div>
                             <div class="company">${item.company}</div>
                         </div>

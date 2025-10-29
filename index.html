@@ -375,7 +375,7 @@
                                 <div class="repo-name">
                                     <a href="https://github.com/${item.repo_name}" target="_blank">${item.repo_name}</a>
                                 </div>
-                                <div class="repo-desc">${item.description_ja || item.description}</div>
+                                <div class="repo-desc">${currentLang === 'ja' ? (item.description_ja || item.description) : item.description}</div>
                                 ${item.language ? `<div class="repo-lang">${item.language}</div>` : ''}
                             </div>
                             <div class="stars">⭐ ${item.stars.toLocaleString()}</div>
