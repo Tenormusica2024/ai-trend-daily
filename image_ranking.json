@@ -1,85 +1,75 @@
 {
-  "updated_at": "2025-10-29 11:21:58 JST",
+  "updated_at": "2025-10-29 11:31:53 JST",
   "ranking": [
     {
       "rank": 1,
       "name": "Midjourney v6.1",
       "company": "Midjourney",
       "url": "https://www.midjourney.com/",
-      "description": "Perfect balance of artistry and realism. Industry-leading prompt understanding and detail expression",
-      "description_ja": "芸術性とリアリズムのバランスが最高峰。プロンプト理解力とディテール表現で業界最高水準"
+      "description": "芸術性とリアリズムのバランスが最高峰。プロンプト理解力とディテール表現で業界最高水準"
     },
     {
       "rank": 2,
       "name": "DALL-E 3",
       "company": "OpenAI",
       "url": "https://openai.com/dall-e-3",
-      "description": "Outstanding natural language prompt understanding. ChatGPT integration enables accurate visualization of complex instructions",
-      "description_ja": "自然言語プロンプトの理解力が圧倒的。ChatGPT統合で複雑な指示も正確に画像化"
+      "description": "自然言語プロンプトの理解力が圧倒的。ChatGPT統合で複雑な指示も正確に画像化"
     },
     {
       "rank": 3,
       "name": "Stable Diffusion XL",
       "company": "Stability AI",
       "url": "https://stability.ai/",
-      "description": "Open-source and completely free. Excellent customizability with local execution support. Free for commercial use",
-      "description_ja": "オープンソースで完全無料。ローカル実行可能でカスタマイズ性が最高。商用利用も自由"
+      "description": "オープンソースで完全無料。ローカル実行可能でカスタマイズ性が最高。商用利用も自由"
     },
     {
       "rank": 4,
       "name": "Adobe Firefly",
       "company": "Adobe",
       "url": "https://www.adobe.com/products/firefly.html",
-      "description": "Copyright-clear training data specialized for commercial use. Photoshop integration for professionals",
-      "description_ja": "商用利用に特化した著作権クリアな学習データ。Photoshop統合でプロフェッショナル向け"
+      "description": "商用利用に特化した著作権クリアな学習データ。Photoshop統合でプロフェッショナル向け"
     },
     {
       "rank": 5,
       "name": "Leonardo AI",
       "company": "Leonardo.Ai",
       "url": "https://leonardo.ai/",
-      "description": "Specialized in game asset generation. Ideal for 3D and game development with consistent character and background generation",
-      "description_ja": "ゲームアセット生成に特化。一貫性のあるキャラクター・背景生成で3D・ゲーム開発に最適"
+      "description": "ゲームアセット生成に特化。一貫性のあるキャラクター・背景生成で3D・ゲーム開発に最適"
     },
     {
       "rank": 6,
       "name": "Imagen 3",
       "company": "Google",
       "url": "https://deepmind.google/technologies/imagen-3/",
-      "description": "Exceptional text rendering and light expression. Strong for enterprise use with Vertex AI integration",
-      "description_ja": "テキストレンダリングと光の表現が卓越。Vertex AI統合でエンタープライズ利用に強み"
+      "description": "テキストレンダリングと光の表現が卓越。Vertex AI統合でエンタープライズ利用に強み"
     },
     {
       "rank": 7,
       "name": "Ideogram 2.0",
       "company": "Ideogram",
       "url": "https://ideogram.ai/",
-      "description": "Industry-leading text generation accuracy. Ideal for text-embedded images in logo, poster, and ad design",
-      "description_ja": "テキスト生成精度が業界トップ。ロゴ・ポスター・広告デザインでの文字入れ画像に最適"
+      "description": "テキスト生成精度が業界トップ。ロゴ・ポスター・広告デザインでの文字入れ画像に最適"
     },
     {
       "rank": 8,
       "name": "Flux.1",
       "company": "Black Forest Labs",
       "url": "https://blackforestlabs.ai/",
-      "description": "Developed by former Stability AI developers. Combines prompt adherence with fast generation. Commercial plans available",
-      "description_ja": "元Stability AI開発者が開発。プロンプト追従性と高速生成を両立。商用プランあり"
+      "description": "元Stability AI開発者が開発。プロンプト追従性と高速生成を両立。商用プランあり"
     },
     {
       "rank": 9,
       "name": "Microsoft Designer",
       "company": "Microsoft",
       "url": "https://designer.microsoft.com/",
-      "description": "Strong Office integration with DALL-E 3. Intuitive image insertion for business documents and presentations",
-      "description_ja": "DALL-E 3統合でOffice連携が強力。ビジネス文書・プレゼン資料への画像挿入が直感的"
+      "description": "DALL-E 3統合でOffice連携が強力。ビジネス文書・プレゼン資料への画像挿入が直感的"
     },
     {
       "rank": 10,
       "name": "Canva AI",
       "company": "Canva",
       "url": "https://www.canva.com/",
-      "description": "Integration with 100,000 design templates. Professional-grade image generation even for non-designers",
-      "description_ja": "デザインテンプレート10万種類と統合。非デザイナーでもプロ級の画像生成が可能"
+      "description": "デザインテンプレート10万種類と統合。非デザイナーでもプロ級の画像生成が可能"
     }
   ]
 }
