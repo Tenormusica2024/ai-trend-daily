@@ -53,10 +53,34 @@
         }
         
         .header {
+            position: relative;
             text-align: center;
             margin-bottom: 3rem;
             padding-bottom: 2rem;
             border-bottom: 1px solid #333;
+        }
+        
+        .lang-switch {
+            position: absolute;
+            top: 0;
+            right: 0;
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.1), rgba(138, 43, 226, 0.1));
+            color: #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        
+        .lang-switch:hover {
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.2), rgba(138, 43, 226, 0.2));
+            border-color: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(74, 158, 255, 0.2);
         }
         
         h1 {
@@ -74,22 +98,7 @@
             margin-bottom: 0.8rem;
             font-weight: 700;
             letter-spacing: -0.02em;
-            transition: all 0.3s ease;
             cursor: default;
-        }
-        
-        h1:hover {
-            background: linear-gradient(90deg, 
-                #d0d0d0 0%, 
-                #ffffff 20%,
-                #f0f0f0 40%,
-                #ffffff 60%,
-                #e8e8e8 80%,
-                #c0c0c0 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            transform: scale(1.02);
         }
         
         .subtitle {
@@ -266,16 +275,17 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>動画生成AIランキング</h1>
-            <p class="subtitle">Top 10 Video Generation AI Tools</p>
+            <button class="lang-switch" data-i18n="lang_button">EN</button>
+            <h1 data-i18n="main_title">動画生成AIランキング</h1>
+            <p class="subtitle" data-i18n="main_subtitle">Top 10 Video Generation AI Tools</p>
             <p class="updated-time" id="updated-time">Loading...</p>
         </div>
         
         <div class="description">
-            <h2>About This Ranking</h2>
-            <p>2025年最新の動画生成AI技術をランキング形式で紹介しています。</p>
-            <p>各AIの性能、使いやすさ、出力品質、コストパフォーマンスを総合的に評価しています。</p>
-            <p>商用利用可能性や生成速度など、実用性を重視した評価基準です。</p>
+            <h2 data-i18n="about_title">About This Ranking</h2>
+            <p data-i18n="about_desc1">2025年最新の動画生成AI技術をランキング形式で紹介しています。</p>
+            <p data-i18n="about_desc2">各AIの性能、使いやすさ、出力品質、コストパフォーマンスを総合的に評価しています。</p>
+            <p data-i18n="about_desc3">商用利用可能性や生成速度など、実用性を重視した評価基準です。</p>
         </div>
         
         <div class="ranking">
@@ -371,20 +381,60 @@
         </div>
         
         <div class="footer">
-            <p><a href="home.html" style="display: inline-block; padding: 0.8rem 2rem; background: linear-gradient(135deg, rgba(20, 20, 20, 0.8) 0%, rgba(35, 35, 35, 0.8) 100%); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; color: #ffffff; text-decoration: none; font-weight: 600; transition: all 0.3s ease; margin-bottom: 1rem;">← ホームに戻る</a></p>
+            <p><a href="home.html" style="display: inline-block; padding: 0.8rem 2rem; background: linear-gradient(135deg, rgba(20, 20, 20, 0.8) 0%, rgba(35, 35, 35, 0.8) 100%); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; color: #ffffff; text-decoration: none; font-weight: 600; transition: all 0.3s ease; margin-bottom: 1rem;" data-i18n="footer_home">← ホームに戻る</a></p>
             <p>Project: <a href="https://github.com/Tenormusica2024/ai-trend-daily" target="_blank">ai-trend-daily on GitHub</a></p>
         </div>
     </div>
     
     <script>
+        const translations = {
+            ja: {
+                lang_button: "EN",
+                main_title: "動画生成AIランキング",
+                main_subtitle: "Top 10 Video Generation AI Tools",
+                about_title: "About This Ranking",
+                about_desc1: "2025年最新の動画生成AI技術をランキング形式で紹介しています。",
+                about_desc2: "各AIの性能、使いやすさ、出力品質、コストパフォーマンスを総合的に評価しています。",
+                about_desc3: "商用利用可能性や生成速度など、実用性を重視した評価基準です。",
+                footer_home: "← ホームに戻る",
+                last_updated: "最終更新:"
+            },
+            en: {
+                lang_button: "日本語",
+                main_title: "Video Generation AI Ranking",
+                main_subtitle: "Top 10 Video Generation AI Tools",
+                about_title: "About This Ranking",
+                about_desc1: "We present the latest video generation AI technologies of 2025 in ranking format.",
+                about_desc2: "Comprehensive evaluation of each AI's performance, usability, output quality, and cost-performance.",
+                about_desc3: "Evaluation criteria prioritizing practicality, including commercial usability and generation speed.",
+                footer_home: "← Back to Home",
+                last_updated: "Last Updated:"
+            }
+        };
+        
+        let currentLang = localStorage.getItem('ai-trend-lang') || 'ja';
+        
+        function updateContent() {
+            document.documentElement.lang = currentLang;
+            const t = translations[currentLang];
+            
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const key = el.getAttribute('data-i18n');
+                if (t[key]) {
+                    el.textContent = t[key];
+                }
+            });
+        }
+        
         async function loadRanking() {
             try {
                 const response = await fetch('video_ranking.json');
                 const data = await response.json();
                 
                 // 更新日時を表示
+                const t = translations[currentLang];
                 document.getElementById('updated-time').textContent = 
-                    `Last Updated: ${data.updated_at}`;
+                    `${t.last_updated} ${data.updated_at}`;
                 
                 // ランキングHTML生成
                 const rankingHTML = data.ranking.map(item => {
@@ -409,8 +459,20 @@
             }
         }
         
-        // ページロード時にランキング読み込み
-        loadRanking();
+        document.addEventListener('DOMContentLoaded', function() {
+            updateContent();
+            loadRanking();
+            
+            const langSwitch = document.querySelector('.lang-switch');
+            if (langSwitch) {
+                langSwitch.addEventListener('click', function() {
+                    currentLang = currentLang === 'ja' ? 'en' : 'ja';
+                    localStorage.setItem('ai-trend-lang', currentLang);
+                    updateContent();
+                    loadRanking();
+                });
+            }
+        });
         
         // 10分ごとに自動更新
         setInterval(loadRanking, 600000);
