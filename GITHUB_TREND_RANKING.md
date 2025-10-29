@@ -31,42 +31,88 @@ GitHubのトレンドリポジトリを毎日自動収集してランキング�
   - BeautifulSoup4 でHTML解析
   - リポジトリ名、説明、言語、スター数を抽出
   - 上位15件のトレンドリポジトリを取得
+  - **Gemini API による自動翻訳機能**（2025-10-29追加）
   - JSONファイルに保存
   - Windows console エンコーディング対応（UTF-8/cp932）
 
 **主要な関数**:
 ```python
-fetch_github_trending()  # GitHub trending ページを取得
-parse_trending_repos()   # HTML を解析してリポジトリデータを抽出
-create_ranking_json()    # ランキングJSONデータを作成
-save_json()              # JSONファイルに保存
+fetch_github_trending()   # GitHub trending ページを取得
+parse_trending_repos()    # HTML を解析してリポジトリデータを抽出
+translate_to_japanese()   # Gemini API で英語説明文を日本語に翻訳（NEW）
+create_ranking_json()     # ランキングJSONデータを作成
+save_json()               # JSONファイルに保存
+```
+
+**翻訳機能の詳細（2025-10-29実装）**:
+- **使用API**: Google Gemini 2.0 Flash Exp
+- **APIキー**: 環境変数または設定ファイルから取得
+- **翻訳プロンプト**:
+  ```
+  以下の英語のGitHubリポジトリ説明文を自然な日本語に翻訳してください。
+  
+  【翻訳ルール】
+  1. 技術用語は適切に日本語化してください
+  2. 読みやすく簡潔な表現にしてください
+  3. 翻訳結果のみを出力し、説明や前置きは不要です
+  4. 原文の意味を正確に伝えてください
+  ```
+- **レート制限対策**: 各翻訳後に0.5秒待機（10 requests/分の制限回避）
+- **エラーハンドリング**: API失敗時は元の英語テキストを保持
+- **トークン設定**: 
+  - temperature: 0.3（一貫性重視）
+  - maxOutputTokens: 200
+  - responseModalities: ["TEXT"]
+
+**モデル選定経緯**:
+1. **Gemini 1.5 Flash** → 404エラー（モデル非対応）
+2. **Gemini 2.5 Flash** → thinking機能でトークン消費のみ、テキスト出力なし
+3. **Gemini 2.0 Flash Exp** ✅ → 成功（thinking機能なし、安定版）
+
+**翻訳品質の改善**:
+- **Before（キーワード置換）**: 英語と日本語が混在した不自然な文章
+- **After（Gemini API）**: 完全に自然な日本語文章
+
+**翻訳例**:
+```
+英語原文:
+"There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base 
+that brings planning, sorting and creating all together."
+
+日本語翻訳:
+"NotionやMiroだけではありません。AFFiNEは、計画、整理、作成を統合した
+次世代のナレッジベースです。プライバシーを第一に考え、オープンソースで、
+カスタマイズ可能、そしてすぐに使用できます。"
 ```
 
 ### 3. データ（JSON）
 
 #### github_ranking.json
 - 15件のトレンドリポジトリデータ
-- **データ構造**:
+- **データ構造**（2025-10-29更新）:
 ```json
 {
-  "updated_at": "2025-10-27 12:11:10",
+  "updated_at": "2025-10-29 13:38:29",
   "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "LadybirdBrowser/ladybird",
-      "description": "完全に独立したウェブブラウザプロジェクト...",
-      "language": "C++",
-      "stars": 53714
+      "repo_name": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base...",
+      "description_ja": "NotionやMiroだけではありません。AFFiNEは、計画、整理、作成を統合した次世代のナレッジベースです。",
+      "language": "TypeScript",
+      "stars": 0
     }
   ]
 }
 ```
 
 **特徴**:
-- 全リポジトリに日本語説明を追加
+- **全リポジトリに日本語説明を追加**（Gemini API翻訳）
+- **二重言語対応**: `description`（英語原文）と`description_ja`（日本語翻訳）の両方を保持
 - 実際のスター数を含む
 - UTF-8エンコーディング
+- **翻訳品質**: 機械的なキーワード置換から、Gemini APIによる自然な日本語文章へ改善（2025-10-29）
 
 ### 4. 自動更新システム
 
@@ -377,6 +423,15 @@ ai-trend-daily/
 
 ## 更新履歴
 
+- **2025-10-29**: Gemini API 翻訳機能実装
+  - Gemini 2.0 Flash Exp による高品質な日本語翻訳機能追加
+  - キーワード置換から完全な文章翻訳への改善
+  - レート制限対策（0.5秒待機）実装
+  - 二重言語対応（`description`と`description_ja`）
+  - モデル選定: 1.5 Flash → 2.5 Flash → 2.0 Flash Exp
+  - エラーハンドリングとフォールバック機能追加
+  - 翻訳品質の大幅向上（自然な日本語文章）
+
 - **2025-10-27**: GitHub Trend Ranking システム実装完了
   - HTML ページ作成
   - Python スクレイピングスクリプト作成
@@ -386,5 +441,6 @@ ai-trend-daily/
 
 ---
 
-**最終更新**: 2025-10-27  
-**次回自動更新**: 2025-10-28 09:00:00
+**最終更新**: 2025-10-29  
+**次回自動更新**: 2025-10-30 09:00:00  
+**翻訳機能**: Gemini 2.0 Flash Exp（2025-10-29実装）
