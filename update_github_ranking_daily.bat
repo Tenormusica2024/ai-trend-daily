@@ -26,7 +26,7 @@ if %ERRORLEVEL% EQU 0 (
     echo Committing changes to GitHub...
     git add github_ranking.json
     git commit -m "Auto-update GitHub Trend Ranking - %date% %time%"
-    git push origin master
+    git push origin main
     
     echo.
     echo Git push completed!
