@@ -482,14 +482,25 @@
         }
         
         document.addEventListener('DOMContentLoaded', function() {
+            console.log('DOMContentLoaded fired');
+            console.log('Initial language:', currentLang);
             updateContent();
             
             const langSwitch = document.querySelector('.lang-switch');
-            langSwitch.addEventListener('click', function() {
-                currentLang = currentLang === 'ja' ? 'en' : 'ja';
-                localStorage.setItem('ai-trend-lang', currentLang);
-                updateContent();
-            });
+            console.log('Language switch button found:', langSwitch !== null);
+            
+            if (langSwitch) {
+                langSwitch.addEventListener('click', function() {
+                    console.log('Button clicked! Current lang before switch:', currentLang);
+                    currentLang = currentLang === 'ja' ? 'en' : 'ja';
+                    console.log('Language switched to:', currentLang);
+                    localStorage.setItem('ai-trend-lang', currentLang);
+                    updateContent();
+                    console.log('updateContent() called');
+                });
+            } else {
+                console.error('Language switch button NOT found!');
+            }
         });
     </script>
 </body>
