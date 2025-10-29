@@ -53,10 +53,34 @@
         }
         
         .header {
+            position: relative;
             text-align: center;
             margin-bottom: 3rem;
             padding-bottom: 2rem;
             border-bottom: 1px solid #333;
+        }
+        
+        .lang-switch {
+            position: absolute;
+            top: 0;
+            right: 0;
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.1), rgba(138, 43, 226, 0.1));
+            color: #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        
+        .lang-switch:hover {
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.2), rgba(138, 43, 226, 0.2));
+            border-color: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(74, 158, 255, 0.2);
         }
         
         h1 {
@@ -277,15 +301,16 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>AIツールトレンド分析</h1>
-            <p class="subtitle">AI Tools Trend Analysis Dashboard</p>
+            <button class="lang-switch" data-i18n="lang_button">EN</button>
+            <h1 data-i18n="main_title">AIツールトレンド分析</h1>
+            <p class="subtitle" data-i18n="main_subtitle">AI Tools Trend Analysis Dashboard</p>
         </div>
         
         <div class="description">
-            <h2>About This Dashboard</h2>
-            <p>最新のAIツール・技術のトレンドを多角的に分析するダッシュボードです。</p>
-            <p>Wikipediaページビューデータと専門家評価に基づき、AI業界の動向をリアルタイムで追跡します。</p>
-            <p>各ページは自動更新され、常に最新の情報を提供します。</p>
+            <h2 data-i18n="about_title">About This Dashboard</h2>
+            <p data-i18n="about_desc1">最新のAIツール・技術のトレンドを多角的に分析するダッシュボードです。</p>
+            <p data-i18n="about_desc2">Wikipediaページビューデータと専門家評価に基づき、AI業界の動向をリアルタイムで追跡します。</p>
+            <p data-i18n="about_desc3">各ページは自動更新され、常に最新の情報を提供します。</p>
         </div>
         
         <div class="pages-grid">
@@ -313,15 +338,15 @@
                         <path d="M 50 10 L 56 16 L 50 16 Z" fill="url(#trendGradient)"/>
                     </svg>
                 </div>
-                <div class="page-card-title">GitHub Trend Ranking</div>
+                <div class="page-card-title" data-i18n="github_title">GitHub Trend Ranking</div>
                 <img src="https://tenormusica2024.github.io/ai-trend-daily/screenshots/ai-trend-keywords.png" 
                      alt="GitHub Trend Ranking Preview" 
                      class="page-card-thumbnail"
                      onerror="this.style.display='none'">
-                <div class="page-card-description">
+                <div class="page-card-description" data-i18n="github_desc">
                     GitHubのトレンドリポジトリを1週間の急上昇率でランキング化。AI関連プロジェクトの最新動向を追跡。3時間ごとに自動更新。
                 </div>
-                <span class="page-card-link">View Ranking</span>
+                <span class="page-card-link" data-i18n="view_ranking">View Ranking</span>
             </a>
             
             <a href="image-ai-ranking.html" class="page-card">
@@ -353,15 +378,15 @@
                               stroke-linejoin="round"/>
                     </svg>
                 </div>
-                <div class="page-card-title">画像生成AIランキング</div>
+                <div class="page-card-title" data-i18n="image_title">画像生成AIランキング</div>
                 <img src="https://tenormusica2024.github.io/ai-trend-daily/screenshots/image-ai-ranking.png" 
                      alt="Image AI Ranking Preview" 
                      class="page-card-thumbnail"
                      onerror="this.style.display='none'">
-                <div class="page-card-description">
+                <div class="page-card-description" data-i18n="image_desc">
                     2025年最新の画像生成AI技術をTop 10形式で紹介。画質、生成速度、プロンプト理解力、商用利用可否を総合評価。毎日午前3時に自動更新。
                 </div>
-                <span class="page-card-link">View Ranking</span>
+                <span class="page-card-link" data-i18n="view_ranking">View Ranking</span>
             </a>
             
             <a href="video-ai-ranking.html" class="page-card">
@@ -385,23 +410,87 @@
                         <circle cx="16" cy="22" r="1.5" fill="url(#videoGradient)"/>
                     </svg>
                 </div>
-                <div class="page-card-title">動画生成AIランキング</div>
+                <div class="page-card-title" data-i18n="video_title">動画生成AIランキング</div>
                 <img src="https://tenormusica2024.github.io/ai-trend-daily/screenshots/video-ai-ranking.png" 
                      alt="Video AI Ranking Preview" 
                      class="page-card-thumbnail"
                      onerror="this.style.display='none'">
-                <div class="page-card-description">
+                <div class="page-card-description" data-i18n="video_desc">
                     2025年最新の動画生成AI技術をTop 10形式で紹介。性能、使いやすさ、出力品質、コストパフォーマンスを総合評価。毎日午前3時に自動更新。
                 </div>
-                <span class="page-card-link">View Ranking</span>
+                <span class="page-card-link" data-i18n="view_ranking">View Ranking</span>
             </a>
         </div>
         
         <div class="footer">
-            <p><a href="https://tenormusica2024.github.io/portfolio/index.html" style="display: inline-block; padding: 0.8rem 2rem; background: linear-gradient(135deg, rgba(20, 20, 20, 0.8) 0%, rgba(35, 35, 35, 0.8) 100%); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; color: #ffffff; text-decoration: none; font-weight: 600; transition: all 0.3s ease; margin-bottom: 1rem;">← ポートフォリオに戻る</a></p>
+            <p><a href="https://tenormusica2024.github.io/portfolio/index.html" style="display: inline-block; padding: 0.8rem 2rem; background: linear-gradient(135deg, rgba(20, 20, 20, 0.8) 0%, rgba(35, 35, 35, 0.8) 100%); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; color: #ffffff; text-decoration: none; font-weight: 600; transition: all 0.3s ease; margin-bottom: 1rem;" data-i18n="footer_portfolio">← ポートフォリオに戻る</a></p>
             <p>Data Source: <a href="https://wikimedia.org/api/rest_v1/" target="_blank">Wikimedia REST API</a></p>
             <p>Project: <a href="https://github.com/Tenormusica2024/ai-trend-daily" target="_blank">ai-trend-daily on GitHub</a></p>
         </div>
     </div>
+    
+    <script>
+        const translations = {
+            ja: {
+                lang_button: "EN",
+                main_title: "AIツールトレンド分析",
+                main_subtitle: "AI Tools Trend Analysis Dashboard",
+                about_title: "About This Dashboard",
+                about_desc1: "最新のAIツール・技術のトレンドを多角的に分析するダッシュボードです。",
+                about_desc2: "Wikipediaページビューデータと専門家評価に基づき、AI業界の動向をリアルタイムで追跡します。",
+                about_desc3: "各ページは自動更新され、常に最新の情報を提供します。",
+                github_title: "GitHub Trend Ranking",
+                github_desc: "GitHubのトレンドリポジトリを1週間の急上昇率でランキング化。AI関連プロジェクトの最新動向を追跡。3時間ごとに自動更新。",
+                image_title: "画像生成AIランキング",
+                image_desc: "2025年最新の画像生成AI技術をTop 10形式で紹介。画質、生成速度、プロンプト理解力、商用利用可否を総合評価。毎日午前3時に自動更新。",
+                video_title: "動画生成AIランキング",
+                video_desc: "2025年最新の動画生成AI技術をTop 10形式で紹介。性能、使いやすさ、出力品質、コストパフォーマンスを総合評価。毎日午前3時に自動更新。",
+                view_ranking: "View Ranking",
+                footer_portfolio: "← ポートフォリオに戻る"
+            },
+            en: {
+                lang_button: "日本語",
+                main_title: "AI Tools Trend Analysis",
+                main_subtitle: "Real-time tracking of AI technology trends",
+                about_title: "About This Dashboard",
+                about_desc1: "A comprehensive dashboard for analyzing the latest trends in AI tools and technologies from multiple perspectives.",
+                about_desc2: "We track AI industry trends in real-time based on Wikipedia pageview data and expert evaluations.",
+                about_desc3: "Each page is automatically updated to provide the latest information.",
+                github_title: "GitHub Trend Ranking",
+                github_desc: "Rankings of trending GitHub repositories based on weekly growth rate. Tracks the latest developments in AI-related projects. Auto-updated every 3 hours.",
+                image_title: "Image Generation AI Ranking",
+                image_desc: "Top 10 latest image generation AI technologies of 2025. Comprehensive evaluation of image quality, generation speed, prompt understanding, and commercial usability. Auto-updated daily at 3 AM.",
+                video_title: "Video Generation AI Ranking",
+                video_desc: "Top 10 latest video generation AI technologies of 2025. Comprehensive evaluation of performance, ease of use, output quality, and cost-performance. Auto-updated daily at 3 AM.",
+                view_ranking: "View Ranking",
+                footer_portfolio: "← Back to Portfolio"
+            }
+        };
+        
+        let currentLang = localStorage.getItem('ai-trend-lang') || 'ja';
+        
+        function updateContent() {
+            document.documentElement.lang = currentLang;
+            const t = translations[currentLang];
+            
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const key = el.getAttribute('data-i18n');
+                if (t[key]) {
+                    el.textContent = t[key];
+                }
+            });
+        }
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            updateContent();
+            
+            const langSwitch = document.querySelector('.lang-switch');
+            langSwitch.addEventListener('click', function() {
+                currentLang = currentLang === 'ja' ? 'en' : 'ja';
+                localStorage.setItem('ai-trend-lang', currentLang);
+                updateContent();
+            });
+        });
+    </script>
 </body>
 </html>
