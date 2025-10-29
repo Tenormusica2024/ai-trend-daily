@@ -23,6 +23,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Update Image AI Ranking
+        run: |
+          python update_image_ranking.py
+          echo "✅ Image AI Ranking updated"
+      
+      - name: Update Video AI Ranking
+        run: |
+          python update_video_ranking.py
+          echo "✅ Video AI Ranking updated"
+      
+      - name: Commit ranking updates
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add image_ranking.json video_ranking.json
+          git diff --staged --quiet || git commit -m "🤖 Auto-update AI rankings ($(date +'%Y-%m-%d %H:%M:%S'))"
+      
+      - name: Push ranking updates
+        run: |
+          git push origin main || echo "⚠️ No changes to push"
+      
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
