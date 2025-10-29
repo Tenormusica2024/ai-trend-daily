@@ -53,10 +53,34 @@
         }
         
         .header {
+            position: relative;
             text-align: center;
             margin-bottom: 3rem;
             padding-bottom: 2rem;
             border-bottom: 1px solid #333;
+        }
+        
+        .lang-switch {
+            position: absolute;
+            top: 0;
+            right: 0;
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.1), rgba(138, 43, 226, 0.1));
+            color: #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        
+        .lang-switch:hover {
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.2), rgba(138, 43, 226, 0.2));
+            border-color: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(74, 158, 255, 0.2);
         }
         
         h1 {
@@ -74,22 +98,7 @@
             margin-bottom: 0.8rem;
             font-weight: 700;
             letter-spacing: -0.02em;
-            transition: all 0.3s ease;
             cursor: default;
-        }
-        
-        h1:hover {
-            background: linear-gradient(90deg, 
-                #d0d0d0 0%, 
-                #ffffff 20%,
-                #f0f0f0 40%,
-                #ffffff 60%,
-                #e8e8e8 80%,
-                #c0c0c0 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            transform: scale(1.02);
         }
         
         .subtitle {
@@ -285,16 +294,17 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>GitHub Trend Ranking</h1>
-            <p class="subtitle">Daily Trending Repositories</p>
+            <button class="lang-switch" data-i18n="lang_button">EN</button>
+            <h1 data-i18n="main_title">GitHub Trend Ranking</h1>
+            <p class="subtitle" data-i18n="main_subtitle">Daily Trending Repositories</p>
             <p class="updated-time" id="updated-time">Loading...</p>
         </div>
         
         <div class="description">
-            <h2>About This Ranking</h2>
-            <p>GitHubのトレンドリポジトリを毎日自動収集してランキング化しています。</p>
-            <p>各リポジトリの説明、使用言語、スター数、プロジェクトの概要を表示しています。</p>
-            <p>データは1日1回、午前9時に自動更新されます。</p>
+            <h2 data-i18n="about_title">About This Ranking</h2>
+            <p data-i18n="about_desc1">GitHubのトレンドリポジトリを毎日自動収集してランキング化しています。</p>
+            <p data-i18n="about_desc2">各リポジトリの説明、使用言語、スター数、プロジェクトの概要を表示しています。</p>
+            <p data-i18n="about_desc3">データは1日1回、午前9時に自動更新されます。</p>
         </div>
         
         <div id="ranking" class="ranking">
@@ -302,20 +312,60 @@
         </div>
         
         <div class="footer">
-            <p><a href="home.html" style="display: inline-block; padding: 0.8rem 2rem; background: linear-gradient(135deg, rgba(20, 20, 20, 0.8) 0%, rgba(35, 35, 35, 0.8) 100%); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; color: #ffffff; text-decoration: none; font-weight: 600; transition: all 0.3s ease; margin-bottom: 1rem;">← ホームに戻る</a></p>
+            <p><a href="home.html" style="display: inline-block; padding: 0.8rem 2rem; background: linear-gradient(135deg, rgba(20, 20, 20, 0.8) 0%, rgba(35, 35, 35, 0.8) 100%); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; color: #ffffff; text-decoration: none; font-weight: 600; transition: all 0.3s ease; margin-bottom: 1rem;" data-i18n="footer_home">← ホームに戻る</a></p>
             <p>Data Source: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
             <p>Project: <a href="https://github.com/Tenormusica2024/ai-trend-daily" target="_blank">ai-trend-daily on GitHub</a></p>
         </div>
     </div>
     
     <script>
+        const translations = {
+            ja: {
+                lang_button: "EN",
+                main_title: "GitHub Trend Ranking",
+                main_subtitle: "Daily Trending Repositories",
+                about_title: "About This Ranking",
+                about_desc1: "GitHubのトレンドリポジトリを毎日自動収集してランキング化しています。",
+                about_desc2: "各リポジトリの説明、使用言語、スター数、プロジェクトの概要を表示しています。",
+                about_desc3: "データは1日1回、午前9時に自動更新されます。",
+                footer_home: "← ホームに戻る",
+                last_updated: "最終更新:"
+            },
+            en: {
+                lang_button: "日本語",
+                main_title: "GitHub Trend Ranking",
+                main_subtitle: "Daily Trending Repositories",
+                about_title: "About This Ranking",
+                about_desc1: "We automatically collect and rank GitHub trending repositories daily.",
+                about_desc2: "Each repository displays its description, language, star count, and project overview.",
+                about_desc3: "Data is automatically updated once a day at 9:00 AM.",
+                footer_home: "← Back to Home",
+                last_updated: "Last Updated:"
+            }
+        };
+        
+        let currentLang = localStorage.getItem('ai-trend-lang') || 'ja';
+        
+        function updateContent() {
+            document.documentElement.lang = currentLang;
+            const t = translations[currentLang];
+            
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const key = el.getAttribute('data-i18n');
+                if (t[key]) {
+                    el.textContent = t[key];
+                }
+            });
+        }
+        
         async function loadRanking() {
             try {
                 const response = await fetch('github_ranking.json');
                 const data = await response.json();
                 
+                const t = translations[currentLang];
                 document.getElementById('updated-time').textContent = 
-                    `Last Updated: ${data.updated_at}`;
+                    `${t.last_updated} ${data.updated_at}`;
                 
                 const rankingHTML = data.ranking.map(item => {
                     return `
@@ -342,7 +392,20 @@
             }
         }
         
-        loadRanking();
+        document.addEventListener('DOMContentLoaded', function() {
+            updateContent();
+            loadRanking();
+            
+            const langSwitch = document.querySelector('.lang-switch');
+            if (langSwitch) {
+                langSwitch.addEventListener('click', function() {
+                    currentLang = currentLang === 'ja' ? 'en' : 'ja';
+                    localStorage.setItem('ai-trend-lang', currentLang);
+                    updateContent();
+                    loadRanking();
+                });
+            }
+        });
         
         // 10分ごとにリロード
         setInterval(loadRanking, 600000);
