@@ -32,10 +32,10 @@ Register-ScheduledTask `
     -Settings $Settings `
     -Description "動画生成AIランキングを毎日自動更新（午前3時実行）"
 
-Write-Host "✅ タスクスケジューラに登録完了！"
-Write-Host "タスク名: $TaskName"
-Write-Host "実行時刻: 毎日午前3時"
-Write-Host "スクリプト: $ScriptPath"
+Write-Host "OK Task Scheduler registration completed!"
+Write-Host "Task Name: $TaskName"
+Write-Host "Execution Time: Daily at 3:00 AM"
+Write-Host "Script: $ScriptPath"
 Write-Host ""
-Write-Host "手動実行テスト:"
-Write-Host "  Start-ScheduledTask -TaskName '$TaskName'"
+Write-Host "Manual test execution:"
+Write-Host "  Start-ScheduledTask -TaskName $TaskName"

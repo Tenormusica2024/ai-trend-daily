@@ -1,11 +1,12 @@
 {
-  "updated_at": "2025-10-29 09:00:03",
+  "updated_at": "2025-10-29 12:29:52",
   "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "description_ja": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen ナレッジベース that brings 計画, 整理 and 作成 all together. プライバシー優先, オープンソース, カスタマイズ可能 and ready to use.",
       "language": "TypeScript",
       "stars": 0
     },
@@ -13,6 +14,7 @@
       "rank": 2,
       "repo_name": "yeongpin/cursor-free-vip",
       "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+      "description_ja": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
       "language": "Python",
       "stars": 0
     },
@@ -20,6 +22,7 @@
       "rank": 3,
       "repo_name": "microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
+      "description_ja": "The absolute trainer to light up AIエージェントs.",
       "language": "Python",
       "stars": 0
     },
@@ -27,6 +30,7 @@
       "rank": 4,
       "repo_name": "spipm/Depixelization_poc",
       "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
+      "description_ja": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
       "language": "Python",
       "stars": 0
     },
@@ -34,6 +38,7 @@
       "rank": 5,
       "repo_name": "longbridge/gpui-component",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "description_ja": "Rust GUI components for building fantastic クロスプラットフォーム デスクトップアプリケーション by using GPUI.",
       "language": "Rust",
       "stars": 0
     },
@@ -41,6 +46,7 @@
       "rank": 6,
       "repo_name": "juanfont/headscale",
       "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "description_ja": "An オープンソース, セルフホスト型 実装 of the Tailscale control server",
       "language": "Go",
       "stars": 0
     },
@@ -48,6 +54,7 @@
       "rank": 7,
       "repo_name": "harvard-edge/cs249r_book",
       "description": "Introduction to Machine Learning Systems",
+      "description_ja": "Introduction to 機械学習 Systems",
       "language": "Python",
       "stars": 0
     },
@@ -55,6 +62,7 @@
       "rank": 8,
       "repo_name": "qeeqbox/social-analyzer",
       "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+      "description_ja": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 ソーシャルメディア \\ websites",
       "language": "JavaScript",
       "stars": 0
     },
@@ -62,6 +70,7 @@
       "rank": 9,
       "repo_name": "patchy631/ai-engineering-hub",
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "description_ja": "In-depth チュートリアル on LLMs, RAGs and 実世界の AIエージェント applications.",
       "language": "Jupyter Notebook",
       "stars": 0
     },
@@ -69,6 +78,7 @@
       "rank": 10,
       "repo_name": "cloudcommunity/Free-Certifications",
       "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
+      "description_ja": "A curated list of 無料コース with 認定資格. Also available athttps://free-認定資格.com/",
       "language": "",
       "stars": 0
     },
@@ -76,6 +86,7 @@
       "rank": 11,
       "repo_name": "coinbase/x402",
       "description": "A payments protocol for the internet. Built on HTTP.",
+      "description_ja": "A 決済プロトコル for the internet. Built on HTTP.",
       "language": "TypeScript",
       "stars": 0
     },
@@ -83,6 +94,7 @@
       "rank": 12,
       "repo_name": "Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "description_ja": "Collection of awesome LLM apps with AIエージェントs and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "stars": 0
     },
@@ -90,6 +102,7 @@
       "rank": 13,
       "repo_name": "cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "description_ja": "A free, オープンソース, and extensible 音声テキスト変換 application that works completely offline.",
       "language": "TypeScript",
       "stars": 0
     },
@@ -97,6 +110,7 @@
       "rank": 14,
       "repo_name": "iam-veeramalla/aws-devops-zero-to-hero",
       "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+      "description_ja": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
       "language": "Python",
       "stars": 0
     },
@@ -104,6 +118,7 @@
       "rank": 15,
       "repo_name": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
+      "description_ja": "Master programming by re作成 your favorite technologies from scratch.",
       "language": "Markdown",
       "stars": 0
     }

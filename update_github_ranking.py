@@ -10,6 +10,47 @@ import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
 import time
+def translate_to_japanese(text):
+    """
+    英語テキストを日本語に翻訳（簡易的な技術用語翻訳）
+    """
+    if text == "No description provided":
+        return "説明なし"
+    
+    # 基本的な技術用語の翻訳マッピング
+    translation_map = {
+        "knowledge base": "ナレッジベース",
+        "open-source": "オープンソース",
+        "open source": "オープンソース",
+        "self-hosted": "セルフホスト型",
+        "implementation": "実装",
+        "cross-platform": "クロスプラットフォーム",
+        "desktop application": "デスクトップアプリケーション",
+        "speech-to-text": "音声テキスト変換",
+        "Machine Learning": "機械学習",
+        "AI agent": "AIエージェント",
+        "social media": "ソーシャルメディア",
+        "free courses": "無料コース",
+        "certifications": "認定資格",
+        "payments protocol": "決済プロトコル",
+        "tutorials": "チュートリアル",
+        "real-world": "実世界の",
+        "privacy first": "プライバシー優先",
+        "customizable": "カスタマイズ可能",
+        "planning": "計画",
+        "sorting": "整理",
+        "creating": "作成",
+    }
+    
+    # 翻訳を適用（大文字小文字を無視）
+    translated = text
+    for eng, jpn in translation_map.items():
+        # 大文字小文字を保持しつつ置換
+        import re
+        pattern = re.compile(re.escape(eng), re.IGNORECASE)
+        translated = pattern.sub(jpn, translated)
+    
+    return translated
 
 def fetch_github_trending():
     """
@@ -93,10 +134,14 @@ def parse_trending_repos(html_content):
                     except:
                         pass
             
+            # 説明文を日本語に翻訳
+            description_ja = translate_to_japanese(description) if description != "No description provided" else "説明なし"
+            
             repos.append({
                 'rank': idx,
                 'repo_name': repo_name,
                 'description': description,
+                'description_ja': description_ja,
                 'language': language,
                 'stars': stars
             })
