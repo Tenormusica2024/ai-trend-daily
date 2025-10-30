@@ -28,6 +28,16 @@ jobs:
         with:
           python-version: '3.11'
       
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+          echo "✅ Dependencies installed"
+      
+      - name: Update GitHub Trend Ranking
+        run: |
+          python update_github_ranking.py
+          echo "✅ GitHub Trend Ranking updated"
+      
       - name: Update Image AI Ranking
         run: |
           python update_image_ranking.py
@@ -42,7 +52,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add image_ranking.json video_ranking.json
+          git add github_ranking.json image_ranking.json video_ranking.json
           git diff --staged --quiet || git commit -m "🤖 Auto-update AI rankings ($(date +'%Y-%m-%d %H:%M:%S'))"
       
       - name: Push ranking updates
