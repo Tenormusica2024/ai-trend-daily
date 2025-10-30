@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-30 01:28:57",
+  "updated_at": "2025-10-30 02:43:39",
   "total_repos": 12,
   "ranking": [
     {
@@ -14,7 +14,7 @@
       "rank": 2,
       "repo_name": "cjpais/Handy",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "description_ja": "完全にオフラインで動作する、無料のオープンソースで拡張可能な音声テキスト変換アプリケーション。",
+      "description_ja": "完全にオフラインで動作する、自由なオープンソースの拡張可能な音声テキスト変換アプリケーション。",
       "language": "TypeScript",
       "stars": 466
     },
@@ -22,7 +22,7 @@
       "rank": 3,
       "repo_name": "qeeqbox/social-analyzer",
       "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
-      "description_ja": "1000以上のソーシャルメディアサイトから、特定の人物のプロフィールを分析・検索するためのAPI、CLI、およびWebアプリケーション。",
+      "description_ja": "1000以上のソーシャルメディアサイトから個人のプロフィールを分析・検索するためのAPI、CLI、Webアプリ",
       "language": "JavaScript",
       "stars": 692
     },
@@ -62,7 +62,7 @@
       "rank": 8,
       "repo_name": "block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "description_ja": "コード補完にとどまらない、拡張可能なオープンソースのAIエージェント。あらゆるLLMでインストール、実行、編集、テストが可能です。",
+      "description_ja": "コード補完にとどまらない、拡張可能なオープンソースのAIエージェント。あらゆるLLMを用いて、インストール、実行、編集、テストが可能です。",
       "language": "Rust",
       "stars": 90
     },
@@ -70,7 +70,7 @@
       "rank": 9,
       "repo_name": "allenai/olmocr",
       "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "description_ja": "LLMデータセット/トレーニング用のPDF線形化ツールキット",
+      "description_ja": "LLMのデータセット/トレーニング用にPDFを線形化するツールキット",
       "language": "Python",
       "stars": 200
     },
@@ -86,7 +86,7 @@
       "rank": 11,
       "repo_name": "toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "description_ja": "NotionやMiroだけではありません。AFFiNE（[ə‘fain]と発音）は、プランニング、整理、作成を統合した次世代のナレッジベースです。プライバシーを第一に考え、オープンソースで、カスタマイズ可能、そしてすぐに使用できます。",
+      "description_ja": "NotionやMiroだけではありません。AFFiNE（[ə‘fain]と発音）は、計画、整理、作成を統合した次世代のナレッジベースです。プライバシーを第一に考え、オープンソースで、カスタマイズ可能、そしてすぐに使用できます。",
       "language": "TypeScript",
       "stars": 535
     },
