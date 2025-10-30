@@ -1,126 +1,102 @@
 {
-  "updated_at": "2025-10-29 13:55:45",
-  "total_repos": 15,
+  "updated_at": "2025-10-30 09:00:18",
+  "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "toeverything/AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "description_ja": "NotionやMiroだけではありません。AFFiNE（[ə‘fain]と発音）は、プランニング、整理、作成を統合した次世代のナレッジベースです。プライバシーを最優先に、オープンソースで、カスタマイズ可能、そしてすぐに利用できます。",
-      "language": "TypeScript",
-      "stars": 1289
+      "repo_name": "smartcontractkit/chainlink",
+      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "description_ja": "分散型オラクルネットワークのノード。オンチェーンとオフチェーンの計算を橋渡しします。",
+      "language": "Go",
+      "stars": 5
     },
     {
       "rank": 2,
-      "repo_name": "yeongpin/cursor-free-vip",
-      "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
-      "description_ja": "[0.49.x対応]（Cursor AIのMachineIDリセットとトークン上限の回避）Cursor AIのMachine IDを自動でリセットし、Pro機能を無料で利用できるようにします。「試用リクエスト制限に達しました」/「このマシンで多数の無料試用アカウントが使用されました。Proにアップグレードしてください。これは不正利用を防ぐための制限です。誤りと思われる場合はご連絡ください。」というメッセージを回避します。",
-      "language": "Python",
-      "stars": 534
+      "repo_name": "cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "description_ja": "完全にオフラインで動作する、無料のオープンソースで拡張可能な音声テキスト変換アプリケーション。",
+      "language": "TypeScript",
+      "stars": 466
     },
     {
       "rank": 3,
-      "repo_name": "microsoft/agent-lightning",
-      "description": "The absolute trainer to light up AI agents.",
-      "description_ja": "AIエージェントを活性化させるための究極のトレーナー。",
-      "language": "Python",
-      "stars": 475
+      "repo_name": "qeeqbox/social-analyzer",
+      "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+      "description_ja": "1000以上のソーシャルメディアサイトから、特定の人物のプロフィールを分析・検索するためのAPI、CLI、およびWebアプリケーション。",
+      "language": "JavaScript",
+      "stars": 692
     },
     {
       "rank": 4,
-      "repo_name": "spipm/Depixelization_poc",
-      "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
-      "description_ja": "Depixは、ピクセル化されたスクリーンショットから元のテキストを復元する技術のPoC（概念実証）です。",
-      "language": "Python",
-      "stars": 178
+      "repo_name": "open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "description_ja": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": 6
     },
     {
       "rank": 5,
-      "repo_name": "longbridge/gpui-component",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "description_ja": "GPUIを使って、素晴らしいクロスプラットフォームのデスクトップアプリケーションを構築するためのRust製GUIコンポーネント。",
-      "language": "Rust",
-      "stars": 1285
+      "repo_name": "microsoft/Web-Dev-For-Beginners",
+      "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+      "description_ja": "24のレッスン、12週間で、Web開発者としてスタートを切ろう。",
+      "language": "JavaScript",
+      "stars": 59
     },
     {
       "rank": 6,
-      "repo_name": "juanfont/headscale",
-      "description": "An open source, self-hosted implementation of the Tailscale control server",
-      "description_ja": "Tailscaleコントロールサーバーのオープンソースでセルフホスト可能な実装",
-      "language": "Go",
-      "stars": 53
+      "repo_name": "protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "description_ja": "Protocol Buffers - Google のデータ交換フォーマット",
+      "language": "C++",
+      "stars": 21
     },
     {
       "rank": 7,
-      "repo_name": "harvard-edge/cs249r_book",
-      "description": "Introduction to Machine Learning Systems",
-      "description_ja": "機械学習システム入門",
-      "language": "Python",
-      "stars": 417
+      "repo_name": "Beingpax/VoiceInk",
+      "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
+      "description_ja": "あなたの声をほぼ瞬時にテキストに変換するmacOS用音声テキスト変換アプリ",
+      "language": "Swift",
+      "stars": 61
     },
     {
       "rank": 8,
-      "repo_name": "qeeqbox/social-analyzer",
-      "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
-      "description_ja": "1000以上のソーシャルメディアサイトから、特定の人物のプロフィールを分析・検索するためのAPI、CLI、Webアプリ。",
-      "language": "JavaScript",
-      "stars": 847
+      "repo_name": "block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "description_ja": "コード補完にとどまらない、拡張可能なオープンソースのAIエージェント。あらゆるLLMでインストール、実行、編集、テストが可能です。",
+      "language": "Rust",
+      "stars": 90
     },
     {
       "rank": 9,
-      "repo_name": "patchy631/ai-engineering-hub",
-      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "description_ja": "LLM、RAG、および実世界のAIエージェントアプリケーションに関する詳細なチュートリアル。",
-      "language": "Jupyter Notebook",
-      "stars": 149
+      "repo_name": "allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "description_ja": "LLMのデータセット/トレーニング用にPDFを線形化するツールキット",
+      "language": "Python",
+      "stars": 200
     },
     {
       "rank": 10,
-      "repo_name": "cloudcommunity/Free-Certifications",
-      "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
-      "description_ja": "認定資格が取得できる無料コースの厳選リスト。 https://free-certifications.com/ でも公開中。",
-      "language": "",
-      "stars": 665
+      "repo_name": "dotnet/eShop",
+      "description": "A reference .NET application implementing an eCommerce site",
+      "description_ja": "eコマースサイトを実装した、.NETのリファレンスアプリケーション",
+      "language": "C#",
+      "stars": 23
     },
     {
       "rank": 11,
-      "repo_name": "coinbase/x402",
-      "description": "A payments protocol for the internet. Built on HTTP.",
-      "description_ja": "インターネット決済プロトコル。HTTP上に構築。",
+      "repo_name": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "description_ja": "NotionやMiroだけではありません。AFFiNE（[ə‘fain]と発音）は、計画、整理、作成を統合した次世代のナレッジベースです。プライバシーを第一に考え、オープンソースで、カスタマイズ可能、そしてすぐに使用できます。",
       "language": "TypeScript",
-      "stars": 277
+      "stars": 535
     },
     {
       "rank": 12,
-      "repo_name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "description_ja": "OpenAI、Anthropic、Gemini、およびオープンソースモデルを活用した、AIエージェントとRAGによる優れたLLMアプリのコレクション。",
+      "repo_name": "microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "description_ja": "The absolute trainer to light up AI agents.",
       "language": "Python",
-      "stars": 381
-    },
-    {
-      "rank": 13,
-      "repo_name": "cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "description_ja": "完全オフラインで動作する、無料のオープンソースで拡張可能な音声テキスト変換アプリケーション。",
-      "language": "TypeScript",
-      "stars": 132
-    },
-    {
-      "rank": 14,
-      "repo_name": "iam-veeramalla/aws-devops-zero-to-hero",
-      "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
-      "description_ja": "DevOpsエンジニアが30日間でAWSを学ぶためのゼロからヒーローへのリポジトリ。プロジェクト、プレゼンテーション、面接問題、実例を含みます。",
-      "language": "Python",
-      "stars": 27
-    },
-    {
-      "rank": 15,
-      "repo_name": "codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "description_ja": "お気に入りのテクノロジーをゼロから再現することで、プログラミングを極める。",
-      "language": "Markdown",
-      "stars": 725
+      "stars": 572
     }
   ]
 }
