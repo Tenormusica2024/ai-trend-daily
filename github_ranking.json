@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-30 09:00:18",
+  "updated_at": "2025-10-30 01:28:57",
   "total_repos": 12,
   "ranking": [
     {
@@ -38,7 +38,7 @@
       "rank": 5,
       "repo_name": "microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "description_ja": "24のレッスン、12週間で、Web開発者としてスタートを切ろう。",
+      "description_ja": "24のレッスン、12週間で、Web開発者としての第一歩を踏み出そう。",
       "language": "JavaScript",
       "stars": 59
     },
@@ -46,7 +46,7 @@
       "rank": 6,
       "repo_name": "protocolbuffers/protobuf",
       "description": "Protocol Buffers - Google's data interchange format",
-      "description_ja": "Protocol Buffers - Google のデータ交換フォーマット",
+      "description_ja": "Protocol Buffers - Googleのデータ交換フォーマット",
       "language": "C++",
       "stars": 21
     },
@@ -70,7 +70,7 @@
       "rank": 9,
       "repo_name": "allenai/olmocr",
       "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "description_ja": "LLMのデータセット/トレーニング用にPDFを線形化するツールキット",
+      "description_ja": "LLMデータセット/トレーニング用のPDF線形化ツールキット",
       "language": "Python",
       "stars": 200
     },
@@ -86,7 +86,7 @@
       "rank": 11,
       "repo_name": "toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "description_ja": "NotionやMiroだけではありません。AFFiNE（[ə‘fain]と発音）は、計画、整理、作成を統合した次世代のナレッジベースです。プライバシーを第一に考え、オープンソースで、カスタマイズ可能、そしてすぐに使用できます。",
+      "description_ja": "NotionやMiroだけではありません。AFFiNE（[ə‘fain]と発音）は、プランニング、整理、作成を統合した次世代のナレッジベースです。プライバシーを第一に考え、オープンソースで、カスタマイズ可能、そしてすぐに使用できます。",
       "language": "TypeScript",
       "stars": 535
     },
@@ -94,7 +94,7 @@
       "rank": 12,
       "repo_name": "microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
-      "description_ja": "The absolute trainer to light up AI agents.",
+      "description_ja": "AIエージェントを輝かせるための究極のトレーナー。",
       "language": "Python",
       "stars": 572
     }
