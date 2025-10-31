@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-31 01:37:23",
+  "updated_at": "2025-10-31 02:43:35",
   "total_repos": 16,
   "ranking": [
     {
@@ -14,7 +14,7 @@
       "rank": 2,
       "repo_name": "storybookjs/storybook",
       "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
-      "description_ja": "Storybookは、UIコンポーネントを独立して構築、ドキュメント化、テストするための業界標準のワークショップです。",
+      "description_ja": "Storybookは、UIコンポーネントを独立させて構築、ドキュメント化、テストするための業界標準のワークショップです。",
       "language": "TypeScript",
       "stars": 18
     },
@@ -30,7 +30,7 @@
       "rank": 4,
       "repo_name": "qeeqbox/social-analyzer",
       "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
-      "description_ja": "1000以上のソーシャルメディアサイトから、特定の人物のプロフィールを分析・検索するためのAPI、CLI、およびWebアプリケーション。",
+      "description_ja": "1000以上のソーシャルメディアサイトから、特定の人物のプロフィールを分析・検索するためのAPI、CLI、Webアプリケーション。",
       "language": "JavaScript",
       "stars": 672
     },
@@ -46,7 +46,7 @@
       "rank": 6,
       "repo_name": "yhirose/cpp-httplib",
       "description": "A C++ header-only HTTP/HTTPS server and client library",
-      "description_ja": "C++で記述された、ヘッダーファイルのみで構成されるHTTP/HTTPSサーバー/クライアントライブラリ",
+      "description_ja": "C++のヘッダーのみで構成されたHTTP/HTTPSサーバー/クライアントライブラリ",
       "language": "C++",
       "stars": 70
     },
@@ -54,7 +54,7 @@
       "rank": 7,
       "repo_name": "allenai/olmocr",
       "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "description_ja": "LLMデータセット/学習のためのPDF線形化ツールキット",
+      "description_ja": "LLMのデータセット/トレーニング用にPDFを線形化するツールキット",
       "language": "Python",
       "stars": 382
     },
@@ -70,7 +70,7 @@
       "rank": 9,
       "repo_name": "janhq/jan",
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
-      "description_ja": "Janは、ChatGPTのオープンソース代替であり、あなたのコンピュータ上で100%オフラインで動作します。",
+      "description_ja": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "language": "TypeScript",
       "stars": 27
     },
@@ -78,7 +78,7 @@
       "rank": 10,
       "repo_name": "mem0ai/mem0",
       "description": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
-      "description_ja": "AIエージェント向けの汎用メモリーレイヤー。ローカルでセキュアなメモリー管理を実現するOpenMemory MCPを発表。",
+      "description_ja": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
       "language": "Python",
       "stars": 112
     },
@@ -86,7 +86,7 @@
       "rank": 11,
       "repo_name": "iam-veeramalla/aws-devops-zero-to-hero",
       "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
-      "description_ja": "DevOpsエンジニアが30日間でAWSを習得するための入門リポジトリです。プロジェクト、プレゼンテーション資料、面接対策、実践的なサンプルが含まれています。",
+      "description_ja": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
       "language": "Python",
       "stars": 78
     },
@@ -118,7 +118,7 @@
       "rank": 15,
       "repo_name": "microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "description_ja": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+      "description_ja": "24のレッスン、12週間で、Web開発者としての第一歩を踏み出そう。",
       "language": "JavaScript",
       "stars": 441
     },
