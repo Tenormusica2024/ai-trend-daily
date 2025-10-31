@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-31 09:00:23",
+  "updated_at": "2025-10-30 12:30:03",
   "total_repos": 16,
   "ranking": [
     {
@@ -8,15 +8,15 @@
       "description": "The Kubernetes Package Manager",
       "description_ja": "Kubernetes パッケージマネージャー",
       "language": "Go",
-      "stars": 12
+      "stars": 9
     },
     {
       "rank": 2,
       "repo_name": "storybookjs/storybook",
       "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
-      "description_ja": "Storybookは、UIコンポーネントを独立させて構築、ドキュメント化、テストするための業界標準のワークショップです。",
+      "description_ja": "Storybookは、UIコンポーネントを独立して構築、ドキュメント化、テストするための業界標準のワークショップです。",
       "language": "TypeScript",
-      "stars": 18
+      "stars": 17
     },
     {
       "rank": 3,
@@ -24,7 +24,7 @@
       "description": "OpenTelemetry Collector",
       "description_ja": "OpenTelemetry Collector",
       "language": "Go",
-      "stars": 108
+      "stars": 109
     },
     {
       "rank": 4,
@@ -32,7 +32,7 @@
       "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
       "description_ja": "1000以上のソーシャルメディアサイトから、特定の人物のプロフィールを分析・検索するためのAPI、CLI、およびWebアプリケーション。",
       "language": "JavaScript",
-      "stars": 672
+      "stars": 658
     },
     {
       "rank": 5,
@@ -40,21 +40,21 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "description_ja": "LLM、RAG、および実世界のAIエージェントアプリケーションに関する詳細なチュートリアル。",
       "language": "Jupyter Notebook",
-      "stars": 228
+      "stars": 351
     },
     {
       "rank": 6,
       "repo_name": "yhirose/cpp-httplib",
       "description": "A C++ header-only HTTP/HTTPS server and client library",
-      "description_ja": "C++ ヘッダーのみで構成された HTTP/HTTPS サーバー/クライアントライブラリ",
+      "description_ja": "A C++ header-only HTTP/HTTPS server and client library",
       "language": "C++",
-      "stars": 70
+      "stars": 38
     },
     {
       "rank": 7,
       "repo_name": "allenai/olmocr",
       "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "description_ja": "LLMのデータセット/学習向けPDF線形化ツール",
+      "description_ja": "LLMのデータセット/学習用にPDFを線形化するツールキット",
       "language": "Python",
       "stars": 382
     },
@@ -64,29 +64,29 @@
       "description": "AI Toolkit for Healthcare Imaging",
       "description_ja": "医療画像処理のためのAIツールキット",
       "language": "Python",
-      "stars": 16
+      "stars": 19
     },
     {
       "rank": 9,
       "repo_name": "janhq/jan",
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
-      "description_ja": "Janは、ChatGPTのオープンソース代替で、あなたのコンピュータ上で100%オフラインで動作します。",
+      "description_ja": "Janは、ChatGPTのオープンソース代替であり、あなたのコンピュータ上で100%オフラインで動作します。",
       "language": "TypeScript",
-      "stars": 27
+      "stars": 28
     },
     {
       "rank": 10,
       "repo_name": "mem0ai/mem0",
       "description": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
-      "description_ja": "AIエージェント向けの汎用メモリーレイヤー。ローカルで安全なメモリー管理、OpenMemory MCPを発表。",
+      "description_ja": "AIエージェント向けの汎用メモリーレイヤー。ローカルで安全なメモリー管理を実現するOpenMemory MCPを発表。",
       "language": "Python",
-      "stars": 112
+      "stars": 111
     },
     {
       "rank": 11,
       "repo_name": "iam-veeramalla/aws-devops-zero-to-hero",
       "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
-      "description_ja": "DevOpsエンジニアが30日間でAWSを習得するための、AWSゼロからヒーローになるためのリポジトリです。プロジェクト、プレゼンテーション資料、面接対策、実践的なサンプルが含まれています。",
+      "description_ja": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
       "language": "Python",
       "stars": 78
     },
@@ -96,7 +96,7 @@
       "description": "The absolute trainer to light up AI agents.",
       "description_ja": "The absolute trainer to light up AI agents.",
       "language": "Python",
-      "stars": 541
+      "stars": 521
     },
     {
       "rank": 13,
@@ -104,7 +104,7 @@
       "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
       "description_ja": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
       "language": "Go",
-      "stars": 51
+      "stars": 61
     },
     {
       "rank": 14,
@@ -112,7 +112,7 @@
       "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "description_ja": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "language": "JavaScript",
-      "stars": 15
+      "stars": 12
     },
     {
       "rank": 15,
@@ -120,7 +120,7 @@
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
       "description_ja": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
       "language": "JavaScript",
-      "stars": 441
+      "stars": 450
     },
     {
       "rank": 16,
@@ -128,7 +128,7 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "description_ja": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
-      "stars": 23
+      "stars": 24
     }
   ]
 }
