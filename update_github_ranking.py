@@ -10,12 +10,18 @@ import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
 import time
-def translate_to_japanese(text):
+def translate_to_japanese(text, retry_count=0, max_retries=3):
     """
     Gemini APIを使用して英語テキストを日本語に翻訳
+    リトライ機能付き
     """
     if text == "No description provided":
         return "説明なし"
+    
+    # 短い固有名詞や技術用語は翻訳しない
+    if len(text.split()) <= 3 and text[0].isupper():
+        # 例: "OpenTelemetry Collector" のような固有名詞はそのまま
+        pass
     
     API_KEY = "AIzaSyBKVL0MW3hbTFX7llfbuF0TL73SKNR2Rfw"
     # Gemini 2.0 Flash (thinking機能なし、安定版)
@@ -60,20 +66,38 @@ def translate_to_japanese(text):
                     content = candidate['content']
                     if 'parts' in content and len(content['parts']) > 0:
                         translated = content['parts'][0]['text'].strip()
-                        return translated
+                        # 翻訳結果が空または元のテキストと同じ場合はリトライ
+                        if translated and translated != text:
+                            return translated
                     elif 'text' in content:
                         # 新しいレスポンス形式の可能性
                         translated = content['text'].strip()
-                        return translated
-            # フォールバック: レスポンス全体をログ出力
-            print(f"Unexpected response structure: {data}")
+                        if translated and translated != text:
+                            return translated
+            # リトライ処理
+            if retry_count < max_retries:
+                print(f"Translation retry {retry_count + 1}/{max_retries} for: {text[:50]}...")
+                time.sleep(1)  # リトライ前に待機
+                return translate_to_japanese(text, retry_count + 1, max_retries)
+            # 最終的なフォールバック
+            print(f"Translation failed after {max_retries} retries: {text[:50]}...")
             return text
         else:
-            print(f"Translation API error: {response.status_code}, response: {response.text}")
+            # APIエラー時もリトライ
+            if retry_count < max_retries:
+                print(f"API error (status {response.status_code}), retry {retry_count + 1}/{max_retries}")
+                time.sleep(2)  # エラー時はより長く待機
+                return translate_to_japanese(text, retry_count + 1, max_retries)
+            print(f"Translation API error after {max_retries} retries: {response.status_code}")
             return text
             
     except Exception as e:
-        print(f"Translation error: {e}, using original text")
+        # 例外発生時もリトライ
+        if retry_count < max_retries:
+            print(f"Translation exception, retry {retry_count + 1}/{max_retries}: {str(e)}")
+            time.sleep(2)
+            return translate_to_japanese(text, retry_count + 1, max_retries)
+        print(f"Translation error after {max_retries} retries: {e}")
         return text
 
 def fetch_github_trending():
@@ -141,9 +165,9 @@ def parse_trending_repos(html_content):
                 except:
                     pass
             
-            # 説明文を日本語に翻訳（レート制限対策で0.5秒待機）
+            # 説明文を日本語に翻訳（レート制限対策で1秒待機）
             description_ja = translate_to_japanese(description) if description != "No description provided" else "説明なし"
-            time.sleep(0.5)
+            time.sleep(1)  # API制限回避のため待機時間を延長
             
             repos.append({
                 'rank': idx,
