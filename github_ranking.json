@@ -1,134 +1,126 @@
 {
-  "updated_at": "2025-10-30 12:30:03",
-  "total_repos": 16,
+  "updated_at": "2025-11-01 09:01:14",
+  "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "helm/helm",
-      "description": "The Kubernetes Package Manager",
-      "description_ja": "Kubernetes パッケージマネージャー",
-      "language": "Go",
-      "stars": 9
+      "repo_name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "description_ja": "Node Version Manager - 複数のアクティブな Node.js バージョンを管理するための、POSIX 準拠の Bash スクリプト",
+      "language": "Shell",
+      "stars": 103
     },
     {
       "rank": 2,
-      "repo_name": "storybookjs/storybook",
-      "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
-      "description_ja": "Storybookは、UIコンポーネントを独立して構築、ドキュメント化、テストするための業界標準のワークショップです。",
-      "language": "TypeScript",
-      "stars": 17
+      "repo_name": "Wei-Shaw/claude-relay-service",
+      "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "description_ja": "CRSによる自作Claude Codeイメージ。Claude、OpenAI、Gemini、Droidのサブスクリプションを統合的に利用できる、ワンストップのオープンソース中継サービスです。共同購入（相乗り）をサポートし、コストを効率的に分担。既存のツールもシームレスに利用可能です。",
+      "language": "JavaScript",
+      "stars": 47
     },
     {
       "rank": 3,
+      "repo_name": "ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "description_ja": "新しい起動可能なUSBソリューション",
+      "language": "C",
+      "stars": 225
+    },
+    {
+      "rank": 4,
+      "repo_name": "projectdiscovery/nuclei-templates",
+      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+      "description_ja": "セキュリティ脆弱性を検出するための nuclei エンジン用テンプレートのコミュニティキュレーションリスト。",
+      "language": "JavaScript",
+      "stars": 71
+    },
+    {
+      "rank": 5,
+      "repo_name": "fmtlib/fmt",
+      "description": "A modern formatting library",
+      "description_ja": "モダンなフォーマットライブラリ",
+      "language": "C++",
+      "stars": 10
+    },
+    {
+      "rank": 6,
+      "repo_name": "qeeqbox/social-analyzer",
+      "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+      "description_ja": "1000以上のソーシャルメディアサイトから、特定の人物のプロフィールを分析・検索するためのAPI、CLI、Webアプリ。",
+      "language": "JavaScript",
+      "stars": 532
+    },
+    {
+      "rank": 7,
       "repo_name": "open-telemetry/opentelemetry-collector",
       "description": "OpenTelemetry Collector",
       "description_ja": "OpenTelemetry Collector",
       "language": "Go",
-      "stars": 109
-    },
-    {
-      "rank": 4,
-      "repo_name": "qeeqbox/social-analyzer",
-      "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
-      "description_ja": "1000以上のソーシャルメディアサイトから、特定の人物のプロフィールを分析・検索するためのAPI、CLI、およびWebアプリケーション。",
-      "language": "JavaScript",
-      "stars": 658
-    },
-    {
-      "rank": 5,
-      "repo_name": "patchy631/ai-engineering-hub",
-      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "description_ja": "LLM、RAG、および実世界のAIエージェントアプリケーションに関する詳細なチュートリアル。",
-      "language": "Jupyter Notebook",
-      "stars": 351
-    },
-    {
-      "rank": 6,
-      "repo_name": "yhirose/cpp-httplib",
-      "description": "A C++ header-only HTTP/HTTPS server and client library",
-      "description_ja": "A C++ header-only HTTP/HTTPS server and client library",
-      "language": "C++",
-      "stars": 38
-    },
-    {
-      "rank": 7,
-      "repo_name": "allenai/olmocr",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "description_ja": "LLMのデータセット/学習用にPDFを線形化するツールキット",
-      "language": "Python",
-      "stars": 382
+      "stars": 85
     },
     {
       "rank": 8,
-      "repo_name": "Project-MONAI/MONAI",
-      "description": "AI Toolkit for Healthcare Imaging",
-      "description_ja": "医療画像処理のためのAIツールキット",
-      "language": "Python",
-      "stars": 19
+      "repo_name": "yhirose/cpp-httplib",
+      "description": "A C++ header-only HTTP/HTTPS server and client library",
+      "description_ja": "C++のヘッダーのみで構成されたHTTP/HTTPSサーバーおよびクライアントライブラリ",
+      "language": "C++",
+      "stars": 128
     },
     {
       "rank": 9,
-      "repo_name": "janhq/jan",
-      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
-      "description_ja": "Janは、ChatGPTのオープンソース代替であり、あなたのコンピュータ上で100%オフラインで動作します。",
-      "language": "TypeScript",
-      "stars": 28
-    },
-    {
-      "rank": 10,
-      "repo_name": "mem0ai/mem0",
-      "description": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
-      "description_ja": "AIエージェント向けの汎用メモリーレイヤー。ローカルで安全なメモリー管理を実現するOpenMemory MCPを発表。",
-      "language": "Python",
-      "stars": 111
-    },
-    {
-      "rank": 11,
-      "repo_name": "iam-veeramalla/aws-devops-zero-to-hero",
-      "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
-      "description_ja": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
-      "language": "Python",
-      "stars": 78
-    },
-    {
-      "rank": 12,
       "repo_name": "microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
       "description_ja": "The absolute trainer to light up AI agents.",
       "language": "Python",
-      "stars": 521
+      "stars": 408
+    },
+    {
+      "rank": 10,
+      "repo_name": "666ghj/BettaFish",
+      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+      "description_ja": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+      "language": "Python",
+      "stars": 105
+    },
+    {
+      "rank": 11,
+      "repo_name": "hiyouga/LLaMA-Factory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "description_ja": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "language": "Python",
+      "stars": 118
+    },
+    {
+      "rank": 12,
+      "repo_name": "smartcontractkit/chainlink",
+      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "description_ja": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "language": "Go",
+      "stars": 13
     },
     {
       "rank": 13,
-      "repo_name": "Tencent/WeKnora",
-      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
-      "description_ja": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
-      "language": "Go",
-      "stars": 61
+      "repo_name": "dotnet/eShop",
+      "description": "A reference .NET application implementing an eCommerce site",
+      "description_ja": "A reference .NET application implementing an eCommerce site",
+      "language": "C#",
+      "stars": 7
     },
     {
       "rank": 14,
-      "repo_name": "projectdiscovery/nuclei-templates",
-      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
-      "description_ja": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
-      "language": "JavaScript",
-      "stars": 12
+      "repo_name": "patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "description_ja": "LLM、RAG、および実世界のAIエージェントアプリケーションに関する詳細なチュートリアル。",
+      "language": "Jupyter Notebook",
+      "stars": 386
     },
     {
       "rank": 15,
       "repo_name": "microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "description_ja": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+      "description_ja": "24のレッスン、12週間で、Web開発者としての第一歩を踏み出しましょう。",
       "language": "JavaScript",
-      "stars": 450
-    },
-    {
-      "rank": 16,
-      "repo_name": "nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "description_ja": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "language": "Shell",
-      "stars": 24
+      "stars": 318
     }
   ]
 }
