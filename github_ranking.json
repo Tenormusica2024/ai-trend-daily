@@ -1,126 +1,110 @@
 {
-  "updated_at": "2025-11-02 09:00:59",
-  "total_repos": 15,
+  "updated_at": "2025-11-03 09:11:17",
+  "total_repos": 13,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "get-convex/chef",
-      "description": "The only AI app builder that knows backend",
-      "description_ja": "バックエンドを理解する唯一のAIアプリビルダー",
-      "language": "TypeScript",
-      "stars": 65
+      "repo_name": "666ghj/BettaFish",
+      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+      "description_ja": "微舆：誰でも使えるマルチエージェント型世論分析アシスタント。情報の偏りを解消し、世論の真の姿を明らかにし、将来の動向を予測して意思決定を支援します。ゼロから実装されており、フレームワークには依存しません。",
+      "language": "Python",
+      "stars": 1149
     },
     {
       "rank": 2,
+      "repo_name": "Wei-Shaw/claude-relay-service",
+      "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "description_ja": "CRS構築のClaude Codeミラー、ワンストップのオープンソース中継サービス。Claude、OpenAI、Gemini、Droidのサブスクリプションを統合的に利用でき、相乗り共有をサポートすることでコストを効率的に分担。既存のツールもシームレスに使用可能。",
+      "language": "JavaScript",
+      "stars": 32
+    },
+    {
+      "rank": 3,
+      "repo_name": "microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "description_ja": "AIエージェントを輝かせるための究極のトレーナー。",
+      "language": "Python",
+      "stars": 432
+    },
+    {
+      "rank": 4,
+      "repo_name": "HKUDS/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "description_ja": "DeepCode: オープンなエージェント型コーディング (論文からのコード生成、テキストからのWeb生成、テキストからのバックエンド生成)",
+      "language": "Python",
+      "stars": 240
+    },
+    {
+      "rank": 5,
+      "repo_name": "GeeeekExplorer/nano-vllm",
+      "description": "Nano vLLM",
+      "description_ja": "Nano vLLM",
+      "language": "Python",
+      "stars": 173
+    },
+    {
+      "rank": 6,
+      "repo_name": "sst/opencode",
+      "description": "The AI coding agent built for the terminal.",
+      "description_ja": "ターミナル向けAIコーディングエージェント",
+      "language": "TypeScript",
+      "stars": 269
+    },
+    {
+      "rank": 7,
+      "repo_name": "charmbracelet/glow",
+      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+      "description_ja": "CLI上でMarkdownを華麗にレンダリング！💅🏻",
+      "language": "Go",
+      "stars": 110
+    },
+    {
+      "rank": 8,
+      "repo_name": "NARKOZ/hacker-scripts",
+      "description": "Based on a true story",
+      "description_ja": "実話に基づいています",
+      "language": "JavaScript",
+      "stars": 28
+    },
+    {
+      "rank": 9,
+      "repo_name": "moondevonyt/moon-dev-ai-agents",
+      "description": "autonomous ai agents for trading in python",
+      "description_ja": "Pythonで取引を行う自律型AIエージェント",
+      "language": "Python",
+      "stars": 188
+    },
+    {
+      "rank": 10,
       "repo_name": "suitenumerique/docs",
       "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.",
       "description_ja": "共同編集可能なノート、Wiki、ドキュメントプラットフォーム。拡張性があり、DjangoとReactで構築されています。",
       "language": "Python",
-      "stars": 28
-    },
-    {
-      "rank": 3,
-      "repo_name": "Tencent/WeKnora",
-      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
-      "description_ja": "RAGパラダイムを用いて、深層ドキュメント理解、セマンティック検索、およびコンテキストを考慮した回答を実現する、LLMを活用したフレームワーク。",
-      "language": "Go",
-      "stars": 36
-    },
-    {
-      "rank": 4,
-      "repo_name": "janhq/jan",
-      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
-      "description_ja": "Janは、ChatGPTのオープンソース代替であり、あなたのコンピュータ上で100%オフラインで動作します。",
-      "language": "TypeScript",
-      "stars": 112
-    },
-    {
-      "rank": 5,
-      "repo_name": "microsoft/Web-Dev-For-Beginners",
-      "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "description_ja": "24のレッスン、12週間で、Web開発者としての第一歩を踏み出そう。",
-      "language": "JavaScript",
-      "stars": 331
-    },
-    {
-      "rank": 6,
-      "repo_name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "description_ja": "単一の画像から、リアルタイム顔交換とワンクリック動画ディープフェイクを実現。",
-      "language": "Python",
-      "stars": 132
-    },
-    {
-      "rank": 7,
-      "repo_name": "juspay/hyperswitch",
-      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
-      "description_ja": "高速、高信頼性、低コストな決済を実現する、Rust製のオープンソース決済スイッチ",
-      "language": "Rust",
-      "stars": 242
-    },
-    {
-      "rank": 8,
-      "repo_name": "nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "description_ja": "Node Version Manager - 複数のアクティブな Node.js バージョンを管理するための、POSIX 準拠の Bash スクリプト",
-      "language": "Shell",
-      "stars": 83
-    },
-    {
-      "rank": 9,
-      "repo_name": "github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "description_ja": "GitHub Copilot CLIは、Copilotコーディングエージェントの能力をターミナルで直接利用できるようにします。",
-      "language": "",
-      "stars": 45
-    },
-    {
-      "rank": 10,
-      "repo_name": "YunaiV/ruoyi-vue-pro",
-      "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
-      "description_ja": "🔥 公式推奨 🔥 RuoYi-Vue の全く新しい Pro バージョン。全機能を最適化・再構築しました。Spring Boot + MyBatis Plus + Vue & Element をベースにしたバックエンド管理システム + WeChat ミニプログラムで、RBAC 動的権限、データ権限、SaaS マルチテナント、Flowable ワークフロー、サードパーティログイン、決済、SMS、ECサイト、CRM、ERP、AI 大規模モデルなどの機能をサポート。あなたの ⭐️ Star ⭐️ が、作者のモチベーションになります！",
-      "language": "Java",
-      "stars": 12
+      "stars": 178
     },
     {
       "rank": 11,
-      "repo_name": "hanxi/xiaomusic",
-      "description": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
-      "description_ja": "小愛スピーカーで音楽を再生します。音楽は yt-dlp を使用してダウンロードします。",
+      "repo_name": "Fosowl/agenticSeek",
+      "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
+      "description_ja": "完全ローカルで動作するManus AI。API不要、月額200ドルの請求もありません。電気代だけで、思考し、ウェブを閲覧し、コーディングを行う自律エージェントをお楽しみください。🔔 公式アップデートはTwitter @Martin993886460 のみで発信します（偽アカウントにご注意ください）。",
       "language": "Python",
-      "stars": 97
+      "stars": 127
     },
     {
       "rank": 12,
-      "repo_name": "666ghj/BettaFish",
-      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-      "description_ja": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-      "language": "Python",
-      "stars": 506
+      "repo_name": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+      "description_ja": "O'Reillyの書籍「Hands-On Large Language Models」の公式コードリポジトリ",
+      "language": "Jupyter Notebook",
+      "stars": 46
     },
     {
       "rank": 13,
-      "repo_name": "pathwaycom/llm-app",
-      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
-      "description_ja": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
-      "language": "Jupyter Notebook",
-      "stars": 135
-    },
-    {
-      "rank": 14,
-      "repo_name": "lingodotdev/lingo.dev",
-      "description": "⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:",
-      "description_ja": "⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:",
-      "language": "TypeScript",
-      "stars": 77
-    },
-    {
-      "rank": 15,
-      "repo_name": "ossu/computer-science",
-      "description": "🎓 Path to a free self-taught education in Computer Science!",
-      "description_ja": "🎓 Path to a free self-taught education in Computer Science!",
-      "language": "HTML",
-      "stars": 140
+      "repo_name": "hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "description_ja": "JavaScript製の、オンラインストレージのファイルダウンロードURL取得ツールです。「オンラインストレージ直接ダウンロードアシスタント」をベースに修正されており、百度網盤、阿里云盤、中国移動雲盤、天翼雲盤、迅雷雲盤、夸克網盤、UC網盤、123雲盤の8つの主要なオンラインストレージに対応しています。",
+      "language": "JavaScript",
+      "stars": 89
     }
   ]
 }
