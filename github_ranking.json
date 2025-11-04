@@ -1,110 +1,126 @@
 {
-  "updated_at": "2025-11-03 09:11:17",
-  "total_repos": 13,
+  "updated_at": "2025-11-04 09:12:43",
+  "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "666ghj/BettaFish",
       "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-      "description_ja": "微舆：誰でも使えるマルチエージェント型世論分析アシスタント。情報の偏りを解消し、世論の真の姿を明らかにし、将来の動向を予測して意思決定を支援します。ゼロから実装されており、フレームワークには依存しません。",
+      "description_ja": "微舆：誰でも使えるマルチエージェント型世論分析アシスタント。情報の偏りを解消し、世論の真の姿を明らかにし、将来の動向を予測して意思決定を支援します。フレームワークに依存せず、ゼロから実装されています。",
       "language": "Python",
-      "stars": 1149
+      "stars": 1621
     },
     {
       "rank": 2,
-      "repo_name": "Wei-Shaw/claude-relay-service",
-      "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "description_ja": "CRS構築のClaude Codeミラー、ワンストップのオープンソース中継サービス。Claude、OpenAI、Gemini、Droidのサブスクリプションを統合的に利用でき、相乗り共有をサポートすることでコストを効率的に分担。既存のツールもシームレスに使用可能。",
-      "language": "JavaScript",
-      "stars": 32
-    },
-    {
-      "rank": 3,
-      "repo_name": "microsoft/agent-lightning",
-      "description": "The absolute trainer to light up AI agents.",
-      "description_ja": "AIエージェントを輝かせるための究極のトレーナー。",
-      "language": "Python",
-      "stars": 432
-    },
-    {
-      "rank": 4,
-      "repo_name": "HKUDS/DeepCode",
-      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-      "description_ja": "DeepCode: オープンなエージェント型コーディング (論文からのコード生成、テキストからのWeb生成、テキストからのバックエンド生成)",
-      "language": "Python",
-      "stars": 240
-    },
-    {
-      "rank": 5,
       "repo_name": "GeeeekExplorer/nano-vllm",
       "description": "Nano vLLM",
       "description_ja": "Nano vLLM",
       "language": "Python",
-      "stars": 173
+      "stars": 335
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "repo_name": "HKUDS/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "description_ja": "DeepCode: オープンなエージェント型コーディング (論文からのコード生成、テキストからのWeb生成、テキストからのバックエンド生成)",
+      "language": "Python",
+      "stars": 425
+    },
+    {
+      "rank": 4,
+      "repo_name": "charmbracelet/glow",
+      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+      "description_ja": "CLIでMarkdownを、華麗にレンダリング！💅🏻",
+      "language": "Go",
+      "stars": 424
+    },
+    {
+      "rank": 5,
       "repo_name": "sst/opencode",
       "description": "The AI coding agent built for the terminal.",
       "description_ja": "ターミナル向けAIコーディングエージェント",
       "language": "TypeScript",
-      "stars": 269
+      "stars": 540
+    },
+    {
+      "rank": 6,
+      "repo_name": "get-convex/chef",
+      "description": "The only AI app builder that knows backend",
+      "description_ja": "バックエンドを理解する唯一のAIアプリビルダー",
+      "language": "TypeScript",
+      "stars": 123
     },
     {
       "rank": 7,
-      "repo_name": "charmbracelet/glow",
-      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
-      "description_ja": "CLI上でMarkdownを華麗にレンダリング！💅🏻",
-      "language": "Go",
-      "stars": 110
+      "repo_name": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "description_ja": "Pythonでテンソルと動的ニューラルネットワークを扱うためのライブラリ。強力なGPUアクセラレーションに対応。",
+      "language": "Python",
+      "stars": 51
     },
     {
       "rank": 8,
-      "repo_name": "NARKOZ/hacker-scripts",
-      "description": "Based on a true story",
-      "description_ja": "実話に基づいています",
-      "language": "JavaScript",
-      "stars": 28
+      "repo_name": "Fosowl/agenticSeek",
+      "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
+      "description_ja": "完全ローカルで動作するManus AI。API不要、月額200ドルの請求もありません。電気代だけで、思考し、ウェブを閲覧し、コーディングする自律エージェントをお楽しみください。🔔 公式情報はTwitter @Martin993886460 のみで発信されます（偽アカウントにご注意ください）。",
+      "language": "Python",
+      "stars": 462
     },
     {
       "rank": 9,
-      "repo_name": "moondevonyt/moon-dev-ai-agents",
-      "description": "autonomous ai agents for trading in python",
-      "description_ja": "Pythonで取引を行う自律型AIエージェント",
-      "language": "Python",
-      "stars": 188
+      "repo_name": "mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+      "description_ja": "🤖 OpenAIやClaudeなどの代替となる、無料のオープンソース。セルフホスト型でローカルファースト。コンシューマーグレードのハードウェアで動作する、OpenAIのドロップイン代替。GPU不要。gguf、transformers、diffusersなどを実行可能。テキスト生成、音声生成、動画生成、画像生成、ボイスクローニング、分散処理、P2Pおよび分散型推論などの機能を搭載。",
+      "language": "Go",
+      "stars": 229
     },
     {
       "rank": 10,
-      "repo_name": "suitenumerique/docs",
-      "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.",
-      "description_ja": "共同編集可能なノート、Wiki、ドキュメントプラットフォーム。拡張性があり、DjangoとReactで構築されています。",
+      "repo_name": "1Panel-dev/MaxKB",
+      "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。",
+      "description_ja": "🔥 MaxKBは、エンタープライズレベルのエージェントを構築するためのオープンソースプラットフォームです。MaxKBは、強力で使いやすいオープンソースのエンタープライズ向けインテリジェントエージェントプラットフォームです。",
       "language": "Python",
-      "stars": 178
+      "stars": 107
     },
     {
       "rank": 11,
-      "repo_name": "Fosowl/agenticSeek",
-      "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
-      "description_ja": "完全ローカルで動作するManus AI。API不要、月額200ドルの請求もありません。電気代だけで、思考し、ウェブを閲覧し、コーディングを行う自律エージェントをお楽しみください。🔔 公式アップデートはTwitter @Martin993886460 のみで発信します（偽アカウントにご注意ください）。",
-      "language": "Python",
-      "stars": 127
+      "repo_name": "fastfire/deepdarkCTI",
+      "description": "Collection of Cyber Threat Intelligence sources from the deep and dark web",
+      "description_ja": "ディープウェブおよびダークウェブ由来のサイバー脅威インテリジェンスソース集",
+      "language": "",
+      "stars": 43
     },
     {
       "rank": 12,
-      "repo_name": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-      "description_ja": "O'Reillyの書籍「Hands-On Large Language Models」の公式コードリポジトリ",
-      "language": "Jupyter Notebook",
-      "stars": 46
+      "repo_name": "VectifyAI/PageIndex",
+      "description": "📄🧠 PageIndex: Document Index for Reasoning-based RAG",
+      "description_ja": "📄🧠 PageIndex: 推論ベースRAGのためのドキュメントインデックス",
+      "language": "Python",
+      "stars": 64
     },
     {
       "rank": 13,
-      "repo_name": "hmjz100/LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "description_ja": "JavaScript製の、オンラインストレージのファイルダウンロードURL取得ツールです。「オンラインストレージ直接ダウンロードアシスタント」をベースに修正されており、百度網盤、阿里云盤、中国移動雲盤、天翼雲盤、迅雷雲盤、夸克網盤、UC網盤、123雲盤の8つの主要なオンラインストレージに対応しています。",
-      "language": "JavaScript",
-      "stars": 89
+      "repo_name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "description_ja": "単一の画像からリアルタイムの顔交換とワンクリックのビデオディープフェイクを実現",
+      "language": "Python",
+      "stars": 39
+    },
+    {
+      "rank": 14,
+      "repo_name": "sst/opentui",
+      "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+      "description_ja": "OpenTUIは、ターミナルユーザーインターフェース（TUI）を構築するためのライブラリです。",
+      "language": "TypeScript",
+      "stars": 51
+    },
+    {
+      "rank": 15,
+      "repo_name": "DearVa/Everywhere",
+      "description": "A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.",
+      "description_ja": "デスクトップ向けのコンテキスト認識AIアシスタント。複数のLLMとMCPツールをシームレスに統合し、状況に応じたインテリジェントな応答を実現します。",
+      "language": "C#",
+      "stars": 103
     }
   ]
 }
