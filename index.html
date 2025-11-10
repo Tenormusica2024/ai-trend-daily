@@ -295,7 +295,28 @@
     <div class="container">
         <div class="header">
             <button class="lang-switch" data-i18n="lang_button">EN</button>
-            <h1 data-i18n="main_title">GitHub Trend Ranking</h1>
+            <h1 style="display: flex; align-items: center; justify-content: center; gap: 0.8rem;">
+                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="trendGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#4a9eff;stop-opacity:1" />
+                            <stop offset="50%" style="stop-color:#66b3ff;stop-opacity:1" />
+                            <stop offset="100%" style="stop-color:#8a2be2;stop-opacity:1" />
+                        </linearGradient>
+                    </defs>
+                    <path d="M5 30 L12 25 L18 28 L25 18 L32 22 L38 12" stroke="url(#trendGradient)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <circle cx="5" cy="30" r="2.5" fill="url(#trendGradient)"/>
+                    <circle cx="12" cy="25" r="2.5" fill="url(#trendGradient)"/>
+                    <circle cx="18" cy="28" r="2.5" fill="url(#trendGradient)"/>
+                    <circle cx="25" cy="18" r="2.5" fill="url(#trendGradient)"/>
+                    <circle cx="32" cy="22" r="2.5" fill="url(#trendGradient)"/>
+                    <circle cx="38" cy="12" r="3" fill="url(#trendGradient)">
+                        <animate attributeName="r" values="3;4;3" dur="2s" repeatCount="indefinite"/>
+                    </circle>
+                    <path d="M34 10 L38 6 L42 10" stroke="url(#trendGradient)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.8"/>
+                </svg>
+                <span data-i18n="main_title">GitHub Trend Ranking</span>
+            </h1>
             <p class="subtitle" data-i18n="main_subtitle">Daily Trending Repositories</p>
             <p class="updated-time" id="updated-time">Loading...</p>
         </div>
