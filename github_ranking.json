@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-10 02:23:05",
+  "updated_at": "2025-11-10 02:50:40",
   "total_repos": 18,
   "ranking": [
     {
@@ -38,7 +38,7 @@
       "rank": 5,
       "repo_name": "google/adk-go",
       "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "description_ja": "柔軟性と制御性を備えた、高度なAIエージェントの構築、評価、デプロイのための、コードファーストなオープンソースGoツールキット。",
+      "description_ja": "柔軟性と制御性を備え、高度なAIエージェントを構築、評価、デプロイするための、コードファーストなオープンソースGoツールキット。",
       "language": "Go",
       "stars": 182
     },
@@ -62,7 +62,7 @@
       "rank": 8,
       "repo_name": "airweave-ai/airweave",
       "description": "Context retrieval for AI agents across apps and databases",
-      "description_ja": "AIエージェントがアプリやデータベースを横断して文脈情報を取得する",
+      "description_ja": "AIエージェントがアプリやデータベースを横断してコンテキストを取得するための仕組み",
       "language": "Python",
       "stars": 172
     },
@@ -70,7 +70,7 @@
       "rank": 9,
       "repo_name": "HyDE-Project/HyDE",
       "description": "HyDE, your Development Environment 🖥️💻",
-      "description_ja": "HyDE：あなたの開発環境 🖥️💻",
+      "description_ja": "HyDE、あなたの開発環境 🖥️💻",
       "language": "Shell",
       "stars": 20
     },
@@ -94,7 +94,7 @@
       "rank": 12,
       "repo_name": "librespot-org/librespot",
       "description": "Open Source Spotify client library",
-      "description_ja": "Open Source Spotify client library",
+      "description_ja": "オープンソースのSpotifyクライアントライブラリ",
       "language": "Rust",
       "stars": 10
     },
@@ -134,7 +134,7 @@
       "rank": 17,
       "repo_name": "JetBrains/kotlin",
       "description": "The Kotlin Programming Language.",
-      "description_ja": "Kotlinプログラミング言語",
+      "description_ja": "The Kotlin Programming Language.",
       "language": "Kotlin",
       "stars": 5
     },
