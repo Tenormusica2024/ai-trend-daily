@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-10 09:01:08",
+  "updated_at": "2025-11-10 02:23:05",
   "total_repos": 18,
   "ranking": [
     {
@@ -30,7 +30,7 @@
       "rank": 4,
       "repo_name": "mui/material-ui",
       "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
-      "description_ja": "Material UI: Googleのマテリアルデザインを実装した、包括的なReactコンポーネントライブラリ。 永久に無料。",
+      "description_ja": "Material UI：Googleのマテリアルデザインを実装した包括的なReactコンポーネントライブラリ。 永久に無料。",
       "language": "JavaScript",
       "stars": 8
     },
@@ -38,7 +38,7 @@
       "rank": 5,
       "repo_name": "google/adk-go",
       "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "description_ja": "柔軟性と制御性を備え、高度なAIエージェントを構築、評価、デプロイするための、コードファーストなオープンソースGoツールキットです。",
+      "description_ja": "柔軟性と制御性を備えた、高度なAIエージェントの構築、評価、デプロイのための、コードファーストなオープンソースGoツールキット。",
       "language": "Go",
       "stars": 182
     },
@@ -62,7 +62,7 @@
       "rank": 8,
       "repo_name": "airweave-ai/airweave",
       "description": "Context retrieval for AI agents across apps and databases",
-      "description_ja": "AIエージェントがアプリやデータベースを横断してコンテキストを取得するための仕組み",
+      "description_ja": "AIエージェントがアプリやデータベースを横断して文脈情報を取得する",
       "language": "Python",
       "stars": 172
     },
@@ -102,7 +102,7 @@
       "rank": 13,
       "repo_name": "MoonshotAI/Kimi-K2",
       "description": "Kimi K2 is the large language model series developed by Moonshot AI team",
-      "description_ja": "Kimi K2 is the large language model series developed by Moonshot AI team",
+      "description_ja": "Kimi K2は、Moonshot AIチームによって開発された大規模言語モデルシリーズです。",
       "language": "",
       "stars": 106
     },
@@ -126,7 +126,7 @@
       "rank": 16,
       "repo_name": "lima-vm/lima",
       "description": "Linux virtual machines, with a focus on running containers",
-      "description_ja": "コンテナ実行に特化したLinux仮想マシン",
+      "description_ja": "Linux virtual machines, with a focus on running containers",
       "language": "Go",
       "stars": 163
     },
