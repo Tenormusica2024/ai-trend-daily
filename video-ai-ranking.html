@@ -276,7 +276,31 @@
     <div class="container">
         <div class="header">
             <button class="lang-switch" data-i18n="lang_button">EN</button>
-            <h1 data-i18n="main_title">動画生成AIランキング</h1>
+            <h1 style="display: flex; align-items: center; justify-content: center; gap: 0.8rem;">
+                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="videoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#4a9eff;stop-opacity:1" />
+                            <stop offset="50%" style="stop-color:#66b3ff;stop-opacity:1" />
+                            <stop offset="100%" style="stop-color:#8a2be2;stop-opacity:1" />
+                        </linearGradient>
+                    </defs>
+                    <rect x="4" y="10" width="28" height="20" rx="2" stroke="url(#videoGradient)" stroke-width="2.5" fill="none"/>
+                    <polygon points="16,16 16,24 24,20" fill="url(#videoGradient)">
+                        <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+                    </polygon>
+                    <path d="M32 15 L36 12 C36.5 11.7 37 12 37 12.6 L37 27.4 C37 28 36.5 28.3 36 28 L32 25" stroke="url(#videoGradient)" stroke-width="2" stroke-linecap="round" fill="none"/>
+                    <rect x="7" y="13" width="3" height="14" rx="1" fill="url(#videoGradient)" opacity="0.3">
+                        <animate attributeName="height" values="14;18;14" dur="1.5s" repeatCount="indefinite"/>
+                        <animate attributeName="y" values="13;11;13" dur="1.5s" repeatCount="indefinite"/>
+                    </rect>
+                    <rect x="12" y="15" width="3" height="10" rx="1" fill="url(#videoGradient)" opacity="0.3">
+                        <animate attributeName="height" values="10;16;10" dur="1.8s" repeatCount="indefinite"/>
+                        <animate attributeName="y" values="15;12;15" dur="1.8s" repeatCount="indefinite"/>
+                    </rect>
+                </svg>
+                <span data-i18n="main_title">動画生成AIランキング</span>
+            </h1>
             <p class="subtitle" data-i18n="main_subtitle">Top 10 Video Generation AI Tools</p>
             <p class="updated-time" id="updated-time">Loading...</p>
         </div>
