@@ -506,6 +506,7 @@
                 
                 const rankingHTML = data.ranking.map(item => {
                     const description = currentLang === 'ja' ? (item.description_ja || item.description) : item.description;
+                    const readmeSummary = currentLang === 'ja' ? (item.readme_summary_ja || item.readme_summary) : item.readme_summary;
                     
                     return `
                         <div class="rank-item" data-rank="${item.rank}">
@@ -519,23 +520,27 @@
                                     <div class="repo-desc">${description}</div>
                                     ${item.language ? `<div class="repo-lang">${item.language}</div>` : ''}
                                 </div>
-                                <div class="stars">⭐ ${item.stars.toLocaleString()}</div>
+                                <div class="stars">${item.stars.toLocaleString()} stars</div>
                             </div>
                             <div class="detail-panel">
                                 <div class="detail-content">
-                                    <h3>${currentLang === 'ja' ? '詳細情報' : 'Details'}</h3>
+                                    <h3>${currentLang === 'ja' ? 'プロジェクト概要' : 'Project Overview'}</h3>
                                     <p>${description}</p>
+                                    ${readmeSummary ? `
+                                    <h3 style="margin-top: 1.5rem;">${currentLang === 'ja' ? '詳細説明' : 'Detailed Description'}</h3>
+                                    <p>${readmeSummary}</p>
+                                    ` : ''}
                                     <div class="detail-meta">
                                         <div class="detail-meta-item">
-                                            <strong>⭐ ${currentLang === 'ja' ? 'スター数' : 'Stars'}:</strong> ${item.stars.toLocaleString()}
+                                            <strong>${currentLang === 'ja' ? 'スター数' : 'Stars'}:</strong> ${item.stars.toLocaleString()}
                                         </div>
                                         ${item.language ? `
                                         <div class="detail-meta-item">
-                                            <strong>💻 ${currentLang === 'ja' ? '言語' : 'Language'}:</strong> ${item.language}
+                                            <strong>${currentLang === 'ja' ? '主要言語' : 'Language'}:</strong> ${item.language}
                                         </div>
                                         ` : ''}
                                         <div class="detail-meta-item">
-                                            <strong>🏆 ${currentLang === 'ja' ? 'ランク' : 'Rank'}:</strong> #${item.rank}
+                                            <strong>${currentLang === 'ja' ? 'トレンド順位' : 'Rank'}:</strong> #${item.rank}
                                         </div>
                                     </div>
                                     <a href="https://github.com/${item.repo_name}" target="_blank" class="detail-link" onclick="event.stopPropagation();">

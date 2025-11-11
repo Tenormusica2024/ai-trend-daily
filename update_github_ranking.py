@@ -117,6 +117,43 @@ def fetch_github_trending():
         print(f"Error fetching GitHub trending: {e}")
         return None
 
+def fetch_readme_summary(repo_name, max_length=500):
+    """
+    GitHub APIを使用してREADMEの概要を取得
+    """
+    api_url = f"https://api.github.com/repos/{repo_name}/readme"
+    headers = {
+        'Accept': 'application/vnd.github.v3.raw',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
+    
+    try:
+        response = requests.get(api_url, headers=headers, timeout=10)
+        if response.status_code == 200:
+            readme_text = response.text
+            # Markdown記号を削除してプレーンテキスト化
+            import re
+            # ヘッダー記号除去
+            readme_text = re.sub(r'#+\s', '', readme_text)
+            # リンク記号除去
+            readme_text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', readme_text)
+            # コードブロック除去
+            readme_text = re.sub(r'```[\s\S]*?```', '', readme_text)
+            # インラインコード除去
+            readme_text = re.sub(r'`([^`]+)`', r'\1', readme_text)
+            # 改行を空白に変換
+            readme_text = ' '.join(readme_text.split())
+            # 最初の文章を取得（ピリオド区切り）
+            sentences = readme_text.split('. ')
+            summary = '. '.join(sentences[:3])  # 最初の3文を取得
+            if len(summary) > max_length:
+                summary = summary[:max_length] + '...'
+            return summary if summary else None
+        return None
+    except Exception as e:
+        print(f"Error fetching README for {repo_name}: {e}")
+        return None
+
 def parse_trending_repos(html_content):
     """
     HTMLからトレンドリポジトリ情報をパース
@@ -165,15 +202,28 @@ def parse_trending_repos(html_content):
                 except:
                     pass
             
+            # READMEの概要を取得
+            print(f"Fetching README for {repo_name}...")
+            readme_summary = fetch_readme_summary(repo_name)
+            time.sleep(0.5)  # API制限回避
+            
             # 説明文を日本語に翻訳（レート制限対策で1秒待機）
             description_ja = translate_to_japanese(description) if description != "No description provided" else "説明なし"
             time.sleep(1)  # API制限回避のため待機時間を延長
+            
+            # README概要も翻訳
+            readme_summary_ja = None
+            if readme_summary:
+                readme_summary_ja = translate_to_japanese(readme_summary)
+                time.sleep(1)
             
             repos.append({
                 'rank': idx,
                 'repo_name': repo_name,
                 'description': description,
                 'description_ja': description_ja,
+                'readme_summary': readme_summary,
+                'readme_summary_ja': readme_summary_ja,
                 'language': language,
                 'stars': stars
             })
