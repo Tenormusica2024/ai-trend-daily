@@ -496,6 +496,14 @@
             });
         }
         
+        // HTMLタグを除去してプレーンテキストに変換
+        function stripHtmlTags(html) {
+            if (!html) return '';
+            const tmp = document.createElement('div');
+            tmp.innerHTML = html;
+            return tmp.textContent || tmp.innerText || '';
+        }
+        
         async function loadRanking() {
             try {
                 const response = await fetch('github_ranking.json');
@@ -511,7 +519,8 @@
                 
                 data.ranking.forEach(item => {
                     const description = currentLang === 'ja' ? (item.description_ja || item.description) : item.description;
-                    const readmeSummary = currentLang === 'ja' ? (item.readme_summary_ja || item.readme_summary) : item.readme_summary;
+                    // HTMLタグを除去してプレーンテキスト化
+                    const readmeSummary = stripHtmlTags(currentLang === 'ja' ? (item.readme_summary_ja || item.readme_summary) : item.readme_summary);
                     
                     // rank-item作成
                     const rankItem = document.createElement('div');
