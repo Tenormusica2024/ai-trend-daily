@@ -509,48 +509,16 @@
                     const description = currentLang === 'ja' ? (item.description_ja || item.description) : item.description;
                     const readmeSummary = currentLang === 'ja' ? (item.readme_summary_ja || item.readme_summary) : item.readme_summary;
                     
-                    return `
-                        <div class="rank-item" data-rank="${item.rank}">
-                            <div class="rank-item-header">
-                                <div class="rank-number">#${item.rank}</div>
-                                <div class="repo-info">
-                                    <div class="repo-name">
-                                        <a href="https://github.com/${item.repo_name}" target="_blank" onclick="event.stopPropagation();">${item.repo_name}</a>
-                                        <span class="expand-icon">▼</span>
-                                    </div>
-                                    <div class="repo-desc">${description}</div>
-                                    ${item.language ? `<div class="repo-lang">${item.language}</div>` : ''}
-                                </div>
-                                <div class="stars">${item.stars.toLocaleString()} stars</div>
-                            </div>
-                            <div class="detail-panel">
-                                <div class="detail-content">
-                                    <h3>${currentLang === 'ja' ? 'プロジェクト概要' : 'Project Overview'}</h3>
-                                    <p>${description}</p>
-                                    ${readmeSummary ? `
-                                    <h3 style="margin-top: 1.5rem;">${currentLang === 'ja' ? '詳細説明' : 'Detailed Description'}</h3>
-                                    <p>${readmeSummary}</p>
-                                    ` : ''}
-                                    <div class="detail-meta">
-                                        <div class="detail-meta-item">
-                                            <strong>${currentLang === 'ja' ? 'スター数' : 'Stars'}:</strong> ${item.stars.toLocaleString()}
-                                        </div>
-                                        ${item.language ? `
-                                        <div class="detail-meta-item">
-                                            <strong>${currentLang === 'ja' ? '主要言語' : 'Language'}:</strong> ${item.language}
-                                        </div>
-                                        ` : ''}
-                                        <div class="detail-meta-item">
-                                            <strong>${currentLang === 'ja' ? 'トレンド順位' : 'Rank'}:</strong> #${item.rank}
-                                        </div>
-                                    </div>
-                                    <a href="https://github.com/${item.repo_name}" target="_blank" class="detail-link" onclick="event.stopPropagation();">
-                                        ${currentLang === 'ja' ? 'GitHubで詳細を見る' : 'View on GitHub'} →
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    `;
+                    // 言語タグHTMLを生成
+                    const langHTML = item.language ? `<div class="repo-lang">${item.language}</div>` : '';
+                    
+                    // README詳細HTMLを生成
+                    const readmeHTML = readmeSummary ? `<h3 style="margin-top: 1.5rem;">${currentLang === 'ja' ? '詳細説明' : 'Detailed Description'}</h3><p>${readmeSummary}</p>` : '';
+                    
+                    // 言語メタ情報HTMLを生成
+                    const langMetaHTML = item.language ? `<div class="detail-meta-item"><strong>${currentLang === 'ja' ? '主要言語' : 'Language'}:</strong> ${item.language}</div>` : '';
+                    
+                    return `<div class="rank-item" data-rank="${item.rank}"><div class="rank-item-header"><div class="rank-number">#${item.rank}</div><div class="repo-info"><div class="repo-name"><a href="https://github.com/${item.repo_name}" target="_blank" onclick="event.stopPropagation();">${item.repo_name}</a><span class="expand-icon">▼</span></div><div class="repo-desc">${description}</div>${langHTML}</div><div class="stars">${item.stars.toLocaleString()} stars</div></div><div class="detail-panel"><div class="detail-content"><h3>${currentLang === 'ja' ? 'プロジェクト概要' : 'Project Overview'}</h3><p>${description}</p>${readmeHTML}<div class="detail-meta"><div class="detail-meta-item"><strong>${currentLang === 'ja' ? 'スター数' : 'Stars'}:</strong> ${item.stars.toLocaleString()}</div>${langMetaHTML}<div class="detail-meta-item"><strong>${currentLang === 'ja' ? 'トレンド順位' : 'Rank'}:</strong> #${item.rank}</div></div><a href="https://github.com/${item.repo_name}" target="_blank" class="detail-link" onclick="event.stopPropagation();">${currentLang === 'ja' ? 'GitHubで詳細を見る' : 'View on GitHub'} →</a></div></div></div>`;
                 }).join('');
                 
                 document.getElementById('ranking').innerHTML = rankingHTML;
