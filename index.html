@@ -164,6 +164,8 @@
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             border: 1px solid rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(10px);
+            cursor: pointer;
+            overflow: hidden;
         }
         
         .rank-item:hover {
@@ -176,6 +178,106 @@
             box-shadow: 
                 0 8px 24px rgba(0, 0, 0, 0.6),
                 inset 0 1px 0 rgba(255, 255, 255, 0.12);
+        }
+        
+        .rank-item.expanded {
+            grid-template-columns: 60px 1fr 120px;
+            grid-template-rows: auto auto;
+            align-items: start;
+            border-color: rgba(74, 158, 255, 0.3);
+        }
+        
+        .rank-item-header {
+            display: contents;
+        }
+        
+        .detail-panel {
+            grid-column: 1 / -1;
+            max-height: 0;
+            opacity: 0;
+            overflow: hidden;
+            transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+                        opacity 0.3s ease,
+                        padding 0.3s ease,
+                        margin 0.3s ease;
+            padding: 0 1rem;
+            margin-top: 0;
+        }
+        
+        .detail-panel.active {
+            max-height: 800px;
+            opacity: 1;
+            padding: 1.5rem 1rem 0.5rem;
+            margin-top: 1rem;
+            border-top: 1px solid rgba(74, 158, 255, 0.2);
+        }
+        
+        .detail-content h3 {
+            color: #4a9eff;
+            font-size: 1rem;
+            margin-bottom: 0.8rem;
+            font-weight: 600;
+        }
+        
+        .detail-content p {
+            color: #ccc;
+            line-height: 1.7;
+            margin-bottom: 1rem;
+            font-size: 0.95rem;
+        }
+        
+        .detail-meta {
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.08);
+        }
+        
+        .detail-meta-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.9rem;
+            color: #999;
+        }
+        
+        .detail-meta-item strong {
+            color: #fff;
+            font-weight: 600;
+        }
+        
+        .detail-link {
+            display: inline-block;
+            margin-top: 1rem;
+            padding: 0.6rem 1.2rem;
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.15), rgba(138, 43, 226, 0.15));
+            border: 1px solid rgba(74, 158, 255, 0.3);
+            border-radius: 6px;
+            color: #4a9eff;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.2s ease;
+            font-size: 0.9rem;
+        }
+        
+        .detail-link:hover {
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.25), rgba(138, 43, 226, 0.25));
+            border-color: rgba(74, 158, 255, 0.5);
+            transform: translateX(4px);
+        }
+        
+        .expand-icon {
+            display: inline-block;
+            margin-left: 0.5rem;
+            transition: transform 0.3s ease;
+            color: #4a9eff;
+            font-size: 0.8rem;
+        }
+        
+        .rank-item.expanded .expand-icon {
+            transform: rotate(180deg);
         }
         
         .rank-number {
@@ -279,6 +381,10 @@
                 padding: 1rem;
             }
             
+            .rank-item.expanded {
+                grid-template-columns: 50px 1fr;
+            }
+            
             .repo-info {
                 grid-column: 1 / -1;
                 padding: 0.5rem 0;
@@ -287,6 +393,16 @@
             .stars {
                 text-align: left;
                 padding-left: 50px;
+            }
+            
+            .detail-meta {
+                flex-direction: column;
+                gap: 0.8rem;
+            }
+            
+            .detail-link {
+                width: 100%;
+                text-align: center;
             }
         }
     </style>
@@ -389,22 +505,70 @@
                     `${t.last_updated} ${data.updated_at}`;
                 
                 const rankingHTML = data.ranking.map(item => {
+                    const description = currentLang === 'ja' ? (item.description_ja || item.description) : item.description;
+                    
                     return `
-                        <div class="rank-item">
-                            <div class="rank-number">#${item.rank}</div>
-                            <div class="repo-info">
-                                <div class="repo-name">
-                                    <a href="https://github.com/${item.repo_name}" target="_blank">${item.repo_name}</a>
+                        <div class="rank-item" data-rank="${item.rank}">
+                            <div class="rank-item-header">
+                                <div class="rank-number">#${item.rank}</div>
+                                <div class="repo-info">
+                                    <div class="repo-name">
+                                        <a href="https://github.com/${item.repo_name}" target="_blank" onclick="event.stopPropagation();">${item.repo_name}</a>
+                                        <span class="expand-icon">▼</span>
+                                    </div>
+                                    <div class="repo-desc">${description}</div>
+                                    ${item.language ? `<div class="repo-lang">${item.language}</div>` : ''}
                                 </div>
-                                <div class="repo-desc">${currentLang === 'ja' ? (item.description_ja || item.description) : item.description}</div>
-                                ${item.language ? `<div class="repo-lang">${item.language}</div>` : ''}
+                                <div class="stars">⭐ ${item.stars.toLocaleString()}</div>
                             </div>
-                            <div class="stars">⭐ ${item.stars.toLocaleString()}</div>
+                            <div class="detail-panel">
+                                <div class="detail-content">
+                                    <h3>${currentLang === 'ja' ? '詳細情報' : 'Details'}</h3>
+                                    <p>${description}</p>
+                                    <div class="detail-meta">
+                                        <div class="detail-meta-item">
+                                            <strong>⭐ ${currentLang === 'ja' ? 'スター数' : 'Stars'}:</strong> ${item.stars.toLocaleString()}
+                                        </div>
+                                        ${item.language ? `
+                                        <div class="detail-meta-item">
+                                            <strong>💻 ${currentLang === 'ja' ? '言語' : 'Language'}:</strong> ${item.language}
+                                        </div>
+                                        ` : ''}
+                                        <div class="detail-meta-item">
+                                            <strong>🏆 ${currentLang === 'ja' ? 'ランク' : 'Rank'}:</strong> #${item.rank}
+                                        </div>
+                                    </div>
+                                    <a href="https://github.com/${item.repo_name}" target="_blank" class="detail-link" onclick="event.stopPropagation();">
+                                        ${currentLang === 'ja' ? 'GitHubで詳細を見る' : 'View on GitHub'} →
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     `;
                 }).join('');
                 
                 document.getElementById('ranking').innerHTML = rankingHTML;
+                
+                // クリックイベントリスナーを追加
+                document.querySelectorAll('.rank-item').forEach(item => {
+                    item.addEventListener('click', function(e) {
+                        // リンククリックは除外
+                        if (e.target.tagName === 'A') return;
+                        
+                        // 他の展開パネルを閉じる
+                        document.querySelectorAll('.rank-item.expanded').forEach(expandedItem => {
+                            if (expandedItem !== this) {
+                                expandedItem.classList.remove('expanded');
+                                expandedItem.querySelector('.detail-panel').classList.remove('active');
+                            }
+                        });
+                        
+                        // クリックされたパネルをトグル
+                        this.classList.toggle('expanded');
+                        const panel = this.querySelector('.detail-panel');
+                        panel.classList.toggle('active');
+                    });
+                });
                 
             } catch (error) {
                 console.error('Error loading ranking data:', error);
