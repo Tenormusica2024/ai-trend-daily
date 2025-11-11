@@ -153,9 +153,8 @@
         }
         
         .rank-item {
-            display: grid;
-            grid-template-columns: 60px 1fr 120px;
-            align-items: center;
+            display: flex;
+            flex-direction: column;
             padding: 1.2rem;
             background: linear-gradient(135deg, 
                 rgba(20, 20, 20, 0.8) 0%, 
@@ -165,7 +164,7 @@
             border: 1px solid rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(10px);
             cursor: pointer;
-            overflow: hidden;
+            position: relative;
         }
         
         .rank-item:hover {
@@ -181,18 +180,17 @@
         }
         
         .rank-item.expanded {
-            grid-template-columns: 60px 1fr 120px;
-            grid-template-rows: auto auto;
-            align-items: start;
             border-color: rgba(74, 158, 255, 0.3);
         }
         
         .rank-item-header {
-            display: contents;
+            display: grid;
+            grid-template-columns: 60px 1fr 120px;
+            align-items: center;
+            width: 100%;
         }
         
         .detail-panel {
-            grid-column: 1 / -1;
             max-height: 0;
             opacity: 0;
             overflow: hidden;
@@ -202,6 +200,7 @@
                         margin 0.3s ease;
             padding: 0 1rem;
             margin-top: 0;
+            width: 100%;
         }
         
         .detail-panel.active {
@@ -376,23 +375,23 @@
             }
             
             .rank-item {
-                grid-template-columns: 50px 1fr;
-                gap: 0.5rem;
                 padding: 1rem;
             }
             
-            .rank-item.expanded {
+            .rank-item-header {
                 grid-template-columns: 50px 1fr;
+                gap: 0.5rem;
             }
             
             .repo-info {
-                grid-column: 1 / -1;
                 padding: 0.5rem 0;
             }
             
             .stars {
+                grid-column: 1 / -1;
                 text-align: left;
                 padding-left: 50px;
+                margin-top: 0.5rem;
             }
             
             .detail-meta {
