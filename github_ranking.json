@@ -1,146 +1,176 @@
 {
-  "updated_at": "2025-11-11 04:50:47",
-  "total_repos": 14,
+  "updated_at": "2025-11-12 02:45:31",
+  "total_repos": 17,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "google/adk-go",
-      "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "description_ja": "柔軟性と制御性を備え、高度なAIエージェントを構築、評価、デプロイするための、コードファーストなオープンソースGoツールキットです。",
-      "readme_summary": "Agent Development Kit (ADK) for Go ![License](LICENSE) ![Go Doc](https://pkg.go.dev/google.golang.org/adk) ![Nightly Check](https://github.com/google/adk-go/actions/workflows/nightly.yml) ![r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) ![Ask DeepWiki](https://deepwiki.com/google/adk-go) <html> <h2 align=\"center\"> <img src=\"https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png\" width=\"256\"/> </h2> <h3 align=\"center\"> An open-source, code...",
-      "readme_summary_ja": "Go用エージェント開発キット（ADK） ![ライセンス](LICENSE) ![Goドキュメント](https://pkg.go.dev/google.golang.org/adk) ![ナイトリーチェック](https://github.com/google/adk-go/actions/workflows/nightly.yml) ![r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) ![Ask DeepWiki](https://deepwiki.com/google/adk-go)\n\n＜中央揃えの画像＞\nオープンソースのコード...",
-      "language": "Go",
-      "stars": 380
+      "repo_name": "sansan0/TrendRadar",
+      "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
+      "description_ja": "🎯 情報過多に別れを告げ、AIがニュースやトレンドを理解するのを支援。簡単な世論調査分析 - 複数のプラットフォームのトレンド集約 + MCPベースのAI分析ツール。35のプラットフォーム（抖音、知乎、B站、ウォール・ストリート・ジャーナル中国語版、財聯社など）を監視し、スマートな絞り込み + 自動プッシュ + AI対話分析（自然言語でニュースを深く掘り下げ：トレンド追跡、感情分析、類似検索など13種類のツール）。企業微信/Feishu/DingTalk/Telegram/メール/ntfyへのプッシュをサポート。30秒でウェブサイトにデプロイ、1分でスマホに通知、プログラミング不要。Dockerデプロイをサポート⭐ アルゴリズムに奉仕させ、AIでトレンドを理解する。",
+      "readme_summary": "<div align=\"center\" id=\"trendradar\"> <a href=\"https://github.com/sansan0/TrendRadar\" title=\"TrendRadar\"> <img src=\"/_image/banner.jpg\" alt=\"TrendRadar Banner\" width=\"50%\"> </a> 🚀 最快<strong>30秒</strong>部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯 <a href=\"https://trendshift.io/repositories/14726\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14726\" alt=\"sansan0%2FTrendRadar | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![GitHub Stars](https://github.com...",
+      "readme_summary_ja": "🚀 最速**30秒**でデプロイできるトレンド情報アシスタント —— 無駄な情報に時間を費やすのはもう終わり。本当に気になるニュースだけをチェックしましょう。",
+      "language": "Python",
+      "stars": 444
     },
     {
       "rank": 2,
+      "repo_name": "google/adk-go",
+      "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "description_ja": "柔軟性と制御性を備え、高度なAIエージェントを構築、評価、デプロイするための、コードファーストなオープンソースGoツールキット。",
+      "readme_summary": "Agent Development Kit (ADK) for Go ![License](LICENSE) ![Go Doc](https://pkg.go.dev/google.golang.org/adk) ![Nightly Check](https://github.com/google/adk-go/actions/workflows/nightly.yml) ![r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) ![Ask DeepWiki](https://deepwiki.com/google/adk-go) <html> <h2 align=\"center\"> <img src=\"https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png\" width=\"256\"/> </h2> <h3 align=\"center\"> An open-source, code...",
+      "readme_summary_ja": "Go用エージェント開発キット（ADK） ![ライセンス](LICENSE) ![Goドキュメント](https://pkg.go.dev/google.golang.org/adk) ![ナイトリーチェック](https://github.com/google/adk-go/actions/workflows/nightly.yml) ![r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) ![Ask DeepWiki](https://deepwiki.com/google/adk-go) <html> <h2 align=\"center\"> <img src=\"https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png\" width=\"256\"/> </h2> <h3 align=\"center\"> オープンソースのコード...",
+      "language": "Go",
+      "stars": 1299
+    },
+    {
+      "rank": 3,
       "repo_name": "usestrix/strix",
       "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
       "description_ja": "✨ あなたのアプリのためのオープンソースAIハッカー 👨🏻‍💻",
       "readme_summary": "<p align=\"center\"> <a href=\"https://usestrix.com/\"> <img src=\".github/logo.png\" width=\"150\" alt=\"Strix Logo\"> </a> </p> <h1 align=\"center\"> Strix </h1> <h2 align=\"center\">Open-source AI Hackers to secure your Apps</h2> <div align=\"center\"> ![Python](https://pypi.org/project/strix-agent/) ![PyPI](https://pypi.org/project/strix-agent/) ![PyPI Downloads](https://pepy.tech/projects/strix-agent) ![License](LICENSE) ![GitHub Stars](https://github.com/usestrix/strix) ![Discord](https://discord.gg/YjKFv...",
       "readme_summary_ja": "<p align=\"center\"> <a href=\"https://usestrix.com/\"> <img src=\".github/logo.png\" width=\"150\" alt=\"Strix Logo\"> </a> </p> <h1 align=\"center\"> Strix </h1> <h2 align=\"center\">アプリを保護する、オープンソースのAIハッカー</h2> <div align=\"center\"> ![Python](https://pypi.org/project/strix-agent/) ![PyPI](https://pypi.org/project/strix-agent/) ![PyPI Downloads](https://pepy.tech/projects/strix-agent) ![License](LICENSE) ![GitHub Stars](https://github.com/usestrix/strix) ![Discord](https://discord.gg/YjKFv...",
       "language": "Python",
-      "stars": 2539
-    },
-    {
-      "rank": 3,
-      "repo_name": "umami-software/umami",
-      "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
-      "description_ja": "Umamiは、Google Analyticsに代わる、プライバシーを重視したモダンなウェブ解析ツールです。",
-      "readme_summary": "<p align=\"center\"> <img src=\"https://content.umami.is/website/images/umami-logo.png\" alt=\"Umami Logo\" width=\"100\"> </p> <h1 align=\"center\">Umami</h1> <p align=\"center\"> <i>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</i> </p> <p align=\"center\"> <a href=\"https://github.com/umami-software/umami/releases\"> <img src=\"https://img.shields.io/github/release/umami-software/umami.svg\" alt=\"GitHub Release\" /> </a> <a href=\"https://github.com/umami-software/umami/blob/master/LI...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://content.umami.is/website/images/umami-logo.png\" alt=\"Umami Logo\" width=\"100\"> </p> <h1 align=\"center\">Umami</h1> <p align=\"center\"> <i>Umamiは、シンプルで高速、プライバシーを重視したGoogle Analyticsの代替となるツールです。</i> </p> <p align=\"center\"> <a href=\"https://github.com/umami-software/umami/releases\"> <img src=\"https://img.shields.io/github/release/umami-software/umami.svg\" alt=\"GitHub Release\" /> </a> <a href=\"https://github.com/umami-software/umami/blob/master/LI...",
-      "language": "TypeScript",
-      "stars": 393
+      "stars": 1137
     },
     {
       "rank": 4,
-      "repo_name": "TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "description_ja": "小学校、中学校、高校、大学のPDF教材をまとめています。",
-      "readme_summary": "项目的由来 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 学习数学 希望未来出现更多不是为了考学而读书的人。 小学数学 - 一年级上册 - 一年级下册 - 二年级上册 - 二年级下册 - 三年级上册 - 三年级下册 - 四年级上册 - 四年级下册 - 五年级上册 - 五年级下册 - 六年级上册 - 六年级下册 初中数学 - 初一上册 - 初一下册 - 初二上册 - 初二下册 - 初三上册 - 初三下册 高中数学 - 目录 大学数学 - 高等数学 - 线性代数 - 离散数学 - 概率论 - 更多数学资料-(大学数学网) 问题：如何合并被拆分的文件？ 由于 GitHub 对单个文件的上传有最大限制，超过 100MB 的文件会被拒绝上传，超过 50MB 的文件上传时会收到警告。因此，文件大小超过 50MB 的文件会被拆分成每个 35MB 的多个文件。 示...",
-      "readme_summary_ja": "このプロジェクトは、国内の教育サイトで無料のリソースが提供されているにも関わらず、多くの人が情報にアクセスしづらい状況を改善するために生まれました。一部の業者が、それらのリソースに個人的な透かしを入れて販売している現状に対抗し、義務教育の普及と地域間の教育格差解消を目指して、これらのリソースを集中管理し、オープンソース化することを計画しています。\n\nもう一つの重要な理由は、海外在住の中国人が、自分の子供たちに国内の教育に触れさせたいというニーズに応えるためです。\n\n数学を学び、試験のためだけでなく、純粋に学ぶことを楽しむ人が増えることを願っています。\n\n収録内容：\n\n*   小学数学：1年生（上下）～6年生（上下）\n*   中学数学：中学1年生（上下）～中学3年生（上下）\n*   高校数学：目次\n*   大学数学：高等数学、線形",
-      "language": "Roff",
-      "stars": 181
-    },
-    {
-      "rank": 5,
-      "repo_name": "thinking-machines-lab/tinker-cookbook",
-      "description": "Post-training with Tinker",
-      "description_ja": "Tinkerを用いたポストトレーニング",
-      "readme_summary": "<h1 align=\"center\">Tinker Cookbook</h1> <div align=\"center\"> <img src=\"assets/tinker-cover.png\" width=\"60%\" /> </div> We provide two libraries for the broader community to customize their language models: tinker and tinker-cookbook. - tinker is a training SDK for researchers and developers to fine-tune language models. You send API requests to us and we handle the complexities of distributed training",
-      "readme_summary_ja": "<h1 align=\"center\">Tinker Cookbook</h1> <div align=\"center\"> <img src=\"assets/tinker-cover.png\" width=\"60%\" /> </div>\n\n私たちは、言語モデルをカスタマイズするための2つのライブラリ、tinkerとtinker-cookbookを提供しています。\n\n- tinkerは、研究者や開発者が言語モデルをファインチューンするためのトレーニングSDKです。APIリクエストを送信するだけで、分散トレーニングの複雑な処理は私たちが担当します。",
-      "language": "Python",
-      "stars": 137
-    },
-    {
-      "rank": 6,
-      "repo_name": "iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "description_ja": "世界中の公開されているIPTVチャンネルのコレクション",
-      "readme_summary": "IPTV ![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents - 🚀 How to use? - 📺 Playlists - 🗓 EPG - 🗄 Database - 👨‍💻 API - 📚 Resources - 💬 Discussions - ❓ FAQ - 🛠 Contribution - ⚖ Legal - © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press _Open_. !VLC Network Panel Playlists The mai...",
-      "readme_summary_ja": "IPTV ![更新](https://github.com/iptv-org/iptv/actions/workflows/update.yml) 世界中の公開されているIPTV（インターネットプロトコルテレビ）チャンネルのコレクション。目次：🚀 使い方 - 📺 プレイリスト - 🗓 EPG（電子番組ガイド） - 🗄 データベース - 👨‍💻 API - 📚 リソース - 💬 ディスカッション - ❓ FAQ - 🛠 貢献 - ⚖ 法的事項 - © ライセンス 使い方：ライブストリーミングに対応したビデオプレーヤーに、プレイリストのリンクを貼り付けて「開く」を押すだけです。!VLC ネットワークパネル プレイリスト メイン...",
-      "language": "TypeScript",
-      "stars": 140
-    },
-    {
-      "rank": 7,
-      "repo_name": "lzhoang2801/OpCore-Simplify",
-      "description": "A tool designed to simplify the creation of OpenCore EFI",
-      "description_ja": "A tool designed to simplify the creation of OpenCore EFI",
-      "readme_summary": "<br/> <div align=\"center\"> <h3 align=\"center\">OpCore Simplify</h3> <p align=\"center\"> A specialized tool that streamlines <a href=\"https://github.com/acidanthera/OpenCorePkg\">OpenCore</a> EFI creation by automating the essential setup process and providing standardized configurations. Designed to reduce manual effort while ensuring accuracy in your Hackintosh journey. <br /> <br /> <a href=\"#-features\">Features</a> • <a href=\"#-how-to-use\">How To Use</a> • <a href=\"#-contributing\">Contributing</...",
-      "readme_summary_ja": "<br/> <div align=\"center\"> <h3 align=\"center\">OpCore Simplify</h3> <p align=\"center\"> A specialized tool that streamlines <a href=\"https://github.com/acidanthera/OpenCorePkg\">OpenCore</a> EFI creation by automating the essential setup process and providing standardized configurations. Designed to reduce manual effort while ensuring accuracy in your Hackintosh journey. <br /> <br /> <a href=\"#-features\">Features</a> • <a href=\"#-how-to-use\">How To Use</a> • <a href=\"#-contributing\">Contributing</...",
-      "language": "Python",
-      "stars": 67
-    },
-    {
-      "rank": 8,
-      "repo_name": "YaLTeR/niri",
-      "description": "A scrollable-tiling Wayland compositor.",
-      "description_ja": "A scrollable-tiling Wayland compositor.",
-      "readme_summary": "<h1 align=\"center\"><img alt=\"niri\" src=\"https://github.com/user-attachments/assets/07d05cd0-d5dc-4a28-9a35-51bae8f119a0\"></h1> <p align=\"center\">A scrollable-tiling Wayland compositor.</p> <p align=\"center\"> <a href=\"https://matrix.to/#/#niri:matrix.org\"><img alt=\"Matrix\" src=\"https://img.shields.io/badge/matrix-%23niri-blue?logo=matrix\"></a> <a href=\"https://github.com/YaLTeR/niri/blob/main/LICENSE\"><img alt=\"GitHub License\" src=\"https://img.shields.io/github/license/YaLTeR/niri\"></a> <a href=\"...",
-      "readme_summary_ja": "<h1 align=\"center\"><img alt=\"niri\" src=\"https://github.com/user-attachments/assets/07d05cd0-d5dc-4a28-9a35-51bae8f119a0\"></h1> <p align=\"center\">A scrollable-tiling Wayland compositor.</p> <p align=\"center\"> <a href=\"https://matrix.to/#/#niri:matrix.org\"><img alt=\"Matrix\" src=\"https://img.shields.io/badge/matrix-%23niri-blue?logo=matrix\"></a> <a href=\"https://github.com/YaLTeR/niri/blob/main/LICENSE\"><img alt=\"GitHub License\" src=\"https://img.shields.io/github/license/YaLTeR/niri\"></a> <a href=\"...",
-      "language": "Rust",
-      "stars": 49
-    },
-    {
-      "rank": 9,
       "repo_name": "bobeff/open-source-games",
       "description": "A list of open source games.",
       "description_ja": "オープンソースゲームのリスト",
       "readme_summary": "Open source games This is a list of different open-source video games and commercial video games open-source remakes. Table of contents - Action games - Adventure games - Business and Tycoon games - City-Building games - First-Person games - Platformers - Puzzle games - Racing games - Real-Time strategies - Roguelikes - Role-Playing games - Sandbox games - Shoot 'em up games - Sport games - Third-Person games - Tower Defense games - Turn-Based strategies - Other lists Action games - **Hypersomni...",
-      "readme_summary_ja": "オープンソースゲーム：様々なオープンソースのビデオゲームと、商用ビデオゲームのオープンソースリメイクのリストです。\n\n目次：\n- アクションゲーム\n- アドベンチャーゲーム\n- ビジネス/タイクーンゲーム\n- 都市建設ゲーム\n- FPSゲーム\n- プラットフォーマー\n- パズルゲーム\n- レーシングゲーム\n- リアルタイムストラテジー\n- ローグライク\n- ロールプレイングゲーム\n- サンドボックスゲーム\n- シューティングゲーム\n- スポーツゲーム\n- TPSゲーム\n- タワーディフェンスゲーム\n- ターン制ストラテジー\n- その他のリスト\n\nアクションゲーム\n- **Hypersomni...",
+      "readme_summary_ja": "オープンソースゲーム：様々なオープンソースのビデオゲームと、商用ビデオゲームのオープンソースリメイクのリストです。\n\n目次：\n- アクションゲーム\n- アドベンチャーゲーム\n- ビジネス＆タイクーンゲーム\n- 都市建設ゲーム\n- FPS (ファーストパーソンシューティング)\n- プラットフォーマー\n- パズルゲーム\n- レーシングゲーム\n- RTS (リアルタイムストラテジー)\n- ローグライク\n- RPG (ロールプレイングゲーム)\n- サンドボックスゲーム\n- シューティングゲーム\n- スポーツゲーム\n- TPS (サードパーソンシューティング)\n- タワーディフェンスゲーム\n- ターン制ストラテジー\n- その他のリスト\n\nアクションゲーム：\n- Hypersomni...",
       "language": "",
-      "stars": 208
+      "stars": 511
+    },
+    {
+      "rank": 5,
+      "repo_name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "description_ja": "小学校、中学校、高校、大学のPDF教材をまとめています。",
+      "readme_summary": "项目的由来 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 学习数学 希望未来出现更多不是为了考学而读书的人。 小学数学 - 一年级上册 - 一年级下册 - 二年级上册 - 二年级下册 - 三年级上册 - 三年级下册 - 四年级上册 - 四年级下册 - 五年级上册 - 五年级下册 - 六年级上册 - 六年级下册 初中数学 - 初一上册 - 初一下册 - 初二上册 - 初二下册 - 初三上册 - 初三下册 高中数学 - 目录 大学数学 - 高等数学 - 线性代数 - 离散数学 - 概率论 - 更多数学资料-(大学数学网) 问题：如何合并被拆分的文件？ 由于 GitHub 对单个文件的上传有最大限制，超过 100MB 的文件会被拒绝上传，超过 50MB 的文件上传时会收到警告。因此，文件大小超过 50MB 的文件会被拆分成每个 35MB 的多个文件。 示...",
+      "readme_summary_ja": "このプロジェクトは、国内の教育サイトで無料のリソースが提供されているにも関わらず、多くの人が情報へのアクセスに制限されている状況を改善するために生まれました。一部の人が、それを利用して、あるサイトで個人ウォーターマーク付きのリソースを販売しています。これに対抗するため、義務教育の普及と地域間の教育格差の解消を目指し、これらのリソースを集中管理し、オープンソース化することを計画しています。\n\nもう一つの重要な理由は、海外在住の中国人が、自分の子供たちに国内の教育に触れ続けさせたいという思いがあるからです。\n\n数学を学ぶことで、将来、受験のためだけでなく、純粋に学ぶことを楽しむ人が増えることを願っています。\n\n収録内容：\n\n*   小学数学：1年生（上下）～6年生（上下）\n*   中学数学：中学1年生（上下）～中学3年生（上下）\n*   高校数学：目次\n*",
+      "language": "Roff",
+      "stars": 392
+    },
+    {
+      "rank": 6,
+      "repo_name": "serverless-dns/serverless-dns",
+      "description": "The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io",
+      "description_ja": "Cloudflare Workers、Deno Deploy、Fastly、Fly.io にデプロイ可能な RethinkDNS リゾルバ。",
+      "readme_summary": "It's a bird, it's a plane, it's... a self-hosted, pi-hole esque, DNS resolver _serverless-dns_ is a Pi-Hole esque content-blocking, serverless, stub DNS-over-HTTPS (DoH) and DNS-over-TLS (DoT) resolver. Runs out-of-the-box on Cloudflare Workers, Deno Deploy, Fastly Compute@Edge, and Fly.io",
+      "readme_summary_ja": "鳥だ、飛行機だ、いや違う…これはセルフホスト型のPi-hole風DNSリゾルバー、_serverless-dns_。Pi-Holeのようなコンテンツブロック機能を持つ、サーバーレスな、スタブDoH (DNS-over-HTTPS) および DoT (DNS-over-TLS) リゾルバーです。Cloudflare Workers、Deno Deploy、Fastly Compute@Edge、Fly.io上で設定不要ですぐに動作します。",
+      "language": "JavaScript",
+      "stars": 17
+    },
+    {
+      "rank": 7,
+      "repo_name": "yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "description_ja": "LEANNで全てを対象としたRAGを。高速、高精度、そして100%プライベートなRAGアプリケーションを、個人のデバイス上で実行しながら、ストレージを97%削減できます。",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
+      "language": "Python",
+      "stars": 70
+    },
+    {
+      "rank": 8,
+      "repo_name": "yangshun/tech-interview-handbook",
+      "description": "💯 Curated coding interview preparation materials for busy software engineers",
+      "description_ja": "💯 Curated coding interview preparation materials for busy software engineers",
+      "readme_summary": "<h1 align=\"center\">Tech Interview Handbook</h1> <div align=\"center\"> <a href=\"https://www.techinterviewhandbook.org/\"> <img src=\"assets/logo.svg\" alt=\"Tech Interview Handbook\" width=\"400\" /> </a> <br /> <h3> <a href=\"https://www.techinterviewhandbook.org/\">Read on the website</a> </h3> <p> Join/follow us on <a href=\"https://discord.com/invite/usMqNaPczq\" target=\"_blank\">Discord</a> | <a href=\"https://twitter.com/techinterviewhb\" target=\"_blank\">𝕏 (Twitter)</a> | <a href=\"https://t.me/techintervi...",
+      "readme_summary_ja": "<h1 align=\"center\">Tech Interview Handbook</h1> <div align=\"center\"> <a href=\"https://www.techinterviewhandbook.org/\"> <img src=\"assets/logo.svg\" alt=\"Tech Interview Handbook\" width=\"400\" /> </a> <br /> <h3> <a href=\"https://www.techinterviewhandbook.org/\">Read on the website</a> </h3> <p> Join/follow us on <a href=\"https://discord.com/invite/usMqNaPczq\" target=\"_blank\">Discord</a> | <a href=\"https://twitter.com/techinterviewhb\" target=\"_blank\">𝕏 (Twitter)</a> | <a href=\"https://t.me/techintervi...",
+      "language": "TypeScript",
+      "stars": 141
+    },
+    {
+      "rank": 9,
+      "repo_name": "microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "description_ja": "AIエージェント構築入門のための12のレッスン",
+      "readme_summary": "AI Agents for Beginners - A Course !Generative AI For Beginners A course teaching everything you need to know to start building AI Agents ![GitHub license](https://github.com/microsoft/ai-agents-for-beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst) ![GitHub contributors](https://GitHub.com/microsoft/ai-agents-for-beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst) ![GitHub issues](https://GitHub.com/microsoft/ai-agents-for-beginners/issues/?WT.mc_id=academic-105485-kor...",
+      "readme_summary_ja": "AIエージェント入門 - AIエージェントの構築を始めるために必要なすべてを学ぶコースです！",
+      "language": "Jupyter Notebook",
+      "stars": 124
     },
     {
       "rank": 10,
-      "repo_name": "microsoft/call-center-ai",
-      "description": "Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!",
-      "description_ja": "API呼び出しで、AIエージェントから電話をかけられます。または、設定した電話番号から直接ボットに電話をかけることも可能です。",
-      "readme_summary": "Call Center AI AI-powered call center solution with Azure and OpenAI GPT. <!-- github.com badges --> ![Last release date](https://github.com/clemlesne/call-center-ai/releases) ![Project license](https://github.com/clemlesne/call-center-ai/blob/main/LICENSE) <!-- GitHub Codespaces badge --> ![Open in GitHub Codespaces](https://codespaces.new/microsoft/call-center-ai?quickstart=1) Overview Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number! ...",
-      "readme_summary_ja": "Call Center AI：AzureとOpenAI GPTを活用したAI搭載コールセンターソリューション。API呼び出しでAIエージェントから電話をかけたり、設定された電話番号から直接ボットに電話をかけたりできます。",
-      "language": "Python",
-      "stars": 236
+      "repo_name": "LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "description_ja": "Moonlight用のセルフホスト型ゲームストリームホスト",
+      "readme_summary": "<div align=\"center\"> <img src=\"sunshine.png\" alt=\"Sunshine icon\"/> <h1 align=\"center\">Sunshine</h1> <h4 align=\"center\">Self-hosted game stream host for Moonlight.</h4> </div> <div align=\"center\"> <a href=\"https://github.com/LizardByte/Sunshine\"><img src=\"https://img.shields.io/github/stars/lizardbyte/sunshine.svg?logo=github&style=for-the-badge\" alt=\"GitHub stars\"></a> <a href=\"https://github.com/LizardByte/Sunshine/releases/latest\"><img src=\"https://img.shields.io/github/downloads/lizardbyte/su...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"sunshine.png\" alt=\"Sunshine アイコン\"/> <h1 align=\"center\">Sunshine</h1> <h4 align=\"center\">Moonlight 用のセルフホスト型ゲームストリームホスト。</h4> </div> <div align=\"center\"> <a href=\"https://github.com/LizardByte/Sunshine\"><img src=\"https://img.shields.io/github/stars/lizardbyte/sunshine.svg?logo=github&style=for-the-badge\" alt=\"GitHub スター数\"></a> <a href=\"https://github.com/LizardByte/Sunshine/releases/latest\"><img src=\"https://img.shields.io/github/downloads/lizardbyte/su...",
+      "language": "C++",
+      "stars": 47
     },
     {
       "rank": 11,
-      "repo_name": "librespot-org/librespot",
-      "description": "Open Source Spotify client library",
-      "description_ja": "オープンソースのSpotifyクライアントライブラリ",
-      "readme_summary": "![Build Status](https://github.com/librespot-org/librespot/actions) ![Gitter chat](https://gitter.im/librespot-org/spotify-connect-resources) ![Crates.io](https://crates.io/crates/librespot) Current maintainers are listed on GitHub. librespot *librespot* is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver",
-      "readme_summary_ja": "![ビルドステータス](https://github.com/librespot-org/librespot/actions) ![Gitterチャット](https://gitter.im/librespot-org/spotify-connect-resources) ![Crates.io](https://crates.io/crates/librespot) 現在のメンテナーはGitHubに記載されています。 librespot *librespot* は、Spotify用のオープンソースクライアントライブラリです。 これにより、アプリケーションはSpotifyのサービスを使用して、様々なバックエンド経由で音楽を制御・再生したり、Spotify Connectレシーバーとして動作したりできます。",
-      "language": "Rust",
-      "stars": 130
+      "repo_name": "dgtlmoon/changedetection.io",
+      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "description_ja": "Webサイトの変更検出、Webページ監視、変更通知に最適な、最もシンプルで使いやすいツールです。コンテンツの変更、価格変動、再入荷通知、Webサイトの改ざん監視などに最適です。すべて無料で利用できるほか、SaaSプランもご用意しています。",
+      "readme_summary": "Detect Website Changes Automatically — Monitor Web Page Changes in Real Time Monitor websites for updates — get notified via Discord, Email, Slack, Telegram, Webhook and many more. **Detect web page content changes and get instant alerts.** Ideal for monitoring price changes, content edits, conditional changes and more. <img src=\"https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/screenshot.png\" style=\"max-width:100%;\" alt=\"Web site page change monitoring\" title=\"Web site ...",
+      "readme_summary_ja": "ウェブサイトの変更を自動検知 - ウェブページの変更をリアルタイムに監視。ウェブサイトの更新を監視し、Discord、Email、Slack、Telegram、Webhookなど様々な方法で通知を受け取れます。**ウェブページの内容変更を検知し、即座にアラートを受信。** 価格変動、コンテンツ編集、条件付き変更などの監視に最適です。",
+      "language": "Python",
+      "stars": 18
     },
     {
       "rank": 12,
-      "repo_name": "opencloud-eu/opencloud",
-      "description": "🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.",
-      "description_ja": "🌤️これはOpenCloudサーバーのメインリポジトリです。バックエンドサービスのGo言語のコードベースが含まれています。",
-      "readme_summary": "!OpenCloud logo ![status-badge](https://ci.opencloud.eu/repos/3) ![Matrix](https://app.element.io/#/room/#opencloud:matrix.org) ![License](https://opensource.org/licenses/Apache-2.0) Server Backend > [!TIP] > For general information about OpenCloud and how to install please visit OpenCloud on Github and OpenCloud GmbH. This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services",
-      "readme_summary_ja": "OpenCloudロゴ ![ステータスバッジ](https://ci.opencloud.eu/repos/3) ![Matrix](https://app.element.io/#/room/#opencloud:matrix.org) ![ライセンス](https://opensource.org/licenses/Apache-2.0) サーバーバックエンド\n\n> [!ヒント]\n> OpenCloudの概要やインストール方法については、GitHub上のOpenCloudまたはOpenCloud GmbHのウェブサイトをご覧ください。\n\nこれはOpenCloudサーバーのメインリポジトリです。バックエンドサービスのGo言語によるコードベースが含まれています。",
-      "language": "Go",
-      "stars": 210
+      "repo_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "description_ja": "Claude Codeの設定と監視を行うためのCLIツール",
+      "readme_summary": "![npm version](https://www.npmjs.com/package/claude-code-templates) ![npm downloads](https://www.npmjs.com/package/claude-code-templates) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](CONTRIBUTING.md) ![GitHub stars](https://github.com/davila7/claude-code-templates) <p align=\"center\"> <a href=\"https://trendshift.io/repositories/15113\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories/15113\" alt=\"davila7%2Fclaude-code-templates | Trendshift\" style=\"widt...",
+      "readme_summary_ja": "Claudeのコードテンプレート",
+      "language": "JavaScript",
+      "stars": 170
     },
     {
       "rank": 13,
-      "repo_name": "end-4/dots-hyprland",
-      "description": "uhh questioning the meaning of dotfiles",
-      "description_ja": "ドットファイルの意味を問い直す",
-      "readme_summary": "<div align=\"center\"> <h1>【 end_4's Hyprland dotfiles 】</h1> <h3></h3> </div> <div align=\"center\"> ![](https://img.shields.io/github/last-commit/end-4/dots-hyprland?&style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B) ![](https://img.shields.io/github/stars/end-4/dots-hyprland?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B) ![](https://img.shields.io/github/repo-size/end-4/dots-hyprland?color=86dbce&label=SIZE&logo=protondrive&style=for-t...",
-      "readme_summary_ja": "<div align=\"center\"> <h1>【end_4のHyprland設定ファイル】</h1> <h3></h3> </div> <div align=\"center\"> ![](https://img.shields.io/github/last-commit/end-4/dots-hyprland?&style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B) ![](https://img.shields.io/github/stars/end-4/dots-hyprland?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B) ![](https://img.shields.io/github/repo-size/end-4/dots-hyprland?color=86dbce&label=SIZE&logo=protondrive&style",
-      "language": "QML",
-      "stars": 31
+      "repo_name": "google/adk-docs",
+      "description": "An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "description_ja": "柔軟性と制御性を備え、高度なAIエージェントを構築、評価、デプロイするための、コードファーストなオープンソースツールキットです。",
+      "readme_summary": "Agent Development Kit (ADK) ![License](LICENSE) ![PyPI](https://pypi.org/project/google-adk/) ![Maven Central](https://search.maven.org/artifact/com.google.adk/google-adk) <html> <h2 align=\"center\"> <img src=\"docs/assets/agent-development-kit.png\" width=\"150\"/> </h2> </html> **An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.** Agent Development Kit (ADK) is a flexible and modular framework for **developing and deploy...",
+      "readme_summary_ja": "Agent Development Kit (ADK) ![ライセンス](LICENSE) ![PyPI](https://pypi.org/project/google-adk/) ![Maven Central](https://search.maven.org/artifact/com.google.adk/google-adk) <html> <h2 align=\"center\"> <img src=\"docs/assets/agent-development-kit.png\" width=\"150\"/> </h2> </html> **柔軟性と制御性を備えた、高度なAIエージェントを構築、評価、デプロイするための、コードファーストなオープンソースツールキットです。** Agent Development Kit (ADK) は、開発とデプロイのための柔軟でモジュール化されたフレームワークです...",
+      "language": "HTML",
+      "stars": 5
     },
     {
       "rank": 14,
-      "repo_name": "Zie619/n8n-workflows",
-      "description": "all of the workflows of n8n i could find (also from the site itself)",
-      "description_ja": "n8nのワークフローのうち、見つけられたものすべて（公式サイトのものも含む）",
-      "readme_summary": "🚀 n8n Workflow Collection <div align=\"center\"> !n8n Workflows !Workflows !Integrations !License ![Buy Me a Coffee](https://www.buymeacoffee.com/zie619) 🌟 The Ultimate Collection of n8n Automation Workflows **🔍 Browse Online** • **📚 Documentation** • **🤝 Contributing** • **📄 License** </div> --- ✨ What's New 🎉 Latest Updates (November 2025) - **🔒 Enhanced Security**: Full security audit completed, all CVEs resolved - **🐳 Docker Support**: Multi-platform builds for linux/amd64 and linux/arm64 - **...",
-      "readme_summary_ja": "🚀 n8nワークフローコレクション\n\n!n8nワークフロー !ワークフロー !連携 !ライセンス ![コーヒーをおごる](https://www.buymeacoffee.com/zie619)\n\n🌟 n8n自動化ワークフローの究極のコレクション\n\n**🔍 オンラインで閲覧** • **📚 ドキュメント** • **🤝 貢献** • **📄 ライセンス**\n\n---\n\n✨ 最新情報\n\n🎉 最新アップデート (2025年11月)\n\n- **🔒 セキュリティ強化**: 完全なセキュリティ監査を実施、すべてのCVEを解決\n- **🐳 Dockerサポート**: linux/amd64 および linux/arm64 向けのマルチプラットフォームビルド\n- **...**",
+      "repo_name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "description_ja": "Node Version Manager - 複数のアクティブな Node.js バージョンを管理するための、POSIX 準拠の Bash スクリプト",
+      "readme_summary": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> Node Version Manager ![Build Status][3] ![nvm version][4] ![CII Best Practices](https://bestpractices.dev/projects/684) <!-- To update this table of contents, ensure you have run npm ...",
+      "readme_summary_ja": "[nvm](https://github.com/nvm-sh/logos) (Node Version Manager) ![ビルドステータス][3] ![nvmバージョン][4] ![CIIベストプラクティス](https://bestpractices.dev/projects/684) <!-- 目次を更新するには、npm ... を実行してください -->",
+      "language": "Shell",
+      "stars": 24
+    },
+    {
+      "rank": 15,
+      "repo_name": "AtsushiSakai/PythonRobotics",
+      "description": "Python sample codes and textbook for robotics algorithms.",
+      "description_ja": "Python sample codes and textbook for robotics algorithms.",
+      "readme_summary": "<img src=\"https://github.com/AtsushiSakai/PythonRobotics/raw/master/icon.png?raw=true\" align=\"right\" width=\"300\" alt=\"header pic\"/> PythonRobotics !GitHub_Action_Linux_CI !GitHub_Action_MacOS_CI !GitHub_Action_Windows_CI ![Build status](https://ci.appveyor.com/project/AtsushiSakai/pythonrobotics) Python codes and textbook for robotics algorithm. Table of Contents * What is this? * Requirements * Documentation * How to use * Localization * Extended Kalman Filter localization * Particle filter loc...",
+      "readme_summary_ja": "<img src=\"https://github.com/AtsushiSakai/PythonRobotics/raw/master/icon.png?raw=true\" align=\"right\" width=\"300\" alt=\"header pic\"/> PythonRobotics !GitHub_Action_Linux_CI !GitHub_Action_MacOS_CI !GitHub_Action_Windows_CI ![Build status](https://ci.appveyor.com/project/AtsushiSakai/pythonrobotics) Python codes and textbook for robotics algorithm. Table of Contents * What is this? * Requirements * Documentation * How to use * Localization * Extended Kalman Filter localization * Particle filter loc...",
       "language": "Python",
-      "stars": 270
+      "stars": 32
+    },
+    {
+      "rank": 16,
+      "repo_name": "google/adk-web",
+      "description": "Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.",
+      "description_ja": "Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.",
+      "readme_summary": "Agent Development Kit Web UI (ADK WEB) ![License](LICENSE) ![r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) <html> <h2 align=\"center\"> <img src=\"https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png\" width=\"256\"/> </h2> <h3 align=\"center\"> Agent Development Kit Web is the built-in developer UI that integrated with Google Agent Development Kit for easier agent development and debug. </h3> <h3 align=\"center\"> Important Links: <a href=\"http...",
+      "readme_summary_ja": "Agent Development Kit Web UI (ADK WEB) ![License](LICENSE) ![r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) <html> <h2 align=\"center\"> <img src=\"https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png\" width=\"256\"/> </h2> <h3 align=\"center\"> Agent Development Kit Web is the built-in developer UI that integrated with Google Agent Development Kit for easier agent development and debug. </h3> <h3 align=\"center\"> Important Links: <a href=\"http...",
+      "language": "TypeScript",
+      "stars": 16
+    },
+    {
+      "rank": 17,
+      "repo_name": "WICG/email-verification-protocol",
+      "description": "verified autofill",
+      "description_ja": "検証済み自動入力",
+      "readme_summary": "Email Verification Protocol Verifying control of an email address is a frequent activity on the web today and is used both to prove the user has provided a valid email address, and as a means of authenticating the user when returning to an application. Verification is performed by either: 1) Sending the user a link they click on or a verification code. This requires the user to switch from the application they are using to their email address and having to wait for the email arrive, and then per...",
+      "readme_summary_ja": "メールアドレス認証プロトコル。メールアドレスの所有権確認は、今日のウェブ上で頻繁に行われる処理であり、ユーザーが有効なメールアドレスを提供したことの証明や、アプリケーション再訪時のユーザー認証手段として利用されます。認証は通常、以下のいずれかの方法で行われます。1) ユーザーにクリックしてもらうリンクまたは認証コードを送信する。この方法では、ユーザーは利用中のアプリケーションからメールアドレスに切り替え、メールの到着を待つ必要があります。",
+      "language": "",
+      "stars": 27
     }
   ]
 }
