@@ -1,176 +1,156 @@
 {
-  "updated_at": "2025-12-05 09:02:16",
-  "total_repos": 17,
+  "updated_at": "2025-12-06 09:02:00",
+  "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "basecamp/fizzy",
       "description": "Kanban as it should be. Not as it has been.",
-      "description_ja": "あるべき姿のカンバン。過去の姿ではなく。",
-      "readme_summary": "Fizzy This is the source code of Fizzy, the Kanban tracking tool for issues and ideas by 37signals. Development Setting up First, get everything installed and configured with: And then run the development server: You'll be able to access the app in development at http://fizzy.localhost:3006. To login, enter david@example.com and grab the verification code from the browser console to sign in",
-      "readme_summary_ja": "Fizzy：37signalsによる課題とアイデアのためのカンバン式トラッキングツール、Fizzyのソースコードです。\n\n**開発環境のセットアップ**\n\nまず、以下を実行して必要なものをインストールし、設定します。\n\n```\n// インストールと設定のコマンド（原文に具体的なコマンドがないため省略）\n```\n\n次に、開発サーバーを起動します。\n\n```\n// 開発サーバー起動のコマンド（原文に具体的なコマンドがないため省略）\n```\n\n開発環境のアプリには、http://fizzy.localhost:3006 でアクセスできます。\n\nログインするには、david@example.com を入力し、ブラウザのコンソールに表示される認証コードを入力してサインインしてください。",
+      "description_ja": "あるべき姿のカンバン。これまでのようなものではなく。",
+      "readme_summary": "Fizzy This is the source code of Fizzy, the Kanban tracking tool for issues and ideas by 37signals. Deploying Fizzy If you'd like to run Fizzy on your own server, we recommend deploying it with Kamal. Kamal makes it easier to set up a bare server, copy the application to it, and manage the configuration settings that it uses",
+      "readme_summary_ja": "Fizzy：これは37signalsによる課題とアイデアのためのカンバン式トラッキングツール、Fizzyのソースコードです。\n\nFizzyのデプロイ：Fizzyを自身のサーバーで実行したい場合は、Kamalを使ったデプロイを推奨します。Kamalを使うことで、ベアサーバーのセットアップ、アプリケーションのコピー、およびアプリケーションが使用する構成設定の管理が容易になります。",
       "language": "Ruby",
-      "stars": 829
+      "stars": 1493
     },
     {
       "rank": 2,
-      "repo_name": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "description_ja": "驚くほど高速なJavaScriptランタイム、バンドラー、テストランナー、そしてパッケージマネージャー - これら全てが一つに。",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Bun</h1> <p align=\"center\"> <a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a> <img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\"> <a href=\"https://twitter.com/jarredsumner/status/1542824445810642946\"><img src=\"https...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Bun</h1> <p align=\"center\"> <a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a> <img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\"> <a href=\"https://twitter.com/jarredsumner/status/154282444",
-      "language": "Zig",
-      "stars": 280
+      "repo_name": "rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "description_ja": "🚀4KBオブジェクトのペイロードにおいて、MinIOより2.3倍高速。RustFSは、MinIOやCephなどの他のS3互換プラットフォームとの移行および共存をサポートする、オープンソースのS3互換高性能オブジェクトストレージシステムです。",
+      "readme_summary": "![RustFS](https://rustfs.com) <p align=\"center\">RustFS is a high-performance, distributed object storage system built in Rust.</p> <p align=\"center\"> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build and Push Docker Images\" src=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml/badge.sv...",
+      "readme_summary_ja": "![RustFS](https://rustfs.com)\n\nRustFSは、Rustで構築された高性能な分散オブジェクトストレージシステムです。\n\n<p align=\"center\">\n<a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a>\n<a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build and Push Docker Images\" src=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml/badge.sv...",
+      "language": "Rust",
+      "stars": 657
     },
     {
       "rank": 3,
-      "repo_name": "DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "description_ja": "draw.ioダイアグラムとAI機能を統合したNext.jsウェブアプリケーションです。自然言語コマンドやAI支援による可視化を通じて、ダイアグラムの作成、修正、改善が可能です。",
-      "readme_summary": "Next AI Draw.io <div align=\"center\"> **AI-Powered Diagram Creation Tool - Chat, Draw, Visualize** English | 中文 | 日本語 ![License: MIT](https://opensource.org/licenses/MIT) ![Next.js](https://nextjs.org/) ![TypeScript](https://www.typescriptlang.org/) ![Sponsor](https://github.com/sponsors/DayuanJiang) 🚀 Live Demo </div> A Next.js web application that integrates AI capabilities with draw.io diagrams. Create, modify, and enhance diagrams through natural language commands and AI-assisted visualizatio...",
-      "readme_summary_ja": "Next AI Draw.io <div align=\"center\"> **AI搭載の図作成ツール - チャット、描画、可視化** 英語 | 中国語 | 日本語 ![ライセンス: MIT](https://opensource.org/licenses/MIT) ![Next.js](https://nextjs.org/) ![TypeScript](https://www.typescriptlang.org/) ![スポンサー](https://github.com/sponsors/DayuanJiang) 🚀 ライブデモ </div> Next.jsで構築されたWebアプリケーション。draw.ioの図にAI機能を統合し、自然言語コマンドやAIによる可視化支援を通じて、図の作成、修正、改善を可能にします。",
-      "language": "TypeScript",
-      "stars": 508
+      "repo_name": "trustedsec/social-engineer-toolkit",
+      "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+      "description_ja": "TrustedSecのソーシャルエンジニアリングツールキット (SET) リポジトリ - SETの新しいバージョンはすべてここにデプロイされます。",
+      "readme_summary": "The Social-Engineer Toolkit (SET) * Copyright :copyright: 2020 * Written by: David Kennedy (ReL1K) @HackingDave * Company: TrustedSec <br/> Description The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. SET has a number of custom attack vectors that allow you to make a believable attack quickly. SET is a product of TrustedSec, LLC – an information security consulting firm located in Cleveland, Ohio",
+      "readme_summary_ja": "Social-Engineer Toolkit (SET) * Copyright :copyright: 2020 * 開発者: David Kennedy (ReL1K) @HackingDave * 企業: TrustedSec\n\n概要: Social-Engineer Toolkit は、ソーシャルエンジニアリングを目的としたオープンソースのペネトレーションテストフレームワークです。SET は、説得力のある攻撃を迅速に実行できる、多数のカスタム攻撃ベクターを備えています。SET は、オハイオ州クリーブランドに拠点を置く情報セキュリティコンサルティング会社、TrustedSec, LLC の製品です。",
+      "language": "Python",
+      "stars": 205
     },
     {
       "rank": 4,
-      "repo_name": "openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "description_ja": "ターミナルで動作する軽量コーディングエージェント",
-      "readme_summary": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. </br> </br>If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE</a> </br>If you are looking for the <em>cloud-based agent</em> from OpenAI, <strong>Codex Web</strong>, go to <a href=\"https://chatgpt.c...",
-      "readme_summary_ja": "```\n<p align=\"center\"><code>npm i -g @openai/codex</code><br />または <code>brew install --cask codex</code></p>\n\n<p align=\"center\"><strong>Codex CLI</strong> は、OpenAI製のコーディングエージェントで、ローカル環境で動作します。</br> </br>コードエディタ (VS Code, Cursor, Windsurf) で Codex を使用したい場合は、<a href=\"https://developers.openai.com/codex/ide\">IDE にインストール</a>してください。</br>OpenAI の<em>クラウドベースのエージェント</em>、<strong>Codex Web</strong> をお探しの方は、<a href=\"https://chatgpt.c...\n```",
-      "language": "Rust",
-      "stars": 103
+      "repo_name": "DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "description_ja": "draw.ioダイアグラムとAI機能を統合したNext.jsウェブアプリケーションです。自然言語コマンドやAI支援による可視化を通じて、ダイアグラムの作成、修正、拡張が可能です。",
+      "readme_summary": "Next AI Draw.io <div align=\"center\"> **AI-Powered Diagram Creation Tool - Chat, Draw, Visualize** English | 中文 | 日本語 ![License: MIT](https://opensource.org/licenses/MIT) ![Next.js](https://nextjs.org/) ![TypeScript](https://www.typescriptlang.org/) ![Sponsor](https://github.com/sponsors/DayuanJiang) 🚀 Live Demo </div> A Next.js web application that integrates AI capabilities with draw.io diagrams. Create, modify, and enhance diagrams through natural language commands and AI-assisted visualizatio...",
+      "readme_summary_ja": "次世代AI Draw.io\n\n**AI搭載の図作成ツール - チャット、描画、可視化**\n\n英語 | 中国語 | 日本語\n\n（MITライセンス、Next.js、TypeScript、スポンサーのバッジ）\n\n🚀 ライブデモ\n\ndraw.ioの図にAI機能を統合したNext.js製のWebアプリケーションです。自然言語コマンドやAI支援による可視化を通じて、図の作成、修正、改善が可能です。",
+      "language": "TypeScript",
+      "stars": 822
     },
     {
       "rank": 5,
-      "repo_name": "LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
-      "description_ja": "真に独立したウェブブラウザ",
-      "readme_summary": "Ladybird Ladybird is a truly independent web browser, using a novel engine based on web standards. > [!IMPORTANT] > Ladybird is in a pre-alpha state, and only suitable for use by developers > Features We aim to build a complete, usable browser for the modern web. Ladybird uses a multi-process architecture with a main UI process, several WebContent renderer processes, an ImageDecoder process, and a RequestServer process",
-      "readme_summary_ja": "Ladybird Ladybirdは、ウェブ標準に基づいた独自のエンジンを使用する、真に独立したウェブブラウザです。\n\n> [!IMPORTANT]\n> Ladybirdはプレアルファ段階であり、開発者のみが使用に適しています。\n\n**特徴**\n\n現代のウェブに対応した、完全で実用的なブラウザの構築を目指しています。Ladybirdは、メインUIプロセス、複数のWebContentレンダラープロセス、ImageDecoderプロセス、およびRequestServerプロセスからなるマルチプロセスアーキテクチャを採用しています。",
-      "language": "C++",
-      "stars": 70
+      "repo_name": "facebook/react",
+      "description": "The library for web and native user interfaces.",
+      "description_ja": "Webおよびネイティブのユーザーインターフェース用ライブラリ",
+      "readme_summary": "React &middot; ![GitHub license](https://github.com/facebook/react/blob/main/LICENSE) ![npm version](https://www.npmjs.com/package/react) ![(Runtime) Build and Test](https://github.com/facebook/react/actions/workflows/runtime_build_and_test.yml) ![(Compiler) TypeScript](https://github.com/facebook/react/actions/workflows/compiler_typescript.yml) ![PRs Welcome](https://legacy.reactjs.org/docs/how-to-contribute.html#your-first-pull-request) React is a JavaScript library for building user interface...",
+      "readme_summary_ja": "React &middot; ![GitHubライセンス](https://github.com/facebook/react/blob/main/LICENSE) ![npmバージョン](https://www.npmjs.com/package/react) ![(ランタイム)ビルドとテスト](https://github.com/facebook/react/actions/workflows/runtime_build_and_test.yml) ![(コンパイラ) TypeScript](https://github.com/facebook/react/actions/workflows/compiler_typescript.yml) ![PR歓迎](https://legacy.reactjs.org/docs/how-to-contribute.html#your-first-pull-request) Reactは、ユーザーインターフェースを構築するためのJavaScriptライブラリです...",
+      "language": "JavaScript",
+      "stars": 58
     },
     {
       "rank": 6,
-      "repo_name": "ashishpatel26/500-AI-Agents-Projects",
-      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
-      "description_ja": "500のAIエージェントプロジェクトは、様々な業界におけるAIエージェントの活用事例を集めたものです。実践的な応用例を紹介し、実装のためのオープンソースプロジェクトへのリンクを提供することで、AIエージェントが医療、金融、教育、小売などの分野をどのように変革しているかを示しています。",
-      "readme_summary": "🌟 500+ AI Agent Projects / UseCases ![500-AI-Agents-Projects - UseCase](https://github.com/ashishpatel26/500-AI-Agents-Projects) !img A curated collection of AI agent use cases across industries, showcasing practical applications and linking to open-source projects for implementation. Explore how AI agents are transforming industries like healthcare, finance, education, and more! 🤖✨ --- 📋 Table of Contents - Introduction - Industry Usecase - Use Case Table - Framework Wise UseCase - CrewAI UseCa...",
-      "readme_summary_ja": "🌟 500+ AI Agent Projects / UseCases ![500-AI-Agents-Projects - UseCase](https://github.com/ashishpatel26/500-AI-Agents-Projects) !img A curated collection of AI agent use cases across industries, showcasing practical applications and linking to open-source projects for implementation. Explore how AI agents are transforming industries like healthcare, finance, education, and more! 🤖✨ --- 📋 Table of Contents - Introduction - Industry Usecase - Use Case Table - Framework Wise UseCase - CrewAI UseCa...",
-      "language": "",
-      "stars": 505
+      "repo_name": "CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX.",
+      "description_ja": "優れたUXを備えた、開発者向けの便利なオンラインツール集。",
+      "readme_summary": "<picture> <source srcset=\"./.github/logo-dark.png\" media=\"(prefers-color-scheme: light)\"> <source srcset=\"./.github/logo-white.png\" media=\"(prefers-color-scheme: dark)\"> <img src=\"./.github/logo-dark.png\" alt=\"logo\"> </picture> <p align=\"center\"> Useful tools for developer and people working in IT. <a href=\"https://it-tools.tech\">Try it!</a> </p> Sponsors <div align=\"center\" markdown=\"1\"> <p align=\"center\"> IT-Tools is proudly sponsored by: </p> <a href=\"https://go.warp.dev/it-tools\"> <img alt=\"...",
+      "readme_summary_ja": "<picture> <source srcset=\"./.github/logo-dark.png\" media=\"(prefers-color-scheme: light)\"> <source srcset=\"./.github/logo-white.png\" media=\"(prefers-color-scheme: dark)\"> <img src=\"./.github/logo-dark.png\" alt=\"logo\"> </picture> <p align=\"center\"> Useful tools for developer and people working in IT. <a href=\"https://it-tools.tech\">Try it!</a> </p> Sponsors <div align=\"center\" markdown=\"1\"> <p align=\"center\"> IT-Tools is proudly sponsored by: </p> <a href=\"https://go.warp.dev/it-tools\"> <img alt=\"...",
+      "language": "Vue",
+      "stars": 111
     },
     {
       "rank": 7,
-      "repo_name": "sst/opencode",
-      "description": "The AI coding agent built for the terminal.",
-      "description_ja": "ターミナル向けAIコーディングエージェント。",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The AI coding agent built for the terminal.</p> <p align=\"center\"> <a href=\"https://opencode.ai/disc...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The AI coding agent built for the terminal.</p> <p align=\"center\"> <a href=\"https://opencode.ai/disc...",
-      "language": "TypeScript",
-      "stars": 279
+      "repo_name": "vercel/next.js",
+      "description": "The React Framework",
+      "description_ja": "Reactフレームワーク",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://nextjs.org\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\"> <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\"> </picture> </a> <h1>Next.js</h1> <a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://nextjs.org\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\"> <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\"> </picture> </a> <h1>Next.js</h1> <a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo...",
+      "language": "JavaScript",
+      "stars": 65
     },
     {
       "rank": 8,
-      "repo_name": "ZJU-LLMs/Foundations-of-LLMs",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "<h1 align=\"center\">大模型基础</h1> <div align=\"center\"> <img src=\".\\figure\\cover.png\" style=\"width: 50%\"> </div> <p align=\"center\"> <img src=\"https://img.shields.io/badge/version-1.0.0-blue\"> <img src=\"https://img.shields.io/github/stars/ZJU-LLMs/Foundations-of-LLMs?style=social\"> <img src=\"https://img.shields.io/github/forks/ZJU-LLMs/Foundations-of-LLMs?style=social\"> <!-- <img src=\"https://img.shields.io/github/license/ZJU-LLMs/Foundations-of-LLMs\"> --> </p> 本书旨在为对大语言模型感兴趣的读者系统地讲解相关基础知识、介绍前沿技术。作者团队...",
-      "readme_summary_ja": "<h1 align=\"center\">大規模言語モデルの基礎</h1> <div align=\"center\"> <img src=\".\\figure\\cover.png\" style=\"width: 50%\"> </div> <p align=\"center\"> <img src=\"https://img.shields.io/badge/version-1.0.0-blue\"> <img src=\"https://img.shields.io/github/stars/ZJU-LLMs/Foundations-of-LLMs?style=social\"> <img src=\"https://img.shields.io/github/forks/ZJU-LLMs/Foundations-of-LLMs?style=social\"> <!-- <img src=\"https://img.shields.io/github/license/ZJU-LLMs/Foundations-of-LLMs\"> --> </p> 本書は、大規模言語モデルに関心のある読者を対象に、関連する基礎知識を体系的に解説し、最",
+      "repo_name": "ashishpatel26/500-AI-Agents-Projects",
+      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+      "description_ja": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+      "readme_summary": "🌟 500+ AI Agent Projects / UseCases ![500-AI-Agents-Projects - UseCase](https://github.com/ashishpatel26/500-AI-Agents-Projects) !img A curated collection of AI agent use cases across industries, showcasing practical applications and linking to open-source projects for implementation. Explore how AI agents are transforming industries like healthcare, finance, education, and more! 🤖✨ --- 📋 Table of Contents - Introduction - Industry Usecase - Use Case Table - Framework Wise UseCase - CrewAI UseCa...",
+      "readme_summary_ja": "🌟 500件以上のAIエージェントプロジェクト/ユースケース ![500-AI-Agents-Projects - UseCase](https://github.com/ashishpatel26/500-AI-Agents-Projects) !img さまざまな業界におけるAIエージェントのユースケースを集めたキュレーションリストです。実践的な応用例を紹介し、実装のためのオープンソースプロジェクトへのリンクを提供します。AIエージェントが、医療、金融、教育などの業界をどのように変革しているかを探求しましょう！🤖✨ --- 📋 目次 - はじめに - 業界別ユースケース - ユースケース一覧表 - フレームワーク別ユースケース - CrewAIのユースケース...",
       "language": "",
-      "stars": 54
+      "stars": 553
     },
     {
       "rank": 9,
-      "repo_name": "trustedsec/social-engineer-toolkit",
-      "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
-      "description_ja": "TrustedSecのSocial-Engineer Toolkit (SET) リポジトリ - SETのすべての新しいバージョンはここにデプロイされます。",
-      "readme_summary": "The Social-Engineer Toolkit (SET) * Copyright :copyright: 2020 * Written by: David Kennedy (ReL1K) @HackingDave * Company: TrustedSec <br/> Description The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. SET has a number of custom attack vectors that allow you to make a believable attack quickly. SET is a product of TrustedSec, LLC – an information security consulting firm located in Cleveland, Ohio",
-      "readme_summary_ja": "ソーシャルエンジニアリングツールキット (SET) * Copyright :copyright: 2020 * 開発者: David Kennedy (ReL1K) @HackingDave * 会社: TrustedSec <br/> 説明: ソーシャルエンジニアリングツールキットは、ソーシャルエンジニアリングを目的としたオープンソースのペネトレーションテストフレームワークです。SETは、説得力のある攻撃を迅速に実行できる、多数のカスタム攻撃ベクターを備えています。SETは、オハイオ州クリーブランドに拠点を置く情報セキュリティコンサルティング会社、TrustedSec, LLCの製品です。",
-      "language": "Python",
-      "stars": 73
+      "repo_name": "sinelaw/fresh",
+      "description": "Text editor for your terminal: easy, powerful and fast",
+      "description_ja": "あなたのターミナルで使えるテキストエディタ：簡単、パワフル、そして高速",
+      "readme_summary": "Fresh Visit the official Fresh website **📦 Installation Instructions** A terminal-based text editor. Discovery & Ease of Use Fresh is designed for discovery. It features native UIs, a full Menu system, and a powerful Command Palette",
+      "readme_summary_ja": "Fresh 公式ウェブサイトはこちら **📦 インストール手順** ターミナルベースのテキストエディタ。 発見と使いやすさを重視。 Freshは発見しやすいように設計されています。 ネイティブUI、フルメニューシステム、強力なコマンドパレットを備えています。",
+      "language": "Rust",
+      "stars": 167
     },
     {
       "rank": 10,
+      "repo_name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "description_ja": "驚くほど高速なJavaScriptランタイム、バンドラー、テストランナー、そしてパッケージマネージャー – これらすべてが一つに。",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Bun</h1> <p align=\"center\"> <a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a> <img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\"> <a href=\"https://twitter.com/jarredsumner/status/1542824445810642946\"><img src=\"https...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Bun</h1> <p align=\"center\"> <a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a> <img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\"> <a href=\"https://twitter.com/jarredsumner/status/154282444",
+      "language": "Zig",
+      "stars": 778
+    },
+    {
+      "rank": 11,
+      "repo_name": "mtdvio/every-programmer-should-know",
+      "description": "A collection of (mostly) technical things every software developer should know about",
+      "description_ja": "ソフトウェア開発者なら知っておくべき、（主に）技術的なことのまとめ",
+      "readme_summary": "<div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://tuple.app/every-programmer-should-know\"> <img width=\"400\" alt=\"Tuple's sponsorship image\" src=\"https://github.com/user-attachments/assets/dc223735-2060-476e-9f76-0b225e03ce1f\" /> </a> Tuple, the premier screen sharing app for developers Available for MacOS & Windows<br> </div> ---- <div align=\"center\" markdown=\"1\"> Want to become a Senior Engineer sooner? Join a waitlist for repo author's course </div> ---...",
+      "readme_summary_ja": "<div align=\"center\" markdown=\"1\"> <sup>特別な感謝を込めて:</sup> <br> <br> <a href=\"https://tuple.app/every-programmer-should-know\"> <img width=\"400\" alt=\"Tupleのスポンサーシップ画像\" src=\"https://github.com/user-attachments/assets/dc223735-2060-476e-9f76-0b225e03ce1f\" /> </a> 開発者向け最高品質の画面共有アプリ、Tuple (MacOS & Windows対応)<br> </div> ---- <div align=\"center\" markdown=\"1\"> より早くシニアエンジニアになりたいですか？ リポジトリ作成者のコースのウェイティングリストに参加しましょう </div> ---...",
+      "language": "",
+      "stars": 74
+    },
+    {
+      "rank": 12,
+      "repo_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "description_ja": "オープンソースの最先端音声AI",
+      "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![Technical Report](https://arxiv.org/pdf/2508.19205) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"Figures/VibeVoice_logo_white.png\"> <img src=\"Figures/VibeVoice_logo.png\" alt=\"VibeVoice Logo\" width=\"300\"> </picture> </div> <div align=\"l...",
+      "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: オープンソースの最先端音声AI ![プロジェクトページ](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![技術レポート](https://arxiv.org/pdf/2508.19205) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"Figures/VibeVoice_logo_white.png\"> <img src=\"Figures/VibeVoice_logo.png\" alt=\"VibeVoice Logo\" width=\"300\"> </picture> </div> <div align=\"l...",
+      "language": "Python",
+      "stars": 206
+    },
+    {
+      "rank": 13,
       "repo_name": "Flowseal/zapret-discord-youtube",
       "description": "No description provided",
       "description_ja": "説明なし",
       "readme_summary": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального разработчика zapret тут </div> > [!CAUTION] > > ФЕЙКИ > Я не веду ни...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> https://github.com/bol-van/zapret-win-bundle の代替。オリジナル開発者への支援はこちらから。</div> > [!CAUTION] > > 偽物に注意 > 私は...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> https://github.com/bol-van/zapret-win-bundle の代替。オリジナルの zapret 開発者への支援はこちらから。</div> > [!CAUTION] > > 偽物に注意 > 私は...",
       "language": "Batchfile",
-      "stars": 64
-    },
-    {
-      "rank": 11,
-      "repo_name": "microsoft/ML-For-Beginners",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "description_ja": "12週間、26のレッスン、52のクイズで学ぶ、すべての人に向けた定番機械学習",
-      "readme_summary": "![GitHub license](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/ML-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/ML-For-Beginners/pulls/) ![PRs Welcome](http://makeapullrequest.com) ![GitHub watchers](https://GitHub.com/microsoft/ML-For-Beginners/watchers/) ![GitHub forks](https://GitHub.com/microsoft/ML-For-Be...",
-      "readme_summary_ja": "(ライセンス) (コントリビューター) (Issue) (プルリクエスト) (プルリクエスト歓迎) (ウォッチャー) (フォーク)",
-      "language": "Jupyter Notebook",
-      "stars": 93
-    },
-    {
-      "rank": 12,
-      "repo_name": "kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "description_ja": "本番環境向けコンテナスケジューリングおよび管理",
-      "readme_summary": "Kubernetes (K8s) ![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569) ![Go Report Card](https://goreportcard.com/report/github.com/kubernetes/kubernetes) !GitHub release (latest SemVer) <img src=\"https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png\" width=\"100\"> ---- Kubernetes, also known as K8s, is an open source system for managing [containerized applications] across multiple hosts. It provides basic mechanisms for the deployment, maintenance, and scal...",
-      "readme_summary_ja": "Kubernetes (K8s) ![CIIベストプラクティス](https://bestpractices.coreinfrastructure.org/projects/569) ![Go Report Card](https://goreportcard.com/report/github.com/kubernetes/kubernetes) !GitHubリリース (最新セマンティックバージョニング) <img src=\"https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png\" width=\"100\"> ---- Kubernetes（K8sとしても知られる）は、複数のホストにまたがる[コンテナ化されたアプリケーション]を管理するためのオープンソースシステムです。デプロイメント、メンテナンス、スケールなどの基本的なメカニズムを提供します。",
-      "language": "Go",
-      "stars": 31
-    },
-    {
-      "rank": 13,
-      "repo_name": "lynx-family/lynx",
-      "description": "Empower the Web community and invite more to build across platforms.",
-      "description_ja": "Webコミュニティを強化し、より多くの人々がプラットフォームを横断して開発に参加できるようにする。",
-      "readme_summary": "<div align=\"center\"> <p> <a href=\"https://lynxjs.org\"> <img width=\"500\" alt=\"Lynx\" src=\"https://github.com/user-attachments/assets/23e35f90-1506-4b1d-8114-6bb2b8b643e7\" /> </a> </p> ![Apache licesed](https://github.com/lynx-family/lynx/blob/develop/LICENSE) ![Latest release version](https://github.com/lynx-family/lynx/releases) ![CI status](https://github.com/lynx-family/lynx/actions) ![X (formerly Twitter) URL](https://x.com/lynxjs_org) ![Discord](https://discord.gg/mXk7jqdDXk) Empower the web ...",
-      "readme_summary_ja": "<div align=\"center\"> <p> <a href=\"https://lynxjs.org\"> <img width=\"500\" alt=\"Lynx\" src=\"https://github.com/user-attachments/assets/23e35f90-1506-4b1d-8114-6bb2b8b643e7\" /> </a> </p> ![Apacheライセンス](https://github.com/lynx-family/lynx/blob/develop/LICENSE) ![最新リリースバージョン](https://github.com/lynx-family/lynx/releases) ![CIステータス](https://github.com/lynx-family/lynx/actions) ![X (旧Twitter) URL](https://x.com/lynxjs_org) ![Discord](https://discord.gg/mXk7jqdDXk) ウェブを強化",
-      "language": "C++",
-      "stars": 32
+      "stars": 77
     },
     {
       "rank": 14,
-      "repo_name": "codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "description_ja": "お気に入りの技術をゼロから作り直して、プログラミングをマスターしましょう。",
-      "readme_summary": "![Banner](https://codecrafters.io/github-banner) Build your own &lt;insert-technology-here&gt; This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. > *What I cannot create, I do not understand — Richard Feynman.* It's a great way to learn. * 3D Renderer * Augmented Reality * BitTorrent Client * Blockchain / Cryptocurrency * Bot * Command-Line Tool * Database * Docker * Emulator / Virtual Machine * Front-end Framework / Libr...",
-      "readme_summary_ja": "![バナー](https://codecrafters.io/github-banner) &lt;ここに技術名&gt;を自作しよう！ このリポジトリは、私たちが愛用する技術をゼロから再構築するための、分かりやすく丁寧なステップバイステップガイド集です。 > *「作れないものは理解できない」— リチャード・ファインマン* これは素晴らしい学習方法です。 * 3Dレンダラー * 拡張現実（AR） * BitTorrentクライアント * ブロックチェーン / 暗号通貨 * ボット * コマンドラインツール * データベース * Docker * エミュレーター / 仮想マシン * フロントエンドフレームワーク / ライブラリ...",
-      "language": "Markdown",
-      "stars": 397
+      "repo_name": "sst/opencode",
+      "description": "The open source coding agent.",
+      "description_ja": "オープンソースのコーディングエージェント",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The AI coding agent built for the terminal.</p> <p align=\"center\"> <a href=\"https://opencode.ai/disc...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The AI coding agent built for the terminal.</p> <p align=\"center\"> <a href=\"https://opencode.ai/disc...",
+      "language": "TypeScript",
+      "stars": 489
     },
     {
       "rank": 15,
-      "repo_name": "wshobson/agents",
-      "description": "Intelligent automation and multi-agent orchestration for Claude Code",
-      "description_ja": "Intelligent automation and multi-agent orchestration for Claude Code",
-      "readme_summary": "Claude Code Plugins: Orchestration and Automation > **⚡ Updated for Sonnet 4.5 & Haiku 4.5** — All agents optimized for latest models with hybrid orchestration > > **🎯 Agent Skills Enabled** — 47 specialized skills extend Claude's capabilities across plugins with progressive disclosure A comprehensive production-ready system combining **85 specialized AI agents**, **15 multi-agent workflow orchestrators**, **47 agent skills**, and **44 development tools** organized into **63 focused, single-purp...",
-      "readme_summary_ja": "Claude Code Plugins: Orchestration and Automation > **⚡ Updated for Sonnet 4.5 & Haiku 4.5** — All agents optimized for latest models with hybrid orchestration > > **🎯 Agent Skills Enabled** — 47 specialized skills extend Claude's capabilities across plugins with progressive disclosure A comprehensive production-ready system combining **85 specialized AI agents**, **15 multi-agent workflow orchestrators**, **47 agent skills**, and **44 development tools** organized into **63 focused, single-purp...",
-      "language": "Python",
-      "stars": 65
-    },
-    {
-      "rank": 16,
-      "repo_name": "bin456789/reinstall",
-      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
-      "description_ja": "ワンクリックDD/OS再インストールスクリプト（VPS用）",
-      "readme_summary": "<!-- markdownlint-disable MD028 MD033 MD045 --> reinstall ![Codacy](https://app.codacy.com/gh/bin456789/reinstall/dashboard) ![CodeFactor](https://www.codefactor.io/repository/github/bin456789/reinstall) ![Lines of Code](https://github.com/XAMPPRocky/tokei_rs) 一键 VPS 系统重装脚本 English 介绍 - 一键重装到 Linux，支持 19 种常见发行版 - 一键重装到 Windows，使用官方原版 ISO 而非自制镜像，脚本支持自动查找 ISO 链接、自动安装 VirtIO 等公有云驱动 - 支持任意方向重装，即 Linux to Linux、Linux to Windows、Windows to Windows、Windows to Linux - 自动设置 IP，智能设置动静态，支持 /32、/128、网关不在子网范...",
-      "readme_summary_ja": "reinstall：ワンキーVPSシステム再インストールスクリプト\n\nLinuxへのワンキー再インストールをサポート。19種類の一般的なディストリビューションに対応。\n\nWindowsへのワンキー再インストールをサポート。公式オリジナルISOを使用し、カスタムイメージは使用しません。スクリプトはISOリンクの自動検索、VirtIOなどのパブリッククラウドドライバの自動インストールをサポート。\n\nLinux to Linux、Linux to Windows、Windows to Windows、Windows to Linuxなど、あらゆる方向への再インストールをサポート。\n\nIPアドレスの自動設定、動的/静的設定のスマートな処理、/32、/128、ゲートウェイがサブネット範囲外の場合もサポート。",
-      "language": "Shell",
-      "stars": 45
-    },
-    {
-      "rank": 17,
-      "repo_name": "bobeff/open-source-games",
-      "description": "A list of open source games.",
-      "description_ja": "オープンソースゲームのリスト",
-      "readme_summary": "Open source games This is a list of different open-source video games and commercial video games open-source remakes. Table of contents - Action games - Adventure games - Business and Tycoon games - City-Building games - First-Person games - Platformers - Puzzle games - Racing games - Real-Time strategies - Roguelikes - Role-Playing games - Sandbox games - Shoot 'em up games - Sport games - Third-Person games - Tower Defense games - Turn-Based strategies - Other lists Action games - **Hypersomni...",
-      "readme_summary_ja": "オープンソースゲーム：様々なオープンソースのビデオゲームと、市販ビデオゲームのオープンソースリメイクのリストです。\n\n目次：\n\n- アクションゲーム\n- アドベンチャーゲーム\n- ビジネス・経営シミュレーションゲーム\n- 都市建設ゲーム\n- FPSゲーム\n- プラットフォーマー\n- パズルゲーム\n- レーシングゲーム\n- リアルタイムストラテジー\n- ローグライクゲーム\n- ロールプレイングゲーム\n- サンドボックスゲーム\n- シューティングゲーム\n- スポーツゲーム\n- TPSゲーム\n- タワーディフェンスゲーム\n- ターン制ストラテジー\n- その他のリスト\n\nアクションゲーム：\n\n- **Hypersomni...",
-      "language": "",
-      "stars": 231
+      "repo_name": "TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "description_ja": "Telegram-iOS",
+      "readme_summary": "Telegram iOS Source Code Compilation Guide We welcome all developers to use our API and source code to create applications on our platform. There are several things we require from **all developers** for the moment. Creating your Telegram Application 1",
+      "readme_summary_ja": "Telegram iOS Source Code Compilation Guide We welcome all developers to use our API and source code to create applications on our platform. There are several things we require from **all developers** for the moment. Creating your Telegram Application 1",
+      "language": "Swift",
+      "stars": 12
     }
   ]
 }
