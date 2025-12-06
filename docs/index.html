@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Trend Keywords - Weekly Surge Ranking</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 2rem 1rem;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 24px;
+            padding: 3rem 2rem;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            position: relative;
+        }
+        
+        .header::before {
+            content: '🚀';
+            font-size: 4rem;
+            display: block;
+            margin-bottom: 1rem;
+            animation: float 3s ease-in-out infinite;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+        }
+        
+        h1 {
+            color: #2d3748;
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .subtitle {
+            color: #718096;
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .updated-time {
+            color: #a0aec0;
+            font-size: 0.9rem;
+            margin-top: 1rem;
+        }
+        
+        .description {
+            background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+            border-left: 4px solid #667eea;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+        }
+        
+        .description h2 {
+            color: #2d3748;
+            font-size: 1.2rem;
+            margin-bottom: 0.8rem;
+        }
+        
+        .description p {
+            color: #4a5568;
+            line-height: 1.8;
+            margin-bottom: 0.5rem;
+        }
+        
+        .ranking {
+            display: grid;
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+        
+        .rank-item {
+            display: grid;
+            grid-template-columns: 60px 1fr 140px 140px;
+            align-items: center;
+            padding: 1.2rem;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 2px solid transparent;
+        }
+        
+        .rank-item:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+            border-color: #667eea;
+        }
+        
+        .rank-number {
+            font-size: 1.8rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-align: center;
+        }
+        
+        .keyword {
+            font-size: 1.15rem;
+            color: #2d3748;
+            font-weight: 600;
+            padding: 0 1.5rem;
+        }
+        
+        .keyword a {
+            color: inherit;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        
+        .keyword a:hover {
+            color: #667eea;
+        }
+        
+        .surge-rate {
+            font-size: 1.5rem;
+            font-weight: 700;
+            text-align: right;
+            padding-right: 1rem;
+        }
+        
+        .surge-rate.high {
+            color: #48bb78;
+        }
+        
+        .surge-rate.medium {
+            color: #ed8936;
+        }
+        
+        .surge-rate.low {
+            color: #f56565;
+        }
+        
+        .views {
+            color: #718096;
+            font-size: 0.95rem;
+            text-align: right;
+            font-weight: 500;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: #718096;
+            font-size: 1.2rem;
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid #e2e8f0;
+            color: #718096;
+            font-size: 0.9rem;
+        }
+        
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem 0.5rem;
+            }
+            
+            .container {
+                padding: 2rem 1rem;
+                border-radius: 16px;
+            }
+            
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            .rank-item {
+                grid-template-columns: 50px 1fr;
+                gap: 0.5rem;
+                padding: 1rem;
+            }
+            
+            .keyword {
+                grid-column: 1 / -1;
+                padding: 0.5rem 0;
+                font-size: 1rem;
+            }
+            
+            .surge-rate {
+                text-align: left;
+                padding-left: 50px;
+                font-size: 1.3rem;
+            }
+            
+            .views {
+                text-align: left;
+                padding-left: 50px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>AI Trend Keywords</h1>
+            <p class="subtitle">Weekly Surge Ranking - Wikipedia Pageviews</p>
+            <p class="updated-time" id="updated-time">Loading...</p>
+        </div>
+        
+        <div class="description">
+            <h2>このランキングについて</h2>
+            <p>📊 Wikipedia英語版・日本語版のページビューデータを基に、AI関連キーワードの1週間の急上昇率をランキング化しています。</p>
+            <p>📈 計算方法：直近3日間の平均ページビュー数 vs 過去7日間の平均ページビュー数の変化率</p>
+            <p>🔄 データは3時間ごとに自動更新されます。</p>
+            <p>⚠️ ChatGPT、Claude、GPT-4などの一般的なAI用語は除外しています。</p>
+        </div>
+        
+        <div id="ranking" class="ranking">
+            <div class="loading">データを読み込んでいます...</div>
+        </div>
+        
+        <div class="footer">
+            <p>Data Source: <a href="https://wikimedia.org/api/rest_v1/" target="_blank">Wikimedia REST API</a></p>
+            <p>Project: <a href="https://github.com/Tenormusica2024/ai-trend-daily" target="_blank">ai-trend-daily on GitHub</a></p>
+        </div>
+    </div>
+    
+    <script>
+        async function loadRanking() {
+            try {
+                const response = await fetch('surge_ranking.json');
+                const data = await response.json();
+                
+                document.getElementById('updated-time').textContent = 
+                    `最終更新: ${data.updated_at} (${data.period})`;
+                
+                const rankingHTML = data.ranking.map(item => {
+                    const surgeRate = item.surge_rate;
+                    let rateClass = 'low';
+                    if (surgeRate >= 10) rateClass = 'high';
+                    else if (surgeRate >= 0) rateClass = 'medium';
+                    
+                    const keyword = item.keyword.replace('_(', ' (').replace(/_/g, ' ');
+                    
+                    const wikiUrl = item.keyword.includes('人工知能モデル') 
+                        ? `https://ja.wikipedia.org/wiki/${item.keyword}`
+                        : `https://en.wikipedia.org/wiki/${item.keyword}`;
+                    
+                    return `
+                        <div class="rank-item">
+                            <div class="rank-number">#${item.rank}</div>
+                            <div class="keyword">
+                                <a href="${wikiUrl}" target="_blank">${keyword}</a>
+                            </div>
+                            <div class="surge-rate ${rateClass}">${surgeRate > 0 ? '+' : ''}${surgeRate.toFixed(1)}%</div>
+                            <div class="views">${item.recent_views.toLocaleString()} views</div>
+                        </div>
+                    `;
+                }).join('');
+                
+                document.getElementById('ranking').innerHTML = rankingHTML;
+                
+            } catch (error) {
+                console.error('Error loading ranking data:', error);
+                document.getElementById('ranking').innerHTML = 
+                    '<div class="loading">データの読み込みに失敗しました。</div>';
+            }
+        }
+        
+        loadRanking();
+        
+        setInterval(loadRanking, 600000);
+    </script>
+</body>
+</html>
