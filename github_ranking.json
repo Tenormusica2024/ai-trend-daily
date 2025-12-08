@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-07 02:59:51",
-  "total_repos": 16,
+  "updated_at": "2025-12-08 02:53:11",
+  "total_repos": 14,
   "ranking": [
     {
       "rank": 1,
@@ -10,157 +10,137 @@
       "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![Technical Report](https://arxiv.org/pdf/2508.19205) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"Figures/VibeVoice_logo_white.png\"> <img src=\"Figures/VibeVoice_logo.png\" alt=\"VibeVoice Logo\" width=\"300\"> </picture> </div> <div align=\"l...",
       "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: オープンソースの最先端音声AI ![プロジェクトページ](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![技術レポート](https://arxiv.org/pdf/2508.19205) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"Figures/VibeVoice_logo_white.png\"> <img src=\"Figures/VibeVoice_logo.png\" alt=\"VibeVoice Logo\" width=\"300\"> </picture> </div> <div align=\"l...",
       "language": "Python",
-      "stars": 452
+      "stars": 577
     },
     {
       "rank": 2,
-      "repo_name": "rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "description_ja": "🚀4KBオブジェクトのペイロードにおいて、MinIOより2.3倍高速。RustFSは、MinIOやCephといった他のS3互換プラットフォームとの移行および共存をサポートする、S3互換の高性能オープンソースオブジェクトストレージシステムです。",
-      "readme_summary": "![RustFS](https://rustfs.com) <p align=\"center\">RustFS is a high-performance, distributed object storage system built in Rust.</p> <p align=\"center\"> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build and Push Docker Images\" src=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml/badge.sv...",
-      "readme_summary_ja": "![RustFS](https://rustfs.com)\n\nRustFSは、Rustで構築された高性能な分散オブジェクトストレージシステムです。\n\n[CI](https://github.com/rustfs/rustfs/actions/workflows/ci.yml)\n[Dockerイメージのビルドとプッシュ](https://github.com/rustfs/rustfs/actions/workflows/docker.yml)",
-      "language": "Rust",
-      "stars": 1361
+      "repo_name": "NVIDIA/cutile-python",
+      "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+      "description_ja": "cuTileは、NVIDIA GPU向けの並列カーネルを記述するためのプログラミングモデルです。",
+      "readme_summary": "<!--- SPDX-FileCopyrightText: Copyright (c) <2025> NVIDIA CORPORATION & AFFILIATES. All rights reserved. --> <!--- SPDX-License-Identifier: Apache-2.0 --> cuTile Python ============= cuTile Python is a programming language for NVIDIA GPUs",
+      "readme_summary_ja": "cuTile Pythonは、NVIDIA GPU向けのプログラミング言語です。",
+      "language": "Python",
+      "stars": 148
     },
     {
       "rank": 3,
-      "repo_name": "RosettaCommons/foundry",
-      "description": "Central repository for biomolecular foundation models with shared trainers and pipeline components",
-      "description_ja": "共有トレーナーとパイプラインコンポーネントを備えた、生体分子基盤モデルの中央リポジトリ",
-      "readme_summary": "Protein design with Foundry Foundry provides tooling and infrastructure for using and training all classes of models for protein design, including design (RFD3), inverse folding (ProteinMPNN) and protein folding (RF3). All models within Foundry rely on AtomWorks - a unified framework for manipulating and processing biomolecular structures - for both training and inference. Getting Started Quickstart guide **Installation** **Downloading weights** Models can be downloaded to a target folder with: ...",
-      "readme_summary_ja": "Foundryは、タンパク質設計のためのツールと基盤を提供します。設計（RFD3）、逆フォールディング（ProteinMPNN）、タンパク質フォールディング（RF3）など、あらゆる種類のモデルの利用と学習をサポートします。Foundry内のすべてのモデルは、生体分子構造の操作と処理のための統一フレームワークであるAtomWorksを利用し、学習と推論の両方を行います。\n\n**はじめに**\n\nクイックスタートガイド\n\n**インストール**\n\n**重みのダウンロード**\n\nモデルは、以下のコマンドで指定したフォルダにダウンロードできます: ...",
-      "language": "Python",
-      "stars": 16
-    },
-    {
-      "rank": 4,
-      "repo_name": "sinelaw/fresh",
-      "description": "Text editor for your terminal: easy, powerful and fast",
-      "description_ja": "ターミナルで使えるテキストエディタ：簡単、強力、そして高速",
-      "readme_summary": "Fresh Visit the official Fresh website **📦 Installation Instructions** A terminal-based text editor. Discovery & Ease of Use Fresh is designed for discovery. It features native UIs, a full Menu system, and a powerful Command Palette",
-      "readme_summary_ja": "Fresh 公式ウェブサイトへようこそ\n\n**📦 インストール手順**\n\nターミナルベースのテキストエディタ。\n\n発見と使いやすさ：Freshは発見しやすさを重視して設計されています。ネイティブUI、充実したメニューシステム、そして強力なコマンドパレットを備えています。",
-      "language": "Rust",
-      "stars": 253
-    },
-    {
-      "rank": 5,
       "repo_name": "patchy631/ai-engineering-hub",
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "description_ja": "LLM、RAG、および実世界のAIエージェントアプリケーションに関する詳細なチュートリアル。",
       "readme_summary": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"Trending Badge\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AI Engineering Hub Banner\"> </p> --- AI Engineering Hub 🚀 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefron...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"トレンドバッジ\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AIエンジニアリングハブのバナー\"> </p> --- AIエンジニアリングハブ 🚀 **AIエンジニアリングハブ**へようこそ！AIの学習と構築のための総合的なリソースです！🌟 このリポジトリの目的：AIエンジニアリングは急速に進化しており、常に最前線にいるために...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"トレンドバッジ\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AIエンジニアリングハブバナー\"> </p> --- AIエンジニアリングハブ 🚀 **AIエンジニアリングハブ**へようこそ！AIの学習と構築のための総合的なリソースです！ 🌟 このリポジトリの目的：AIエンジニアリングは急速に進化しており、常に最前線にいるためには...",
       "language": "Jupyter Notebook",
-      "stars": 56
+      "stars": 268
     },
     {
-      "rank": 6,
-      "repo_name": "psviderski/uncloud",
-      "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
-      "description_ja": "Dockerホストのネットワーク全体に、コンテナ化されたアプリケーションをデプロイ・管理するための軽量ツール。DockerとKubernetesのギャップを埋めます✨",
-      "readme_summary": "<div align=\"center\"> <img src=\"./website/landing/images/logo-title.svg#gh-light-mode-only\" alt=\"Uncloud logo\"/> <img src=\"./website/landing/images/logo-title-dark.svg#gh-dark-mode-only\" alt=\"Uncloud logo\"/> <p><strong>▸ Docker simplicity. Multi-machine power ◂</strong></p> <p> <a href=\"https://uncloud.run/docs\"><img src=\"https://img.shields.io/badge/Docs-blue.svg?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/eR35KQJhPu\"><img src=\"https://i...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"./website/landing/images/logo-title.svg#gh-light-mode-only\" alt=\"Uncloud ロゴ\"/> <img src=\"./website/landing/images/logo-title-dark.svg#gh-dark-mode-only\" alt=\"Uncloud ロゴ\"/> <p><strong>▸ Docker の手軽さ。マルチマシンのパワー ◂</strong></p> <p> <a href=\"https://uncloud.run/docs\"><img src=\"https://img.shields.io/badge/Docs-blue.svg?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"ドキュメント\"></a> <a href=\"https://discord.gg/eR35KQJhPu\"><img src=\"https://i...",
-      "language": "Go",
-      "stars": 127
+      "rank": 4,
+      "repo_name": "TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "description_ja": "TelegramのiOS版クライアント",
+      "readme_summary": "Telegram iOS Source Code Compilation Guide We welcome all developers to use our API and source code to create applications on our platform. There are several things we require from **all developers** for the moment. Creating your Telegram Application 1",
+      "readme_summary_ja": "Telegram iOS ソースコード コンパイルガイド\n\nTelegramプラットフォーム上でアプリケーションを開発するために、APIとソースコードの利用を歓迎します。現時点で、**すべての開発者**にいくつかお願いしたい事項があります。Telegramアプリケーションの作成 1",
+      "language": "Swift",
+      "stars": 8
     },
     {
-      "rank": 7,
-      "repo_name": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "description_ja": "驚くほど高速なJavaScriptランタイム、バンドラー、テストランナー、そしてパッケージマネージャー – これらすべてが一つに。",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Bun</h1> <p align=\"center\"> <a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a> <img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\"> <a href=\"https://twitter.com/jarredsumner/status/1542824445810642946\"><img src=\"https...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Bun</h1> <p align=\"center\"> <a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a> <img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\"> <a href=\"https://twitter.com/jarredsumner/status/1542824445810642946\"><img src=\"https...",
-      "language": "Zig",
-      "stars": 297
-    },
-    {
-      "rank": 8,
-      "repo_name": "facebook/react",
-      "description": "The library for web and native user interfaces.",
-      "description_ja": "The library for web and native user interfaces.",
-      "readme_summary": "React &middot; ![GitHub license](https://github.com/facebook/react/blob/main/LICENSE) ![npm version](https://www.npmjs.com/package/react) ![(Runtime) Build and Test](https://github.com/facebook/react/actions/workflows/runtime_build_and_test.yml) ![(Compiler) TypeScript](https://github.com/facebook/react/actions/workflows/compiler_typescript.yml) ![PRs Welcome](https://legacy.reactjs.org/docs/how-to-contribute.html#your-first-pull-request) React is a JavaScript library for building user interface...",
-      "readme_summary_ja": "React &middot; ![GitHub license](https://github.com/facebook/react/blob/main/LICENSE) ![npm version](https://www.npmjs.com/package/react) ![(Runtime) Build and Test](https://github.com/facebook/react/actions/workflows/runtime_build_and_test.yml) ![(Compiler) TypeScript](https://github.com/facebook/react/actions/workflows/compiler_typescript.yml) ![PRs Welcome](https://legacy.reactjs.org/docs/how-to-contribute.html#your-first-pull-request) React is a JavaScript library for building user interface...",
-      "language": "JavaScript",
-      "stars": 136
-    },
-    {
-      "rank": 9,
-      "repo_name": "lynx-family/lynx",
-      "description": "Empower the Web community and invite more to build across platforms.",
-      "description_ja": "Empower the Web community and invite more to build across platforms.",
-      "readme_summary": "<div align=\"center\"> <p> <a href=\"https://lynxjs.org\"> <img width=\"500\" alt=\"Lynx\" src=\"https://github.com/user-attachments/assets/23e35f90-1506-4b1d-8114-6bb2b8b643e7\" /> </a> </p> ![Apache licesed](https://github.com/lynx-family/lynx/blob/develop/LICENSE) ![Latest release version](https://github.com/lynx-family/lynx/releases) ![CI status](https://github.com/lynx-family/lynx/actions) ![X (formerly Twitter) URL](https://x.com/lynxjs_org) ![Discord](https://discord.gg/mXk7jqdDXk) Empower the web ...",
-      "readme_summary_ja": "<div align=\"center\"> <p> <a href=\"https://lynxjs.org\"> <img width=\"500\" alt=\"Lynx\" src=\"https://github.com/user-attachments/assets/23e35f90-1506-4b1d-8114-6bb2b8b643e7\" /> </a> </p> ![Apacheライセンス](https://github.com/lynx-family/lynx/blob/develop/LICENSE) ![最新リリースバージョン](https://github.com/lynx-family/lynx/releases) ![CIステータス](https://github.com/lynx-family/lynx/actions) ![X (旧Twitter) URL](https://x.com/lynxjs_org) ![Discord](https://discord.gg/mXk7jqdDXk) Webを強化します",
-      "language": "C++",
-      "stars": 13
-    },
-    {
-      "rank": 10,
-      "repo_name": "DevCaress/guia-entrevistas-de-programacion",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "Guía para entrevistas técnicas como Ingeniero de software Índice - Guía para entrevistas técnicas como Ingeniero de software - Índice - Buenas prácticas - Principios SOLID - Principios DRY, KISS, YAGNI, GRASP y LoD - Clean Code - Clean architecture - Buenas prácticas en... - Angular - C++ - Dart - Django - Flutter - Java - Javascript - PHP - Python - React.js - Typescript - Vue.js - Algoritmos y estructuras de datos - Complejidad algorítmica - Algoritmos - Estructuras de datos - Practicar algori...",
-      "readme_summary_ja": "ソフトウェアエンジニア向け技術面接対策ガイド\n\n目次：\n\n*   ソフトウェアエンジニア向け技術面接対策ガイド\n*   目次\n*   ベストプラクティス\n*   SOLID原則\n*   DRY、KISS、YAGNI、GRASP、LoD原則\n*   Clean Code\n*   Clean Architecture\n*   各種ベストプラクティス：\n    *   Angular\n    *   C++\n    *   Dart\n    *   Django\n    *   Flutter\n    *   Java\n    *   JavaScript\n    *   PHP\n    *   Python\n    *   React.js\n    *   TypeScript\n    *   Vue.js\n*   アルゴリズムとデータ構造\n    *   アルゴリズムの複雑性\n    *   アルゴリズム\n    *   データ構造\n*   アルゴリズムの実践",
-      "language": "",
-      "stars": 66
-    },
-    {
-      "rank": 11,
-      "repo_name": "sapientinc/HRM",
-      "description": "Hierarchical Reasoning Model Official Release",
-      "description_ja": "階層的推論モデル 公式リリース",
-      "readme_summary": "Hierarchical Reasoning Model ![](./assets/hrm.png) Reasoning, the process of devising and executing complex goal-oriented action sequences, remains a critical challenge in AI. Current large language models (LLMs) primarily employ Chain-of-Thought (CoT) techniques, which suffer from brittle task decomposition, extensive data requirements, and high latency. Inspired by the hierarchical and multi-timescale processing in the human brain, we propose the Hierarchical Reasoning Model (HRM), a novel rec...",
-      "readme_summary_ja": "階層的推論モデル ![](./assets/hrm.png) 推論、すなわち複雑な目標指向の行動シーケンスを考案し実行するプロセスは、AIにおける重要な課題であり続けています。現在の巨大言語モデル（LLM）は主にChain-of-Thought（CoT）技術を利用していますが、これはタスク分解の脆弱性、膨大なデータ要件、および高いレイテンシに悩まされています。人間の脳における階層的かつ多段階処理に着想を得て、我々は新しい...",
-      "language": "Python",
-      "stars": 29
-    },
-    {
-      "rank": 12,
-      "repo_name": "projectdiscovery/nuclei-templates",
-      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
-      "description_ja": "セキュリティ脆弱性を検出するための nuclei エンジン用テンプレートのコミュニティキュレーションリスト。",
-      "readme_summary": "<h1 align=\"center\"> Nuclei Templates </h1> <h4 align=\"center\">Community curated list of templates for the nuclei engine to find security vulnerabilities in applications.</h4> <p align=\"center\"> <a href=\"https://github.com/projectdiscovery/nuclei-templates/issues\"><img src=\"https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat\"></a> <a href=\"https://github.com/projectdiscovery/nuclei-templates/releases\"><img src=\"https://img.shields.io/github/release/projectdiscovery/nucle...",
-      "readme_summary_ja": "# Nucleiテンプレート\n\nアプリケーションのセキュリティ脆弱性を検出するためのNucleiエンジンの、コミュニティによって厳選されたテンプレート集です。",
-      "language": "JavaScript",
-      "stars": 26
-    },
-    {
-      "rank": 13,
-      "repo_name": "paritytech/polkadot-sdk",
-      "description": "The Parity Polkadot Blockchain SDK",
-      "description_ja": "Parity Polkadot ブロックチェーン SDK",
-      "readme_summary": "<div align=\"center\"> !SDK Logo !SDK Logo Polkadot SDK !GitHub stars&nbsp;&nbsp;!GitHub forks <!-- markdownlint-disable-next-line MD013 --> ![StackExchange](https://substrate.stackexchange.com/)&nbsp;&nbsp;!GitHub contributors&nbsp;&nbsp;!GitHub commit activity&nbsp;&nbsp;!GitHub last commit > The Polkadot SDK repository provides all the components needed to start building on the > Polkadot network, a multi-chain blockchain platform that enables > different blockchains to interoperate and share i...",
-      "readme_summary_ja": "Polkadot SDK\n\nPolkadot SDKリポジトリは、マルチチェーンブロックチェーンプラットフォームであるPolkadotネットワーク上で開発を始めるために必要なすべてのコンポーネントを提供します。Polkadotは、異なるブロックチェーンが相互運用し、リソースを共有することを可能にします。\n\n(以下、省略 - 原文が途中で途切れているため)",
-      "language": "Rust",
-      "stars": 5
-    },
-    {
-      "rank": 14,
-      "repo_name": "golang/go",
-      "description": "The Go programming language",
-      "description_ja": "Goプログラミング言語",
-      "readme_summary": "The Go Programming Language Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. !Gopher image *Gopher image by [Renee French][rf], licensed under [Creative Commons 4.0 Attribution license][cc4-by].* Our canonical Git repository is located at https://go.googlesource.com/go. There is a mirror of the repository at https://github.com/golang/go",
-      "readme_summary_ja": "Goプログラミング言語は、シンプルで信頼性が高く、効率的なソフトウェアを容易に構築できるオープンソースのプログラミング言語です。!Gopherの画像 *Gopherの画像は[Renee French][rf]によるもので、[Creative Commons 4.0 Attribution license][cc4-by]の下でライセンスされています。* 公式のGitリポジトリはhttps://go.googlesource.com/goにあります。リポジトリのミラーはhttps://github.com/golang/goにあります。",
-      "language": "Go",
-      "stars": 28
-    },
-    {
-      "rank": 15,
+      "rank": 5,
       "repo_name": "anthropics/claude-quickstarts",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "description_ja": "Claude API を利用したデプロイ可能なアプリケーションを、開発者が迅速に構築できるよう支援するプロジェクト集。",
       "readme_summary": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started To use these quickstarts, you'll need an Claude API key",
-      "readme_summary_ja": "Claude クイックスタートは、開発者が Claude API を使用したアプリケーション開発を迅速に開始できるように設計されたプロジェクト集です。各クイックスタートは、特定のニーズに合わせて簡単に構築・カスタマイズできる基盤を提供します。利用を開始するには、Claude APIキーが必要です。",
+      "readme_summary_ja": "Claude クイックスタートは、開発者が Claude API を使用したアプリケーション開発を迅速に開始できるように設計されたプロジェクト集です。各クイックスタートは、特定のニーズに合わせて容易に拡張・カスタマイズできる基盤を提供します。利用を開始するには、Claude API キーが必要です。",
       "language": "Python",
-      "stars": 77
+      "stars": 278
     },
     {
-      "rank": 16,
-      "repo_name": "aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
-      "language": "Go",
-      "stars": 15
+      "rank": 6,
+      "repo_name": "rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "description_ja": "🚀4KBオブジェクトのペイロードでMinIOより2.3倍高速。RustFSは、オープンソースでS3互換の高性能オブジェクトストレージシステムです。MinIOやCephなどの他のS3互換プラットフォームとの移行および共存をサポートします。",
+      "readme_summary": "![RustFS](https://rustfs.com) <p align=\"center\">RustFS is a high-performance, distributed object storage system built in Rust.</p> <p align=\"center\"> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build and Push Docker Images\" src=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml/badge.sv...",
+      "readme_summary_ja": "![RustFS](https://rustfs.com)\n\nRustFSは、Rustで構築された高性能な分散オブジェクトストレージシステムです。\n\n<p align=\"center\">\n<a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a>\n<a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build and Push Docker Images\" src=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml/badge.sv...",
+      "language": "Rust",
+      "stars": 429
+    },
+    {
+      "rank": 7,
+      "repo_name": "sst/opencode",
+      "description": "The open source coding agent.",
+      "description_ja": "The open source coding agent.",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The AI coding agent built for the terminal.</p> <p align=\"center\"> <a href=\"https://opencode.ai/disc...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The AI coding agent built for the terminal.</p> <p align=\"center\"> <a href=\"https://opencode.ai/disc...",
+      "language": "TypeScript",
+      "stars": 153
+    },
+    {
+      "rank": 8,
+      "repo_name": "BeehiveInnovations/pal-mcp-server",
+      "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+      "description_ja": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+      "readme_summary": "PAL MCP: Many Workflows. One Context. <div align=\"center\"> <em>Your AI's PAL – a Provider Abstraction Layer</em><br /> <sub><a href=\"docs/name-change.md\">Formerly known as Zen MCP</a></sub> PAL in action 👉 **Watch more examples** Your CLI + Multiple Models = Your AI Dev Team **Use the 🤖 CLI you love:** Claude Code · Gemini CLI · Codex CLI · Qwen Code CLI · Cursor · _and more_ **With multiple models within a single prompt:** Gemini · OpenAI · Anthropic · Grok · Azure · Ollama · OpenRouter · DIAL ...",
+      "readme_summary_ja": "PAL MCP: Many Workflows. One Context. <div align=\"center\"> <em>Your AI's PAL – a Provider Abstraction Layer</em><br /> <sub><a href=\"docs/name-change.md\">Formerly known as Zen MCP</a></sub> PAL in action 👉 **Watch more examples** Your CLI + Multiple Models = Your AI Dev Team **Use the 🤖 CLI you love:** Claude Code · Gemini CLI · Codex CLI · Qwen Code CLI · Cursor · _and more_ **With multiple models within a single prompt:** Gemini · OpenAI · Anthropic · Grok · Azure · Ollama · OpenRouter · DIAL ...",
+      "language": "Python",
+      "stars": 68
+    },
+    {
+      "rank": 9,
+      "repo_name": "microsoft/Foundry-Local",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "<div align=\"center\"> <picture align=\"center\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"media/icons/foundry_local_white.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"media/icons/foundry_local_black.svg\"> <img alt=\"AI Foundry icon.\" src=\"media/icons/foundry_local_black.svg\" height=\"100\" style=\"max-width: 100%;\"> </picture> <div id=\"user-content-toc\"> <ul align=\"center\" style=\"list-style: none;\"> <summary> <h1>Foundry Local</h1><br> <h3><a href=\"https://aka.ms/foundry-loca...",
+      "readme_summary_ja": "<div align=\"center\"> <picture align=\"center\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"media/icons/foundry_local_white.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"media/icons/foundry_local_black.svg\"> <img alt=\"AI Foundry アイコン\" src=\"media/icons/foundry_local_black.svg\" height=\"100\" style=\"max-width: 100%;\"> </picture> <div id=\"user-content-toc\"> <ul align=\"center\" style=\"list-style: none;\"> <summary> <h1>Foundry Local</h1><br> <h3><a href=\"https://aka.ms/foundry-loca...",
+      "language": "Svelte",
+      "stars": 189
+    },
+    {
+      "rank": 10,
+      "repo_name": "sinelaw/fresh",
+      "description": "Text editor for your terminal: easy, powerful and fast",
+      "description_ja": "あなたのターミナルで使えるテキストエディタ：簡単、パワフル、そして高速",
+      "readme_summary": "Fresh Visit the official Fresh website **📦 Installation Instructions** A terminal-based text editor. Discovery & Ease of Use Fresh is designed for discovery. It features native UIs, a full Menu system, and a powerful Command Palette",
+      "readme_summary_ja": "Fresh 公式ウェブサイトへようこそ\n\n**📦 インストール手順**\n\nターミナルベースのテキストエディタ。\n\n発見と使いやすさ：Freshは発見しやすさを重視して設計されています。ネイティブUI、フルメニューシステム、そして強力なコマンドパレットを備えています。",
+      "language": "Rust",
+      "stars": 302
+    },
+    {
+      "rank": 11,
+      "repo_name": "ashishpatel26/500-AI-Agents-Projects",
+      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+      "description_ja": "500のAIエージェントプロジェクトは、様々な業界におけるAIエージェントの活用事例を集めたものです。実践的な応用例を紹介し、実装のためのオープンソースプロジェクトへのリンクを提供することで、AIエージェントが医療、金融、教育、小売などの分野をどのように変革しているかを示しています。",
+      "readme_summary": "🌟 500+ AI Agent Projects / UseCases ![500-AI-Agents-Projects - UseCase](https://github.com/ashishpatel26/500-AI-Agents-Projects) !img A curated collection of AI agent use cases across industries, showcasing practical applications and linking to open-source projects for implementation. Explore how AI agents are transforming industries like healthcare, finance, education, and more! 🤖✨ --- 📋 Table of Contents - Introduction - Industry Usecase - Use Case Table - Framework Wise UseCase - CrewAI UseCa...",
+      "readme_summary_ja": "🌟 500件以上のAIエージェントプロジェクト/ユースケース集！[500-AI-Agents-Projects - UseCase](https://github.com/ashishpatel26/500-AI-Agents-Projects) !img さまざまな業界におけるAIエージェントのユースケースを厳選し、実践的な応用例を紹介し、実装のためのオープンソースプロジェクトへのリンクを提供します。AIエージェントが医療、金融、教育などの業界をどのように変革しているかを探求しましょう！🤖✨ --- 📋 目次 - はじめに - 業界別ユースケース - ユースケース一覧 - フレームワーク別ユースケース - CrewAI ユースケース...",
+      "language": "",
+      "stars": 423
+    },
+    {
+      "rank": 12,
+      "repo_name": "blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "description_ja": "IPカメラ向けリアルタイムローカル物体検出機能付きNVR",
+      "readme_summary": "<p align=\"center\"> <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\"> </p> Frigate NVR™ - Realtime Object Detection for IP Cameras ![License: MIT](https://opensource.org/licenses/MIT) <a href=\"https://hosted.weblate.org/engage/frigate-nvr/\"> <img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" /> </a> \\[English\\] | 简体中文 A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow ...",
+      "readme_summary_ja": "<p align=\"center\"> <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\"> </p> Frigate NVR™ - IPカメラ向けリアルタイム物体検出 ![License: MIT](https://opensource.org/licenses/MIT) <a href=\"https://hosted.weblate.org/engage/frigate-nvr/\"> <img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" /> </a> \\[English\\] | 简体中文 Home Assistant向けに設計された、AI物体検出機能を備えた完全なローカルNVR。OpenCVとTensorflowを使用。",
+      "language": "TypeScript",
+      "stars": 25
+    },
+    {
+      "rank": 13,
+      "repo_name": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "description_ja": "Notebook LM のオープンソース実装。より柔軟で多機能。",
+      "readme_summary": "<a id=\"readme-top\"></a> <!-- [![Contributors][contributors-shield]][contributors-url] --> [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] <!-- [![LinkedIn][linkedin-shield]][linkedin-url] --> <!-- PROJECT LOGO --> <br /> <div align=\"center\"> <a href=\"https://github.com/lfnovo/open-notebook\"> <img src=\"docs/assets/hero.svg\" alt=\"Logo\"> </a> <h3 align=\"center\">Open Notebook</h3> <p ali...",
+      "readme_summary_ja": "<!-- [![コントリビューター][contributors-shield]][contributors-url] --> [![フォーク数][forks-shield]][forks-url] [![スター数][stars-shield]][stars-url] [![Issue数][issues-shield]][issues-url] [![MITライセンス][license-shield]][license-url] <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->\n\n<!-- プロジェクトロゴ -->\n<br />\n<div align=\"center\">\n<a href=\"https://github.com/lfnovo/open-notebook\">\n<img src=\"docs/assets/hero.svg\" alt=\"Logo\">\n</a>\n<h3 align=\"center\">Open Notebook</h3>\n<p ali...",
+      "language": "TypeScript",
+      "stars": 201
+    },
+    {
+      "rank": 14,
+      "repo_name": "activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "description_ja": "AIエージェント、MCP、AIワークフロー自動化。（AIエージェント向けに約400台のMCPサーバーを運用）。MCPによるAI自動化/AIエージェント。AIワークフローとAIエージェント。AIエージェント向けMCP。",
+      "readme_summary": "<h1 align=\"center\"> <a target=\"_blank\" href=\"https://activepieces.com\" > <img align=\"center\" alt=\"Activepieces\" src=\"https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4480-bc75-30a0c73ed340\" style=\"width:100%;\" /> </a> </h1> <p align=\"center\"> <a href=\"/LICENSE\" target=\"_blank\"><img src='https://img.shields.io/badge/license-MIT-green?style=for-the-badge' /></a>&nbsp;<img src='https://img.shields.io/github/commit-activity/w/activepieces/activepieces/main?style=for-the-badg...",
+      "readme_summary_ja": "<h1 align=\"center\"> <a target=\"_blank\" href=\"https://activepieces.com\" > <img align=\"center\" alt=\"Activepieces\" src=\"https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4480-bc75-30a0c73ed340\" style=\"width:100%;\" /> </a> </h1> <p align=\"center\"> <a href=\"/LICENSE\" target=\"_blank\"><img src='https://img.shields.io/badge/license-MIT-green?style=for-the-badge' /></a>&nbsp;<img src='https://img.shields.io/github/commit-activity/w/activepieces/activepieces/main?style=for-the-badg...",
+      "language": "TypeScript",
+      "stars": 22
     }
   ]
 }
