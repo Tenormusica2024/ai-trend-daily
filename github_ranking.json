@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08 02:53:11",
-  "total_repos": 14,
+  "updated_at": "2025-12-09 02:50:11",
+  "total_repos": 11,
   "ranking": [
     {
       "rank": 1,
@@ -10,137 +10,107 @@
       "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![Technical Report](https://arxiv.org/pdf/2508.19205) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"Figures/VibeVoice_logo_white.png\"> <img src=\"Figures/VibeVoice_logo.png\" alt=\"VibeVoice Logo\" width=\"300\"> </picture> </div> <div align=\"l...",
       "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: オープンソースの最先端音声AI ![プロジェクトページ](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![技術レポート](https://arxiv.org/pdf/2508.19205) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"Figures/VibeVoice_logo_white.png\"> <img src=\"Figures/VibeVoice_logo.png\" alt=\"VibeVoice Logo\" width=\"300\"> </picture> </div> <div align=\"l...",
       "language": "Python",
-      "stars": 577
+      "stars": 1894
     },
     {
       "rank": 2,
-      "repo_name": "NVIDIA/cutile-python",
-      "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
-      "description_ja": "cuTileは、NVIDIA GPU向けの並列カーネルを記述するためのプログラミングモデルです。",
-      "readme_summary": "<!--- SPDX-FileCopyrightText: Copyright (c) <2025> NVIDIA CORPORATION & AFFILIATES. All rights reserved. --> <!--- SPDX-License-Identifier: Apache-2.0 --> cuTile Python ============= cuTile Python is a programming language for NVIDIA GPUs",
-      "readme_summary_ja": "cuTile Pythonは、NVIDIA GPU向けのプログラミング言語です。",
-      "language": "Python",
-      "stars": 148
-    },
-    {
-      "rank": 3,
-      "repo_name": "patchy631/ai-engineering-hub",
-      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "description_ja": "LLM、RAG、および実世界のAIエージェントアプリケーションに関する詳細なチュートリアル。",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"Trending Badge\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AI Engineering Hub Banner\"> </p> --- AI Engineering Hub 🚀 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefron...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"トレンドバッジ\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AIエンジニアリングハブバナー\"> </p> --- AIエンジニアリングハブ 🚀 **AIエンジニアリングハブ**へようこそ！AIの学習と構築のための総合的なリソースです！ 🌟 このリポジトリの目的：AIエンジニアリングは急速に進化しており、常に最前線にいるためには...",
-      "language": "Jupyter Notebook",
-      "stars": 268
-    },
-    {
-      "rank": 4,
-      "repo_name": "TelegramMessenger/Telegram-iOS",
-      "description": "Telegram-iOS",
-      "description_ja": "TelegramのiOS版クライアント",
-      "readme_summary": "Telegram iOS Source Code Compilation Guide We welcome all developers to use our API and source code to create applications on our platform. There are several things we require from **all developers** for the moment. Creating your Telegram Application 1",
-      "readme_summary_ja": "Telegram iOS ソースコード コンパイルガイド\n\nTelegramプラットフォーム上でアプリケーションを開発するために、APIとソースコードの利用を歓迎します。現時点で、**すべての開発者**にいくつかお願いしたい事項があります。Telegramアプリケーションの作成 1",
-      "language": "Swift",
-      "stars": 8
-    },
-    {
-      "rank": 5,
-      "repo_name": "anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "description_ja": "Claude API を利用したデプロイ可能なアプリケーションを、開発者が迅速に構築できるよう支援するプロジェクト集。",
-      "readme_summary": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started To use these quickstarts, you'll need an Claude API key",
-      "readme_summary_ja": "Claude クイックスタートは、開発者が Claude API を使用したアプリケーション開発を迅速に開始できるように設計されたプロジェクト集です。各クイックスタートは、特定のニーズに合わせて容易に拡張・カスタマイズできる基盤を提供します。利用を開始するには、Claude API キーが必要です。",
-      "language": "Python",
-      "stars": 278
-    },
-    {
-      "rank": 6,
-      "repo_name": "rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "description_ja": "🚀4KBオブジェクトのペイロードでMinIOより2.3倍高速。RustFSは、オープンソースでS3互換の高性能オブジェクトストレージシステムです。MinIOやCephなどの他のS3互換プラットフォームとの移行および共存をサポートします。",
-      "readme_summary": "![RustFS](https://rustfs.com) <p align=\"center\">RustFS is a high-performance, distributed object storage system built in Rust.</p> <p align=\"center\"> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build and Push Docker Images\" src=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml/badge.sv...",
-      "readme_summary_ja": "![RustFS](https://rustfs.com)\n\nRustFSは、Rustで構築された高性能な分散オブジェクトストレージシステムです。\n\n<p align=\"center\">\n<a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a>\n<a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build and Push Docker Images\" src=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml/badge.sv...",
-      "language": "Rust",
-      "stars": 429
-    },
-    {
-      "rank": 7,
-      "repo_name": "sst/opencode",
-      "description": "The open source coding agent.",
-      "description_ja": "The open source coding agent.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The AI coding agent built for the terminal.</p> <p align=\"center\"> <a href=\"https://opencode.ai/disc...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The AI coding agent built for the terminal.</p> <p align=\"center\"> <a href=\"https://opencode.ai/disc...",
-      "language": "TypeScript",
-      "stars": 153
-    },
-    {
-      "rank": 8,
-      "repo_name": "BeehiveInnovations/pal-mcp-server",
-      "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
-      "description_ja": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
-      "readme_summary": "PAL MCP: Many Workflows. One Context. <div align=\"center\"> <em>Your AI's PAL – a Provider Abstraction Layer</em><br /> <sub><a href=\"docs/name-change.md\">Formerly known as Zen MCP</a></sub> PAL in action 👉 **Watch more examples** Your CLI + Multiple Models = Your AI Dev Team **Use the 🤖 CLI you love:** Claude Code · Gemini CLI · Codex CLI · Qwen Code CLI · Cursor · _and more_ **With multiple models within a single prompt:** Gemini · OpenAI · Anthropic · Grok · Azure · Ollama · OpenRouter · DIAL ...",
-      "readme_summary_ja": "PAL MCP: Many Workflows. One Context. <div align=\"center\"> <em>Your AI's PAL – a Provider Abstraction Layer</em><br /> <sub><a href=\"docs/name-change.md\">Formerly known as Zen MCP</a></sub> PAL in action 👉 **Watch more examples** Your CLI + Multiple Models = Your AI Dev Team **Use the 🤖 CLI you love:** Claude Code · Gemini CLI · Codex CLI · Qwen Code CLI · Cursor · _and more_ **With multiple models within a single prompt:** Gemini · OpenAI · Anthropic · Grok · Azure · Ollama · OpenRouter · DIAL ...",
-      "language": "Python",
-      "stars": 68
-    },
-    {
-      "rank": 9,
-      "repo_name": "microsoft/Foundry-Local",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "<div align=\"center\"> <picture align=\"center\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"media/icons/foundry_local_white.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"media/icons/foundry_local_black.svg\"> <img alt=\"AI Foundry icon.\" src=\"media/icons/foundry_local_black.svg\" height=\"100\" style=\"max-width: 100%;\"> </picture> <div id=\"user-content-toc\"> <ul align=\"center\" style=\"list-style: none;\"> <summary> <h1>Foundry Local</h1><br> <h3><a href=\"https://aka.ms/foundry-loca...",
-      "readme_summary_ja": "<div align=\"center\"> <picture align=\"center\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"media/icons/foundry_local_white.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"media/icons/foundry_local_black.svg\"> <img alt=\"AI Foundry アイコン\" src=\"media/icons/foundry_local_black.svg\" height=\"100\" style=\"max-width: 100%;\"> </picture> <div id=\"user-content-toc\"> <ul align=\"center\" style=\"list-style: none;\"> <summary> <h1>Foundry Local</h1><br> <h3><a href=\"https://aka.ms/foundry-loca...",
-      "language": "Svelte",
-      "stars": 189
-    },
-    {
-      "rank": 10,
       "repo_name": "sinelaw/fresh",
       "description": "Text editor for your terminal: easy, powerful and fast",
       "description_ja": "あなたのターミナルで使えるテキストエディタ：簡単、パワフル、そして高速",
       "readme_summary": "Fresh Visit the official Fresh website **📦 Installation Instructions** A terminal-based text editor. Discovery & Ease of Use Fresh is designed for discovery. It features native UIs, a full Menu system, and a powerful Command Palette",
-      "readme_summary_ja": "Fresh 公式ウェブサイトへようこそ\n\n**📦 インストール手順**\n\nターミナルベースのテキストエディタ。\n\n発見と使いやすさ：Freshは発見しやすさを重視して設計されています。ネイティブUI、フルメニューシステム、そして強力なコマンドパレットを備えています。",
+      "readme_summary_ja": "Fresh 公式ウェブサイトはこちら\n\n**📦 インストール手順**\n\nターミナルベースのテキストエディタ。\n\n発見と使いやすさ: Fresh は発見しやすさを重視して設計されています。ネイティブUI、フルメニューシステム、そして強力なコマンドパレットを備えています。",
       "language": "Rust",
-      "stars": 302
+      "stars": 230
     },
     {
-      "rank": 11,
-      "repo_name": "ashishpatel26/500-AI-Agents-Projects",
-      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
-      "description_ja": "500のAIエージェントプロジェクトは、様々な業界におけるAIエージェントの活用事例を集めたものです。実践的な応用例を紹介し、実装のためのオープンソースプロジェクトへのリンクを提供することで、AIエージェントが医療、金融、教育、小売などの分野をどのように変革しているかを示しています。",
-      "readme_summary": "🌟 500+ AI Agent Projects / UseCases ![500-AI-Agents-Projects - UseCase](https://github.com/ashishpatel26/500-AI-Agents-Projects) !img A curated collection of AI agent use cases across industries, showcasing practical applications and linking to open-source projects for implementation. Explore how AI agents are transforming industries like healthcare, finance, education, and more! 🤖✨ --- 📋 Table of Contents - Introduction - Industry Usecase - Use Case Table - Framework Wise UseCase - CrewAI UseCa...",
-      "readme_summary_ja": "🌟 500件以上のAIエージェントプロジェクト/ユースケース集！[500-AI-Agents-Projects - UseCase](https://github.com/ashishpatel26/500-AI-Agents-Projects) !img さまざまな業界におけるAIエージェントのユースケースを厳選し、実践的な応用例を紹介し、実装のためのオープンソースプロジェクトへのリンクを提供します。AIエージェントが医療、金融、教育などの業界をどのように変革しているかを探求しましょう！🤖✨ --- 📋 目次 - はじめに - 業界別ユースケース - ユースケース一覧 - フレームワーク別ユースケース - CrewAI ユースケース...",
-      "language": "",
-      "stars": 423
+      "rank": 3,
+      "repo_name": "winapps-org/winapps",
+      "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
+      "description_ja": "Microsoft OfficeやAdobeなどのWindowsアプリを、Nautilus統合を含め、まるでネイティブOSの一部であるかのようにLinux（Ubuntu/Fedora）やGNOME/KDE上で実行します。https://github.com/Fmstrat/winapps/ のハードフォークです。",
+      "readme_summary": "<p align=\"center\"><img align=\"center\" width=\"700\" src=\"./docs/readme/banner_dark.svg#gh-dark-mode-only\"/></p> <p align=\"center\"><img align=\"center\" width=\"700\" src=\"./docs/readme/banner_light.svg#gh-light-mode-only\"/></p> <hr> Run Windows applications (including Microsoft 365 and Adobe Creative Cloud) on GNU/Linux with KDE Plasma, GNOME or XFCE, integrated seamlessly as if they were native to the OS. <p align=\"center\"><img src=\"./docs/readme/demo.png\" width=1000 alt=\"WinApps Demonstration.\"></p>...",
+      "readme_summary_ja": "<p align=\"center\"><img align=\"center\" width=\"700\" src=\"./docs/readme/banner_dark.svg#gh-dark-mode-only\"/></p> <p align=\"center\"><img align=\"center\" width=\"700\" src=\"./docs/readme/banner_light.svg#gh-light-mode-only\"/></p> <hr> KDE Plasma、GNOME、XFCEといったGNU/Linux環境で、Microsoft 365やAdobe Creative Cloudを含むWindowsアプリケーションを、まるでネイティブアプリのようにシームレスに実行できます。 <p align=\"center\"><img src=\"./docs/readme/demo.png\" width=1000 alt=\"WinApps Demonstration.\"></p>...",
+      "language": "Shell",
+      "stars": 139
     },
     {
-      "rank": 12,
-      "repo_name": "blakeblackshear/frigate",
-      "description": "NVR with realtime local object detection for IP cameras",
-      "description_ja": "IPカメラ向けリアルタイムローカル物体検出機能付きNVR",
-      "readme_summary": "<p align=\"center\"> <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\"> </p> Frigate NVR™ - Realtime Object Detection for IP Cameras ![License: MIT](https://opensource.org/licenses/MIT) <a href=\"https://hosted.weblate.org/engage/frigate-nvr/\"> <img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" /> </a> \\[English\\] | 简体中文 A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow ...",
-      "readme_summary_ja": "<p align=\"center\"> <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\"> </p> Frigate NVR™ - IPカメラ向けリアルタイム物体検出 ![License: MIT](https://opensource.org/licenses/MIT) <a href=\"https://hosted.weblate.org/engage/frigate-nvr/\"> <img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" /> </a> \\[English\\] | 简体中文 Home Assistant向けに設計された、AI物体検出機能を備えた完全なローカルNVR。OpenCVとTensorflowを使用。",
+      "rank": 4,
+      "repo_name": "patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "description_ja": "LLM、RAG、および実世界のAIエージェントアプリケーションに関する詳細なチュートリアル。",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"Trending Badge\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AI Engineering Hub Banner\"> </p> --- AI Engineering Hub 🚀 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefron...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"トレンドバッジ\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AIエンジニアリングハブ バナー\"> </p> --- AIエンジニアリングハブ 🚀 **AIエンジニアリングハブ**へようこそ！AIの学習と構築のための総合的なリソースです！🌟 このリポジトリの目的：AIエンジニアリングは急速に進歩しており、常に最前線にいるためには...",
+      "language": "Jupyter Notebook",
+      "stars": 572
+    },
+    {
+      "rank": 5,
+      "repo_name": "slidevjs/slidev",
+      "description": "Presentation Slides for Developers",
+      "description_ja": "開発者向けプレゼンテーションスライド",
+      "readme_summary": "<br> <p align=\"center\"> <a href=\"https://sli.dev\" target=\"_blank\"> <img src=\"https://sli.dev/logo-title.png\" alt=\"Slidev\" height=\"250\" width=\"250\"/> </a> </p> <p align=\"center\"> Presentation <b>slide</b>s for <b>dev</b>elopers 🧑‍💻👩‍💻👨‍💻 </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@slidev/cli\" target=\"__blank\"><img src=\"https://img.shields.io/npm/v/@slidev/cli?color=2B90B6&label=\" alt=\"NPM version\"></a> <a href=\"https://www.npmjs.com/package/@slidev/cli\" target=\"__blank\"><img a...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://sli.dev\" target=\"_blank\"> <img src=\"https://sli.dev/logo-title.png\" alt=\"Slidev\" height=\"250\" width=\"250\"/> </a> </p> <p align=\"center\"> 開発者向けのプレゼンテーションスライド 🧑‍💻👩‍💻👨‍💻 </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@slidev/cli\" target=\"__blank\"><img src=\"https://img.shields.io/npm/v/@slidev/cli?color=2B90B6&label=\" alt=\"NPM version\"></a> <a href=\"https://www.npmjs.com/package/@slidev/cli\" target=\"__blank\"><img a...",
       "language": "TypeScript",
-      "stars": 25
+      "stars": 223
     },
     {
-      "rank": 13,
+      "rank": 6,
+      "repo_name": "cloudflare/vibesdk",
+      "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
+      "description_ja": "Cloudflareスタック上に構築された、独自のバイブコーディングプラットフォームを構築するためのオープンソースなバイブコーディングプラットフォームです。",
+      "readme_summary": "🧡 Cloudflare Vibe SDK > **An open source full-stack AI webapp generator** – Deploy your own instance of Cloudflare VibeSDK, an AI vibe coding platform that you can run and customize yourself. <div align=\"center\"> 🚀 Live Demo **build.cloudflare.dev** *Explore VibeSDK Build before deploying your own stack.* ![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/vibesdk) **👆 Click to deploy your own instance!** *Follow the setup guide below to confi...",
+      "readme_summary_ja": "🧡 Cloudflare Vibe SDK > **オープンソースのフルスタックAIウェブアプリジェネレーター** – Cloudflare VibeSDKのインスタンスを自分でデプロイしましょう。これは、自分で実行・カスタマイズできるAIによる雰囲気コーディングプラットフォームです。<div align=\"center\"> 🚀 ライブデモ **build.cloudflare.dev** *独自のスタックをデプロイする前にVibeSDK Buildを体験してください。* ![Cloudflare Workersにデプロイ](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/vibesdk) **👆 クリックして独自のインスタンスをデプロイ！** *以下のセットアップガイドに従って設定...",
+      "language": "TypeScript",
+      "stars": 184
+    },
+    {
+      "rank": 7,
       "repo_name": "lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "description_ja": "Notebook LM のオープンソース実装。より柔軟で多機能。",
       "readme_summary": "<a id=\"readme-top\"></a> <!-- [![Contributors][contributors-shield]][contributors-url] --> [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] <!-- [![LinkedIn][linkedin-shield]][linkedin-url] --> <!-- PROJECT LOGO --> <br /> <div align=\"center\"> <a href=\"https://github.com/lfnovo/open-notebook\"> <img src=\"docs/assets/hero.svg\" alt=\"Logo\"> </a> <h3 align=\"center\">Open Notebook</h3> <p ali...",
-      "readme_summary_ja": "<!-- [![コントリビューター][contributors-shield]][contributors-url] --> [![フォーク数][forks-shield]][forks-url] [![スター数][stars-shield]][stars-url] [![Issue数][issues-shield]][issues-url] [![MITライセンス][license-shield]][license-url] <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->\n\n<!-- プロジェクトロゴ -->\n<br />\n<div align=\"center\">\n<a href=\"https://github.com/lfnovo/open-notebook\">\n<img src=\"docs/assets/hero.svg\" alt=\"Logo\">\n</a>\n<h3 align=\"center\">Open Notebook</h3>\n<p ali...",
+      "readme_summary_ja": "<!-- [![コントリビューター][contributors-shield]][contributors-url] --> [![フォーク][forks-shield]][forks-url] [![スター][stars-shield]][stars-url] [![Issue][issues-shield]][issues-url] [![MITライセンス][license-shield]][license-url] <!-- [![LinkedIn][linkedin-shield]][linkedin-url] --> <!-- プロジェクトロゴ -->\n\n<br />\n<div align=\"center\">\n<a href=\"https://github.com/lfnovo/open-notebook\">\n<img src=\"docs/assets/hero.svg\" alt=\"Logo\">\n</a>\n<h3 align=\"center\">Open Notebook</h3>\n<p ali...",
       "language": "TypeScript",
-      "stars": 201
+      "stars": 548
     },
     {
-      "rank": 14,
-      "repo_name": "activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "description_ja": "AIエージェント、MCP、AIワークフロー自動化。（AIエージェント向けに約400台のMCPサーバーを運用）。MCPによるAI自動化/AIエージェント。AIワークフローとAIエージェント。AIエージェント向けMCP。",
-      "readme_summary": "<h1 align=\"center\"> <a target=\"_blank\" href=\"https://activepieces.com\" > <img align=\"center\" alt=\"Activepieces\" src=\"https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4480-bc75-30a0c73ed340\" style=\"width:100%;\" /> </a> </h1> <p align=\"center\"> <a href=\"/LICENSE\" target=\"_blank\"><img src='https://img.shields.io/badge/license-MIT-green?style=for-the-badge' /></a>&nbsp;<img src='https://img.shields.io/github/commit-activity/w/activepieces/activepieces/main?style=for-the-badg...",
-      "readme_summary_ja": "<h1 align=\"center\"> <a target=\"_blank\" href=\"https://activepieces.com\" > <img align=\"center\" alt=\"Activepieces\" src=\"https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4480-bc75-30a0c73ed340\" style=\"width:100%;\" /> </a> </h1> <p align=\"center\"> <a href=\"/LICENSE\" target=\"_blank\"><img src='https://img.shields.io/badge/license-MIT-green?style=for-the-badge' /></a>&nbsp;<img src='https://img.shields.io/github/commit-activity/w/activepieces/activepieces/main?style=for-the-badg...",
-      "language": "TypeScript",
-      "stars": 22
+      "rank": 8,
+      "repo_name": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "description_ja": "Claude API を利用したデプロイ可能なアプリケーションを、開発者が迅速に構築できるよう支援するプロジェクト集。",
+      "readme_summary": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started To use these quickstarts, you'll need an Claude API key",
+      "readme_summary_ja": "Claude クイックスタートは、開発者が Claude API を使用したアプリケーション開発を迅速に開始できるように設計されたプロジェクト集です。各クイックスタートは、特定のニーズに合わせて簡単に構築およびカスタマイズできる基盤を提供します。利用を開始するには、Claude API キーが必要です。",
+      "language": "Python",
+      "stars": 322
+    },
+    {
+      "rank": 9,
+      "repo_name": "666ghj/BettaFish",
+      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+      "description_ja": "微舆：誰でも使えるマルチエージェント型世論分析アシスタント。情報の孤立化を打破し、世論の真の姿を明らかにし、将来の動向を予測して意思決定を支援します。ゼロから実装されており、いかなるフレームワークにも依存しません。",
+      "readme_summary": "<div align=\"center\"> <img src=\"static/image/logo_compressed.png\" alt=\"BettaFish Logo\" width=\"100%\"> <a href=\"https://trendshift.io/repositories/15286\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15286\" alt=\"666ghj%2FBettaFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href=\"https://aihubmix.com/?aff=8Ds9\" target=\"_blank\"><img src=\"./static/image/logo_aihubmix.png\" alt=\"666ghj%2FBettaFish | Trendshift\" height=\"40\"/></a>&ensp; <a h...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"static/image/logo_compressed.png\" alt=\"BettaFish ロゴ\" width=\"100%\"> <a href=\"https://trendshift.io/repositories/15286\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15286\" alt=\"666ghj%2FBettaFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href=\"https://aihubmix.com/?aff=8Ds9\" target=\"_blank\"><img src=\"./static/image/logo_aihubmix.png\" alt=\"666ghj%2FBettaFish | Trendshift\" height=\"40\"/></a>&ensp; <a h...",
+      "language": "Python",
+      "stars": 285
+    },
+    {
+      "rank": 10,
+      "repo_name": "microsoft/Foundry-Local",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "<div align=\"center\"> <picture align=\"center\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"media/icons/foundry_local_white.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"media/icons/foundry_local_black.svg\"> <img alt=\"AI Foundry icon.\" src=\"media/icons/foundry_local_black.svg\" height=\"100\" style=\"max-width: 100%;\"> </picture> <div id=\"user-content-toc\"> <ul align=\"center\" style=\"list-style: none;\"> <summary> <h1>Foundry Local</h1><br> <h3><a href=\"https://aka.ms/foundry-loca...",
+      "readme_summary_ja": "<div align=\"center\"> <picture align=\"center\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"media/icons/foundry_local_white.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"media/icons/foundry_local_black.svg\"> <img alt=\"AI Foundryアイコン\" src=\"media/icons/foundry_local_black.svg\" height=\"100\" style=\"max-width: 100%;\"> </picture> <div id=\"user-content-toc\"> <ul align=\"center\" style=\"list-style: none;\"> <summary> <h1>Foundry Local</h1><br> <h3><a href=\"https://aka.ms/foundry-loca...",
+      "language": "Svelte",
+      "stars": 222
+    },
+    {
+      "rank": 11,
+      "repo_name": "microsoft/ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "description_ja": "12週間、26のレッスン、52のクイズで学ぶ、誰でも理解できる定番の機械学習",
+      "readme_summary": "![GitHub license](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/ML-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/ML-For-Beginners/pulls/) ![PRs Welcome](http://makeapullrequest.com) ![GitHub watchers](https://GitHub.com/microsoft/ML-For-Beginners/watchers/) ![GitHub forks](https://GitHub.com/microsoft/ML-For-Be...",
+      "readme_summary_ja": "（ライセンス、コントリビューター、issue、プルリクエスト、PR歓迎、ウォッチャー、フォーク数を示すバッジ）",
+      "language": "Jupyter Notebook",
+      "stars": 162
     }
   ]
 }
