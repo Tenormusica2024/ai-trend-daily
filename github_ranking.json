@@ -1,146 +1,136 @@
 {
-  "updated_at": "2025-12-11 02:56:51",
-  "total_repos": 14,
+  "updated_at": "2025-12-12 02:54:56",
+  "total_repos": 13,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "description_ja": "Claudeのコーディングセッションを自動的に記録し、Claudeのagent-sdkを使ってAIで圧縮、関連するコンテキストを将来のセッションに注入するプラグイン。",
+      "description_ja": "コーディングセッション中のClaudeの動作をすべて自動的に記録し、AI（Claudeのagent-sdkを使用）で圧縮して、関連するコンテキストを将来のセッションに注入するClaude Codeプラグイン。",
       "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
-      "readme_summary_ja": "(画像: Claude-memのロゴ)\n\nClaude-mem: Claudeの長期記憶を実現するツール。",
+      "readme_summary_ja": "(ロゴ中央寄せ) Claude-mem - 長期記憶を備えたClaude。",
       "language": "JavaScript",
-      "stars": 779
+      "stars": 1669
     },
     {
       "rank": 2,
+      "repo_name": "Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "description_ja": "RAGパラダイムを活用し、深層ドキュメント理解、セマンティック検索、およびコンテキストを考慮した回答を実現する、LLM搭載のフレームワーク。",
+      "readme_summary": "<p align=\"center\"> <picture> <img src=\"./docs/images/logo.png\" alt=\"WeKnora Logo\" height=\"120\"/> </picture> </p> <p align=\"center\"> <a href=\"https://weknora.weixin.qq.com\" target=\"_blank\"> <img alt=\"官方网站\" src=\"https://img.shields.io/badge/官方网站-WeKnora-4e6b99\"> </a> <a href=\"https://chatbot.weixin.qq.com\" target=\"_blank\"> <img alt=\"微信对话开放平台\" src=\"https://img.shields.io/badge/微信对话开放平台-5ac725\"> </a> <a href=\"https://github.com/Tencent/WeKnora/blob/main/LICENSE\"> <img src=\"https://img.shields.io/bad...",
+      "readme_summary_ja": "WeKnora\n[公式ウェブサイト](https://weknora.weixin.qq.com)\n[WeChat対話プラットフォーム](https://chatbot.weixin.qq.com)\n[ライセンス](https://github.com/Tencent/WeKnora/blob/main/LICENSE)",
+      "language": "Go",
+      "stars": 68
+    },
+    {
+      "rank": 3,
+      "repo_name": "block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "description_ja": "コード補完にとどまらない、拡張可能なオープンソースのAIエージェント。あらゆるLLMを使って、インストール、実行、編集、テストが可能です。",
+      "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"> <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"> </a> <a href=\"https://discord.gg/goose-oss\"> <img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"> </a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\"> ...",
+      "readme_summary_ja": "goose：エンジニアリングタスクを自動化する、ローカルで拡張可能なオープンソースのAIエージェント",
+      "language": "Rust",
+      "stars": 443
+    },
+    {
+      "rank": 4,
       "repo_name": "KaijuEngine/kaiju",
       "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
       "description_ja": "Go (golang) と Vulkan を使用した汎用3D/2Dゲームエンジン。エディタ内蔵。",
       "readme_summary": "Kaiju Engine Kaiju is a 2D/3D game engine written in Go (Golang) backed by Vulkan. The goal of the engine is to use a modern, easy, systems level programming language, with a focus on simplicity, to create a new kind of game engine. - 📄 2D / 🧊 3D Game Engine - 🪟 Windows - 🐧 Linux - 🤖 Android (NEW, support now functional) - 🍎 Mac (support is currently WIP) - 🤖👉⌨️ Local AI (LLM) interop - ⚠️🚧🏗️👷‍♂️ Work in progress, under heavy development - 🚚 Faster builds than other game engines - 🔥 Better perfo...",
-      "readme_summary_ja": "Kaiju Engineは、Vulkanをバックエンドに持つGo言語製の2D/3Dゲームエンジンです。シンプルさを重視し、現代的で扱いやすいシステムレベルのプログラミング言語を用いて、新しいタイプのゲームエンジンを創造することを目標としています。\n\n- 📄 2D / 🧊 3Dゲームエンジン\n- 🪟 Windows\n- 🐧 Linux\n- 🤖 Android (新規、サポート機能)\n- 🍎 Mac (現在開発中)\n- 🤖👉⌨️ ローカルAI (LLM) 連携\n- ⚠️🚧🏗️👷‍♂️ 開発進行中\n- 🚚 他のゲームエンジンより高速なビルド\n- 🔥 より良いパフォーマンス...",
+      "readme_summary_ja": "Kaiju Engineは、Vulkanをバックエンドに持つGo言語製の2D/3Dゲームエンジンです。シンプルさを重視し、現代的で扱いやすいシステムレベルのプログラミング言語を用いて、新しいタイプのゲームエンジンを創造することを目標としています。\n\n- 📄 2D / 🧊 3Dゲームエンジン\n- 🪟 Windows\n- 🐧 Linux\n- 🤖 Android (新規、サポート機能)\n- 🍎 Mac (現在開発中)\n- 🤖👉⌨️ ローカルAI (LLM) 連携\n- ⚠️🚧🏗️👷‍♂️ 開発中のため、大幅な変更の可能性があります\n- 🚚 他のゲームエンジンよりも高速なビルド\n- 🔥 より良いパフォーマンス...",
       "language": "Go",
-      "stars": 1480
-    },
-    {
-      "rank": 3,
-      "repo_name": "agentsmd/agents.md",
-      "description": "AGENTS.md — a simple, open format for guiding coding agents",
-      "description_ja": "AGENTS.md - コーディングエージェントを誘導するための、シンプルでオープンなフォーマット",
-      "readme_summary": "AGENTS.md !AGENTS.md logo AGENTS.md is a simple, open format for guiding coding agents. Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide context and instructions to help AI coding agents work on your project. Below is a minimal example of an AGENTS.md file: Website This repository also includes a basic Next.js website hosted at https://agents.md/ that explains the project’s goals in a simple way, and featuring some examples",
-      "readme_summary_ja": "AGENTS.md は、コーディングエージェントを導くためのシンプルでオープンなフォーマットです。AGENTS.md を、エージェントのための README と考えてください。AI コーディングエージェントがプロジェクトに取り組む際に役立つコンテキストと指示を提供するための、専用の予測可能な場所です。以下は AGENTS.md ファイルの最小限の例です。\n\nウェブサイト：このリポジトリには、プロジェクトの目標をわかりやすく説明し、いくつかの例を紹介する、https://agents.md/ でホストされている基本的な Next.js ウェブサイトも含まれています。",
-      "language": "TypeScript",
-      "stars": 321
-    },
-    {
-      "rank": 4,
-      "repo_name": "lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "description_ja": "Notebook LM のオープンソース実装。より柔軟で多機能。",
-      "readme_summary": "<a id=\"readme-top\"></a> <!-- [![Contributors][contributors-shield]][contributors-url] --> [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] <!-- [![LinkedIn][linkedin-shield]][linkedin-url] --> <!-- PROJECT LOGO --> <br /> <div align=\"center\"> <a href=\"https://github.com/lfnovo/open-notebook\"> <img src=\"docs/assets/hero.svg\" alt=\"Logo\"> </a> <h3 align=\"center\">Open Notebook</h3> <p ali...",
-      "readme_summary_ja": "<!-- [![コントリビューター][contributors-shield]][contributors-url] --> [![フォーク数][forks-shield]][forks-url] [![スター数][stars-shield]][stars-url] [![Issue数][issues-shield]][issues-url] [![MITライセンス][license-shield]][license-url] <!-- [![LinkedIn][linkedin-shield]][linkedin-url] --> <!-- プロジェクトロゴ -->\n\n<div align=\"center\">\n<a href=\"https://github.com/lfnovo/open-notebook\">\n<img src=\"docs/assets/hero.svg\" alt=\"ロゴ\">\n</a>\n<h3 align=\"center\">Open Notebook</h3>\n<p ali...",
-      "language": "TypeScript",
-      "stars": 314
+      "stars": 999
     },
     {
       "rank": 5,
-      "repo_name": "dyad-sh/dyad",
-      "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
-      "description_ja": "無料、ローカル、オープンソースのAIアプリ構築ツール ✨ v0 / 愛着の持てる / Boltの代替 🌟 気に入ったらスターをお願いします！",
-      "readme_summary": "Dyad Dyad is a local, open-source AI app builder. It's fast, private, and fully under your control — like Lovable, v0, or Bolt, but running right on your machine. ![Image](https://dyad.sh/) More info at: https://dyad.sh/ 🚀 Features - ⚡️ **Local**: Fast, private and no lock-in",
-      "readme_summary_ja": "Dyadは、ローカルで動作するオープンソースのAIアプリビルダーです。Lovable、v0、Boltのように、高速、プライベート、そして完全にあなたの管理下で動作しますが、あなたのマシン上で直接実行されます。 ![Image](https://dyad.sh/) 詳細はこちら: https://dyad.sh/ 🚀 特徴 - ⚡️ **ローカル**: 高速、プライベート、そしてロックインなし",
-      "language": "TypeScript",
-      "stars": 258
+      "repo_name": "tempoxyz/tempo",
+      "description": "the blockchain for payments",
+      "description_ja": "決済のためのブロックチェーン",
+      "readme_summary": "<br> <br> <p align=\"center\"> <a href=\"https://tempo.xyz\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tempoxyz/.github/refs/heads/main/assets/combomark-dark.svg\"> <img alt=\"tempo combomark\" src=\"https://raw.githubusercontent.com/tempoxyz/.github/refs/heads/main/assets/combomark-bright.svg\" width=\"auto\" height=\"120\"> </picture> </a> </p> <br> <br> Tempo The blockchain for payments at scale. Tempo is a blockchain designed specifically for stable...",
+      "readme_summary_ja": "<br> <br> <p align=\"center\"> <a href=\"https://tempo.xyz\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tempoxyz/.github/refs/heads/main/assets/combomark-dark.svg\"> <img alt=\"tempo combomark\" src=\"https://raw.githubusercontent.com/tempoxyz/.github/refs/heads/main/assets/combomark-bright.svg\" width=\"auto\" height=\"120\"> </picture> </a> </p> <br> <br> Tempo：大規模決済向けブロックチェーン。Tempoは、ステーブルコインに特化して設計されたブロックチェーンです。",
+      "language": "Rust",
+      "stars": 52
     },
     {
       "rank": 6,
-      "repo_name": "datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "description_ja": "📚 「ゼロから始めるインテリジェントエージェント構築」 - ゼロから学ぶインテリジェントエージェントの原理と実践チュートリアル",
-      "readme_summary": "<div align=\"right\"> <a href=\"./README_EN.md\">English</a> | 中文 </div> <div align='center'> <img src=\"./docs/images/hello-agents.png\" alt=\"alt text\" width=\"100%\"> <h1>Hello-Agents</h1> <h3>🤖 《从零开始构建智能体》</h3> <p><em>从基础理论到实际应用，全面掌握智能体系统的设计与实现</em></p> <img src=\"https://img.shields.io/github/stars/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub stars\"/> <img src=\"https://img.shields.io/github/forks/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub forks\"/> <img src=\"htt...",
-      "readme_summary_ja": "<div align=\"right\"> <a href=\"./README_EN.md\">English</a> | 中文 </div> <div align='center'> <img src=\"./docs/images/hello-agents.png\" alt=\"alt text\" width=\"100%\"> <h1>Hello-Agents</h1> <h3>🤖 《从零开始构建智能体》</h3> <p><em>从基础理论到实际应用，全面掌握智能体系统的设计与实现</em></p> <img src=\"https://img.shields.io/github/stars/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub stars\"/> <img src=\"https://img.shields.io/github/forks/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub forks\"/> <img src=\"htt...",
-      "language": "Python",
-      "stars": 458
+      "repo_name": "YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "description_ja": "GTA 5: Enhanced向けの実験的なメニュー",
+      "readme_summary": "YimMenuV2 Experimental menu for GTA 5: Enhanced How to use 1. Download the latest version of FSL from here and place version.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety 2",
+      "readme_summary_ja": "YimMenuV2 Experimental menu for GTA 5: Enhanced How to use 1. Download the latest version of FSL from here and place version.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety 2",
+      "language": "C++",
+      "stars": 22
     },
     {
       "rank": 7,
-      "repo_name": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "description_ja": "Open-Source Frontier Voice AI",
-      "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![Technical Report](https://arxiv.org/pdf/2508.19205) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"Figures/VibeVoice_logo_white.png\"> <img src=\"Figures/VibeVoice_logo.png\" alt=\"VibeVoice Logo\" width=\"300\"> </picture> </div> <div align=\"l...",
-      "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![Technical Report](https://arxiv.org/pdf/2508.19205) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"Figures/VibeVoice_logo_white.png\"> <img src=\"Figures/VibeVoice_logo.png\" alt=\"VibeVoice Logo\" width=\"300\"> </picture> </div> <div align=\"l...",
-      "language": "Python",
-      "stars": 966
+      "repo_name": "mlabonne/llm-course",
+      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "description_ja": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "readme_summary": "<div align=\"center\"> <img src=\"img/banner.png\" alt=\"LLM Course\"> <p align=\"center\"> 𝕏 <a href=\"https://twitter.com/maximelabonne\">Follow me on X</a> • 🤗 <a href=\"https://huggingface.co/mlabonne\">Hugging Face</a> • 💻 <a href=\"https://mlabonne.github.io/blog\">Blog</a> • 📙 <a href=\"https://packt.link/a/9781836200079\">LLM Engineer's Handbook</a> </p> </div> <br/> <a href=\"https://a.co/d/a2M67rE\"><img align=\"right\" width=\"25%\" src=\"https://i.imgur.com/7iNjEq2.png\" alt=\"LLM Engineer's Handbook Cover\"/...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"img/banner.png\" alt=\"LLM Course\"> <p align=\"center\"> 𝕏 <a href=\"https://twitter.com/maximelabonne\">Follow me on X</a> • 🤗 <a href=\"https://huggingface.co/mlabonne\">Hugging Face</a> • 💻 <a href=\"https://mlabonne.github.io/blog\">Blog</a> • 📙 <a href=\"https://packt.link/a/9781836200079\">LLM Engineer's Handbook</a> </p> </div> <br/> <a href=\"https://a.co/d/a2M67rE\"><img align=\"right\" width=\"25%\" src=\"https://i.imgur.com/7iNjEq2.png\" alt=\"LLM Engineer's Handbook Cover\"/...",
+      "language": "",
+      "stars": 187
     },
     {
       "rank": 8,
-      "repo_name": "block/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "description_ja": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"> <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"> </a> <a href=\"https://discord.gg/goose-oss\"> <img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"> </a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\"> ...",
-      "readme_summary_ja": "goose：エンジニアリングタスクを自動化する、ローカルで拡張可能なオープンソースのAIエージェント",
-      "language": "Rust",
-      "stars": 441
+      "repo_name": "agentsmd/agents.md",
+      "description": "AGENTS.md — a simple, open format for guiding coding agents",
+      "description_ja": "AGENTS.md - コーディングエージェントを導くための、シンプルでオープンなフォーマット",
+      "readme_summary": "AGENTS.md !AGENTS.md logo AGENTS.md is a simple, open format for guiding coding agents. Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide context and instructions to help AI coding agents work on your project. Below is a minimal example of an AGENTS.md file: Website This repository also includes a basic Next.js website hosted at https://agents.md/ that explains the project’s goals in a simple way, and featuring some examples",
+      "readme_summary_ja": "AGENTS.md !AGENTS.md logo AGENTS.md is a simple, open format for guiding coding agents. Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide context and instructions to help AI coding agents work on your project. Below is a minimal example of an AGENTS.md file: Website This repository also includes a basic Next.js website hosted at https://agents.md/ that explains the project’s goals in a simple way, and featuring some examples",
+      "language": "TypeScript",
+      "stars": 682
     },
     {
       "rank": 9,
-      "repo_name": "666ghj/BettaFish",
-      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-      "description_ja": "微舆：誰でも使えるマルチエージェント型世論分析アシスタント。情報の偏りを解消し、世論の真の姿を明らかにし、将来の動向を予測して意思決定を支援します。ゼロから実装されており、いかなるフレームワークにも依存しません。",
-      "readme_summary": "<div align=\"center\"> <img src=\"static/image/logo_compressed.png\" alt=\"BettaFish Logo\" width=\"100%\"> <a href=\"https://trendshift.io/repositories/15286\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15286\" alt=\"666ghj%2FBettaFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href=\"https://aihubmix.com/?aff=8Ds9\" target=\"_blank\"><img src=\"./static/image/logo_aihubmix.png\" alt=\"666ghj%2FBettaFish | Trendshift\" height=\"40\"/></a>&ensp; <a h...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"static/image/logo_compressed.png\" alt=\"BettaFish ロゴ\" width=\"100%\"> <a href=\"https://trendshift.io/repositories/15286\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15286\" alt=\"666ghj%2FBettaFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href=\"https://aihubmix.com/?aff=8Ds9\" target=\"_blank\"><img src=\"./static/image/logo_aihubmix.png\" alt=\"666ghj%2FBettaFish | Trendshift\" height=\"40\"/></a>&ensp; <a h...",
-      "language": "Python",
-      "stars": 326
+      "repo_name": "HotCakeX/Harden-Windows-Security",
+      "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨",
+      "description_ja": "Microsoft公式サポートの手法と適切な解説を用いて、Windowsを安全かつ確実に強化します。常に最新のWindowsビルドに対応。個人、企業、政府、軍事レベルのセキュリティに対応したツールとガイドを提供。セキュアな開発およびビルドプロセスにおいてSLSA Level 3に準拠。アプリはMSストアで入手可能です。✨",
+      "readme_summary": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/HotCakeX/.github/ada341c67b0c94ff71f846e5e90d2f1366eddde7/Pictures/Gifs/butterfly1-mirrored.gif\">!Big Yummy Donut!Big Yummy Donut!Big Yummy Donut<img src=\"https://raw.githubusercontent.com/HotCakeX/.github/f69eeab3a49cf90a40e98ca50630d5615ee379c8/Pictures/Gifs/butterfly1.gif\"> Harden Windows Security | A New Threat to Malware <a name=\"readme-top\"></a> Harden Windows Safely, Securely, Only With Official Microsoft Methods </div> <div...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/HotCakeX/.github/ada341c67b0c94ff71f846e5e90d2f1366eddde7/Pictures/Gifs/butterfly1-mirrored.gif\">!大きな美味しいドーナツ!大きな美味しいドーナツ!大きな美味しいドーナツ<img src=\"https://raw.githubusercontent.com/HotCakeX/.github/f69eeab3a49cf90a40e98ca50630d5615ee379c8/Pictures/Gifs/butterfly1.gif\"> Windowsセキュリティを強化 | マルウェアに対する新たな脅威 <a name=\"readme-top\"></a> Windowsを安全かつ確実に、Microsoft公式の方法のみで強化します </div> <div...",
+      "language": "C#",
+      "stars": 42
     },
     {
       "rank": 10,
-      "repo_name": "cloudflare/vibesdk",
-      "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
-      "description_ja": "Cloudflareスタック上に構築された、独自のバイブコーディングプラットフォームを構築するためのオープンソースなバイブコーディングプラットフォームです。",
-      "readme_summary": "🧡 Cloudflare Vibe SDK > **An open source full-stack AI webapp generator** – Deploy your own instance of Cloudflare VibeSDK, an AI vibe coding platform that you can run and customize yourself. <div align=\"center\"> 🚀 Live Demo **build.cloudflare.dev** *Explore VibeSDK Build before deploying your own stack.* ![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/vibesdk) **👆 Click to deploy your own instance!** *Follow the setup guide below to confi...",
-      "readme_summary_ja": "🧡 Cloudflare Vibe SDK > **オープンソースのフルスタックAIウェブアプリジェネレーター** – Cloudflare VibeSDKの独自のインスタンスをデプロイしましょう。これは、自分で実行およびカスタマイズできるAIバイブコーディングプラットフォームです。<div align=\"center\"> 🚀 ライブデモ **build.cloudflare.dev** *独自のスタックをデプロイする前にVibeSDK Buildを試してみてください。* ![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/vibesdk) **👆 クリックして独自のインスタンスをデプロイ！** *以下のセットアップガイドに従って設定...",
-      "language": "TypeScript",
-      "stars": 101
+      "repo_name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "description_ja": "小学校、中学校、高校、大学のPDF教材をまとめています。",
+      "readme_summary": "项目的由来 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 学习数学 希望未来出现更多不是为了考学而读书的人。 小学数学 - 一年级上册 - 一年级下册 - 二年级上册 - 二年级下册 - 三年级上册 - 三年级下册 - 四年级上册 - 四年级下册 - 五年级上册 - 五年级下册 - 六年级上册 - 六年级下册 初中数学 - 初一上册 - 初一下册 - 初二上册 - 初二下册 - 初三上册 - 初三下册 高中数学 - 目录 大学数学 - 高等数学 - 线性代数 - 离散数学 - 概率论 - 更多数学资料-(大学数学网) 问题：如何合并被拆分的文件？ 由于 GitHub 对单个文件的上传有最大限制，超过 100MB 的文件会被拒绝上传，超过 50MB 的文件上传时会收到警告。因此，文件大小超过 50MB 的文件会被拆分成每个 35MB 的多个文件。 示...",
+      "readme_summary_ja": "このプロジェクトは、国内の教育サイトで無料のリソースが提供されているにもかかわらず、多くの人が情報にアクセスしづらい状況を改善するために始まりました。一部の人がその状況を利用し、個人的な透かしを入れたリソースを販売している現状に対抗するため、これらのリソースを集中管理し、オープンソース化することで、義務教育の普及と地域間の教育格差の解消を目指します。\n\nまた、海外在住の中国人が、自分の子供たちに国内の教育を学ばせる手助けをしたいという思いもあります。\n\n収録内容：\n\n*   小学数学（1年生～6年生、各学年上下巻）\n*   中学数学（中学1年生～3年生、各学年上下巻）\n*   高校数学（目次）\n*   大学数学（高等数学、線形代数、離散数学、確率論、その他 - 大学数学網）\n\n**ファイルの分割と結合について",
+      "language": "Roff",
+      "stars": 127
     },
     {
       "rank": 11,
-      "repo_name": "microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
-      "description_ja": "21のレッスンで、生成AIを使った開発を始めよう",
-      "readme_summary": "!Generative AI For Beginners 21 Lessons teaching everything you need to know to start building Generative AI applications ![GitHub license](https://github.com/microsoft/Generative-AI-For-Beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst) ![GitHub contributors](https://GitHub.com/microsoft/Generative-AI-For-Beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst) ![GitHub issues](https://GitHub.com/microsoft/Generative-AI-For-Beginners/issues/?WT.mc_id=academic-105485-koreyst...",
-      "readme_summary_ja": "Generative AI入門：生成AIアプリケーションの構築を始めるために必要なすべてを学べる21のレッスン。",
-      "language": "Jupyter Notebook",
-      "stars": 404
+      "repo_name": "mindsdb/mindsdb",
+      "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+      "description_ja": "AIのための連合クエリエンジン - これ一つあれば十分なMCPサーバー",
+      "readme_summary": "<a name=\"readme-top\"></a> <div align=\"center\"> <a href=\"https://pypi.org/project/MindsDB/\" target=\"_blank\"><img src=\"https://badge.fury.io/py/MindsDB.svg\" alt=\"MindsDB Release\"></a> <a href=\"https://www.python.org/downloads/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/python-3.10.x%7C%203.11.x%7C%203.12.x%7C%203.13.x-brightgreen.svg\" alt=\"Python supported\"></a> <a href=\"https://hub.docker.com/u/mindsdb\" target=\"_blank\"><img src=\"https://img.shields.io/docker/pulls/mindsdb/mindsdb\" al...",
+      "readme_summary_ja": "MindsDB\n\n[MindsDB Release](https://pypi.org/project/MindsDB/)\n\n[Python supported](https://www.python.org/downloads/)\n\n[Docker Pulls](https://hub.docker.com/u/mindsdb)",
+      "language": "Python",
+      "stars": 33
     },
     {
       "rank": 12,
-      "repo_name": "infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "description_ja": "RAGFlowは、最先端のRAG（検索拡張生成）とエージェント機能を融合し、LLM（大規模言語モデル）のための優れたコンテキスト層を構築する、主要なオープンソースRAGエンジンです。",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://demo.ragflow.io/\"> <img src=\"web/src/assets/logo-with-text.svg\" width=\"520\" alt=\"ragflow logo\"> </a> </div> <p align=\"center\"> <a href=\"./README.md\"><img alt=\"README in English\" src=\"https://img.shields.io/badge/English-DBEDFA\"></a> <a href=\"./README_zh.md\"><img alt=\"简体中文版自述文件\" src=\"https://img.shields.io/badge/简体中文-DFE0E5\"></a> <a href=\"./README_tzh.md\"><img alt=\"繁體版中文自述文件\" src=\"https://img.shields.io/badge/繁體中文-DFE0E5\"></a> <a href=\"./README_ja.md\"><img al...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://demo.ragflow.io/\"> <img src=\"web/src/assets/logo-with-text.svg\" width=\"520\" alt=\"ragflow ロゴ\"> </a> </div> <p align=\"center\"> <a href=\"./README.md\"><img alt=\"英語のREADME\" src=\"https://img.shields.io/badge/English-DBEDFA\"></a> <a href=\"./README_zh.md\"><img alt=\"中国語(簡体字)版README\" src=\"https://img.shields.io/badge/简体中文-DFE0E5\"></a> <a href=\"./README_tzh.md\"><img alt=\"中国語(繁体字)版README\" src=\"https://img.shields.io/badge/繁體中文-DFE0E5\"></a> <a href=\"./README_ja.md\"><img al...",
+      "repo_name": "GoogleCloudPlatform/agent-starter-pack",
+      "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+      "description_ja": "AIエージェントを数ヶ月ではなく、数分でGoogle Cloudへデプロイ。CI/CD、評価、可観測性が組み込まれた、すぐに本番環境で使用できるテンプレートを提供。",
+      "readme_summary": "🚀 Agent Starter Pack !Version ![1-Minute Video Overview](https://youtu.be/jHt-ZVD660g) ![Docs](https://googlecloudplatform.github.io/agent-starter-pack/) <a href=\"https://studio.firebase.google.com/new?template=https%3A%2F%2Fgithub.com%2FGoogleCloudPlatform%2Fagent-starter-pack%2Ftree%2Fmain%2Fagent_starter_pack%2Fresources%2Fidx\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://cdn.firebasestudio.dev/btn/try_light_20.svg\"> <source media=\"(prefers-color-scheme: light)\" src...",
+      "readme_summary_ja": "🚀 エージェントスターターパック！バージョン！[1分間のビデオ概要](https://youtu.be/jHt-ZVD660g) ![ドキュメント](https://googlecloudplatform.github.io/agent-starter-pack/) <a href=\"https://studio.firebase.google.com/new?template=https%3A%2F%2Fgithub.com%2FGoogleCloudPlatform%2Fagent-starter-pack%2Ftree%2Fmain%2Fagent_starter_pack%2Fresources%2Fidx\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://cdn.firebasestudio.dev/btn/try_light_20.svg\"> <source media=\"(prefers-color-scheme: light)\" src...",
       "language": "Python",
-      "stars": 174
+      "stars": 90
     },
     {
       "rank": 13,
-      "repo_name": "google/adk-samples",
-      "description": "A collection of sample agents built with Agent Development Kit (ADK)",
-      "description_ja": "Agent Development Kit (ADK) で構築されたサンプルエージェント集",
-      "readme_summary": "Agent Development Kit (ADK) Samples ![License](LICENSE) <img src=\"https://github.com/google/adk-docs/blob/main/docs/assets/agent-development-kit.png\" alt=\"Agent Development Kit Logo\" width=\"150\"> Welcome to the ADK Sample Agents repository! This collection provides ready-to-use agents built on top of the Agent Development Kit, designed to accelerate your development process. These agents cover a range of common use cases and complexities, from simple conversational bots to complex multi-agent wo...",
-      "readme_summary_ja": "Agent Development Kit (ADK) サンプル ![ライセンス](LICENSE) <img src=\"https://github.com/google/adk-docs/blob/main/docs/assets/agent-development-kit.png\" alt=\"Agent Development Kit Logo\" width=\"150\"> ADKサンプルエージェントリポジトリへようこそ！このコレクションは、Agent Development Kitを基盤として構築された、すぐに使えるエージェントを提供し、開発プロセスを加速するように設計されています。これらのエージェントは、単純な会話ボットから複雑なマルチエージェントワークフローまで、さまざまな一般的なユースケースと複雑さを網羅しています。",
-      "language": "Python",
-      "stars": 282
-    },
-    {
-      "rank": 14,
-      "repo_name": "microsoft/ML-For-Beginners",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "description_ja": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "readme_summary": "![GitHub license](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/ML-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/ML-For-Beginners/pulls/) ![PRs Welcome](http://makeapullrequest.com) ![GitHub watchers](https://GitHub.com/microsoft/ML-For-Beginners/watchers/) ![GitHub forks](https://GitHub.com/microsoft/ML-For-Be...",
-      "readme_summary_ja": "![GitHub license](https://github.com/microsoft/ML-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/ML-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/ML-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/ML-For-Beginners/pulls/) ![PRs Welcome](http://makeapullrequest.com) ![GitHub watchers](https://GitHub.com/microsoft/ML-For-Beginners/watchers/) ![GitHub forks](https://GitHub.com/microsoft/ML-For-Be...",
-      "language": "Jupyter Notebook",
-      "stars": 141
+      "repo_name": "rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "description_ja": "TeamViewerの代替として、セルフホスト向けに設計されたオープンソースのリモートデスクトップアプリケーション。",
+      "readme_summary": "<p align=\"center\"> <img src=\"res/logo-header.svg\" alt=\"RustDesk - Your remote desktop\"><br> <a href=\"#raw-steps-to-build\">Build</a> • <a href=\"#how-to-build-with-docker\">Docker</a> • <a href=\"#file-structure\">Structure</a> • <a href=\"#snapshot\">Snapshot</a><br> [<a href=\"docs/README-UA.md\">Українська</a>] | [<a href=\"docs/README-CS.md\">česky</a>] | [<a href=\"docs/README-ZH.md\">中文</a>] | [<a href=\"docs/README-HU.md\">Magyar</a>] | [<a href=\"docs/README-ES.md\">Español</a>] | [<a href=\"docs/README-F...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"res/logo-header.svg\" alt=\"RustDesk - あなたのリモートデスクトップ\"><br> <a href=\"#raw-steps-to-build\">ビルド</a> • <a href=\"#how-to-build-with-docker\">Docker</a> • <a href=\"#file-structure\">構成</a> • <a href=\"#snapshot\">スナップショット</a><br> [<a href=\"docs/README-UA.md\">Українська</a>] | [<a href=\"docs/README-CS.md\">česky</a>] | [<a href=\"docs/README-ZH.md\">中文</a>] | [<a href=\"docs/README-HU.md\">Magyar</a>] | [<a href=\"docs/README-ES.md\">Español</a>] | [<a href=\"docs/README-F...",
+      "language": "Rust",
+      "stars": 84
     }
   ]
 }
