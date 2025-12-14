@@ -1,146 +1,156 @@
 {
-  "updated_at": "2025-12-13 02:47:21",
-  "total_repos": 14,
+  "updated_at": "2025-12-14 03:01:42",
+  "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "description_ja": "Claudeのコーディングセッションを自動で記録し、Claudeのagent-sdkを用いてAIで圧縮、関連するコンテキストを以降のセッションに注入するプラグイン。",
-      "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
-      "readme_summary_ja": "(画像: Claude-memのロゴ)\n\nClaude-mem: Claudeの長期記憶を実現するソリューション。",
+      "repo_name": "CopilotKit/CopilotKit",
+      "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+      "description_ja": "AIコパイロット、AIチャットボット、アプリ内AIエージェントのためのReact UIと洗練されたインフラ。エージェント技術の実用化を支援します。",
+      "readme_summary": "<a href=\"https://go.copilotkit.ai/v150-whats-new\" target=\"_blank\"> <img width=\"1595\" height=\"284\" alt=\"Introducing CopilotKit v1 50!\" src=\"https://github.com/user-attachments/assets/5d852a9b-290a-44b7-8c6a-9f75e51f1713\" /> <a /> <br> <a href=\"https://go.copilotkit.ai/copilotkit-docs\" target=\"_blank\"> <img width=\"4096\" height=\"1588\" alt=\"header\" src=\"https://github.com/user-attachments/assets/dd638592-fb74-4e22-8c55-49dfc4d0e462\" /> <a /> <br> <div align=\"start\" style=\"display:flex;justify-conten...",
+      "readme_summary_ja": "CopilotKit v1.50へようこそ！詳細は[https://go.copilotkit.ai/v150-whats-new](https://go.copilotkit.ai/v150-whats-new)をご覧ください。\n\nドキュメントは[https://go.copilotkit.ai/copilotkit-docs](https://go.copilotkit.ai/copilotkit-docs)をご覧ください。",
       "language": "TypeScript",
-      "stars": 658
+      "stars": 135
     },
     {
       "rank": 2,
-      "repo_name": "block/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "description_ja": "コード補完にとどまらない、拡張可能なオープンソースのAIエージェント。あらゆるLLMでインストール、実行、編集、テストが可能です。",
-      "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"> <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"> </a> <a href=\"https://discord.gg/goose-oss\"> <img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"> </a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\"> ...",
-      "readme_summary_ja": "goose：エンジニアリングタスクを自動化する、ローカルで拡張可能なオープンソースのAIエージェント",
-      "language": "Rust",
-      "stars": 371
+      "repo_name": "DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "description_ja": "draw.ioダイアグラムとAI機能を統合したNext.jsウェブアプリケーションです。自然言語コマンドやAI支援による可視化を通じて、ダイアグラムの作成、修正、強化が可能です。",
+      "readme_summary": "Next AI Draw.io <div align=\"center\"> **AI-Powered Diagram Creation Tool - Chat, Draw, Visualize** English | 中文 | 日本語 ![TrendShift](https://next-ai-drawio.jiang.jp/) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Next.js](https://nextjs.org/) ![React](https://react.dev/) ![Sponsor](https://github.com/sponsors/DayuanJiang) ![Live Demo](https://next-ai-drawio.jiang.jp/) </div> A Next.js web application that integrates AI capabilities with draw.io diagrams. Create, modify, and ...",
+      "readme_summary_ja": "次世代AI Draw.io\n\nAI搭載の図作成ツール - チャット、描画、可視化\n\n[英語 | 中国語 | 日本語]\n\n(各種バッジ)\n\ndraw.ioの図にAI機能を統合したNext.js製のWebアプリケーションです。作成、修正、そして…",
+      "language": "TypeScript",
+      "stars": 624
     },
     {
       "rank": 3,
-      "repo_name": "datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "description_ja": "📚 《ゼロから始めるインテリジェントエージェント構築》 - ゼロから学ぶインテリジェントエージェントの原理と実践チュートリアル",
-      "readme_summary": "<div align=\"right\"> <a href=\"./README_EN.md\">English</a> | 中文 </div> <div align='center'> <img src=\"./docs/images/hello-agents.png\" alt=\"alt text\" width=\"100%\"> <h1>Hello-Agents</h1> <h3>🤖 《从零开始构建智能体》</h3> <p><em>从基础理论到实际应用，全面掌握智能体系统的设计与实现</em></p> <img src=\"https://img.shields.io/github/stars/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub stars\"/> <img src=\"https://img.shields.io/github/forks/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub forks\"/> <img src=\"htt...",
-      "readme_summary_ja": "<div align=\"right\"> <a href=\"./README_EN.md\">English</a> | 中文 </div> <div align='center'> <img src=\"./docs/images/hello-agents.png\" alt=\"alt text\" width=\"100%\"> <h1>Hello-Agents</h1> <h3>🤖 《ゼロから始めるエージェント構築》</h3> <p><em>基礎理論から実践まで、エージェントシステムの設計と実装を網羅的に習得</em></p> <img src=\"https://img.shields.io/github/stars/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub stars\"/> <img src=\"https://img.shields.io/github/forks/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub forks\"/> <img src=\"htt...",
-      "language": "Python",
-      "stars": 527
+      "repo_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_ja": "Claudeのコーディングセッションを自動的に記録し、Claudeのagent-sdkを使ってAIで圧縮、関連するコンテキストを今後のセッションに注入するプラグイン。",
+      "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
+      "readme_summary_ja": "(翻訳結果が途中で途切れているため、原文全体を翻訳できません。冒頭部分のみ翻訳します。)\n\n**Claude-Mem**",
+      "language": "TypeScript",
+      "stars": 950
     },
     {
       "rank": 4,
-      "repo_name": "agentsmd/agents.md",
-      "description": "AGENTS.md — a simple, open format for guiding coding agents",
-      "description_ja": "AGENTS.md - コーディングエージェントを導くための、シンプルでオープンなフォーマット",
-      "readme_summary": "AGENTS.md !AGENTS.md logo AGENTS.md is a simple, open format for guiding coding agents. Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide context and instructions to help AI coding agents work on your project. Below is a minimal example of an AGENTS.md file: Website This repository also includes a basic Next.js website hosted at https://agents.md/ that explains the project’s goals in a simple way, and featuring some examples",
-      "readme_summary_ja": "AGENTS.mdは、コーディングエージェントを導くためのシンプルでオープンなフォーマットです。AGENTS.mdを、エージェントのためのREADMEと考えてください。AIコーディングエージェントがあなたのプロジェクトに取り組む際に役立つ、コンテキストと指示を提供するための、専用の予測可能な場所です。以下はAGENTS.mdファイルの最小限の例です。\n\nウェブサイト：このリポジトリには、プロジェクトの目標をわかりやすく説明し、いくつかの例を紹介する、基本的なNext.jsウェブサイト（https://agents.md/）も含まれています。",
-      "language": "TypeScript",
-      "stars": 791
+      "repo_name": "mindsdb/mindsdb",
+      "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+      "description_ja": "AI向けフェデレーションクエリエンジン - 必要なのはこれ一つ、MCPサーバー",
+      "readme_summary": "<a name=\"readme-top\"></a> <div align=\"center\"> <a href=\"https://pypi.org/project/MindsDB/\" target=\"_blank\"><img src=\"https://badge.fury.io/py/MindsDB.svg\" alt=\"MindsDB Release\"></a> <a href=\"https://www.python.org/downloads/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/python-3.10.x%7C%203.11.x%7C%203.12.x%7C%203.13.x-brightgreen.svg\" alt=\"Python supported\"></a> <a href=\"https://hub.docker.com/u/mindsdb\" target=\"_blank\"><img src=\"https://img.shields.io/docker/pulls/mindsdb/mindsdb\" al...",
+      "readme_summary_ja": "<div align=\"center\"> <a name=\"readme-top\"></a>\n\nMindsDBのリリース: <a href=\"https://pypi.org/project/MindsDB/\" target=\"_blank\"><img src=\"https://badge.fury.io/py/MindsDB.svg\" alt=\"MindsDB Release\"></a>\n\nサポートするPythonバージョン: <a href=\"https://www.python.org/downloads/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/python-3.10.x%7C%203.11.x%7C%203.12.x%7C%203.13.x-brightgreen.svg\" alt=\"Python supported\"></a>\n\nDocker Hub: <a href=\"https://hub.docker.com/u/mindsdb\" target=\"_blank\"><img src=\"https://img.shields.io",
+      "language": "Python",
+      "stars": 23
     },
     {
       "rank": 5,
-      "repo_name": "GoogleCloudPlatform/agent-starter-pack",
-      "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
-      "description_ja": "AIエージェントを数ヶ月ではなく、数分でGoogle Cloudへデプロイ。CI/CD、評価、可観測性が組み込まれた、すぐに本番環境で利用可能なテンプレートを提供。",
-      "readme_summary": "🚀 Agent Starter Pack !Version ![1-Minute Video Overview](https://youtu.be/jHt-ZVD660g) ![Docs](https://googlecloudplatform.github.io/agent-starter-pack/) <a href=\"https://studio.firebase.google.com/new?template=https%3A%2F%2Fgithub.com%2FGoogleCloudPlatform%2Fagent-starter-pack%2Ftree%2Fmain%2Fagent_starter_pack%2Fresources%2Fidx\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://cdn.firebasestudio.dev/btn/try_light_20.svg\"> <source media=\"(prefers-color-scheme: light)\" src...",
-      "readme_summary_ja": "🚀 エージェント開発スターターパック！バージョン ![1分間の概要動画](https://youtu.be/jHt-ZVD660g) ![ドキュメント](https://googlecloudplatform.github.io/agent-starter-pack/) <a href=\"https://studio.firebase.google.com/new?template=https%3A%2F%2Fgithub.com%2FGoogleCloudPlatform%2Fagent-starter-pack%2Ftree%2Fmain%2Fagent_starter_pack%2Fresources%2Fidx\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://cdn.firebasestudio.dev/btn/try_light_20.svg\"> <source media=\"(prefers-color-scheme: light)\" src...",
-      "language": "Python",
-      "stars": 348
+      "repo_name": "simstudioai/sim",
+      "description": "Open-source platform to build and deploy AI agent workflows.",
+      "description_ja": "AIエージェントのワークフローを構築・デプロイするためのオープンソースプラットフォーム。",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"apps/sim/public/logo/reverse/text/large.png\" alt=\"Sim Logo\" width=\"500\"/> </a> </p> <p align=\"center\">Build and deploy AI agent workflows in minutes.</p> <p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/sim.ai-6F3DFA\" alt=\"Sim.ai\"></a> <a href=\"https://discord.gg/Hr4UWYEcTT\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=...",
+      "readme_summary_ja": "AIエージェントのワークフローを数分で構築・デプロイ。",
+      "language": "TypeScript",
+      "stars": 151
     },
     {
       "rank": 6,
-      "repo_name": "YimMenu/YimMenuV2",
-      "description": "Experimental menu for GTA 5: Enhanced",
-      "description_ja": "GTA5: Enhanced向けの実験的なメニュー",
-      "readme_summary": "YimMenuV2 Experimental menu for GTA 5: Enhanced How to use 1. Download the latest version of FSL from here and place version.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety 2",
-      "readme_summary_ja": "YimMenuV2 Experimental menu for GTA 5: Enhanced How to use 1. Download the latest version of FSL from here and place version.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety 2",
-      "language": "C++",
-      "stars": 64
+      "repo_name": "Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "description_ja": "RAGパラダイムを用いて、深層ドキュメント理解、セマンティック検索、およびコンテキストを考慮した回答を実現する、LLMを活用したフレームワーク。",
+      "readme_summary": "<p align=\"center\"> <picture> <img src=\"./docs/images/logo.png\" alt=\"WeKnora Logo\" height=\"120\"/> </picture> </p> <p align=\"center\"> <picture> <a href=\"https://trendshift.io/repositories/15289\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories/15289\" alt=\"Tencent%2FWeKnora | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </picture> </p> <p align=\"center\"> <a href=\"https://weknora.weixin.qq.com\" target=\"_blank\"> <img alt=\"官方网站\" src=\"https://img...",
+      "readme_summary_ja": "<p align=\"center\"> <picture> <img src=\"./docs/images/logo.png\" alt=\"WeKnora Logo\" height=\"120\"/> </picture> </p> <p align=\"center\"> <picture> <a href=\"https://trendshift.io/repositories/15289\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories/15289\" alt=\"Tencent%2FWeKnora | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </picture> </p> <p align=\"center\"> <a href=\"https://weknora.weixin.qq.com\" target=\"_blank\"> <img alt=\"官方网站\" src=\"https://img...",
+      "language": "Go",
+      "stars": 117
     },
     {
       "rank": 7,
-      "repo_name": "refly-ai/refly",
-      "description": "Vibe Workflow Platform for Non-technical Creators.",
-      "description_ja": "Vibe Workflow Platform for Non-technical Creators.",
-      "readme_summary": "!refly-cover <div align=\"center\"> <h1 align=\"center\" style=\"border-bottom: none\"> <b> <a href=\"https://refly.ai\">Refly.AI</a><br> </b> ⭐️ The World's First Vibe Workflow Platform for Non-technical Creators ⭐️ <br> </h1> </div> Refly.AI is the world's first vibe workflow platform that empowers non-technical creators to build, share and monetize powerful AI automation workflows through simple prompts and a visual canvas - no coding required. - N8N for non-technical: Build workflows as easily as as...",
-      "readme_summary_ja": "!refly-cover <div align=\"center\"> <h1 align=\"center\" style=\"border-bottom: none\"> <b> <a href=\"https://refly.ai\">Refly.AI</a><br> </b> ⭐️ The World's First Vibe Workflow Platform for Non-technical Creators ⭐️ <br> </h1> </div> Refly.AI is the world's first vibe workflow platform that empowers non-technical creators to build, share and monetize powerful AI automation workflows through simple prompts and a visual canvas - no coding required. - N8N for non-technical: Build workflows as easily as as...",
-      "language": "TypeScript",
-      "stars": 67
+      "repo_name": "spipm/Depixelization_poc",
+      "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
+      "description_ja": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
+      "readme_summary": "Depix Depix is a PoC for a technique to recover plaintext from pixelized screenshots. This implementation works on pixelized images that were created with a linear box filter. In this article I cover background information on pixelization and similar research",
+      "readme_summary_ja": "Depixは、ピクセル化されたスクリーンショットから平文を復元する技術のPoC（概念実証）です。この実装は、線形ボックスフィルターで作成されたピクセル化画像に対して機能します。記事では、ピクセル化の背景情報と関連研究について解説しています。",
+      "language": "Python",
+      "stars": 197
     },
     {
       "rank": 8,
-      "repo_name": "HotCakeX/Harden-Windows-Security",
-      "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨",
-      "description_ja": "Microsoft公式サポートの手法と適切な解説を用いて、Windowsを安全かつ確実に強化します。常に最新のWindowsビルドに対応。個人、企業、政府、軍事レベルのセキュリティに対応したツールとガイドを提供。セキュアな開発とビルドプロセスに関するSLSAレベル3に準拠。アプリはMSストアで入手可能です✨",
-      "readme_summary": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/HotCakeX/.github/ada341c67b0c94ff71f846e5e90d2f1366eddde7/Pictures/Gifs/butterfly1-mirrored.gif\">!Big Yummy Donut!Big Yummy Donut!Big Yummy Donut<img src=\"https://raw.githubusercontent.com/HotCakeX/.github/f69eeab3a49cf90a40e98ca50630d5615ee379c8/Pictures/Gifs/butterfly1.gif\"> Harden Windows Security | A New Threat to Malware <a name=\"readme-top\"></a> Harden Windows Safely, Securely, Only With Official Microsoft Methods </div> <div...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/HotCakeX/.github/ada341c67b0c94ff71f846e5e90d2f1366eddde7/Pictures/Gifs/butterfly1-mirrored.gif\">!Big Yummy Donut!Big Yummy Donut!Big Yummy Donut<img src=\"https://raw.githubusercontent.com/HotCakeX/.github/f69eeab3a49cf90a40e98ca50630d5615ee379c8/Pictures/Gifs/butterfly1.gif\"> Harden Windows Security | A New Threat to Malware <a name=\"readme-top\"></a> Harden Windows Safely, Securely, Only With Official Microsoft Methods </div> <div...",
-      "language": "C#",
-      "stars": 149
+      "repo_name": "YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "description_ja": "Experimental menu for GTA 5: Enhanced",
+      "readme_summary": "YimMenuV2 Experimental menu for GTA 5: Enhanced How to use 1. Download the latest version of FSL from here and place version.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety 2",
+      "readme_summary_ja": "YimMenuV2 Experimental menu for GTA 5: Enhanced How to use 1. Download the latest version of FSL from here and place version.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety 2",
+      "language": "C++",
+      "stars": 56
     },
     {
       "rank": 9,
-      "repo_name": "DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "description_ja": "draw.ioの図にAI機能を統合したNext.jsウェブアプリケーションです。自然言語による指示やAI支援による可視化を通じて、図の作成、修正、強化が可能です。",
-      "readme_summary": "Next AI Draw.io <div align=\"center\"> **AI-Powered Diagram Creation Tool - Chat, Draw, Visualize** English | 中文 | 日本語 ![TrendShift](https://next-ai-drawio.jiang.jp/) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Next.js](https://nextjs.org/) ![React](https://react.dev/) ![Sponsor](https://github.com/sponsors/DayuanJiang) ![Live Demo](https://next-ai-drawio.jiang.jp/) </div> A Next.js web application that integrates AI capabilities with draw.io diagrams. Create, modify, and ...",
-      "readme_summary_ja": "Next AI Draw.io <div align=\"center\"> **AI搭載の図作成ツール - チャット、描画、可視化** 日本語 | English | 中文 ![TrendShift](https://next-ai-drawio.jiang.jp/) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Next.js](https://nextjs.org/) ![React](https://react.dev/) ![Sponsor](https://github.com/sponsors/DayuanJiang) ![Live Demo](https://next-ai-drawio.jiang.jp/) </div> draw.io図にAI機能を統合したNext.jsウェブアプリケーション。作成、変更、...",
-      "language": "TypeScript",
-      "stars": 1036
-    },
-    {
-      "rank": 10,
       "repo_name": "tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "description_ja": "Tursoは、SQLiteと互換性のあるインプロセスSQLデータベースです。",
       "readme_summary": "<p align=\"center\"> <img src=\"assets/turso.png\" alt=\"Turso Database\" width=\"800\"/> <h1 align=\"center\">Turso Database</h1> </p> <p align=\"center\"> An in-process SQL database, compatible with SQLite. </p> <p align=\"center\"> <a title=\"Build Status\" target=\"_blank\" href=\"https://github.com/tursodatabase/turso/actions/workflows/rust.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/tursodatabase/turso/rust.yml?style=flat-square\"></a> <a title=\"Releases\" target=\"_blank\" href=\"https:/...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/turso.png\" alt=\"Turso Database\" width=\"800\"/> <h1 align=\"center\">Turso Database</h1> </p> <p align=\"center\"> SQLite互換のインプロセスSQLデータベースです。 </p> <p align=\"center\"> <a title=\"Build Status\" target=\"_blank\" href=\"https://github.com/tursodatabase/turso/actions/workflows/rust.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/tursodatabase/turso/rust.yml?style=flat-square\"></a> <a title=\"Releases\" target=\"_blank\" href=\"https:/...",
       "language": "Rust",
-      "stars": 88
+      "stars": 179
     },
     {
-      "rank": 11,
+      "rank": 10,
       "repo_name": "langgenius/dify",
       "description": "Production-ready platform for agentic workflow development.",
       "description_ja": "エージェント型ワークフロー開発のための、本番環境対応プラットフォーム。",
       "readme_summary": "!cover-v5-optimized <p align=\"center\"> 📌 <a href=\"https://dify.ai/blog/introducing-dify-workflow-file-upload-a-demo-on-ai-podcast\">Introducing Dify Workflow File Upload: Recreate Google NotebookLM Podcast</a> </p> <p align=\"center\"> <a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">Self-hosting</a> · <a href=\"https://docs.dify.ai\">Documentation</a> · <a href=\"https://dify.ai/pricing\">Dify edition overview</a> </p> <p align=\"center...",
-      "readme_summary_ja": "!cover-v5-optimized\n\nDifyワークフローのファイルアップロードをご紹介: Google NotebookLM Podcastを再現（詳細は<a href=\"https://dify.ai/blog/introducing-dify-workflow-file-upload-a-demo-on-ai-podcast\">こちら</a>）\n\n<a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">セルフホスティング</a> · <a href=\"https://docs.dify.ai\">ドキュメント</a> · <a href=\"https://dify.ai/pricing\">Difyエディション概要</a>",
+      "readme_summary_ja": "!cover-v5-optimized\n\nDifyワークフローのファイルアップロードをご紹介: Google NotebookLM Podcastを再現 (詳細は<a href=\"https://dify.ai/blog/introducing-dify-workflow-file-upload-a-demo-on-ai-podcast\">こちら</a>)\n\n<a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">セルフホスティング</a> · <a href=\"https://docs.dify.ai\">ドキュメント</a> · <a href=\"https://dify.ai/pricing\">Difyエディション概要</a>",
       "language": "TypeScript",
-      "stars": 118
+      "stars": 217
+    },
+    {
+      "rank": 11,
+      "repo_name": "datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "description_ja": "📚 《ゼロから始めるインテリジェントエージェント構築》 - ゼロから学ぶインテリジェントエージェントの原理と実践チュートリアル",
+      "readme_summary": "<div align=\"right\"> <a href=\"./README_EN.md\">English</a> | 中文 </div> <div align='center'> <img src=\"./docs/images/hello-agents.png\" alt=\"alt text\" width=\"100%\"> <h1>Hello-Agents</h1> <h3>🤖 《从零开始构建智能体》</h3> <p><em>从基础理论到实际应用，全面掌握智能体系统的设计与实现</em></p> <img src=\"https://img.shields.io/github/stars/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub stars\"/> <img src=\"https://img.shields.io/github/forks/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub forks\"/> <img src=\"htt...",
+      "readme_summary_ja": "<div align=\"right\"> <a href=\"./README_EN.md\">English</a> | 中文 </div> <div align='center'> <img src=\"./docs/images/hello-agents.png\" alt=\"alt text\" width=\"100%\"> <h1>Hello-Agents</h1> <h3>🤖 《ゼロから始めるエージェント構築》</h3> <p><em>基礎理論から実践まで、インテリジェントエージェントシステムの設計と実装を網羅的に習得</em></p> <img src=\"https://img.shields.io/github/stars/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub stars\"/> <img src=\"https://img.shields.io/github/forks/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub forks\"/> <img src=\"htt...",
+      "language": "Python",
+      "stars": 423
     },
     {
       "rank": 12,
-      "repo_name": "tempoxyz/tempo",
-      "description": "the blockchain for payments",
-      "description_ja": "決済のためのブロックチェーン",
-      "readme_summary": "<br> <br> <p align=\"center\"> <a href=\"https://tempo.xyz\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tempoxyz/.github/refs/heads/main/assets/combomark-dark.svg\"> <img alt=\"tempo combomark\" src=\"https://raw.githubusercontent.com/tempoxyz/.github/refs/heads/main/assets/combomark-bright.svg\" width=\"auto\" height=\"120\"> </picture> </a> </p> <br> <br> Tempo The blockchain for payments at scale. Tempo is a blockchain designed specifically for stable...",
-      "readme_summary_ja": "<br> <br> <p align=\"center\"> <a href=\"https://tempo.xyz\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tempoxyz/.github/refs/heads/main/assets/combomark-dark.svg\"> <img alt=\"tempo combomark\" src=\"https://raw.githubusercontent.com/tempoxyz/.github/refs/heads/main/assets/combomark-bright.svg\" width=\"auto\" height=\"120\"> </picture> </a> </p> <br> <br> Tempo：大規模決済向けブロックチェーン。Tempoは、ステーブルコインに特化して設計されたブロックチェーンです。",
-      "language": "Rust",
-      "stars": 142
+      "repo_name": "agentsmd/agents.md",
+      "description": "AGENTS.md — a simple, open format for guiding coding agents",
+      "description_ja": "AGENTS.md - コーディングエージェントを誘導するためのシンプルでオープンなフォーマット",
+      "readme_summary": "AGENTS.md !AGENTS.md logo AGENTS.md is a simple, open format for guiding coding agents. Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide context and instructions to help AI coding agents work on your project. Below is a minimal example of an AGENTS.md file: Website This repository also includes a basic Next.js website hosted at https://agents.md/ that explains the project’s goals in a simple way, and featuring some examples",
+      "readme_summary_ja": "AGENTS.md は、コーディングエージェントを導くためのシンプルでオープンなフォーマットです。AGENTS.md を、エージェントのための README のように考えてください。AI コーディングエージェントがあなたのプロジェクトで作業する際に役立つ、コンテキストと指示を提供する専用の、予測可能な場所です。以下は AGENTS.md ファイルの最小限の例です。\n\nこのリポジトリには、プロジェクトの目標を分かりやすく説明し、いくつかの例を紹介する基本的な Next.js ウェブサイト (https://agents.md/) も含まれています。",
+      "language": "TypeScript",
+      "stars": 406
     },
     {
       "rank": 13,
-      "repo_name": "infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "description_ja": "RAGFlowは、最先端のRAG（検索拡張生成）とエージェント機能を融合し、LLM（大規模言語モデル）のための優れたコンテキスト層を構築する、主要なオープンソースRAGエンジンです。",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://demo.ragflow.io/\"> <img src=\"web/src/assets/logo-with-text.svg\" width=\"520\" alt=\"ragflow logo\"> </a> </div> <p align=\"center\"> <a href=\"./README.md\"><img alt=\"README in English\" src=\"https://img.shields.io/badge/English-DBEDFA\"></a> <a href=\"./README_zh.md\"><img alt=\"简体中文版自述文件\" src=\"https://img.shields.io/badge/简体中文-DFE0E5\"></a> <a href=\"./README_tzh.md\"><img alt=\"繁體版中文自述文件\" src=\"https://img.shields.io/badge/繁體中文-DFE0E5\"></a> <a href=\"./README_ja.md\"><img al...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://demo.ragflow.io/\"> <img src=\"web/src/assets/logo-with-text.svg\" width=\"520\" alt=\"ragflow ロゴ\"> </a> </div> <p align=\"center\"> <a href=\"./README.md\"><img alt=\"英語のREADME\" src=\"https://img.shields.io/badge/English-DBEDFA\"></a> <a href=\"./README_zh.md\"><img alt=\"中国語(簡体字)版README\" src=\"https://img.shields.io/badge/简体中文-DFE0E5\"></a> <a href=\"./README_tzh.md\"><img alt=\"中国語(繁体字)版README\" src=\"https://img.shields.io/badge/繁體中文-DFE0E5\"></a> <a href=\"./README_ja.md\"><img al...",
-      "language": "Python",
-      "stars": 111
+      "repo_name": "shadcn-ui/ui",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "description_ja": "美しくデザインされた、アクセシブルなコンポーネント群と、コード配布プラットフォーム。お気に入りのフレームワークと連携可能。オープンソース、オープンコード。",
+      "readme_summary": "shadcn/ui A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source",
+      "readme_summary_ja": "shadcn/ui：美しくデザインされたコンポーネント集。カスタマイズ、拡張、そして構築のベースとして利用できます。まずはここから始めて、あなただけのUIを作り上げてください。（オープンソース）",
+      "language": "TypeScript",
+      "stars": 117
     },
     {
       "rank": 14,
-      "repo_name": "grpc/grpc-go",
-      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
-      "description_ja": "gRPCのGo言語実装。HTTP/2ベースのRPC。",
-      "readme_summary": "gRPC-Go ![GoDoc][API] ![GoReportCard](https://goreportcard.com/report/github.com/grpc/grpc-go) ![codecov](https://codecov.io/gh/grpc/grpc-go) The [Go][] implementation of [gRPC][]: A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. For more information see the [Go gRPC docs][], or jump directly into the [quick start][]. Prerequisites - **[Go][]**: any one of the **two latest major** [releases][go-releases]",
-      "readme_summary_ja": "gRPC-Go ![GoDoc][API] ![GoReportCard](https://goreportcard.com/report/github.com/grpc/grpc-go) ![codecov](https://codecov.io/gh/grpc/grpc-go) The [Go][] implementation of [gRPC][]: A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. For more information see the [Go gRPC docs][], or jump directly into the [quick start][]. Prerequisites - **[Go][]**: any one of the **two latest major** [releases][go-releases]",
-      "language": "Go",
-      "stars": 5
+      "repo_name": "karpathy/nanoGPT",
+      "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+      "description_ja": "中規模GPTの学習/ファインチューニングに最適な、最もシンプルで高速なリポジトリ。",
+      "readme_summary": "nanoGPT !nanoGPT --- **Update Nov 2025** nanoGPT has a new and improved cousin called nanochat. It is very likely you meant to use/find nanochat instead. nanoGPT (this repo) is now very old and deprecated but I will leave it up for posterity",
+      "readme_summary_ja": "nanoGPT！nanoGPT --- **2025年11月更新** nanoGPTには、改良された新しい姉妹版、nanochatがあります。おそらく、nanochatを使用/探しているのではないでしょうか。nanoGPT（このリポジトリ）は非常に古く、非推奨となりましたが、後世のために残しておきます。",
+      "language": "Python",
+      "stars": 78
+    },
+    {
+      "rank": 15,
+      "repo_name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "description_ja": "Chrome DevTools for coding agents",
+      "readme_summary": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
+      "readme_summary_ja": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
+      "language": "TypeScript",
+      "stars": 51
     }
   ]
 }
