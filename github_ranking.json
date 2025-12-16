@@ -1,156 +1,156 @@
 {
-  "updated_at": "2025-12-14 09:02:03",
+  "updated_at": "2025-12-16 09:02:08",
   "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "CopilotKit/CopilotKit",
-      "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
-      "description_ja": "AIコパイロット、AIチャットボット、アプリ内AIエージェントのためのReact UIと洗練されたインフラストラクチャ。エージェント技術の実用化を支援します 🪁",
-      "readme_summary": "<a href=\"https://go.copilotkit.ai/v150-whats-new\" target=\"_blank\"> <img width=\"1595\" height=\"284\" alt=\"Introducing CopilotKit v1 50!\" src=\"https://github.com/user-attachments/assets/5d852a9b-290a-44b7-8c6a-9f75e51f1713\" /> <a /> <br> <a href=\"https://go.copilotkit.ai/copilotkit-docs\" target=\"_blank\"> <img width=\"4096\" height=\"1588\" alt=\"header\" src=\"https://github.com/user-attachments/assets/dd638592-fb74-4e22-8c55-49dfc4d0e462\" /> <a /> <br> <div align=\"start\" style=\"display:flex;justify-conten...",
-      "readme_summary_ja": "CopilotKit v1.50 のご紹介！\n\n[ヘッダー画像]",
-      "language": "TypeScript",
-      "stars": 135
-    },
-    {
-      "rank": 2,
-      "repo_name": "DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "description_ja": "draw.ioダイアグラムとAI機能を統合したNext.jsウェブアプリケーションです。自然言語コマンドやAIによる視覚化支援を通じて、ダイアグラムの作成、修正、強化が可能です。",
-      "readme_summary": "Next AI Draw.io <div align=\"center\"> **AI-Powered Diagram Creation Tool - Chat, Draw, Visualize** English | 中文 | 日本語 ![TrendShift](https://next-ai-drawio.jiang.jp/) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Next.js](https://nextjs.org/) ![React](https://react.dev/) ![Sponsor](https://github.com/sponsors/DayuanJiang) ![Live Demo](https://next-ai-drawio.jiang.jp/) </div> A Next.js web application that integrates AI capabilities with draw.io diagrams. Create, modify, and ...",
-      "readme_summary_ja": "次世代AI Draw.io\n\nAI搭載の図作成ツール - チャット、描画、可視化\n\nNext.jsで構築されたWebアプリケーションで、draw.ioの図にAI機能を統合します。作成、変更、そして…",
-      "language": "TypeScript",
-      "stars": 624
-    },
-    {
-      "rank": 3,
-      "repo_name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "description_ja": "コーディングセッション中にClaudeが行うすべての操作を自動的に記録し、AI（Claudeのagent-sdkを使用）で圧縮して、関連するコンテキストを将来のセッションに注入するClaude Codeプラグイン。",
-      "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
-      "readme_summary_ja": "(画像: Claude-memのロゴ)\n\nClaude-mem: Claudeの長期記憶を実現するツール。",
-      "language": "TypeScript",
-      "stars": 950
-    },
-    {
-      "rank": 4,
-      "repo_name": "mindsdb/mindsdb",
-      "description": "Federated query engine for AI - The only MCP Server you'll ever need",
-      "description_ja": "AIのための連合クエリエンジン - これ一つあれば十分なMCPサーバー",
-      "readme_summary": "<a name=\"readme-top\"></a> <div align=\"center\"> <a href=\"https://pypi.org/project/MindsDB/\" target=\"_blank\"><img src=\"https://badge.fury.io/py/MindsDB.svg\" alt=\"MindsDB Release\"></a> <a href=\"https://www.python.org/downloads/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/python-3.10.x%7C%203.11.x%7C%203.12.x%7C%203.13.x-brightgreen.svg\" alt=\"Python supported\"></a> <a href=\"https://hub.docker.com/u/mindsdb\" target=\"_blank\"><img src=\"https://img.shields.io/docker/pulls/mindsdb/mindsdb\" al...",
-      "readme_summary_ja": "MindsDB\n\n[MindsDB Release](https://pypi.org/project/MindsDB/)\n\n[Python supported](https://www.python.org/downloads/)\n\n[Docker Pulls](https://hub.docker.com/u/mindsdb)",
-      "language": "Python",
-      "stars": 23
-    },
-    {
-      "rank": 5,
       "repo_name": "simstudioai/sim",
       "description": "Open-source platform to build and deploy AI agent workflows.",
       "description_ja": "AIエージェントのワークフローを構築・デプロイするためのオープンソースプラットフォーム。",
       "readme_summary": "<p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"apps/sim/public/logo/reverse/text/large.png\" alt=\"Sim Logo\" width=\"500\"/> </a> </p> <p align=\"center\">Build and deploy AI agent workflows in minutes.</p> <p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/sim.ai-6F3DFA\" alt=\"Sim.ai\"></a> <a href=\"https://discord.gg/Hr4UWYEcTT\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=...",
       "readme_summary_ja": "AIエージェントのワークフローを数分で構築・デプロイ。",
       "language": "TypeScript",
-      "stars": 151
+      "stars": 1451
+    },
+    {
+      "rank": 2,
+      "repo_name": "ZJU-LLMs/Foundations-of-LLMs",
+      "description": "A book for Learning the Foundations of LLMs",
+      "description_ja": "LLMの基礎を学ぶための書籍",
+      "readme_summary": "✨ News: 我们开源了一款多智能体开发框架Agent-Kernel，让大家轻松玩转大规模多智能体系统！一百个智能体在自己的笔记本电脑上就能跑起来哦~ 科研、毕设、大创、SRTP都是让人眼前一亮的创新神器！ Github 地址: https://github.com/ZJU-LLMs/Agent-Kernel 快来看看吧！ <h1 align=\"center\">大模型基础</h1> <div align=\"center\"> <img src=\".\\figure\\cover.png\" style=\"width: 50%\"> </div> <p align=\"center\"> <img src=\"https://img.shields.io/badge/version-1.0.0-blue\"> <img src=\"https://img.shields.io/github/stars/ZJU-LLMs/Foundations-of-LLMs?style=social\"> <img src=\"https://img.shields.io/github/forks/ZJU-LLMs/Foun...",
+      "readme_summary_ja": "✨ ニュース：大規模なマルチエージェントシステムを簡単に扱える、マルチエージェント開発フレームワーク Agent-Kernel をオープンソース化しました！ 自分のノートPC上で100個のエージェントを動かせます。研究、卒業制作、創造的なプロジェクト、学生研究プログラム（SRTP）など、目を見張るような革新的なツールです！ Githubはこちら: https://github.com/ZJU-LLMs/Agent-Kernel ぜひご覧ください！\n\n<h1 align=\"center\">大規模言語モデルの基礎</h1>\n<div align=\"center\">\n<img src=\".\\figure\\cover.png\" style=\"width: 50%\">\n</div>\n<p align=\"center\">\n<img src=\"https://img.shields.io/badge/version-1.0.0-blue\"> <img src=\"https://img.shields.io/github/stars/ZJU-LLMs/Foundations",
+      "language": "",
+      "stars": 475
+    },
+    {
+      "rank": 3,
+      "repo_name": "jellyfin/jellyfin-desktop",
+      "description": "Jellyfin Desktop Client",
+      "description_ja": "Jellyfin デスクトップクライアント",
+      "readme_summary": "Jellyfin Desktop Desktop client using jellyfin-web with embedded MPV player. Supports Windows, Mac OS, and Linux. Media plays within the same window using the jellyfin-web interface unlike Jellyfin Desktop",
+      "readme_summary_ja": "Jellyfin-webをベースに、MPVプレイヤーを内蔵したJellyfinデスクトップクライアントです。Windows、macOS、Linuxに対応しています。Jellyfin Desktopとは異なり、メディアはJellyfin-webのインターフェース内で同じウィンドウに表示されます。",
+      "language": "C++",
+      "stars": 36
+    },
+    {
+      "rank": 4,
+      "repo_name": "shadcn-ui/ui",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "description_ja": "美しくデザインされた、アクセシブルなコンポーネント群と、コード配布プラットフォームです。お好みのフレームワークと連携できます。オープンソース、オープンコード。",
+      "readme_summary": "shadcn/ui A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source",
+      "readme_summary_ja": "shadcn/ui：美しくデザインされたコンポーネント集。カスタマイズ、拡張、そして構築のベースとして利用できます。まずはここから始めて、あなただけのUIを作り上げてください。（オープンソース）",
+      "language": "TypeScript",
+      "stars": 374
+    },
+    {
+      "rank": 5,
+      "repo_name": "CopilotKit/CopilotKit",
+      "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁",
+      "description_ja": "AIコパイロット、AIチャットボット、アプリ内AIエージェント向けのReact UIと洗練されたインフラストラクチャ。エージェント指向のフロントエンド 🪁",
+      "readme_summary": "<a href=\"https://go.copilotkit.ai/v150-whats-new\" target=\"_blank\"> <img width=\"1595\" height=\"284\" alt=\"Introducing CopilotKit v1 50!\" src=\"https://github.com/user-attachments/assets/5d852a9b-290a-44b7-8c6a-9f75e51f1713\" /> <a /> <br> <a href=\"https://go.copilotkit.ai/copilotkit-docs\" target=\"_blank\"> <img width=\"4096\" height=\"1588\" alt=\"header\" src=\"https://github.com/user-attachments/assets/dd638592-fb74-4e22-8c55-49dfc4d0e462\" /> <a /> <br> <div align=\"start\" style=\"display:flex;justify-conten...",
+      "readme_summary_ja": "CopilotKit v1.50 のご紹介！\n\n[ヘッダー画像]",
+      "language": "TypeScript",
+      "stars": 130
     },
     {
       "rank": 6,
-      "repo_name": "Tencent/WeKnora",
-      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
-      "description_ja": "RAGパラダイムを用いて、深層ドキュメント理解、セマンティック検索、およびコンテキストを考慮した回答を実現する、LLMを活用したフレームワーク。",
-      "readme_summary": "<p align=\"center\"> <picture> <img src=\"./docs/images/logo.png\" alt=\"WeKnora Logo\" height=\"120\"/> </picture> </p> <p align=\"center\"> <picture> <a href=\"https://trendshift.io/repositories/15289\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories/15289\" alt=\"Tencent%2FWeKnora | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </picture> </p> <p align=\"center\"> <a href=\"https://weknora.weixin.qq.com\" target=\"_blank\"> <img alt=\"官方网站\" src=\"https://img...",
-      "readme_summary_ja": "<p align=\"center\"> <picture> <img src=\"./docs/images/logo.png\" alt=\"WeKnora Logo\" height=\"120\"/> </picture> </p> <p align=\"center\"> <picture> <a href=\"https://trendshift.io/repositories/15289\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories/15289\" alt=\"Tencent%2FWeKnora | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </picture> </p> <p align=\"center\"> <a href=\"https://weknora.weixin.qq.com\" target=\"_blank\"> <img alt=\"官方网站\" src=\"https://img...",
-      "language": "Go",
-      "stars": 117
+      "repo_name": "obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "description_ja": "OBS Studio - ライブ配信と画面録画のための、フリーでオープンソースのソフトウェア",
+      "readme_summary": "OBS Studio <https://obsproject.com> =================================== .. image:: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml/badge.svg?branch=master :alt: OBS Studio Build Status - GitHub Actions :target: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml?query=branch%3Amaster .. image:: https://badges.crowdin.net/obs-studio/localized.svg :alt: OBS Studio Translation Project Progress :target: https://crowdin.com/project/obs-studio .",
+      "readme_summary_ja": "OBS Studio <https://obsproject.com> =================================== .. image:: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml/badge.svg?branch=master :alt: OBS Studio Build Status - GitHub Actions :target: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml?query=branch%3Amaster .. image:: https://badges.crowdin.net/obs-studio/localized.svg :alt: OBS Studio Translation Project Progress :target: https://crowdin.com/project/obs-studio .",
+      "language": "C",
+      "stars": 43
     },
     {
       "rank": 7,
-      "repo_name": "spipm/Depixelization_poc",
-      "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
-      "description_ja": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
-      "readme_summary": "Depix Depix is a PoC for a technique to recover plaintext from pixelized screenshots. This implementation works on pixelized images that were created with a linear box filter. In this article I cover background information on pixelization and similar research",
-      "readme_summary_ja": "Depix Depix is a PoC for a technique to recover plaintext from pixelized screenshots. This implementation works on pixelized images that were created with a linear box filter. In this article I cover background information on pixelization and similar research",
-      "language": "Python",
-      "stars": 197
+      "repo_name": "Morganamilo/paru",
+      "description": "Feature packed AUR helper",
+      "description_ja": "Feature packed AUR helper",
+      "readme_summary": "Paru Feature packed AUR helper ![paru](https://aur.archlinux.org/packages/paru/) ![paru-bin](https://aur.archlinux.org/packages/paru-bin/) ![paru-git](https://aur.archlinux.org/packages/paru-git/) Description Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction. ![asciicast](https://asciinema.org/a/sEh1ZpZZUgXUsgqKxuDdhpdEE) Installation Contributing See CONTRIBUTING.md. General Tips - **Man pages**: For documentation on paru's options and config file se...",
+      "readme_summary_ja": "Paru Feature packed AUR helper ![paru](https://aur.archlinux.org/packages/paru/) ![paru-bin](https://aur.archlinux.org/packages/paru-bin/) ![paru-git](https://aur.archlinux.org/packages/paru-git/) Description Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction. ![asciicast](https://asciinema.org/a/sEh1ZpZZUgXUsgqKxuDdhpdEE) Installation Contributing See CONTRIBUTING.md. General Tips - **Man pages**: For documentation on paru's options and config file se...",
+      "language": "Rust",
+      "stars": 91
     },
     {
       "rank": 8,
-      "repo_name": "YimMenu/YimMenuV2",
-      "description": "Experimental menu for GTA 5: Enhanced",
-      "description_ja": "Experimental menu for GTA 5: Enhanced",
-      "readme_summary": "YimMenuV2 Experimental menu for GTA 5: Enhanced How to use 1. Download the latest version of FSL from here and place version.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety 2",
-      "readme_summary_ja": "GTA 5用実験的メニュー YimMenuV2: 拡張版\n\n使用方法:\n\n1. 最新版のFSLをこちらからダウンロードし、version.dllをGTA Vのディレクトリに配置してください。FSLの使用は任意となりましたが、アカウントの安全のため強く推奨します。",
-      "language": "C++",
-      "stars": 56
+      "repo_name": "HKUDS/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "description_ja": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "readme_summary": "<div align=\"center\"> <table style=\"border: none; margin: 0 auto; padding: 0; border-collapse: collapse;\"> <tr> <td align=\"center\" style=\"vertical-align: middle; padding: 10px; border: none; width: 250px;\"> <img src=\"assets/logo.png\" alt=\"DeepCode Logo\" width=\"200\" style=\"margin: 0; padding: 0; display: block;\"/> </td> <td align=\"left\" style=\"vertical-align: middle; padding: 10px 0 10px 30px; border: none;\"> <pre style=\"font-family: 'Courier New', monospace; font-size: 16px; color: #0EA5E9; margi...",
+      "readme_summary_ja": "<div align=\"center\">\n<table style=\"border: none; margin: 0 auto; padding: 0; border-collapse: collapse;\">\n<tr>\n<td align=\"center\" style=\"vertical-align: middle; padding: 10px; border: none; width: 250px;\">\n<img src=\"assets/logo.png\" alt=\"DeepCode Logo\" width=\"200\" style=\"margin: 0; padding: 0; display: block;\"/>\n</td>\n<td align=\"left\" style=\"vertical-align: middle; padding: 10px 0 10px 30px; border: none;\">\n<pre style=\"font-family: 'Courier New', monospace; font-size: 16px; color: #0EA5E9; margi...",
+      "language": "Python",
+      "stars": 251
     },
     {
       "rank": 9,
-      "repo_name": "tursodatabase/turso",
-      "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "description_ja": "Tursoは、SQLite互換のインプロセスSQLデータベースです。",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/turso.png\" alt=\"Turso Database\" width=\"800\"/> <h1 align=\"center\">Turso Database</h1> </p> <p align=\"center\"> An in-process SQL database, compatible with SQLite. </p> <p align=\"center\"> <a title=\"Build Status\" target=\"_blank\" href=\"https://github.com/tursodatabase/turso/actions/workflows/rust.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/tursodatabase/turso/rust.yml?style=flat-square\"></a> <a title=\"Releases\" target=\"_blank\" href=\"https:/...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/turso.png\" alt=\"Turso Database\" width=\"800\"/> <h1 align=\"center\">Turso Database</h1> </p> <p align=\"center\"> SQLite互換のインプロセスSQLデータベースです。 </p> <p align=\"center\"> <a title=\"Build Status\" target=\"_blank\" href=\"https://github.com/tursodatabase/turso/actions/workflows/rust.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/tursodatabase/turso/rust.yml?style=flat-square\"></a> <a title=\"Releases\" target=\"_blank\" href=\"https:/...",
-      "language": "Rust",
-      "stars": 179
+      "repo_name": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "description_ja": "Windowsの使い勝手をカスタマイズ、整理、改善するために、プリインストールアプリの削除、テレメトリの無効化、その他さまざまな変更を実行する、シンプルで軽量なPowerShellスクリプトです。Win11Debloatは、Windows 10とWindows 11の両方で動作します。",
+      "readme_summary": "<div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://www.warp.dev/windebloat\"> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://github.com/user-attachments/assets/c21102f7-bab9-4344-a731-0cf6b341cab2\"> </a> Warp, the intelligent terminal for developers Available for MacOS, Linux, & Windows<br> </div> <hr> Win11Debloat ![GitHub Release](https://github.com/Raphire/Win11Debloat/releases/latest) ![Join the Discussion](https://github.com/Raphire/Win11Debloat/...",
+      "readme_summary_ja": "<div align=\"center\" markdown=\"1\"> <sup>特別な感謝:</sup> <br> <br> <a href=\"https://www.warp.dev/windebloat\"> <img alt=\"Warp スポンサーシップ\" width=\"400\" src=\"https://github.com/user-attachments/assets/c21102f7-bab9-4344-a731-0cf6b341cab2\"> </a> 開発者向けのインテリジェントなターミナル、Warp (MacOS, Linux, Windows 対応)<br> </div> <hr> Win11Debloat ![GitHub リリース](https://github.com/Raphire/Win11Debloat/releases/latest) ![ディスカッションに参加](https://github.com/Raphire/Win11Debloat/...",
+      "language": "PowerShell",
+      "stars": 200
     },
     {
       "rank": 10,
-      "repo_name": "langgenius/dify",
-      "description": "Production-ready platform for agentic workflow development.",
-      "description_ja": "エージェント型ワークフロー開発のための、本番環境対応プラットフォーム。",
-      "readme_summary": "!cover-v5-optimized <p align=\"center\"> 📌 <a href=\"https://dify.ai/blog/introducing-dify-workflow-file-upload-a-demo-on-ai-podcast\">Introducing Dify Workflow File Upload: Recreate Google NotebookLM Podcast</a> </p> <p align=\"center\"> <a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">Self-hosting</a> · <a href=\"https://docs.dify.ai\">Documentation</a> · <a href=\"https://dify.ai/pricing\">Dify edition overview</a> </p> <p align=\"center...",
-      "readme_summary_ja": "!cover-v5-optimized\n\nDifyワークフローのファイルアップロードをご紹介: Google NotebookLM Podcastの再現 (詳細は<a href=\"https://dify.ai/blog/introducing-dify-workflow-file-upload-a-demo-on-ai-podcast\">こちら</a>)\n\n<a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">セルフホスティング</a> · <a href=\"https://docs.dify.ai\">ドキュメント</a> · <a href=\"https://dify.ai/pricing\">Difyエディション概要</a>",
-      "language": "TypeScript",
-      "stars": 217
+      "repo_name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "description_ja": "ターミナルで動作する軽量コーディングエージェント",
+      "readme_summary": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. </br> </br>If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE</a> </br>If you are looking for the <em>cloud-based agent</em> from OpenAI, <strong>Codex Web</strong>, go to <a href=\"https://chatgpt.c...",
+      "readme_summary_ja": "```\n<p align=\"center\"><code>npm i -g @openai/codex</code><br />または <code>brew install --cask codex</code></p>\n\n<p align=\"center\"><strong>Codex CLI</strong>は、OpenAIが提供するコーディングエージェントで、ローカル環境で動作します。</br> </br>コードエディタ（VS Code、Cursor、Windsurf）でCodexを利用したい場合は、<a href=\"https://developers.openai.com/codex/ide\">IDEにインストール</a>してください。</br>OpenAIの<em>クラウドベースのエージェント</em>、<strong>Codex Web</strong>をお探しの方は、<a href=\"https://chatgpt.c...\n```",
+      "language": "Rust",
+      "stars": 1187
     },
     {
       "rank": 11,
-      "repo_name": "datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "description_ja": "📚 《ゼロから始めるインテリジェントエージェント構築》 - ゼロから学ぶインテリジェントエージェントの原理と実践チュートリアル",
-      "readme_summary": "<div align=\"right\"> <a href=\"./README_EN.md\">English</a> | 中文 </div> <div align='center'> <img src=\"./docs/images/hello-agents.png\" alt=\"alt text\" width=\"100%\"> <h1>Hello-Agents</h1> <h3>🤖 《从零开始构建智能体》</h3> <p><em>从基础理论到实际应用，全面掌握智能体系统的设计与实现</em></p> <img src=\"https://img.shields.io/github/stars/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub stars\"/> <img src=\"https://img.shields.io/github/forks/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub forks\"/> <img src=\"htt...",
-      "readme_summary_ja": "<div align=\"right\"> <a href=\"./README_EN.md\">English</a> | 中文 </div> <div align='center'> <img src=\"./docs/images/hello-agents.png\" alt=\"alt text\" width=\"100%\"> <h1>Hello-Agents</h1> <h3>🤖 《ゼロから始めるエージェント構築》</h3> <p><em>基礎理論から実践まで、エージェントシステムの設計と実装を網羅的に習得</em></p> <img src=\"https://img.shields.io/github/stars/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub stars\"/> <img src=\"https://img.shields.io/github/forks/datawhalechina/Hello-Agents?style=flat&logo=github\" alt=\"GitHub forks\"/> <img src=\"htt...",
+      "repo_name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "description_ja": "AIヘッジファンドチーム",
+      "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "readme_summary_ja": "AIヘッジファンド：これは、AIを活用したヘッジファンドの概念実証です。このプロジェクトの目的は、AIを使って取引判断を行う可能性を探ることです。本プロジェクトは**教育**目的のみを意図しており、実際の取引や投資を目的としたものではありません。",
       "language": "Python",
-      "stars": 423
+      "stars": 184
     },
     {
       "rank": 12,
-      "repo_name": "agentsmd/agents.md",
-      "description": "AGENTS.md — a simple, open format for guiding coding agents",
-      "description_ja": "AGENTS.md - コーディングエージェントを誘導するためのシンプルでオープンなフォーマット",
-      "readme_summary": "AGENTS.md !AGENTS.md logo AGENTS.md is a simple, open format for guiding coding agents. Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide context and instructions to help AI coding agents work on your project. Below is a minimal example of an AGENTS.md file: Website This repository also includes a basic Next.js website hosted at https://agents.md/ that explains the project’s goals in a simple way, and featuring some examples",
-      "readme_summary_ja": "AGENTS.mdは、コーディングエージェントを誘導するためのシンプルなオープンフォーマットです。AGENTS.mdをエージェント向けのREADMEと考えてください。AIコーディングエージェントがプロジェクトに取り組む際に役立つコンテキストと指示を提供するための、専用の予測可能な場所です。以下は、AGENTS.mdファイルの最小限の例です。\n\nウェブサイト：このリポジトリには、プロジェクトの目標をわかりやすく説明し、いくつかの例を紹介する基本的なNext.jsウェブサイト（https://agents.md/）も含まれています。",
-      "language": "TypeScript",
-      "stars": 406
+      "repo_name": "theOehrly/Fast-F1",
+      "description": "FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry",
+      "description_ja": "FastF1は、F1の結果、スケジュール、タイミングデータ、テレメトリにアクセスして分析するためのPythonパッケージです。",
+      "readme_summary": "<h1 align=\"center\"> <img src=\"docs/_static/banner.png\" width=\"400\"> </h1><br> A python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry. Main Features - Access to F1 timing data, telemetry, sessions results and more - Full support for the Ergast compatible jolpica-f1 API to access current and historical F1 data - All data is provided in the form of extended Pandas DataFrames to make working with the data easy while having powerful tools available - Adds...",
+      "readme_summary_ja": "F1の結果、スケジュール、タイミングデータ、テレメトリにアクセスして分析するためのPythonパッケージ。主な機能：F1のタイミングデータ、テレメトリ、セッション結果などへのアクセス。Ergast互換のjolpica-f1 APIを完全にサポートし、現在および過去のF1データにアクセス可能。すべてのデータは拡張されたPandas DataFrame形式で提供され、強力なツールを利用しながらデータの操作を容易にします。さらに...",
+      "language": "Python",
+      "stars": 19
     },
     {
       "rank": 13,
-      "repo_name": "shadcn-ui/ui",
-      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-      "description_ja": "美しくデザインされた、アクセシブルなコンポーネント群とコード配布プラットフォーム。お好みのフレームワークで動作します。オープンソース、オープンコード。",
-      "readme_summary": "shadcn/ui A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source",
-      "readme_summary_ja": "shadcn/ui：美しくデザインされたコンポーネント集。カスタマイズ、拡張、そして構築のベースとして利用できます。まずはここから始めて、あなただけのものにしてください。（オープンソース）",
+      "repo_name": "C4illin/ConvertX",
+      "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+      "description_ja": "💾 自分でホストできるオンラインファイル変換ツール。1000種類以上のフォーマットに対応 ⚙️",
+      "readme_summary": "!ConvertX ConvertX ![Docker](https://github.com/C4illin/ConvertX/actions/workflows/docker-publish.yml) ![ghcr.io Pulls](https://github.com/C4illin/ConvertX/pkgs/container/ConvertX) ![Docker Pulls](https://hub.docker.com/r/c4illin/convertx) ![GitHub Release](https://github.com/C4illin/ConvertX/pkgs/container/convertx) !GitHub commits since latest release !GitHub repo size !Docker container size <a href=\"https://trendshift.io/repositories/13818\" target=\"_blank\"><img src=\"https://trendshift.io/api/...",
+      "readme_summary_ja": "ConvertX：Dockerイメージの自動ビルド、ghcr.ioプル数、Dockerプル数、GitHubリリース、最終リリースからのGitHubコミット数、GitHubリポジトリサイズ、Dockerコンテナサイズなどを表示するツール。",
       "language": "TypeScript",
-      "stars": 117
+      "stars": 85
     },
     {
       "rank": 14,
-      "repo_name": "karpathy/nanoGPT",
-      "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
-      "description_ja": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
-      "readme_summary": "nanoGPT !nanoGPT --- **Update Nov 2025** nanoGPT has a new and improved cousin called nanochat. It is very likely you meant to use/find nanochat instead. nanoGPT (this repo) is now very old and deprecated but I will leave it up for posterity",
-      "readme_summary_ja": "nanoGPT !nanoGPT --- **Update Nov 2025** nanoGPT has a new and improved cousin called nanochat. It is very likely you meant to use/find nanochat instead. nanoGPT (this repo) is now very old and deprecated but I will leave it up for posterity",
-      "language": "Python",
-      "stars": 78
+      "repo_name": "daytonaio/daytona",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "description_ja": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "readme_summary": "<div align=\"center\"> ![Documentation](https://www.daytona.io/docs) !License ![Go Report Card](https://goreportcard.com/report/github.com/daytonaio/daytona) ![Issues - daytona](https://github.com/daytonaio/daytona/issues) !GitHub Release </div> &nbsp; <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/daytonaio/daytona/raw/main/assets/images/Daytona-logotype-white.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/day...",
+      "readme_summary_ja": "<div align=\"center\"> ![Documentation](https://www.daytona.io/docs) !License ![Go Report Card](https://goreportcard.com/report/github.com/daytonaio/daytona) ![Issues - daytona](https://github.com/daytonaio/daytona/issues) !GitHub Release </div> &nbsp; <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/daytonaio/daytona/raw/main/assets/images/Daytona-logotype-white.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/day...",
+      "language": "TypeScript",
+      "stars": 341
     },
     {
       "rank": 15,
-      "repo_name": "ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "description_ja": "Chrome DevTools for coding agents",
-      "readme_summary": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
-      "readme_summary_ja": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
-      "language": "TypeScript",
-      "stars": 51
+      "repo_name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "description_ja": "A collective list of free APIs",
+      "readme_summary": "Try Public APIs for free The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years",
+      "readme_summary_ja": "無料で試せる公開API集。このPublic APIsリポジトリは、あなたのようなコミュニティメンバーやAPILayerのスタッフによって手動でキュレーションされています。様々な分野の公開APIが豊富にリストアップされており、あなたのプロダクトに活用できます。長年にわたりコミュニティによって管理されてきた、APIの宝庫と言えるでしょう。",
+      "language": "Python",
+      "stars": 321
     }
   ]
 }
