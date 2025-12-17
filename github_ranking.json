@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-16 09:02:08",
-  "total_repos": 15,
+  "updated_at": "2025-12-17 09:01:35",
+  "total_repos": 13,
   "ranking": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "readme_summary": "<p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"apps/sim/public/logo/reverse/text/large.png\" alt=\"Sim Logo\" width=\"500\"/> </a> </p> <p align=\"center\">Build and deploy AI agent workflows in minutes.</p> <p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/sim.ai-6F3DFA\" alt=\"Sim.ai\"></a> <a href=\"https://discord.gg/Hr4UWYEcTT\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=...",
       "readme_summary_ja": "AIエージェントのワークフローを数分で構築・デプロイ。",
       "language": "TypeScript",
-      "stars": 1451
+      "stars": 1357
     },
     {
       "rank": 2,
@@ -18,139 +18,119 @@
       "description": "A book for Learning the Foundations of LLMs",
       "description_ja": "LLMの基礎を学ぶための書籍",
       "readme_summary": "✨ News: 我们开源了一款多智能体开发框架Agent-Kernel，让大家轻松玩转大规模多智能体系统！一百个智能体在自己的笔记本电脑上就能跑起来哦~ 科研、毕设、大创、SRTP都是让人眼前一亮的创新神器！ Github 地址: https://github.com/ZJU-LLMs/Agent-Kernel 快来看看吧！ <h1 align=\"center\">大模型基础</h1> <div align=\"center\"> <img src=\".\\figure\\cover.png\" style=\"width: 50%\"> </div> <p align=\"center\"> <img src=\"https://img.shields.io/badge/version-1.0.0-blue\"> <img src=\"https://img.shields.io/github/stars/ZJU-LLMs/Foundations-of-LLMs?style=social\"> <img src=\"https://img.shields.io/github/forks/ZJU-LLMs/Foun...",
-      "readme_summary_ja": "✨ ニュース：大規模なマルチエージェントシステムを簡単に扱える、マルチエージェント開発フレームワーク Agent-Kernel をオープンソース化しました！ 自分のノートPC上で100個のエージェントを動かせます。研究、卒業制作、創造的なプロジェクト、学生研究プログラム（SRTP）など、目を見張るような革新的なツールです！ Githubはこちら: https://github.com/ZJU-LLMs/Agent-Kernel ぜひご覧ください！\n\n<h1 align=\"center\">大規模言語モデルの基礎</h1>\n<div align=\"center\">\n<img src=\".\\figure\\cover.png\" style=\"width: 50%\">\n</div>\n<p align=\"center\">\n<img src=\"https://img.shields.io/badge/version-1.0.0-blue\"> <img src=\"https://img.shields.io/github/stars/ZJU-LLMs/Foundations",
+      "readme_summary_ja": "✨ ニュース：大規模なマルチエージェントシステムを簡単に扱える、マルチエージェント開発フレームワーク「Agent-Kernel」をオープンソース化しました！ノートPC上で100個のエージェントを動かすことも可能です。研究、卒業論文、創造的なプロジェクト、学生研究プログラムなど、革新的な成果を生み出すための強力なツールです！ Githubはこちら: https://github.com/ZJU-LLMs/Agent-Kernel ぜひご覧ください！\n\n<h1 align=\"center\">大規模言語モデルの基礎</h1>\n<div align=\"center\">\n<img src=\".\\figure\\cover.png\" style=\"width: 50%\">\n</div>\n<p align=\"center\">\n<img src=\"https://img.shields.io/badge/version-1.0.0-blue\"> <img src=\"https://img.shields.io/github/stars/ZJU-LLMs/Foundations-",
       "language": "",
-      "stars": 475
+      "stars": 349
     },
     {
       "rank": 3,
-      "repo_name": "jellyfin/jellyfin-desktop",
-      "description": "Jellyfin Desktop Client",
-      "description_ja": "Jellyfin デスクトップクライアント",
-      "readme_summary": "Jellyfin Desktop Desktop client using jellyfin-web with embedded MPV player. Supports Windows, Mac OS, and Linux. Media plays within the same window using the jellyfin-web interface unlike Jellyfin Desktop",
-      "readme_summary_ja": "Jellyfin-webをベースに、MPVプレイヤーを内蔵したJellyfinデスクトップクライアントです。Windows、macOS、Linuxに対応しています。Jellyfin Desktopとは異なり、メディアはJellyfin-webのインターフェース内で同じウィンドウに表示されます。",
-      "language": "C++",
-      "stars": 36
-    },
-    {
-      "rank": 4,
-      "repo_name": "shadcn-ui/ui",
-      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-      "description_ja": "美しくデザインされた、アクセシブルなコンポーネント群と、コード配布プラットフォームです。お好みのフレームワークと連携できます。オープンソース、オープンコード。",
-      "readme_summary": "shadcn/ui A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source",
-      "readme_summary_ja": "shadcn/ui：美しくデザインされたコンポーネント集。カスタマイズ、拡張、そして構築のベースとして利用できます。まずはここから始めて、あなただけのUIを作り上げてください。（オープンソース）",
-      "language": "TypeScript",
-      "stars": 374
-    },
-    {
-      "rank": 5,
-      "repo_name": "CopilotKit/CopilotKit",
-      "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁",
-      "description_ja": "AIコパイロット、AIチャットボット、アプリ内AIエージェント向けのReact UIと洗練されたインフラストラクチャ。エージェント指向のフロントエンド 🪁",
-      "readme_summary": "<a href=\"https://go.copilotkit.ai/v150-whats-new\" target=\"_blank\"> <img width=\"1595\" height=\"284\" alt=\"Introducing CopilotKit v1 50!\" src=\"https://github.com/user-attachments/assets/5d852a9b-290a-44b7-8c6a-9f75e51f1713\" /> <a /> <br> <a href=\"https://go.copilotkit.ai/copilotkit-docs\" target=\"_blank\"> <img width=\"4096\" height=\"1588\" alt=\"header\" src=\"https://github.com/user-attachments/assets/dd638592-fb74-4e22-8c55-49dfc4d0e462\" /> <a /> <br> <div align=\"start\" style=\"display:flex;justify-conten...",
-      "readme_summary_ja": "CopilotKit v1.50 のご紹介！\n\n[ヘッダー画像]",
-      "language": "TypeScript",
-      "stars": 130
-    },
-    {
-      "rank": 6,
-      "repo_name": "obsproject/obs-studio",
-      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
-      "description_ja": "OBS Studio - ライブ配信と画面録画のための、フリーでオープンソースのソフトウェア",
-      "readme_summary": "OBS Studio <https://obsproject.com> =================================== .. image:: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml/badge.svg?branch=master :alt: OBS Studio Build Status - GitHub Actions :target: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml?query=branch%3Amaster .. image:: https://badges.crowdin.net/obs-studio/localized.svg :alt: OBS Studio Translation Project Progress :target: https://crowdin.com/project/obs-studio .",
-      "readme_summary_ja": "OBS Studio <https://obsproject.com> =================================== .. image:: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml/badge.svg?branch=master :alt: OBS Studio Build Status - GitHub Actions :target: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml?query=branch%3Amaster .. image:: https://badges.crowdin.net/obs-studio/localized.svg :alt: OBS Studio Translation Project Progress :target: https://crowdin.com/project/obs-studio .",
-      "language": "C",
-      "stars": 43
-    },
-    {
-      "rank": 7,
-      "repo_name": "Morganamilo/paru",
-      "description": "Feature packed AUR helper",
-      "description_ja": "Feature packed AUR helper",
-      "readme_summary": "Paru Feature packed AUR helper ![paru](https://aur.archlinux.org/packages/paru/) ![paru-bin](https://aur.archlinux.org/packages/paru-bin/) ![paru-git](https://aur.archlinux.org/packages/paru-git/) Description Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction. ![asciicast](https://asciinema.org/a/sEh1ZpZZUgXUsgqKxuDdhpdEE) Installation Contributing See CONTRIBUTING.md. General Tips - **Man pages**: For documentation on paru's options and config file se...",
-      "readme_summary_ja": "Paru Feature packed AUR helper ![paru](https://aur.archlinux.org/packages/paru/) ![paru-bin](https://aur.archlinux.org/packages/paru-bin/) ![paru-git](https://aur.archlinux.org/packages/paru-git/) Description Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction. ![asciicast](https://asciinema.org/a/sEh1ZpZZUgXUsgqKxuDdhpdEE) Installation Contributing See CONTRIBUTING.md. General Tips - **Man pages**: For documentation on paru's options and config file se...",
-      "language": "Rust",
-      "stars": 91
-    },
-    {
-      "rank": 8,
-      "repo_name": "HKUDS/DeepCode",
-      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-      "description_ja": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-      "readme_summary": "<div align=\"center\"> <table style=\"border: none; margin: 0 auto; padding: 0; border-collapse: collapse;\"> <tr> <td align=\"center\" style=\"vertical-align: middle; padding: 10px; border: none; width: 250px;\"> <img src=\"assets/logo.png\" alt=\"DeepCode Logo\" width=\"200\" style=\"margin: 0; padding: 0; display: block;\"/> </td> <td align=\"left\" style=\"vertical-align: middle; padding: 10px 0 10px 30px; border: none;\"> <pre style=\"font-family: 'Courier New', monospace; font-size: 16px; color: #0EA5E9; margi...",
-      "readme_summary_ja": "<div align=\"center\">\n<table style=\"border: none; margin: 0 auto; padding: 0; border-collapse: collapse;\">\n<tr>\n<td align=\"center\" style=\"vertical-align: middle; padding: 10px; border: none; width: 250px;\">\n<img src=\"assets/logo.png\" alt=\"DeepCode Logo\" width=\"200\" style=\"margin: 0; padding: 0; display: block;\"/>\n</td>\n<td align=\"left\" style=\"vertical-align: middle; padding: 10px 0 10px 30px; border: none;\">\n<pre style=\"font-family: 'Courier New', monospace; font-size: 16px; color: #0EA5E9; margi...",
-      "language": "Python",
-      "stars": 251
-    },
-    {
-      "rank": 9,
-      "repo_name": "Raphire/Win11Debloat",
-      "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "description_ja": "Windowsの使い勝手をカスタマイズ、整理、改善するために、プリインストールアプリの削除、テレメトリの無効化、その他さまざまな変更を実行する、シンプルで軽量なPowerShellスクリプトです。Win11Debloatは、Windows 10とWindows 11の両方で動作します。",
-      "readme_summary": "<div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://www.warp.dev/windebloat\"> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://github.com/user-attachments/assets/c21102f7-bab9-4344-a731-0cf6b341cab2\"> </a> Warp, the intelligent terminal for developers Available for MacOS, Linux, & Windows<br> </div> <hr> Win11Debloat ![GitHub Release](https://github.com/Raphire/Win11Debloat/releases/latest) ![Join the Discussion](https://github.com/Raphire/Win11Debloat/...",
-      "readme_summary_ja": "<div align=\"center\" markdown=\"1\"> <sup>特別な感謝:</sup> <br> <br> <a href=\"https://www.warp.dev/windebloat\"> <img alt=\"Warp スポンサーシップ\" width=\"400\" src=\"https://github.com/user-attachments/assets/c21102f7-bab9-4344-a731-0cf6b341cab2\"> </a> 開発者向けのインテリジェントなターミナル、Warp (MacOS, Linux, Windows 対応)<br> </div> <hr> Win11Debloat ![GitHub リリース](https://github.com/Raphire/Win11Debloat/releases/latest) ![ディスカッションに参加](https://github.com/Raphire/Win11Debloat/...",
-      "language": "PowerShell",
-      "stars": 200
-    },
-    {
-      "rank": 10,
-      "repo_name": "openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "description_ja": "ターミナルで動作する軽量コーディングエージェント",
-      "readme_summary": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. </br> </br>If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE</a> </br>If you are looking for the <em>cloud-based agent</em> from OpenAI, <strong>Codex Web</strong>, go to <a href=\"https://chatgpt.c...",
-      "readme_summary_ja": "```\n<p align=\"center\"><code>npm i -g @openai/codex</code><br />または <code>brew install --cask codex</code></p>\n\n<p align=\"center\"><strong>Codex CLI</strong>は、OpenAIが提供するコーディングエージェントで、ローカル環境で動作します。</br> </br>コードエディタ（VS Code、Cursor、Windsurf）でCodexを利用したい場合は、<a href=\"https://developers.openai.com/codex/ide\">IDEにインストール</a>してください。</br>OpenAIの<em>クラウドベースのエージェント</em>、<strong>Codex Web</strong>をお探しの方は、<a href=\"https://chatgpt.c...\n```",
-      "language": "Rust",
-      "stars": 1187
-    },
-    {
-      "rank": 11,
       "repo_name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "description_ja": "AIヘッジファンドチーム",
       "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
-      "readme_summary_ja": "AIヘッジファンド：これは、AIを活用したヘッジファンドの概念実証です。このプロジェクトの目的は、AIを使って取引判断を行う可能性を探ることです。本プロジェクトは**教育**目的のみを意図しており、実際の取引や投資を目的としたものではありません。",
+      "readme_summary_ja": "AIヘッジファンド：これは、AIを活用したヘッジファンドの概念実証です。本プロジェクトの目的は、AIを取引判断に利用する可能性を探求することです。本プロジェクトは**教育**目的のみを意図しており、実際の取引や投資を目的としたものではありません。",
       "language": "Python",
-      "stars": 184
+      "stars": 167
+    },
+    {
+      "rank": 4,
+      "repo_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_ja": "Claudeのコーディングセッションを自動的に記録し、Claudeのagent-sdkを使ってAIで圧縮、関連するコンテキストを以降のセッションに注入するプラグイン。",
+      "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
+      "readme_summary_ja": "（ロゴ）\n\nClaude-Mem：Claudeの長期記憶を実現するツール",
+      "language": "TypeScript",
+      "stars": 632
+    },
+    {
+      "rank": 5,
+      "repo_name": "Morganamilo/paru",
+      "description": "Feature packed AUR helper",
+      "description_ja": "機能満載のAURヘルパー",
+      "readme_summary": "Paru Feature packed AUR helper ![paru](https://aur.archlinux.org/packages/paru/) ![paru-bin](https://aur.archlinux.org/packages/paru-bin/) ![paru-git](https://aur.archlinux.org/packages/paru-git/) Description Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction. ![asciicast](https://asciinema.org/a/sEh1ZpZZUgXUsgqKxuDdhpdEE) Installation Contributing See CONTRIBUTING.md. General Tips - **Man pages**: For documentation on paru's options and config file se...",
+      "readme_summary_ja": "Paru: 多機能なAURヘルパー ![paru](https://aur.archlinux.org/packages/paru/) ![paru-bin](https://aur.archlinux.org/packages/paru-bin/) ![paru-git](https://aur.archlinux.org/packages/paru-git/) 説明: Paruは、豊富な機能を持ち、最小限の操作で済む、標準的なpacmanラッパーのAURヘルパーです。 ![asciicast](https://asciinema.org/a/sEh1ZpZZUgXUsgqKxuDdhpdEE) インストール方法 貢献方法: CONTRIBUTING.mdを参照してください。 一般的なヒント: - **manページ**: Paruのオプションと設定ファイルに関するドキュメントは、manページを参照してください。",
+      "language": "Rust",
+      "stars": 83
+    },
+    {
+      "rank": 6,
+      "repo_name": "jellyfin/jellyfin-desktop",
+      "description": "Jellyfin Desktop Client",
+      "description_ja": "Jellyfin デスクトップクライアント",
+      "readme_summary": "Jellyfin Desktop Desktop client using jellyfin-web with embedded MPV player. Supports Windows, Mac OS, and Linux. Media plays within the same window using the jellyfin-web interface unlike Jellyfin Desktop",
+      "readme_summary_ja": "Jellyfin Desktop Desktop client using jellyfin-web with embedded MPV player. Supports Windows, Mac OS, and Linux. Media plays within the same window using the jellyfin-web interface unlike Jellyfin Desktop",
+      "language": "C++",
+      "stars": 173
+    },
+    {
+      "rank": 7,
+      "repo_name": "nicotsx/zerobyte",
+      "description": "Backup automation for self-hosters",
+      "description_ja": "Backup automation for self-hosters",
+      "readme_summary": "<div align=\"center\"> <h1>Zerobyte</h1> <h3>Powerful backup automation for your remote storage<br />Encrypt, compress, and protect your data with ease</h3> <a href=\"https://github.com/nicotsx/zerobyte/blob/main/LICENSE\"> <img src=\"https://img.shields.io/github/license/nicotsx/zerobyte\" /> </a> <br /> <figure> <img src=\"https://github.com/nicotsx/zerobyte/blob/main/screenshots/backup-details.webp?raw=true\" alt=\"Demo\" /> <figcaption> <p align=\"center\"> Backup management with scheduling and monitori...",
+      "readme_summary_ja": "<div align=\"center\"> <h1>Zerobyte</h1> <h3>Powerful backup automation for your remote storage<br />Encrypt, compress, and protect your data with ease</h3> <a href=\"https://github.com/nicotsx/zerobyte/blob/main/LICENSE\"> <img src=\"https://img.shields.io/github/license/nicotsx/zerobyte\" /> </a> <br /> <figure> <img src=\"https://github.com/nicotsx/zerobyte/blob/main/screenshots/backup-details.webp?raw=true\" alt=\"Demo\" /> <figcaption> <p align=\"center\"> Backup management with scheduling and monitori...",
+      "language": "TypeScript",
+      "stars": 402
+    },
+    {
+      "rank": 8,
+      "repo_name": "eudoxia0/hashcards",
+      "description": "A plain text-based spaced repetition system.",
+      "description_ja": "プレーンテキスト形式の間隔反復システム",
+      "readme_summary": "hashcards ![Test](https://github.com/eudoxia0/hashcards/actions/workflows/test.yaml) ![Release](https://github.com/eudoxia0/hashcards/actions/workflows/release.yaml) ![codecov](https://codecov.io/gh/eudoxia0/hashcards) ![dependency status](https://deps.rs/repo/github/eudoxia0/hashcards) !Screenshot of the app, showing a front/back flashcard. A plain text-based spaced repetition system. Features: - **Plain Text:** all your flashcards are stored as plain text files, so you can operate on them with...",
+      "readme_summary_ja": "hashcards ![テスト](https://github.com/eudoxia0/hashcards/actions/workflows/test.yaml) ![リリース](https://github.com/eudoxia0/hashcards/actions/workflows/release.yaml) ![codecov](https://codecov.io/gh/eudoxia0/hashcards) ![依存関係ステータス](https://deps.rs/repo/github/eudoxia0/hashcards) !アプリのスクリーンショット（表/裏のフラッシュカードを表示）。プレーンテキストベースの間隔反復システム。特徴：- **プレーンテキスト:** すべてのフラッシュカードはプレーンテキストファイルとして保存されるため、それらを操作できます...",
+      "language": "Rust",
+      "stars": 92
+    },
+    {
+      "rank": 9,
+      "repo_name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "description_ja": "ターミナルで動作する軽量コーディングエージェント",
+      "readme_summary": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. </br> </br>If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE</a> </br>If you are looking for the <em>cloud-based agent</em> from OpenAI, <strong>Codex Web</strong>, go to <a href=\"https://chatgpt.c...",
+      "readme_summary_ja": "```\n<p align=\"center\"><code>npm i -g @openai/codex</code><br />または <code>brew install --cask codex</code></p>\n\n<p align=\"center\"><strong>Codex CLI</strong>は、OpenAIが提供するコーディングエージェントで、ローカル環境で動作します。</br></br>Codexをコードエディタ（VS Code、Cursor、Windsurf）で使用したい場合は、<a href=\"https://developers.openai.com/codex/ide\">IDEにインストール</a>してください。</br>OpenAIの<em>クラウドベースのエージェント</em>である<strong>Codex Web</strong>をお探しの場合は、<a href=\"https://chatgpt.c... にアクセスしてください。\n```",
+      "language": "Rust",
+      "stars": 268
+    },
+    {
+      "rank": 10,
+      "repo_name": "C4illin/ConvertX",
+      "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+      "description_ja": "💾 自分でホストできるオンラインファイル変換ツール。1000以上の形式に対応 ⚙️",
+      "readme_summary": "!ConvertX ConvertX ![Docker](https://github.com/C4illin/ConvertX/actions/workflows/docker-publish.yml) ![ghcr.io Pulls](https://github.com/C4illin/ConvertX/pkgs/container/ConvertX) ![Docker Pulls](https://hub.docker.com/r/c4illin/convertx) ![GitHub Release](https://github.com/C4illin/ConvertX/pkgs/container/convertx) !GitHub commits since latest release !GitHub repo size !Docker container size <a href=\"https://trendshift.io/repositories/13818\" target=\"_blank\"><img src=\"https://trendshift.io/api/...",
+      "readme_summary_ja": "ConvertX：Docker対応のファイル変換ツール。DockerイメージはGitHub Container RegistryとDocker Hubで公開中。最新リリース以降のコミット数、リポジトリサイズ、Dockerコンテナサイズも確認できます。",
+      "language": "TypeScript",
+      "stars": 628
+    },
+    {
+      "rank": 11,
+      "repo_name": "mdn/content",
+      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
+      "description_ja": "MDN Web Docsの公式コンテンツソース。HTML、CSS、JavaScript、HTTP、Web APIなど、14,000ページを超えるドキュメントを収録。",
+      "readme_summary": "Welcome to MDN Web Docs !github-profile [MDN Web Docs][] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs. Alongside detailed reference documentation, we provide extensive learning resources for students and beginners getting started with web development. MDN's mission MDN's mission is to provide a blueprint for a better internet and empower a new generation of developers and content creators to build it",
+      "readme_summary_ja": "MDN Web Docsへようこそ！[MDN Web Docs][]は、CSS、HTML、JavaScript、Web APIなどのWeb技術をドキュメント化する、オープンソースの共同プロジェクトです。詳細なリファレンスドキュメントに加え、Web開発を始めたばかりの学生や初心者向けの豊富な学習リソースを提供しています。MDNの使命は、より良いインターネットの設計図を提供し、次世代の開発者やコンテンツクリエイターがそれを構築できるようにすることです。",
+      "language": "Markdown",
+      "stars": 18
     },
     {
       "rank": 12,
-      "repo_name": "theOehrly/Fast-F1",
-      "description": "FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry",
-      "description_ja": "FastF1は、F1の結果、スケジュール、タイミングデータ、テレメトリにアクセスして分析するためのPythonパッケージです。",
-      "readme_summary": "<h1 align=\"center\"> <img src=\"docs/_static/banner.png\" width=\"400\"> </h1><br> A python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry. Main Features - Access to F1 timing data, telemetry, sessions results and more - Full support for the Ergast compatible jolpica-f1 API to access current and historical F1 data - All data is provided in the form of extended Pandas DataFrames to make working with the data easy while having powerful tools available - Adds...",
-      "readme_summary_ja": "F1の結果、スケジュール、タイミングデータ、テレメトリにアクセスして分析するためのPythonパッケージ。主な機能：F1のタイミングデータ、テレメトリ、セッション結果などへのアクセス。Ergast互換のjolpica-f1 APIを完全にサポートし、現在および過去のF1データにアクセス可能。すべてのデータは拡張されたPandas DataFrame形式で提供され、強力なツールを利用しながらデータの操作を容易にします。さらに...",
-      "language": "Python",
-      "stars": 19
+      "repo_name": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "description_ja": "Windowsの体験をカスタマイズ、整理、改善するために、プリインストールされたアプリの削除、テレメトリの無効化、その他さまざまな変更を実行する、シンプルで軽量なPowerShellスクリプトです。Win11Debloatは、Windows 10とWindows 11の両方で動作します。",
+      "readme_summary": "<div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://www.warp.dev/windebloat\"> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://github.com/user-attachments/assets/c21102f7-bab9-4344-a731-0cf6b341cab2\"> </a> Warp, the intelligent terminal for developers Available for MacOS, Linux, & Windows<br> </div> <hr> Win11Debloat ![GitHub Release](https://github.com/Raphire/Win11Debloat/releases/latest) ![Join the Discussion](https://github.com/Raphire/Win11Debloat/...",
+      "readme_summary_ja": "<div align=\"center\" markdown=\"1\"> <sup>特別な感謝:</sup> <br> <br> <a href=\"https://www.warp.dev/windebloat\"> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://github.com/user-attachments/assets/c21102f7-bab9-4344-a731-0cf6b341cab2\"> </a> 開発者向けのインテリジェントターミナル、Warp (MacOS, Linux, Windows対応)<br> </div> <hr> Win11Debloat ![GitHub Release](https://github.com/Raphire/Win11Debloat/releases/latest) ![Join the Discussion](https://github.com/Raphire/Win11Debloat/...",
+      "language": "PowerShell",
+      "stars": 337
     },
     {
       "rank": 13,
-      "repo_name": "C4illin/ConvertX",
-      "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-      "description_ja": "💾 自分でホストできるオンラインファイル変換ツール。1000種類以上のフォーマットに対応 ⚙️",
-      "readme_summary": "!ConvertX ConvertX ![Docker](https://github.com/C4illin/ConvertX/actions/workflows/docker-publish.yml) ![ghcr.io Pulls](https://github.com/C4illin/ConvertX/pkgs/container/ConvertX) ![Docker Pulls](https://hub.docker.com/r/c4illin/convertx) ![GitHub Release](https://github.com/C4illin/ConvertX/pkgs/container/convertx) !GitHub commits since latest release !GitHub repo size !Docker container size <a href=\"https://trendshift.io/repositories/13818\" target=\"_blank\"><img src=\"https://trendshift.io/api/...",
-      "readme_summary_ja": "ConvertX：Dockerイメージの自動ビルド、ghcr.ioプル数、Dockerプル数、GitHubリリース、最終リリースからのGitHubコミット数、GitHubリポジトリサイズ、Dockerコンテナサイズなどを表示するツール。",
-      "language": "TypeScript",
-      "stars": 85
-    },
-    {
-      "rank": 14,
-      "repo_name": "daytonaio/daytona",
-      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
-      "description_ja": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
-      "readme_summary": "<div align=\"center\"> ![Documentation](https://www.daytona.io/docs) !License ![Go Report Card](https://goreportcard.com/report/github.com/daytonaio/daytona) ![Issues - daytona](https://github.com/daytonaio/daytona/issues) !GitHub Release </div> &nbsp; <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/daytonaio/daytona/raw/main/assets/images/Daytona-logotype-white.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/day...",
-      "readme_summary_ja": "<div align=\"center\"> ![Documentation](https://www.daytona.io/docs) !License ![Go Report Card](https://goreportcard.com/report/github.com/daytonaio/daytona) ![Issues - daytona](https://github.com/daytonaio/daytona/issues) !GitHub Release </div> &nbsp; <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/daytonaio/daytona/raw/main/assets/images/Daytona-logotype-white.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/day...",
-      "language": "TypeScript",
-      "stars": 341
-    },
-    {
-      "rank": 15,
-      "repo_name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "description_ja": "A collective list of free APIs",
-      "readme_summary": "Try Public APIs for free The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years",
-      "readme_summary_ja": "無料で試せる公開API集。このPublic APIsリポジトリは、あなたのようなコミュニティメンバーやAPILayerのスタッフによって手動でキュレーションされています。様々な分野の公開APIが豊富にリストアップされており、あなたのプロダクトに活用できます。長年にわたりコミュニティによって管理されてきた、APIの宝庫と言えるでしょう。",
-      "language": "Python",
-      "stars": 321
+      "repo_name": "mnh-jansson/open-battery-information",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "Open Battery Information This project aims to provide tools and information about various batteries in order to aid repair. It is very common for manufacturers to lock the BMS when a fault is detected to protect the device and the user. Very important feature! So when is it a problem? Well, there is always a chance for false triggering of this protection, or the fault could have been temporary or even repaired",
+      "readme_summary_ja": "バッテリー情報公開：本プロジェクトは、修理を支援するため、様々なバッテリーに関するツールと情報を提供することを目的としています。デバイスとユーザーを保護するために、メーカーが故障検出時にバッテリー管理システム (BMS) をロックすることはよくあります。これは非常に重要な機能ですが、問題となるのは、保護機能が誤って作動したり、故障が一時的であったり、あるいは修理済みである場合です。",
+      "language": "C++",
+      "stars": 24
     }
   ]
 }
