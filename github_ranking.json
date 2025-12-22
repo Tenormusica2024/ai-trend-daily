@@ -1,66 +1,66 @@
 {
-  "updated_at": "2025-12-21 03:01:13",
-  "total_repos": 11,
+  "updated_at": "2025-12-22 03:02:56",
+  "total_repos": 9,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "exo-explore/exo",
       "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
-      "description_ja": "身近なデバイス（スマホ、PC、ディスプレイ、スマートウォッチなど）で、自宅にAIクラスタを構築しましょう。",
-      "readme_summary": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"/docs/exo-logo-black-bg.jpg\"> <img alt=\"exo logo\" src=\"/docs/exo-logo-transparent.png\" width=\"50%\" height=\"50%\"> </picture> exo: Run your own AI cluster at home with everyday devices. Maintained by exo labs. ![GitHub Repo stars](https://github.com/exo-explore/exo/stargazers) ![License: Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.html) <a href=\"https://trendshift.io/repositories/11849\" target=\"_blank\"...",
-      "readme_summary_ja": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"/docs/exo-logo-black-bg.jpg\"> <img alt=\"exo logo\" src=\"/docs/exo-logo-transparent.png\" width=\"50%\" height=\"50%\"> </picture> exo: 身近なデバイスで自宅に独自のAIクラスタを構築。exo labsがメンテナンス。 ![GitHub Repo stars](https://github.com/exo-explore/exo/stargazers) ![License: Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.html) <a href=\"https://trendshift.io/repositories/11849\" target=\"_blank\"...",
+      "description_ja": "身近なデバイス（スマホ、PC、ディスプレイ、スマートウォッチなど）で、自宅に独自のAIクラスタを構築しましょう。",
+      "readme_summary": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"/docs/exo-logo-black-bg.jpg\"> <img alt=\"exo logo\" src=\"/docs/exo-logo-transparent.png\" width=\"50%\" height=\"50%\"> </picture> exo: Run your own AI cluster at home with everyday devices. Maintained by exo labs. <p align=\"center\"> <a href=\"https://discord.gg/72NsF6ux\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white\" alt=\"Disco...",
+      "readme_summary_ja": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"/docs/exo-logo-black-bg.jpg\"> <img alt=\"exo logo\" src=\"/docs/exo-logo-transparent.png\" width=\"50%\" height=\"50%\"> </picture> exo：普段使いのデバイスで、自宅に独自のAIクラスタを構築。exo labsがメンテナンス。 <p align=\"center\"> <a href=\"https://discord.gg/72NsF6ux\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white\" alt=\"Disco...",
       "language": "Python",
-      "stars": 618
+      "stars": 1150
     },
     {
       "rank": 2,
-      "repo_name": "lintsinghua/DeepAudit",
-      "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。",
-      "description_ja": "DeepAudit：誰もが使えるAIハッカーチームで、脆弱性発見を身近に。国内初のオープンソースコード脆弱性検出マルチエージェントシステム。初心者でもワンクリックでデプロイ・実行可能。自律協調監査と自動化されたサンドボックスPoC検証を搭載。Ollamaのプライベートデプロイに対応し、ワンクリックでレポートを生成。セキュリティをもっと手軽に、監査をもっとシンプルに。",
-      "readme_summary": "DeepAudit - 人人拥有的 AI 审计战队，让漏洞挖掘触手可及 🦸‍♂️ <p align=\"center\"> <strong>简体中文</strong> | <a href=\"README_EN.md\">English</a> </p> <div style=\"width: 100%; max-width: 600px; margin: 0 auto;\"> <img src=\"frontend/public/images/logo.png\" alt=\"DeepAudit Logo\" style=\"width: 100%; height: auto; display: block; margin: 0 auto;\"> </div> <div align=\"center\"> ![Version](https://github.com/lintsinghua/DeepAudit/releases) ![License: AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0) ![React](https://reactjs.org/) ![...",
-      "readme_summary_ja": "DeepAudit - 誰もが使えるAI監査チーム。脆弱性発見をより身近に 🦸‍♂️\n\n**简体中文** | [English](README_EN.md)\n\n[DeepAudit Logo]\n\n[バージョン](https://github.com/lintsinghua/DeepAudit/releases) [ライセンス: AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0) [React](https://reactjs.org/) [...]",
+      "repo_name": "GreyDGL/PentestGPT",
+      "description": "A GPT-empowered penetration testing tool",
+      "description_ja": "GPTを活用したペネトレーションテストツール",
+      "readme_summary": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 --> <a name=\"readme-top\"></a> <!-- PROJECT SHIELDS --> [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![Discord][discord-shield]][discord-url] <!-- PROJECT LOGO --> <br /> <div align=\"center\"> <h3 align=\"center\">P...",
+      "readme_summary_ja": "<!-- トップへ戻るリンクの互換性向上: 参照: https://github.com/othneildrew/Best-README-Template/pull/73 --> <a name=\"readme-top\"></a> <!-- プロジェクトシールド --> [![貢献者][contributors-shield]][contributors-url] [![フォーク][forks-shield]][forks-url] [![スター][stars-shield]][stars-url] [![Issue][issues-shield]][issues-url] [![MITライセンス][license-shield]][license-url] [![Discord][discord-shield]][discord-url] <!-- プロジェクトロゴ --> <br /> <div align=\"center\"> <h3 align=\"center\">P...",
       "language": "Python",
-      "stars": 85
+      "stars": 190
     },
     {
       "rank": 3,
-      "repo_name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "description_ja": "Claude Codeは、ターミナル上で動作するエージェント型のコーディングツールです。自然言語コマンドを通じて、ルーチンタスクの実行、複雑なコードの説明、Gitワークフローの処理などを支援し、コードベースを理解することで、より迅速なコーディングを実現します。",
-      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "readme_summary_ja": "Claude Codeは、ターミナル上で動作するエージェント型のコーディングツールです。あなたのコードベースを理解し、日常的なタスクの実行、複雑なコードの説明、Gitワークフローの処理などを自然言語コマンドを通じて行い、コーディングを高速化します。ターミナルで利用できます。",
-      "language": "Shell",
-      "stars": 337
+      "repo_name": "swisskyrepo/PayloadsAllTheThings",
+      "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+      "description_ja": "Webアプリケーションセキュリティ、ペンテスト/CTFに役立つペイロードとバイパス手法のまとめ",
+      "readme_summary": "Payloads All The Things A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques! You can also contribute with a :beers: IRL, or using the sponsor button. ![Sponsor](https://github.com/sponsors/swisskyrepo) ![Tweet](https://twitter.com/intent/tweet?text=Payloads%20All%20The%20Things,%20a%20list%20of%20useful%20payloads%20and%20bypasses%20for%20Web%20Application%20Security%20-%20by%20@pentest_swissky&url=https://github.com/swissky...",
+      "readme_summary_ja": "Payloads All The Things：Webアプリケーションセキュリティに役立つペイロードとバイパス手法のリストです。あなたのペイロードやテクニックで改善に貢献してください！ IRLでの貢献や、スポンサーボタンからの支援も歓迎です。",
+      "language": "Python",
+      "stars": 235
     },
     {
       "rank": 4,
-      "repo_name": "github/awesome-copilot",
-      "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
-      "description_ja": "GitHub Copilotを最大限に活用するための、コミュニティ提供による手順、プロンプト、および設定集。",
-      "readme_summary": "🤖 Awesome GitHub Copilot Customizations ![Powered by Awesome Copilot](https://aka.ms/awesome-github-copilot) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> ![All Contributors](#contributors-) <!-- ALL-CONTRIBUTORS-BADGE:END --> A community created collection of custom agents, prompts, and instructions to supercharge your GitHub Copilot experience across different domains, languages, and use cases. 🚀 What is Awesome GitHub Copilot? This repository provides a comprehe...",
-      "readme_summary_ja": "🤖 GitHub Copilot のカスタム設定を集めた素晴らしいコレクション ![Powered by Awesome Copilot](https://aka.ms/awesome-github-copilot) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> ![All Contributors](#contributors-) <!-- ALL-CONTRIBUTORS-BADGE:END --> さまざまな分野、言語、ユースケースにおいて、GitHub Copilot の体験を強化するためのカスタムエージェント、プロンプト、指示をコミュニティが作成しました。🚀 Awesome GitHub Copilot とは？このリポジトリは、包括的な...",
-      "language": "JavaScript",
-      "stars": 231
-    },
-    {
-      "rank": 5,
-      "repo_name": "swisskyrepo/PayloadsAllTheThings",
-      "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
-      "description_ja": "Webアプリケーションセキュリティ、ペンテスト/CTFに役立つペイロードとバイパス手法のリスト",
-      "readme_summary": "Payloads All The Things A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques! You can also contribute with a :beers: IRL, or using the sponsor button. ![Sponsor](https://github.com/sponsors/swisskyrepo) ![Tweet](https://twitter.com/intent/tweet?text=Payloads%20All%20The%20Things,%20a%20list%20of%20useful%20payloads%20and%20bypasses%20for%20Web%20Application%20Security%20-%20by%20@pentest_swissky&url=https://github.com/swissky...",
-      "readme_summary_ja": "Payloads All The Things：Webアプリケーションセキュリティに役立つペイロードとバイパス手法のリストです。あなたのペイロードやテクニックで改善に貢献してください！ IRLで🍻おごったり、スポンサーボタンから支援することもできます。",
-      "language": "Python",
-      "stars": 307
-    },
-    {
-      "rank": 6,
       "repo_name": "sgl-project/mini-sglang",
       "description": "No description provided",
       "description_ja": "説明なし",
       "readme_summary": "<p align=\"center\"> <img width=\"400\" src=\"/assets/logo.png\"> </p> Mini-SGLang A **lightweight yet high-performance** inference framework for Large Language Models. --- Mini-SGLang is a compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. With a compact codebase of **~5,000 lines of Python**, it serves as both a capable inference engine and a transparent reference for researchers and developers",
-      "readme_summary_ja": "<p align=\"center\"> <img width=\"400\" src=\"/assets/logo.png\"> </p> Mini-SGLang：大規模言語モデルのための**軽量かつ高性能な**推論フレームワーク。--- Mini-SGLangは、現代的なLLMサービングシステムの複雑さを解明するために設計された、SGLangのコンパクトな実装です。**約5,000行のPython**によるコンパクトなコードベースで、高性能な推論エンジンとしてだけでなく、研究者や開発者にとって透明性の高いリファレンスとしても機能します。",
+      "readme_summary_ja": "<p align=\"center\"> <img width=\"400\" src=\"/assets/logo.png\"> </p> Mini-SGLang：大規模言語モデルのための**軽量かつ高性能な**推論フレームワーク\n\n---\n\nMini-SGLangは、SGLangをコンパクトに実装したもので、最新のLLM提供システムの複雑さを解き明かすことを目的としています。**約5,000行のPython**によるコンパクトなコードベースで、高性能な推論エンジンとしてだけでなく、研究者や開発者にとって透明性の高いリファレンスとしても機能します。",
       "language": "Python",
-      "stars": 311
+      "stars": 202
+    },
+    {
+      "rank": 5,
+      "repo_name": "pollen-robotics/reachy_mini",
+      "description": "Reachy Mini's SDK",
+      "description_ja": "Reachy Mini の SDK",
+      "readme_summary": "Reachy Mini 🤖 ![Ask on HuggingChat](https://huggingface.co/chat/?attachments=https%3A%2F%2Fgist.githubusercontent.com%2FFabienDanieau%2F919e1d7468fb16e70dbe984bdc277bba%2Fraw%2Fdoc_reachy_mini_full.md&prompt=Read%20this%20documentation%20about%20Reachy%20Mini%20so%20I%20can%20ask%20questions%20about%20it.) ![Discord](https://discord.gg/Y7FgMqHsub) **Reachy Mini is an open-source, expressive robot made for hackers and AI builders.** 🛒 **Buy Reachy Mini** ![Reachy Mini Hello](https://www.pollen-ro...",
+      "readme_summary_ja": "Reachy Mini 🤖 ![HuggingChatで質問](https://huggingface.co/chat/?attachments=https%3A%2F%2Fgist.githubusercontent.com%2FFabienDanieau%2F919e1d7468fb16e70dbe984bdc277bba%2Fraw%2Fdoc_reachy_mini_full.md&prompt=Read%20this%20documentation%20about%20Reachy%20Mini%20so%20I%20can%20ask%20questions%20about%20it.) ![Discord](https://discord.gg/Y7FgMqHsub) **Reachy Miniは、ハッカーやAI開発者向けのオープンソースで表現力豊かなロボットです。** 🛒 **Reachy Miniを購入** ![Re",
+      "language": "Python",
+      "stars": 17
+    },
+    {
+      "rank": 6,
+      "repo_name": "cocoindex-io/cocoindex",
+      "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",
+      "description_ja": "AIのためのデータ変換フレームワーク。超高性能で、インクリメンタル処理に対応。気に入ったらスターをお願いします！",
+      "readme_summary": "<p align=\"center\"> <img src=\"https://cocoindex.io/images/github.svg\" alt=\"CocoIndex\"> </p> <h1 align=\"center\">Data transformation for AI</h1> <div align=\"center\"> ![GitHub](https://github.com/cocoindex-io/cocoindex) ![Documentation](https://cocoindex.io/docs/getting_started/quickstart) ![License](https://opensource.org/licenses/Apache-2.0) ![PyPI version](https://pypi.org/project/cocoindex/) <!--![PyPI - Downloads](https://pypistats.org/packages/cocoindex) --> ![PyPI Downloads](https://pepy.tech...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://cocoindex.io/images/github.svg\" alt=\"CocoIndex\"> </p> <h1 align=\"center\">AIのためのデータ変換</h1> <div align=\"center\"> ![GitHub](https://github.com/cocoindex-io/cocoindex) ![ドキュメント](https://cocoindex.io/docs/getting_started/quickstart) ![ライセンス](https://opensource.org/licenses/Apache-2.0) ![PyPIバージョン](https://pypi.org/project/cocoindex/) <!--![PyPI - ダウンロード数](https://pypistats.org/packages/cocoindex) --> ![PyPI ダウンロード数](https://pepy.tech...",
+      "language": "Rust",
+      "stars": 187
     },
     {
       "rank": 7,
@@ -68,49 +68,29 @@
       "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
       "description_ja": "認定資格が取得できる無料コースの厳選リスト。https://free-certifications.com/ でも公開しています。",
       "readme_summary": "Free Certifications ![GitHub Repo stars](https://github.com/cloudcommunity/Free-Certifications) ![Twitter Follow](https://twitter.com/FreeCerts) A curated list of **free courses with certifications**. Don't forget to star ⭐ this repository. <!-- The offers on top of the table are time-limited and will expire soon",
-      "readme_summary_ja": "無料資格取得 ![GitHubリポジトリのスター数](https://github.com/cloudcommunity/Free-Certifications) ![Twitterのフォロー数](https://twitter.com/FreeCerts) **資格取得可能な無料コース**の厳選リストです。このリポジトリにスター⭐を付けるのをお忘れなく。",
+      "readme_summary_ja": "Free Certifications ![GitHub Repo stars](https://github.com/cloudcommunity/Free-Certifications) ![Twitter Follow](https://twitter.com/FreeCerts) A curated list of **free courses with certifications**. Don't forget to star ⭐ this repository. <!-- The offers on top of the table are time-limited and will expire soon",
       "language": "",
-      "stars": 244
+      "stars": 436
     },
     {
       "rank": 8,
-      "repo_name": "GreyDGL/PentestGPT",
-      "description": "A GPT-empowered penetration testing tool",
-      "description_ja": "A GPT-empowered penetration testing tool",
-      "readme_summary": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 --> <a name=\"readme-top\"></a> <!-- PROJECT SHIELDS --> [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![Discord][discord-shield]][discord-url] <!-- PROJECT LOGO --> <br /> <div align=\"center\"> <h3 align=\"center\">P...",
-      "readme_summary_ja": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 --> <a name=\"readme-top\"></a> <!-- PROJECT SHIELDS --> [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![Discord][discord-shield]][discord-url] <!-- PROJECT LOGO --> <br /> <div align=\"center\"> <h3 align=\"center\">P...",
-      "language": "Python",
-      "stars": 256
+      "repo_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "description_ja": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
+      "readme_summary_ja": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
+      "language": "Shell",
+      "stars": 293
     },
     {
       "rank": 9,
-      "repo_name": "NexaAI/nexa-sdk",
-      "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
-      "description_ja": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
-      "readme_summary": "<div align=\"center\" style=\"text-decoration: none;\"> <img width=\"100%\" src=\"assets/banner1.png\" alt=\"Nexa AI Banner\"> <p style=\"font-size: 1.3em; font-weight: 600; margin-bottom: 20px;\"> <a href=\"README_zh.md\"> 简体中文 </a> | <a href=\"README.md\"> English </a> </p> <p style=\"font-size: 1.3em; font-weight: 600; margin-bottom: 20px;\">🤝 Supported chipmakers </p> <picture> <source srcset=\"assets/chipmakers-dark.png\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"assets/chipmakers.png\" media=\"(pref...",
-      "readme_summary_ja": "<div align=\"center\" style=\"text-decoration: none;\"> <img width=\"100%\" src=\"assets/banner1.png\" alt=\"Nexa AI バナー\"> <p style=\"font-size: 1.3em; font-weight: 600; margin-bottom: 20px;\"> <a href=\"README_zh.md\"> 简体中文 </a> | <a href=\"README.md\"> English </a> </p> <p style=\"font-size: 1.3em; font-weight: 600; margin-bottom: 20px;\">🤝 対応チップメーカー </p> <picture> <source srcset=\"assets/chipmakers-dark.png\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"assets/chipmakers.png\" media=\"(pref...",
-      "language": "Go",
-      "stars": 300
-    },
-    {
-      "rank": 10,
-      "repo_name": "astral-sh/ty",
-      "description": "An extremely fast Python type checker and language server, written in Rust.",
-      "description_ja": "Rustで書かれた、非常に高速なPython型チェッカーおよびLanguage Server。",
-      "readme_summary": "ty ![ty](https://github.com/astral-sh/ty) ![PyPI](https://pypi.python.org/pypi/ty) ![Discord](https://discord.com/invite/astral-sh) An extremely fast Python type checker and language server, written in Rust. <br /> <p align=\"center\"> <img alt=\"Shows a bar chart with benchmark results.\" width=\"500px\" src=\"./docs/assets/ty-benchmark-cli.svg\"> </p> <p align=\"center\"> <i>Type checking the <a href=\"https://github.com/home-assistant/core\">home-assistant</a> project without caching.</i> </p> <br /> ty ...",
-      "readme_summary_ja": "ty ![ty](https://github.com/astral-sh/ty) ![PyPI](https://pypi.python.org/pypi/ty) ![Discord](https://discord.com/invite/astral-sh) Rustで書かれた、非常に高速なPythonの型チェッカーおよびLanguage Server。<br /> <p align=\"center\"> <img alt=\"ベンチマーク結果を示す棒グラフ。\" width=\"500px\" src=\"./docs/assets/ty-benchmark-cli.svg\"> </p> <p align=\"center\"> <i>キャッシュなしで<a href=\"https://github.com/home-assistant/core\">home-assistant</a>プロジェクトの型チェックを実行。</i> </p> <br /> ty ...",
-      "language": "Python",
-      "stars": 97
-    },
-    {
-      "rank": 11,
-      "repo_name": "iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "description_ja": "世界中の公開されているIPTVチャンネルのコレクション",
-      "readme_summary": "IPTV ![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents - 🚀 How to use? - 📺 Playlists - 🗓 EPG - 🗄 Database - 👨‍💻 API - 📚 Resources - 💬 Discussions - ❓ FAQ - 🛠 Contribution - ⚖ Legal - © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press _Open_. !VLC Network Panel Playlists The mai...",
-      "readme_summary_ja": "IPTV ![更新](https://github.com/iptv-org/iptv/actions/workflows/update.yml) 世界中の公開されているIPTV (インターネットプロトコルテレビ) チャンネルのコレクションです。\n\n目次:\n\n- 🚀 使い方\n- 📺 プレイリスト\n- 🗓 EPG (電子番組ガイド)\n- 🗄 データベース\n- 👨‍💻 API\n- 📚 リソース\n- 💬 ディスカッション\n- ❓ FAQ\n- 🛠 貢献\n- ⚖ 法的事項\n- © ライセンス\n\n使い方: ライブストリーミングをサポートするビデオプレーヤーに、いずれかのプレイリストのリンクを貼り付けて「開く」を押すだけです。 !VLCネットワークパネル プレイリスト メイン...",
-      "language": "TypeScript",
-      "stars": 228
+      "repo_name": "trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "description_ja": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/trimstray/the-book-of-secret-knowledge\"> <img src=\"https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png\" alt=\"Master\"> </a> </p> <p align=\"center\">\"<i>Knowledge is powerful, be careful how you use it!</i>\"</p> <h4 align=\"center\">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.</h4> <br> <p align=\"center\"> <a href=\"https://git...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/trimstray/the-book-of-secret-knowledge\"> <img src=\"https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png\" alt=\"Master\"> </a> </p> <p align=\"center\">\"<i>知識は力なり、その使い方には注意せよ！</i>\"</p> <h4 align=\"center\">刺激的なリスト、マニュアル、チートシート、ブログ、ハック、ワンライナー、CLI/Webツールなどを集めたコレクション。</h4> <br> <p align=\"center\"> <a href=\"https://git...",
+      "language": "",
+      "stars": 170
     }
   ]
 }
