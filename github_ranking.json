@@ -1,176 +1,146 @@
 {
-  "updated_at": "2025-12-23 09:02:58",
-  "total_repos": 17,
+  "updated_at": "2025-12-24 09:01:57",
+  "total_repos": 14,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "exo-explore/exo",
-      "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
-      "description_ja": "手持ちのデバイス（スマホ、PC、ディスプレイ、スマートウォッチなど）で、自宅にAIクラスタを構築しましょう。",
-      "readme_summary": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"/docs/imgs/exo-logo-black-bg.jpg\"> <img alt=\"exo logo\" src=\"/docs/imgs/exo-logo-transparent.png\" width=\"50%\" height=\"50%\"> </picture> exo: Run your own AI cluster at home with everyday devices. Maintained by exo labs. <p align=\"center\"> <a href=\"https://discord.gg/72NsF6ux\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white\" ...",
-      "readme_summary_ja": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"/docs/imgs/exo-logo-black-bg.jpg\"> <img alt=\"exo logo\" src=\"/docs/imgs/exo-logo-transparent.png\" width=\"50%\" height=\"50%\"> </picture> exo: 身近なデバイスで自宅にAIクラスタを構築。exo labsがメンテナンス。 <p align=\"center\"> <a href=\"https://discord.gg/72NsF6ux\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white\" ...",
+      "repo_name": "rendercv/rendercv",
+      "description": "Typst-based CV/resume generator for academics and engineers",
+      "description_ja": "Typst を用いた、研究者やエンジニア向けの履歴書/職務経歴書ジェネレーター",
+      "readme_summary": "<div align=\"center\"> <h1>RenderCV</h1> _CV/resume generator for academics and engineers_ ![test](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![coverage](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![docs>)](https://docs.rendercv.com) ![pypi-version>)](https://pypi.python.org/pypi/rendercv) ![pypi-downloads>)](https://pypistats.org/packages/rendercv) </div> Write your CV or resume as YAML, then run RenderCV, and get a PDF with perfect typograp...",
+      "readme_summary_ja": "<div align=\"center\"> <h1>RenderCV</h1> _研究者とエンジニアのためのCV/履歴書ジェネレーター_ ![テスト](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![カバレッジ](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![ドキュメント](https://docs.rendercv.com) ![pypi-version](https://pypi.python.org/pypi/rendercv) ![pypi-downloads](https://pypistats.org/packages/rendercv) </div> YAML形式でCVや履歴書を作成し、RenderCVを実行するだけで、美しい組版のPDFが得られます。",
       "language": "Python",
-      "stars": 1320
+      "stars": 1146
     },
     {
       "rank": 2,
-      "repo_name": "iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "description_ja": "世界中の公開されているIPTVチャンネルのコレクション",
-      "readme_summary": "IPTV ![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents - 🚀 How to use? - 📺 Playlists - 🗓 EPG - 🗄 Database - 👨‍💻 API - 📚 Resources - 💬 Discussions - ❓ FAQ - 🛠 Contribution - ⚖ Legal - © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press _Open_. !VLC Network Panel Playlists The mai...",
-      "readme_summary_ja": "IPTV ![更新](https://github.com/iptv-org/iptv/actions/workflows/update.yml) 世界中の公開されているIPTV（インターネットプロトコルテレビ）チャンネルのコレクション。目次：🚀 使い方 - 📺 プレイリスト - 🗓 EPG - 🗄 データベース - 👨‍💻 API - 📚 リソース - 💬 ディスカッション - ❓ FAQ - 🛠 貢献 - ⚖ 法的事項 - © ライセンス。 使い方：ライブストリーミングをサポートするビデオプレーヤーに、プレイリストのリンクを貼り付けて「開く」を押すだけです。 !VLC ネットワークパネル プレイリスト メイン...",
-      "language": "TypeScript",
-      "stars": 248
+      "repo_name": "exo-explore/exo",
+      "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+      "description_ja": "身近なデバイス（スマホ、PC、ディスプレイ、スマートウォッチなど）で、自宅にAIクラスタを構築しましょう。",
+      "readme_summary": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"/docs/imgs/exo-logo-black-bg.jpg\"> <img alt=\"exo logo\" src=\"/docs/imgs/exo-logo-transparent.png\" width=\"50%\" height=\"50%\"> </picture> exo: Run your own AI cluster at home with everyday devices. Maintained by exo labs. <p align=\"center\"> <a href=\"https://discord.gg/72NsF6ux\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white\" ...",
+      "readme_summary_ja": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"/docs/imgs/exo-logo-black-bg.jpg\"> <img alt=\"exo logo\" src=\"/docs/imgs/exo-logo-transparent.png\" width=\"50%\" height=\"50%\"> </picture> exo: 身近なデバイスで自宅にAIクラスタを構築。 exo labsがメンテナンス。 <p align=\"center\"> <a href=\"https://discord.gg/72NsF6ux\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white\" ...",
+      "language": "Python",
+      "stars": 1347
     },
     {
       "rank": 3,
+      "repo_name": "google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "description_ja": "LLMを活用して、非構造化テキストから構造化された情報を、正確なソースに基づいて抽出し、インタラクティブに可視化するためのPythonライブラリ。",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) 目次 - はじめに - LangExtractを選ぶ理由 - クイックスタート - インストール - クラウドモデルのAPIキー設定 - ...",
+      "language": "Python",
+      "stars": 417
+    },
+    {
+      "rank": 4,
+      "repo_name": "yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "description_ja": "LEANNで全てを対象としたRAGを実現。高速かつ正確で、100%プライベートなRAGアプリケーションを個人のデバイス上で実行しながら、97%のストレージ節約を享受できます。",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN ロゴ\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python バージョン\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI ステータス\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20",
+      "language": "Python",
+      "stars": 150
+    },
+    {
+      "rank": 5,
+      "repo_name": "safety-research/bloom",
+      "description": "bloom - evaluate any behavior immediately  🌸🌱",
+      "description_ja": "bloom - あらゆる挙動を即座に評価 🌸🌱",
+      "readme_summary": "🌱🌸 bloom: An Open Source Tool for Automated Behavior Evaluation of LLMs Bloom is a scaffolded evaluation system which accepts as input an evaluation configuration (the \"seed\"), which specifies a target behavior (for example sycophancy, political bias or self-presevation), exemplary transcripts, and the types of interactions the user is interested in, and generates an evaluation suite of interactions with the target model that attempt to uncover the chosen behavior. As reflected in the name of th...",
+      "readme_summary_ja": "🌱🌸 Bloom: LLMの自動行動評価のためのオープンソースツール\n\nBloomは、構造化された評価システムです。評価設定（「シード」）を入力として受け取り、ターゲットとする行動（例えば、追従性、政治的偏向、自己保存）や、模範的な対話記録、ユーザーが関心を持つインタラクションの種類を指定します。そして、ターゲットモデルとのインタラクション評価スイートを生成し、選択された行動を明らかにしようと試みます。名前が示すように...",
+      "language": "Python",
+      "stars": 180
+    },
+    {
+      "rank": 6,
+      "repo_name": "stan-smith/FossFLOW",
+      "description": "Make beautiful isometric infrastructure diagrams",
+      "description_ja": "美しいアイソメトリックなインフラ構成図を作成",
+      "readme_summary": "FossFLOW - Isometric Diagramming Tool <img width=\"30\" height=\"30\" alt=\"fossflow\" src=\"https://github.com/user-attachments/assets/56d78887-601c-4336-ab87-76f8ee4cde96\" /> <p align=\"center\"> <a href=\"README.md\">English</a> | <a href=\"docs/README.cn.md\">简体中文</a> | <a href=\"docs/README.es.md\">Español</a> | <a href=\"docs/README.pt.md\">Português</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.hi.md\">हिन्दी</a> | <a href=\"docs/README.bn.md\">বাংলা</a> | <a href=\"docs/README.ru.md\">...",
+      "readme_summary_ja": "FossFLOW - アイソメトリック図作成ツール <img width=\"30\" height=\"30\" alt=\"fossflow\" src=\"https://github.com/user-attachments/assets/56d78887-601c-4336-ab87-76f8ee4cde96\" /> <p align=\"center\"> <a href=\"README.md\">English</a> | <a href=\"docs/README.cn.md\">简体中文</a> | <a href=\"docs/README.es.md\">Español</a> | <a href=\"docs/README.pt.md\">Português</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.hi.md\">हिन्दी</a> | <a href=\"docs/README.bn.md\">বাংলা</a> | <a href=\"docs/README.ru",
+      "language": "TypeScript",
+      "stars": 368
+    },
+    {
+      "rank": 7,
+      "repo_name": "vendure-ecommerce/vendure",
+      "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
+      "description_ja": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://vendure.io\"> <img alt=\"Vendure logo\" height=\"60\" width=\"auto\" src=\"https://a.storyblok.com/f/328257/699x480/8dbb4c7a3c/logo-icon.png\"> </a> </p> <h1 align=\"center\"> Vendure </h1> <h3 align=\"center\"> Own Your Commerce. Build Without Workarounds. Ship Faster",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://vendure.io\"> <img alt=\"Vendure logo\" height=\"60\" width=\"auto\" src=\"https://a.storyblok.com/f/328257/699x480/8dbb4c7a3c/logo-icon.png\"> </a> </p> <h1 align=\"center\"> Vendure </h1> <h3 align=\"center\"> Own Your Commerce. Build Without Workarounds. Ship Faster",
+      "language": "TypeScript",
+      "stars": 14
+    },
+    {
+      "rank": 8,
+      "repo_name": "cloudcommunity/Free-Certifications",
+      "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
+      "description_ja": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
+      "readme_summary": "Free Certifications ![GitHub Repo stars](https://github.com/cloudcommunity/Free-Certifications) ![Twitter Follow](https://twitter.com/FreeCerts) A curated list of **free courses with certifications**. Don't forget to star ⭐ this repository. <!-- The offers on top of the table are time-limited and will expire soon",
+      "readme_summary_ja": "無料認定資格 ![GitHubリポジトリのスター数](https://github.com/cloudcommunity/Free-Certifications) ![Twitterのフォロワー数](https://twitter.com/FreeCerts) **認定資格付きの無料コース**の厳選リストです。このリポジトリにスター ⭐ を付けるのをお忘れなく。",
+      "language": "",
+      "stars": 419
+    },
+    {
+      "rank": 9,
+      "repo_name": "open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "description_ja": "使いやすいAIインターフェース（Ollama、OpenAI APIなどをサポート）",
+      "readme_summary": "Open WebUI 👋 !GitHub stars !GitHub forks !GitHub watchers !GitHub repo size !GitHub language count !GitHub top language !GitHub last commit ![Discord](https://discord.gg/5rJgQTnV4s) ![](https://github.com/sponsors/tjbck) !Open WebUI Banner **Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline.** It supports various LLM runners like **Ollama** and **OpenAI-compatible APIs**, with **built-in inference engine** for RAG, making it...",
+      "readme_summary_ja": "Open WebUI 👋! GitHubスター数! GitHubフォーク数! GitHubウォッチャー数! GitHubリポジトリサイズ! GitHub言語数! GitHub主要言語! GitHub最終コミット! [Discord](https://discord.gg/5rJgQTnV4s) ![](https://github.com/sponsors/tjbck) !Open WebUIバナー\n\n**Open WebUIは、完全にオフラインで動作するように設計された、拡張可能で機能豊富、かつユーザーフレンドリーなセルフホスト型AIプラットフォームです。** Ollamaや**OpenAI互換API**などの様々なLLMランナーをサポートし、**RAG用の推論エンジン**を内蔵しています。",
+      "language": "Svelte",
+      "stars": 99
+    },
+    {
+      "rank": 10,
+      "repo_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "description_ja": "Claude Codeの設定と監視を行うためのCLIツール",
+      "readme_summary": "![npm version](https://www.npmjs.com/package/claude-code-templates) ![npm downloads](https://www.npmjs.com/package/claude-code-templates) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](CONTRIBUTING.md) ![Sponsored by Z.AI](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=github&utm_medium=badge&utm_campaign=readme) ![Buy Me A Coffee](https://buymeacoffee.com/daniavila) ![GitHub stars](https://github.com/davila7/claude-code-templates) <p align=\"center\"> <a href=\"https://trends...",
+      "readme_summary_ja": "Claudeのコードテンプレート\n\n[npmバージョン](https://www.npmjs.com/package/claude-code-templates) [npmダウンロード数](https://www.npmjs.com/package/claude-code-templates) [ライセンス: MIT](https://opensource.org/licenses/MIT) [PR歓迎](CONTRIBUTING.md) [Z.AIによるスポンサー](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=github&utm_medium=badge&utm_campaign=readme) [コーヒーをおごる](https://buymeacoffee.com/daniavila) [GitHubスター数](https://github.com/davila7/claude-code-templates)\n\n（中央揃え）\n[トレンド...]",
+      "language": "Python",
+      "stars": 226
+    },
+    {
+      "rank": 11,
+      "repo_name": "makeplane/plane",
+      "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
+      "description_ja": "🔥 🔥 🔥 オープンソースのJIRA、Linear、Monday、Asana代替。Planeは、課題、エピック、サイクルを地球上で最も簡単に追跡できるように支援します。",
+      "readme_summary": "<br /><br /> <p align=\"center\"> <a href=\"https://plane.so\"> <img src=\"https://media.docs.plane.so/logo/plane_github_readme.png\" alt=\"Plane Logo\" width=\"400\"> </a> </p> <p align=\"center\"><b>Modern project management for all teams</b></p> <p align=\"center\"> <a href=\"https://discord.com/invite/A92xrEGCge\"> <img alt=\"Discord online members\" src=\"https://img.shields.io/discord/1031547764020084846?color=5865F2&label=Discord&style=for-the-badge\" /> </a> <img alt=\"Commit activity per month\" src=\"https:/...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://plane.so\"> <img src=\"https://media.docs.plane.so/logo/plane_github_readme.png\" alt=\"Plane Logo\" width=\"400\"> </a> </p> <p align=\"center\"><b>すべてのチームのためのモダンなプロジェクト管理</b></p> <p align=\"center\"> <a href=\"https://discord.com/invite/A92xrEGCge\"> <img alt=\"Discord online members\" src=\"https://img.shields.io/discord/1031547764020084846?color=5865F2&label=Discord&style=for-the-badge\" /> </a> <img alt=\"Commit activity per month\" src=\"https:/...",
+      "language": "TypeScript",
+      "stars": 72
+    },
+    {
+      "rank": 12,
+      "repo_name": "xerrors/Yuxi-Know",
+      "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
+      "description_ja": "LightRAG知識ベースと知識グラフを統合したエージェントプラットフォーム。LangChain v1、Vue、FastAPIで構築されており、DeepAgents、MinerU PDF、Neo4j、MCPをサポートします。",
+      "readme_summary": "语析 - 基于大模型的知识库与知识图谱智能体开发平台 <div> ![Stable](https://github.com/xerrors/Yuxi-Know/tree/v0.3.0) ![](https://github.com/xerrors/Yuxi-Know/blob/main/docker-compose.yml) ![](https://github.com/xerrors/Yuxi-Know/issues) ![License](https://github.com/xerrors/Yuxi-Know/blob/main/LICENSE) ![DeepWiki](https://deepwiki.com/xerrors/Yuxi-Know) ![zread](https://zread.ai/xerrors/Yuxi-Know) ![demo](https://www.bilibili.com/video/BV1DF14BTETq/) ![](https://img.shields.io/github/stars/xerrors/Yuxi-Know) </div> 语析是...",
+      "readme_summary_ja": "语析 - 大規模言語モデル 기반의 지식 베이스 및 지식 그래프 지능형 에이전트 개발 플랫폼 <div> ![Stable](https://github.com/xerrors/Yuxi-Know/tree/v0.3.0) ![](https://github.com/xerrors/Yuxi-Know/blob/main/docker-compose.yml) ![](https://github.com/xerrors/Yuxi-Know/issues) ![License](https://github.com/xerrors/Yuxi-Know/blob/main/LICENSE) ![DeepWiki](https://deepwiki.com/xerrors/Yuxi-Know) ![zread](https://zread.ai/xerrors/Yuxi-Know) ![demo](https://www.bilibili.com/video/BV1DF14BTETq/) ![](https://img.shields.io/github/stars/xerrors/Yuxi-",
+      "language": "Python",
+      "stars": 59
+    },
+    {
+      "rank": 13,
       "repo_name": "swisskyrepo/PayloadsAllTheThings",
       "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
       "description_ja": "Webアプリケーションセキュリティ、ペンテスト/CTFに役立つペイロードとバイパス手法のまとめ",
       "readme_summary": "Payloads All The Things A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques! You can also contribute with a :beers: IRL, or using the sponsor button. ![Sponsor](https://github.com/sponsors/swisskyrepo) ![Tweet](https://twitter.com/intent/tweet?text=Payloads%20All%20The%20Things,%20a%20list%20of%20useful%20payloads%20and%20bypasses%20for%20Web%20Application%20Security%20-%20by%20@pentest_swissky&url=https://github.com/swissky...",
-      "readme_summary_ja": "Payloads All The Things：Webアプリケーションセキュリティに役立つペイロードとバイパス手法のリストです。あなたのペイロードやテクニックで改善に貢献してください！ IRLでの貢献や、スポンサーボタンからの支援も歓迎です。",
+      "readme_summary_ja": "Payloads All The Things A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques! You can also contribute with a :beers: IRL, or using the sponsor button. ![Sponsor](https://github.com/sponsors/swisskyrepo) ![Tweet](https://twitter.com/intent/tweet?text=Payloads%20All%20The%20Things,%20a%20list%20of%20useful%20payloads%20and%20bypasses%20for%20Web%20Application%20Security%20-%20by%20@pentest_swissky&url=https://github.com/swissky...",
       "language": "Python",
-      "stars": 335
-    },
-    {
-      "rank": 4,
-      "repo_name": "GreyDGL/PentestGPT",
-      "description": "A GPT-empowered penetration testing tool",
-      "description_ja": "GPTを活用したペネトレーションテストツール",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "Python",
-      "stars": 327
-    },
-    {
-      "rank": 5,
-      "repo_name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "description_ja": "エージェントスキル公開リポジトリ",
-      "readme_summary": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks",
-      "readme_summary_ja": "**注意:** このリポジトリには、AnthropicによるClaudeのスキル実装が含まれています。Agent Skills標準については、agentskills.ioをご覧ください。スキルとは、Claudeが特定のタスクにおけるパフォーマンスを向上させるために動的にロードする、指示、スクリプト、リソースのフォルダのことです。",
-      "language": "Python",
-      "stars": 928
-    },
-    {
-      "rank": 6,
-      "repo_name": "cocoindex-io/cocoindex",
-      "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",
-      "description_ja": "AIのためのデータ変換フレームワーク。インクリメンタル処理による超高性能。気に入ったらスターをお願いします！",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "Rust",
-      "stars": 407
-    },
-    {
-      "rank": 7,
-      "repo_name": "danielmiessler/Fabric",
-      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-      "description_ja": "Fabricは、AIを活用して人間の能力を拡張するためのオープンソースフレームワークです。特定の課題を解決するために、クラウドソーシングされたAIプロンプト群を利用できるモジュール式のシステムを提供し、どこでも利用可能です。",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://go.warp.dev/fabric\" target=\"_blank\"> <sup>Special thanks to:</sup> <br> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-02.png\"> <br> <h>Warp, built for coding with multiple AI agents</b> <br> <sup>Available for macOS, Linux and Windows</sup> </a> </div> <br> <div align=\"center\"> <img src=\"./docs/images/fabric-logo-gif.gif\" alt=\"fabriclogo\" width=\"400\" height...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://go.warp.dev/fabric\" target=\"_blank\"> <sup>特別な感謝を込めて:</sup> <br> <img alt=\"Warp スポンサーシップ\" width=\"400\" src=\"https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-02.png\"> <br> <h>複数のAIエージェントとのコーディングのために構築されたWarp</b> <br> <sup>macOS、Linux、Windowsで利用可能</sup> </a> </div> <br> <div align=\"center\"> <img src=\"./docs/images/fabric-logo-gif.gif\" alt=\"fabriclogo\" width=\"400\" height...",
-      "language": "Go",
-      "stars": 341
-    },
-    {
-      "rank": 8,
-      "repo_name": "tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "description_ja": "誰でも使えるオープンソースの機械学習フレームワーク",
-      "readme_summary": "<div align=\"center\"> <img src=\"https://www.tensorflow.org/images/tf_logo_horizontal.png\"> </div> ![Python](https://badge.fury.io/py/tensorflow) ![PyPI](https://badge.fury.io/py/tensorflow) ![DOI](https://doi.org/10.5281/zenodo.4724125) ![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1486) ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/tensorflow/tensorflow) ![Fuzzing Status](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://www.tensorflow.org/images/tf_logo_horizontal.png\"> </div> ![Python](https://badge.fury.io/py/tensorflow) ![PyPI](https://badge.fury.io/py/tensorflow) ![DOI](https://doi.org/10.5281/zenodo.4724125) ![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1486) ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/tensorflow/tensorflow) ![Fuzzing Status](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=...",
-      "language": "C++",
-      "stars": 28
-    },
-    {
-      "rank": 9,
-      "repo_name": "rendercv/rendercv",
-      "description": "Typst-based CV/resume generator for academics and engineers",
-      "description_ja": "Typst を用いた、研究者・エンジニア向けの履歴書/職務経歴書ジェネレーター",
-      "readme_summary": "<div align=\"center\"> <h1>RenderCV</h1> _CV/resume generator for academics and engineers_ ![test](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![coverage](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![docs>)](https://docs.rendercv.com) ![pypi-version>)](https://pypi.python.org/pypi/rendercv) ![pypi-downloads>)](https://pypistats.org/packages/rendercv) </div> Write your CV or resume as YAML, then run RenderCV, and get a PDF with perfect typograp...",
-      "readme_summary_ja": "<div align=\"center\"> <h1>RenderCV</h1> _研究者とエンジニアのためのCV/履歴書ジェネレーター_ ![テスト](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![カバレッジ](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![ドキュメント](https://docs.rendercv.com) ![pypi-version](https://pypi.python.org/pypi/rendercv) ![pypi-downloads](https://pypistats.org/packages/rendercv) </div> YAMLでCVや履歴書を記述し、RenderCVを実行するだけで、美しい組版のPDFが生成されます。",
-      "language": "Python",
-      "stars": 368
-    },
-    {
-      "rank": 10,
-      "repo_name": "home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "description_ja": "🏡 ローカル制御とプライバシーを最優先する、オープンソースのホームオートメーション。",
-      "readme_summary": "Home Assistant |Chat Status| ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server",
-      "readme_summary_ja": "Home Assistant |チャットステータス| ================================================================================= ローカル制御とプライバシーを最優先するオープンソースのホームオートメーション。世界中のDIY愛好家や技術者コミュニティによって開発されています。Raspberry Piやローカルサーバーでの実行に最適です。",
-      "language": "Python",
-      "stars": 40
-    },
-    {
-      "rank": 11,
-      "repo_name": "Semperis/EntraGoat",
-      "description": "A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.",
-      "description_ja": "意図的に脆弱性を持たせた Microsoft Entra ID 環境。実践的な、現実的な攻撃チャレンジを通して、IDセキュリティを学べます。",
-      "readme_summary": "EntraGoat - A Deliberately Vulnerable Entra ID Environment <img src=\"./assets/LogoEntra.png\" width=25% height=25%> **EntraGoat** is a deliberately vulnerable Microsoft Entra ID infrastructure designed to simulate real-world identity security misconfigurations and attack vectors. EntraGoat introduces intentional vulnerabilities in your environment to provide a realistic learning platform for security professionals. It features multiple privilege escalation paths and focuses on black-box attack me...",
-      "readme_summary_ja": "EntraGoat - A Deliberately Vulnerable Entra ID Environment <img src=\"./assets/LogoEntra.png\" width=25% height=25%> **EntraGoat** is a deliberately vulnerable Microsoft Entra ID infrastructure designed to simulate real-world identity security misconfigurations and attack vectors. EntraGoat introduces intentional vulnerabilities in your environment to provide a realistic learning platform for security professionals. It features multiple privilege escalation paths and focuses on black-box attack me...",
-      "language": "PowerShell",
-      "stars": 26
-    },
-    {
-      "rank": 12,
-      "repo_name": "google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "description_ja": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "language": "Python",
-      "stars": 299
-    },
-    {
-      "rank": 13,
-      "repo_name": "expressjs/express",
-      "description": "Fast, unopinionated, minimalist web framework for node.",
-      "description_ja": "Node.jsのための、高速で、特定の意見に偏らない、最小限のWebフレームワーク。",
-      "readme_summary": "![Express Logo](https://expressjs.com/) **Fast, unopinionated, minimalist web framework for Node.js.** **This project has a [Code of Conduct].** Table of contents - Table of contents - Installation - Features - Docs \\& Community - Quick Start - Philosophy - Examples - Contributing - Security Issues - Running Tests - Current project team members - TC (Technical Committee) - TC emeriti members - Triagers - Emeritus Triagers - License [![NPM Version][npm-version-image]][npm-url] [![NPM Downloads][n...",
-      "readme_summary_ja": "![Express ロゴ](https://expressjs.com/) **Node.jsのための高速で、特定の意見に偏らない、ミニマルなウェブフレームワークです。** **このプロジェクトには[行動規範]があります。** 目次 - 目次 - インストール - 特徴 - ドキュメントとコミュニティ - クイックスタート - 哲学 - 例 - 貢献 - セキュリティに関する問題 - テストの実行 - 現在のプロジェクトチームメンバー - TC (技術委員会) - TC 名誉メンバー - トリアージ担当者 - 名誉トリアージ担当者 - ライセンス [![NPM バージョン][npm-version-image]][npm-url] [![NPM ダウンロード数][n...",
-      "language": "JavaScript",
-      "stars": 13
+      "stars": 258
     },
     {
       "rank": 14,
-      "repo_name": "lintsinghua/DeepAudit",
-      "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。",
-      "description_ja": "DeepAudit：誰もが使えるAIハッカーチーム。脆弱性発見を身近に。国内初のオープンソースコード脆弱性検出マルチエージェントシステム。初心者でもワンクリックでデプロイ・実行可能。自律協調監査と自動化されたサンドボックスPoC検証を搭載。Ollamaのプライベートデプロイに対応し、ワンクリックでレポートを生成。中継ステーションもサポート。セキュリティをもっと手軽に、監査をもっとシンプルに。",
-      "readme_summary": "DeepAudit - 人人拥有的 AI 审计战队，让漏洞挖掘触手可及 🦸‍♂️ <div style=\"width: 100%; max-width: 600px; margin: 0 auto;\"> <img src=\"frontend/public/images/logo.png\" alt=\"DeepAudit Logo\" style=\"width: 100%; height: auto; display: block; margin: 0 auto;\"> </div> <div align=\"center\"> ![Version](https://github.com/lintsinghua/DeepAudit/releases) ![License: AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0) ![React](https://reactjs.org/) ![TypeScript](https://www.typescriptlang.org/) ![FastAPI](https://fastapi.tiangolo.co...",
-      "readme_summary_ja": "DeepAudit - みんなで所有するAI監査チーム。脆弱性発見を身近に 🦸‍♂️",
+      "repo_name": "vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "description_ja": "A framework for efficient model inference with omni-modality models",
+      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\"> <img alt=\"vllm-omni\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\" width=55%> </picture> </p> <h3 align=\"center\"> Easy, fast, and cheap omni-modality model serving for everyone </h3> <p align=\"center\"> | <a href=\"https://vllm-omni.readthed...",
+      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\"> <img alt=\"vllm-omni\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\" width=55%> </picture> </p> <h3 align=\"center\"> Easy, fast, and cheap omni-modality model serving for everyone </h3> <p align=\"center\"> | <a href=\"https://vllm-omni.readthed...",
       "language": "Python",
-      "stars": 140
-    },
-    {
-      "rank": 15,
-      "repo_name": "cloudcommunity/Free-Certifications",
-      "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
-      "description_ja": "認定資格が取得できる無料コースの厳選リスト。https://free-certifications.com/ でも公開しています。",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "",
-      "stars": 521
-    },
-    {
-      "rank": 16,
-      "repo_name": "codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "description_ja": "お気に入りの技術をゼロから再現して、プログラミングをマスターしましょう。",
-      "readme_summary": "![Banner](https://codecrafters.io/github-banner) Build your own &lt;insert-technology-here&gt; This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. > *What I cannot create, I do not understand — Richard Feynman.* It's a great way to learn. * 3D Renderer * Augmented Reality * BitTorrent Client * Blockchain / Cryptocurrency * Bot * Command-Line Tool * Database * Docker * Emulator / Virtual Machine * Front-end Framework / Libr...",
-      "readme_summary_ja": "![バナー](https://codecrafters.io/github-banner) &lt;ここに技術名を入力&gt;を自作しよう！ このリポジトリは、お気に入りのテクノロジーをゼロから再構築するための、分かりやすく丁寧なステップバイステップガイド集です。 > *「私が作れないものは、理解していないのと同じだ — リチャード・ファインマン」* これは素晴らしい学習方法です。 * 3Dレンダラー * 拡張現実（AR） * BitTorrentクライアント * ブロックチェーン / 暗号通貨 * ボット * コマンドラインツール * データベース * Docker * エミュレーター / 仮想マシン * フロントエンドフレームワーク / ライブラリ...",
-      "language": "Markdown",
-      "stars": 318
-    },
-    {
-      "rank": 17,
-      "repo_name": "mudler/LocalAI",
-      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
-      "description_ja": "🤖 OpenAI、Claudeなどの代替となる、無料のオープンソース。セルフホスト型でローカルファースト。OpenAIのドロップイン代替として、一般消費者向けハードウェア上で動作。GPU不要。gguf、transformers、diffusersなどを実行可能。テキスト生成、MCP、オーディオ、ビデオ、画像、音声クローン、分散処理、P2Pおよび分散型推論機能を搭載。",
-      "readme_summary": "<h1 align=\"center\"> <br> <img width=\"300\" src=\"./core/http/static/logo.png\"> <br> <br> </h1> <p align=\"center\"> <a href=\"https://github.com/go-skynet/LocalAI/fork\" target=\"blank\"> <img src=\"https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI forks\"/> </a> <a href=\"https://github.com/go-skynet/LocalAI/stargazers\" target=\"blank\"> <img src=\"https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI stars\"/> </a> <a href=\"https://githu...",
-      "readme_summary_ja": "<div align=\"center\">\n<br>\n<img width=\"300\" src=\"./core/http/static/logo.png\">\n<br>\n<br>\n</div>\n<p align=\"center\">\n<a href=\"https://github.com/go-skynet/LocalAI/fork\" target=\"blank\">\n<img src=\"https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI forks\"/>\n</a>\n<a href=\"https://github.com/go-skynet/LocalAI/stargazers\" target=\"blank\">\n<img src=\"https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI stars\"/>\n</a>\n<a href=\"https://githu...\n</p>",
-      "language": "Go",
-      "stars": 63
+      "stars": 104
     }
   ]
 }
