@@ -1,166 +1,96 @@
 {
-  "updated_at": "2025-12-25 02:58:37",
-  "total_repos": 16,
+  "updated_at": "2025-12-26 02:55:54",
+  "total_repos": 9,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "rendercv/rendercv",
-      "description": "Typst-based CV/resume generator for academics and engineers",
-      "description_ja": "Typst を用いた、研究者・エンジニア向けの履歴書/職務経歴書ジェネレーター",
+      "description": "CV/resume generator for academics and engineers, YAML to PDF",
+      "description_ja": "研究者やエンジニア向けのCV/履歴書ジェネレーター。YAMLからPDFを作成。",
       "readme_summary": "<div align=\"center\"> <h1>RenderCV</h1> _CV/resume generator for academics and engineers_ ![test](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![coverage](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![docs>)](https://docs.rendercv.com) ![pypi-version>)](https://pypi.python.org/pypi/rendercv) ![pypi-downloads>)](https://pypistats.org/packages/rendercv) </div> Write your CV or resume as YAML, then run RenderCV, and get a PDF with perfect typograp...",
-      "readme_summary_ja": "<div align=\"center\"> <h1>RenderCV</h1> _研究者とエンジニアのためのCV/履歴書ジェネレーター_ ![テスト](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![カバレッジ](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![ドキュメント](https://docs.rendercv.com) ![PyPIバージョン](https://pypi.python.org/pypi/rendercv) ![PyPIダウンロード数](https://pypistats.org/packages/rendercv) </div> YAML形式でCVまたは履歴書を記述し、RenderCVを実行すると、美しい組版のPDFが生成されます。",
+      "readme_summary_ja": "<div align=\"center\"> <h1>RenderCV</h1> _研究者とエンジニアのためのCV/履歴書ジェネレーター_ ![テスト](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![カバレッジ](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![ドキュメント](https://docs.rendercv.com) ![pypi-version](https://pypi.python.org/pypi/rendercv) ![pypi-downloads](https://pypistats.org/packages/rendercv) </div> YAMLでCVや履歴書を記述し、RenderCVを実行するだけで、美しい組版のPDFが得られます。",
       "language": "Python",
-      "stars": 2615
+      "stars": 1818
     },
     {
       "rank": 2,
+      "repo_name": "xerrors/Yuxi-Know",
+      "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
+      "description_ja": "LightRAG知識ベースと知識グラフを統合したエージェントプラットフォーム。LangChain v1 + Vue + FastAPIで構築。DeepAgents、MinerU PDF、Neo4j、MCPをサポート。",
+      "readme_summary": "📚 语析 - 基于大模型的知识库与知识图谱智能体开发平台 <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15845\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15845\" alt=\"Yuxi-Know | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![Stable](https://github.com/xerrors/Yuxi-Know/tree/v0.3.0) ![](https://github.com/xerrors/Yuxi-Know/blob/main/docker-compose.yml) ![](https://github.com/xerrors/Yuxi-Know/issues) ![License](https://github.com/xerrors/Yuxi-Kno...",
+      "readme_summary_ja": "📚 語析 - 大規模言語モデル 기반의 지식 베이스 및 지식 그래프 지능형 에이전트 개발 플랫폼 <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15845\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15845\" alt=\"Yuxi-Know | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![Stable](https://github.com/xerrors/Yuxi-Know/tree/v0.3.0) ![](https://github.com/xerrors/Yuxi-Know/blob/main/docker-compose.yml) ![](https://github.com/xerrors/Yuxi-Know/issues) ![License](https://github.com/xerrors/Yuxi",
+      "language": "Python",
+      "stars": 55
+    },
+    {
+      "rank": 3,
       "repo_name": "twitter/the-algorithm",
       "description": "Source code for the X Recommendation Algorithm",
       "description_ja": "Xレコメンデーションアルゴリズムのソースコード",
       "readme_summary": "X's Recommendation Algorithm X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our engineering blog",
-      "readme_summary_ja": "Xのレコメンデーションアルゴリズムは、Xのすべてのプロダクトサーフェス（例：おすすめタイムライン、検索、探索、通知）において、投稿やその他のコンテンツのフィードを提供するサービスとジョブの集合体です。アルゴリズムの仕組みについては、エンジニアリングブログをご覧ください。",
+      "readme_summary_ja": "Xのレコメンデーションアルゴリズムは、Xのすべてのプロダクトサーフェス（例：おすすめタイムライン、検索、探索、通知）で、投稿やその他のコンテンツのフィードを提供するサービスとジョブの集合体です。アルゴリズムの仕組みについては、エンジニアリングブログをご覧ください。",
       "language": "Scala",
-      "stars": 222
-    },
-    {
-      "rank": 3,
-      "repo_name": "google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "description_ja": "LLMを活用して、非構造化テキストから構造化された情報を、正確なソースに基づいて抽出し、インタラクティブに可視化するためのPythonライブラリ。",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) 目次 - はじめに - LangExtractを選ぶ理由 - クイックスタート - インストール - クラウドモデルのAPIキー設定 - ...",
-      "language": "Python",
-      "stars": 485
+      "stars": 326
     },
     {
       "rank": 4,
-      "repo_name": "vllm-project/vllm-omni",
-      "description": "A framework for efficient model inference with omni-modality models",
-      "description_ja": "全方位型モデルによる効率的なモデル推論のためのフレームワーク",
-      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\"> <img alt=\"vllm-omni\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\" width=55%> </picture> </p> <h3 align=\"center\"> Easy, fast, and cheap omni-modality model serving for everyone </h3> <p align=\"center\"> | <a href=\"https://vllm-omni.readthed...",
-      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\"> <img alt=\"vllm-omni\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\" width=55%> </picture> </p> <h3 align=\"center\"> 誰でも簡単、高速、低コストで利用できる、オムニモーダルモデルのサービング </h3> <p align=\"center\"> | <a href=\"https://vllm-omni.readthed...",
-      "language": "Python",
-      "stars": 176
-    },
-    {
-      "rank": 5,
-      "repo_name": "stan-smith/FossFLOW",
-      "description": "Make beautiful isometric infrastructure diagrams",
-      "description_ja": "美しいアイソメトリックなインフラ構成図を作成",
-      "readme_summary": "FossFLOW - Isometric Diagramming Tool <img width=\"30\" height=\"30\" alt=\"fossflow\" src=\"https://github.com/user-attachments/assets/56d78887-601c-4336-ab87-76f8ee4cde96\" /> <p align=\"center\"> <a href=\"README.md\">English</a> | <a href=\"docs/README.cn.md\">简体中文</a> | <a href=\"docs/README.es.md\">Español</a> | <a href=\"docs/README.pt.md\">Português</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.hi.md\">हिन्दी</a> | <a href=\"docs/README.bn.md\">বাংলা</a> | <a href=\"docs/README.ru.md\">...",
-      "readme_summary_ja": "FossFLOW - アイソメトリック図作成ツール <img width=\"30\" height=\"30\" alt=\"fossflow\" src=\"https://github.com/user-attachments/assets/56d78887-601c-4336-ab87-76f8ee4cde96\" /> <p align=\"center\"> <a href=\"README.md\">English（英語）</a> | <a href=\"docs/README.cn.md\">简体中文（中国語簡体字）</a> | <a href=\"docs/README.es.md\">Español（スペイン語）</a> | <a href=\"docs/README.pt.md\">Português（ポルトガル語）</a> | <a href=\"docs/README.fr.md\">Français（フランス語）</a> | <a href=\"docs/README.hi.md\">हिन्दी（ヒン",
-      "language": "TypeScript",
-      "stars": 503
-    },
-    {
-      "rank": 6,
-      "repo_name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "description_ja": "Claude Codeの設定と監視を行うためのCLIツール",
-      "readme_summary": "![npm version](https://www.npmjs.com/package/claude-code-templates) ![npm downloads](https://www.npmjs.com/package/claude-code-templates) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](CONTRIBUTING.md) ![Sponsored by Z.AI](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=github&utm_medium=badge&utm_campaign=readme) ![Buy Me A Coffee](https://buymeacoffee.com/daniavila) ![GitHub stars](https://github.com/davila7/claude-code-templates) <p align=\"center\"> <a href=\"https://trends...",
-      "readme_summary_ja": "![npm version](https://www.npmjs.com/package/claude-code-templates) ![npm downloads](https://www.npmjs.com/package/claude-code-templates) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](CONTRIBUTING.md) ![Sponsored by Z.AI](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=github&utm_medium=badge&utm_campaign=readme) ![Buy Me A Coffee](https://buymeacoffee.com/daniavila) ![GitHub stars](https://github.com/davila7/claude-code-templates) <p align=\"center\"> <a href=\"https://trends...",
-      "language": "Python",
-      "stars": 352
-    },
-    {
-      "rank": 7,
-      "repo_name": "safety-research/bloom",
-      "description": "bloom - evaluate any behavior immediately  🌸🌱",
-      "description_ja": "bloom - evaluate any behavior immediately  🌸🌱",
-      "readme_summary": "🌱🌸 bloom: An Open Source Tool for Automated Behavior Evaluation of LLMs Bloom is a scaffolded evaluation system which accepts as input an evaluation configuration (the \"seed\"), which specifies a target behavior (for example sycophancy, political bias or self-presevation), exemplary transcripts, and the types of interactions the user is interested in, and generates an evaluation suite of interactions with the target model that attempt to uncover the chosen behavior. As reflected in the name of th...",
-      "readme_summary_ja": "🌱🌸 bloom: An Open Source Tool for Automated Behavior Evaluation of LLMs Bloom is a scaffolded evaluation system which accepts as input an evaluation configuration (the \"seed\"), which specifies a target behavior (for example sycophancy, political bias or self-presevation), exemplary transcripts, and the types of interactions the user is interested in, and generates an evaluation suite of interactions with the target model that attempt to uncover the chosen behavior. As reflected in the name of th...",
-      "language": "Python",
-      "stars": 226
-    },
-    {
-      "rank": 8,
-      "repo_name": "makeplane/plane",
-      "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
-      "description_ja": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
-      "readme_summary": "<br /><br /> <p align=\"center\"> <a href=\"https://plane.so\"> <img src=\"https://media.docs.plane.so/logo/plane_github_readme.png\" alt=\"Plane Logo\" width=\"400\"> </a> </p> <p align=\"center\"><b>Modern project management for all teams</b></p> <p align=\"center\"> <a href=\"https://discord.com/invite/A92xrEGCge\"> <img alt=\"Discord online members\" src=\"https://img.shields.io/discord/1031547764020084846?color=5865F2&label=Discord&style=for-the-badge\" /> </a> <img alt=\"Commit activity per month\" src=\"https:/...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://plane.so\"> <img src=\"https://media.docs.plane.so/logo/plane_github_readme.png\" alt=\"Plane Logo\" width=\"400\"> </a> </p> <p align=\"center\"><b>すべてのチームのためのモダンなプロジェクト管理</b></p> <p align=\"center\"> <a href=\"https://discord.com/invite/A92xrEGCge\"> <img alt=\"Discord online members\" src=\"https://img.shields.io/discord/1031547764020084846?color=5865F2&label=Discord&style=for-the-badge\" /> </a> <img alt=\"Commit activity per month\" src=\"https:/...",
-      "language": "TypeScript",
-      "stars": 424
-    },
-    {
-      "rank": 9,
-      "repo_name": "yichuan-w/LEANN",
-      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-      "description_ja": "LEANNで全てを対象としたRAGを。高速、高精度、そして100%プライベートなRAGアプリケーションを、個人のデバイス上で実行しながら、ストレージを97%節約できます。",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
-      "readme_summary_ja": "LEANNロゴ\n\n対応Pythonバージョン: 3.9 | 3.10 | 3.11 | 3.12 | 3.13\nCIステータス\n対応プラットフォーム: Ubuntu & Arch & WSL | macOS (ARM64/Intel)",
-      "language": "Python",
-      "stars": 399
-    },
-    {
-      "rank": 10,
-      "repo_name": "danielmiessler/Fabric",
-      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-      "description_ja": "Fabricは、AIを活用して人間の能力を拡張するためのオープンソースフレームワークです。どこでも利用できる、クラウドソース化されたAIプロンプト群を用いて特定の問題を解決するためのモジュール式システムを提供します。",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://go.warp.dev/fabric\" target=\"_blank\"> <sup>Special thanks to:</sup> <br> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-02.png\"> <br> <h>Warp, built for coding with multiple AI agents</b> <br> <sup>Available for macOS, Linux and Windows</sup> </a> </div> <br> <div align=\"center\"> <img src=\"./docs/images/fabric-logo-gif.gif\" alt=\"fabriclogo\" width=\"400\" height...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://go.warp.dev/fabric\" target=\"_blank\"> <sup>特別な感謝を込めて:</sup> <br> <img alt=\"Warp スポンサーシップ\" width=\"400\" src=\"https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-02.png\"> <br> <h>複数のAIエージェントとのコーディングのために構築された Warp</b> <br> <sup>macOS、Linux、Windowsで利用可能</sup> </a> </div> <br> <div align=\"center\"> <img src=\"./docs/images/fabric-logo-gif.gif\" alt=\"fabriclogo\" width=\"400\" height...",
-      "language": "Go",
-      "stars": 137
-    },
-    {
-      "rank": 11,
-      "repo_name": "apurvsinghgautam/robin",
-      "description": "AI-Powered Dark Web OSINT Tool",
-      "description_ja": "AI搭載ダークウェブOSINTツール",
-      "readme_summary": "<div align=\"center\"> <img src=\".github/assets/logo.png\" alt=\"Logo\" width=\"300\"> <br><a href=\"https://github.com/apurvsinghgautam/robin/actions/workflows/binary.yml\"><img alt=\"Build\" src=\"https://github.com/apurvsinghgautam/robin/actions/workflows/binary.yml/badge.svg\"></a> <a href=\"https://github.com/apurvsinghgautam/robin/releases\"><img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/apurvsinghgautam/robin\"></a> <a href=\"https://hub.docker.com/r/apurvsg/robin\"><img alt=\"Docker...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\".github/assets/logo.png\" alt=\"ロゴ\" width=\"300\"> <br><a href=\"https://github.com/apurvsinghgautam/robin/actions/workflows/binary.yml\"><img alt=\"ビルド\" src=\"https://github.com/apurvsinghgautam/robin/actions/workflows/binary.yml/badge.svg\"></a> <a href=\"https://github.com/apurvsinghgautam/robin/releases\"><img alt=\"GitHubリリース\" src=\"https://img.shields.io/github/v/release/apurvsinghgautam/robin\"></a> <a href=\"https://hub.docker.com/r/apurvsg/robin\"><img alt=\"Docker...",
-      "language": "Python",
-      "stars": 147
-    },
-    {
-      "rank": 12,
-      "repo_name": "langgenius/dify",
-      "description": "Production-ready platform for agentic workflow development.",
-      "description_ja": "エージェント型ワークフロー開発のための、本番環境対応プラットフォーム。",
-      "readme_summary": "!cover-v5-optimized <p align=\"center\"> 📌 <a href=\"https://dify.ai/blog/introducing-dify-workflow-file-upload-a-demo-on-ai-podcast\">Introducing Dify Workflow File Upload: Recreate Google NotebookLM Podcast</a> </p> <p align=\"center\"> <a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">Self-hosting</a> · <a href=\"https://docs.dify.ai\">Documentation</a> · <a href=\"https://dify.ai/pricing\">Dify edition overview</a> </p> <p align=\"center...",
-      "readme_summary_ja": "!cover-v5-optimized\n\nDifyワークフローのファイルアップロードを紹介: Google NotebookLMのポッドキャストを再現 (詳細は<a href=\"https://dify.ai/blog/introducing-dify-workflow-file-upload-a-demo-on-ai-podcast\">こちら</a>)\n\n<a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">セルフホスティング</a> · <a href=\"https://docs.dify.ai\">ドキュメント</a> · <a href=\"https://dify.ai/pricing\">Difyエディション概要</a>",
-      "language": "TypeScript",
-      "stars": 350
-    },
-    {
-      "rank": 13,
-      "repo_name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "description_ja": "エージェントスキル公開リポジトリ",
-      "readme_summary": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks",
-      "readme_summary_ja": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks",
-      "language": "Python",
-      "stars": 644
-    },
-    {
-      "rank": 14,
-      "repo_name": "etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "description_ja": "分散システムの最重要データを扱う、信頼性の高い分散型キー・バリューストア",
-      "readme_summary": "etcd ![Go Report Card](https://goreportcard.com/report/github.com/etcd-io/etcd) ![Coverage](https://app.codecov.io/gh/etcd-io/etcd/tree/main) ![Tests](https://github.com/etcd-io/etcd/actions/workflows/tests.yaml) ![codeql-analysis](https://github.com/etcd-io/etcd/actions/workflows/codeql-analysis.yml) ![Docs](https://etcd.io/docs) ![Godoc](https://godocs.io/go.etcd.io/etcd/v3) ![Releases](https://github.com/etcd-io/etcd/releases) ![LICENSE](https://github.com/etcd-io/etcd/blob/main/LICENSE) ![Op...",
-      "readme_summary_ja": "etcd ![Go Report Card](https://goreportcard.com/report/github.com/etcd-io/etcd) ![Coverage](https://app.codecov.io/gh/etcd-io/etcd/tree/main) ![Tests](https://github.com/etcd-io/etcd/actions/workflows/tests.yaml) ![codeql-analysis](https://github.com/etcd-io/etcd/actions/workflows/codeql-analysis.yml) ![Docs](https://etcd.io/docs) ![Godoc](https://godocs.io/go.etcd.io/etcd/v3) ![Releases](https://github.com/etcd-io/etcd/releases) ![LICENSE](https://github.com/etcd-io/etcd/blob/main/LICENSE) ![Op...",
-      "language": "Go",
-      "stars": 23
-    },
-    {
-      "rank": 15,
-      "repo_name": "facebookresearch/dinov3",
-      "description": "Reference PyTorch implementation and models for DINOv3",
-      "description_ja": "DINOv3のPyTorchによる参照実装とモデル",
-      "readme_summary": "🆕 [2025-09-17] :fire: DINOv3 backbones are now supported by the PyTorch Image Models / timm library starting with version 1.0.20 [2025-08-29] DINOv3 backbones are supported by released versions of the Hugging Face Transformers library starting with version 4.56.0 [2025-08-14] DINOv3 backbones are now available in Hugging Face Hub and supported by the development version of the Hugging Face Transformers library DINOv3 🦖🦖🦖 **Meta AI Research, FAIR** Oriane Siméoni, Huy V. Vo, Maximilian Seitzer, F...",
-      "readme_summary_ja": "🆕 [2025-09-17] :fire: DINOv3 backbones are now supported by the PyTorch Image Models / timm library starting with version 1.0.20 [2025-08-29] DINOv3 backbones are supported by released versions of the Hugging Face Transformers library starting with version 4.56.0 [2025-08-14] DINOv3 backbones are now available in Hugging Face Hub and supported by the development version of the Hugging Face Transformers library DINOv3 🦖🦖🦖 **Meta AI Research, FAIR** Oriane Siméoni, Huy V. Vo, Maximilian Seitzer, F...",
-      "language": "Jupyter Notebook",
-      "stars": 40
-    },
-    {
-      "rank": 16,
       "repo_name": "vendure-ecommerce/vendure",
       "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
       "description_ja": "TypeScript、NestJS、GraphQLで構築された、最もカスタマイズ可能なコマースプラットフォーム。",
       "readme_summary": "<p align=\"center\"> <a href=\"https://vendure.io\"> <img alt=\"Vendure logo\" height=\"60\" width=\"auto\" src=\"https://a.storyblok.com/f/328257/699x480/8dbb4c7a3c/logo-icon.png\"> </a> </p> <h1 align=\"center\"> Vendure </h1> <h3 align=\"center\"> Own Your Commerce. Build Without Workarounds. Ship Faster",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://vendure.io\"> <img alt=\"Vendure logo\" height=\"60\" width=\"auto\" src=\"https://a.storyblok.com/f/328257/699x480/8dbb4c7a3c/logo-icon.png\"> </a> </p> <h1 align=\"center\"> Vendure </h1> <h3 align=\"center\"> コマースをあなたの手に。回避策なしで構築。より迅速なリリース。",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://vendure.io\"> <img alt=\"Vendure logo\" height=\"60\" width=\"auto\" src=\"https://a.storyblok.com/f/328257/699x480/8dbb4c7a3c/logo-icon.png\"> </a> </p> <h1 align=\"center\"> Vendure </h1> <h3 align=\"center\"> コマースをあなたの手に。回避策なしで構築。より速くリリース。",
       "language": "TypeScript",
+      "stars": 272
+    },
+    {
+      "rank": 5,
+      "repo_name": "yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "description_ja": "LEANNで全てを対象としたRAGを実現。高速、高精度、かつ100%プライベートなRAGアプリケーションを個人のデバイス上で実行しながら、97%のストレージ節約を享受できます。",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN ロゴ\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python 対応バージョン\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI ステータス\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WS",
+      "language": "Python",
       "stars": 262
+    },
+    {
+      "rank": 6,
+      "repo_name": "resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "description_ja": "最先端のオープンソースTTS",
+      "readme_summary": "!Chatterbox Turbo Image Chatterbox TTS ![Alt Text](https://resemble-ai.github.io/chatterbox_turbo_demopage/) ![Alt Text](https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo) ![Alt Text](https://podonos.com/resembleai/chatterbox) ![Discord](https://discord.gg/rJq9cRJBJ6) _Made with ♥️ by <a href=\"https://resemble.ai\" target=\"_blank\"><img width=\"100\" alt=\"resemble-logo-horizontal\" src=\"https://github.com/user-attachments/assets/35cf756b-3506-4943-9c72-c05ddfa4e525\" /></a> **Chatterbox**...",
+      "readme_summary_ja": "Chatterbox Turbo Image Chatterbox TTS ![Alt Text](https://resemble-ai.github.io/chatterbox_turbo_demopage/) ![Alt Text](https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo) ![Alt Text](https://podonos.com/resembleai/chatterbox) ![Discord](https://discord.gg/rJq9cRJBJ6) ♥️を込めて<a href=\"https://resemble.ai\" target=\"_blank\"><img width=\"100\" alt=\"resemble-logo-horizontal\" src=\"https://github.com/user-attachments/assets/35cf756b-3506-4943-9c72-c05ddfa4e525\" /></a> が作成した**Chatterbox**...",
+      "language": "Python",
+      "stars": 472
+    },
+    {
+      "rank": 7,
+      "repo_name": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "description_ja": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "readme_summary": "<br /><br /> <p align=\"center\"> <a href=\"https://plane.so\"> <img src=\"https://media.docs.plane.so/logo/plane_github_readme.png\" alt=\"Plane Logo\" width=\"400\"> </a> </p> <p align=\"center\"><b>Modern project management for all teams</b></p> <p align=\"center\"> <a href=\"https://discord.com/invite/A92xrEGCge\"> <img alt=\"Discord online members\" src=\"https://img.shields.io/discord/1031547764020084846?color=5865F2&label=Discord&style=for-the-badge\" /> </a> <img alt=\"Commit activity per month\" src=\"https:/...",
+      "readme_summary_ja": "<br /><br /> <p align=\"center\"> <a href=\"https://plane.so\"> <img src=\"https://media.docs.plane.so/logo/plane_github_readme.png\" alt=\"Plane Logo\" width=\"400\"> </a> </p> <p align=\"center\"><b>Modern project management for all teams</b></p> <p align=\"center\"> <a href=\"https://discord.com/invite/A92xrEGCge\"> <img alt=\"Discord online members\" src=\"https://img.shields.io/discord/1031547764020084846?color=5865F2&label=Discord&style=for-the-badge\" /> </a> <img alt=\"Commit activity per month\" src=\"https:/...",
+      "language": "TypeScript",
+      "stars": 303
+    },
+    {
+      "rank": 8,
+      "repo_name": "vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "description_ja": "A framework for efficient model inference with omni-modality models",
+      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\"> <img alt=\"vllm-omni\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\" width=55%> </picture> </p> <h3 align=\"center\"> Easy, fast, and cheap omni-modality model serving for everyone </h3> <p align=\"center\"> | <a href=\"https://vllm-omni.readthed...",
+      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\"> <img alt=\"vllm-omni\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\" width=55%> </picture> </p> <h3 align=\"center\"> Easy, fast, and cheap omni-modality model serving for everyone </h3> <p align=\"center\"> | <a href=\"https://vllm-omni.readthed...",
+      "language": "Python",
+      "stars": 121
+    },
+    {
+      "rank": 9,
+      "repo_name": "ModelTC/LightX2V",
+      "description": "Light Video Generation Inference Framework",
+      "description_ja": "軽量動画生成推論フレームワーク",
+      "readme_summary": "<div align=\"center\" style=\"font-family: charter;\"> <h1>⚡️ LightX2V:<br> Light Video Generation Inference Framework</h1> <img alt=\"logo\" src=\"assets/img_lightx2v.png\" width=75%></img> ![License](https://opensource.org/licenses/Apache-2.0) ![Ask DeepWiki](https://deepwiki.com/ModelTC/lightx2v) ![Doc](https://lightx2v-en.readthedocs.io/en/latest) ![Doc](https://lightx2v-zhcn.readthedocs.io/zh-cn/latest) ![Papers](https://lightx2v-papers-zhcn.readthedocs.io/zh-cn/latest) ![Docker](https://hub.docker...",
+      "readme_summary_ja": "<div align=\"center\" style=\"font-family: charter;\"> <h1>⚡️ LightX2V:<br> 軽量ビデオ生成推論フレームワーク</h1> <img alt=\"logo\" src=\"assets/img_lightx2v.png\" width=75%></img> ![ライセンス](https://opensource.org/licenses/Apache-2.0) ![DeepWikiで質問](https://deepwiki.com/ModelTC/lightx2v) ![ドキュメント](https://lightx2v-en.readthedocs.io/en/latest) ![ドキュメント](https://lightx2v-zhcn.readthedocs.io/zh-cn/latest) ![論文](https://lightx2v-papers-zhcn.readthedocs.io/zh-cn/latest) ![Docker](https://hub.docker...",
+      "language": "Python",
+      "stars": 43
     }
   ]
 }
