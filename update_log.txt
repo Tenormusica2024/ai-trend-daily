@@ -1,0 +1,52 @@
+Starting AI Trend Data Collection...
+======================================================================
+AI Trend Keywords Collection - Wikipedia Pageviews API
+======================================================================
+Target Keywords: 20
+Collection Time: 2025-10-23 22:08:08
+
+[1/20] Artificial_intelligence... 20,698 views
+[2/20] ChatGPT... 227,418 views
+[3/20] GPT-4... 965 views
+[4/20] Claude_(language_model)... 3,371 views
+[5/20] Gemini_(chatbot)... 609 views
+[6/20] Midjourney... 1,216 views
+[7/20] Stable_Diffusion... 1,175 views
+[8/20] DALL-E... 983 views
+[9/20] Runway_(company)... 444 views
+[10/20] Sora_(text-to-video_model)... 3,972 views
+[11/20] Large_language_model... 10,777 views
+[12/20] Generative_artificial_intelligence... 5,355 views
+[13/20] Machine_learning... 4,135 views
+[14/20] Deep_learning... 1,712 views
+[15/20] OpenAI... 15,972 views
+[16/20] Anthropic... 6,748 views
+[17/20] Google_DeepMind... 2,338 views
+[18/20] Llama_(language_model)... 18,161 views
+[19/20] GitHub_Copilot... 446 views
+[20/20] Prompt_engineering... 1,107 views
+
+======================================================================
+Top 10 AI Trend Keywords
+======================================================================
+# 1 ChatGPT                                     227,418 views
+# 2 Artificial_intelligence                      20,698 views
+# 3 Llama_(language_model)                       18,161 views
+# 4 OpenAI                                       15,972 views
+# 5 Large_language_model                         10,777 views
+# 6 Anthropic                                     6,748 views
+# 7 Generative_artificial_intelligence            5,355 views
+# 8 Machine_learning                              4,135 views
+# 9 Sora_(text-to-video_model)                    3,972 views
+#10 Claude_(language_model)                       3,371 views
+
+======================================================================
+Collection Completed
+======================================================================
+
+
+Generating Visualization...
+[OK] JSON saved: output/ranking.json
+[OK] HTML saved: output/ranking.html
+
+[SUCCESS] Auto-update completed

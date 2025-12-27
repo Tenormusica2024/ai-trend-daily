@@ -1,0 +1,66 @@
+{
+  "updated_at": "2025-12-27 02:52:30",
+  "total_repos": 6,
+  "ranking": [
+    {
+      "rank": 1,
+      "repo_name": "rendercv/rendercv",
+      "description": "CV/resume generator for academics and engineers, YAML to PDF",
+      "description_ja": "研究者やエンジニア向けのCV/履歴書ジェネレーター。YAMLからPDFを作成。",
+      "readme_summary": "<div align=\"center\"> <h1>RenderCV</h1> _CV/resume generator for academics and engineers_ ![test](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![coverage](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![docs>)](https://docs.rendercv.com) ![pypi-version>)](https://pypi.python.org/pypi/rendercv) ![pypi-downloads>)](https://pypistats.org/packages/rendercv) </div> Write your CV or resume as YAML, then run RenderCV, and get a PDF with perfect typograp...",
+      "readme_summary_ja": "<div align=\"center\"> <h1>RenderCV</h1> _研究者とエンジニアのためのCV/履歴書ジェネレーター_ ![テスト](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![カバレッジ](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![ドキュメント](https://docs.rendercv.com) ![PyPIバージョン](https://pypi.python.org/pypi/rendercv) ![PyPIダウンロード数](https://pypistats.org/packages/rendercv) </div> YAML形式でCVまたは履歴書を記述し、RenderCVを実行すると、美しい組版のPDFが生成されます。",
+      "language": "Python",
+      "stars": 1861
+    },
+    {
+      "rank": 2,
+      "repo_name": "langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "description_ja": "エージェント型ワークフロー開発のための、本番環境対応プラットフォーム。",
+      "readme_summary": "!cover-v5-optimized <p align=\"center\"> 📌 <a href=\"https://dify.ai/blog/introducing-dify-workflow-file-upload-a-demo-on-ai-podcast\">Introducing Dify Workflow File Upload: Recreate Google NotebookLM Podcast</a> </p> <p align=\"center\"> <a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">Self-hosting</a> · <a href=\"https://docs.dify.ai\">Documentation</a> · <a href=\"https://dify.ai/pricing\">Dify edition overview</a> </p> <p align=\"center...",
+      "readme_summary_ja": "!cover-v5-optimized\n\nDifyワークフローのファイルアップロードを紹介: Google NotebookLM Podcastを再現（詳細は<a href=\"https://dify.ai/blog/introducing-dify-workflow-file-upload-a-demo-on-ai-podcast\">こちら</a>）\n\n<a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">セルフホスティング</a> · <a href=\"https://docs.dify.ai\">ドキュメント</a> · <a href=\"https://dify.ai/pricing\">Difyエディション概要</a>",
+      "language": "TypeScript",
+      "stars": 283
+    },
+    {
+      "rank": 3,
+      "repo_name": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "description_ja": "小紅書のノート、抖音（TikTok）の動画、快手の動画、Bilibili（B站）の動画、Weiboの投稿、百度貼吧の投稿、知乎のQ&A記事のコメントを収集するクローラーです。百度貼吧に関しては、コメントへの返信も収集できます。",
+      "readme_summary": "🔥 MediaCrawler - 自媒体平台爬虫 🕷️ <div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://go.warp.dev/MediaCrawler\"> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png?raw=true\"> </a> Warp is built for coding with multiple AI agents </div> <hr> <div align=\"center\"> <a href=\"https://trendshift.io/repositories/8291\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories...",
+      "readme_summary_ja": "🔥 MediaCrawler - 自メディアプラットフォームクローラー 🕷️\n\nこのプロジェクトは、Warpによってスポンサーされています。Warpは、複数のAIエージェントと連携したコーディングに最適化されたツールです。",
+      "language": "Python",
+      "stars": 93
+    },
+    {
+      "rank": 4,
+      "repo_name": "flowsurface-rs/flowsurface",
+      "description": "A native desktop charting platform for crypto markets",
+      "description_ja": "暗号資産市場向けのネイティブデスクトップチャートプラットフォーム",
+      "readme_summary": "Flowsurface ![Crates.io](https://crates.io/crates/flowsurface) ![Lint](https://github.com/flowsurface-rs/flowsurface/actions/workflows/lint.yml) ![Format](https://github.com/flowsurface-rs/flowsurface/actions/workflows/format.yml) ![License: GPL v3](https://github.com/flowsurface-rs/flowsurface/blob/main/LICENSE) ![Made with iced](https://github.com/iced-rs/iced) An experimental open-source desktop charting application. Supports Binance, Bybit, Hyperliquid and OKX <div align=\"center\"> <img src=\"...",
+      "readme_summary_ja": "Flowsurface：実験的なオープンソースのデスクトップチャートアプリケーション。Binance、Bybit、Hyperliquid、OKXをサポート。[Crates.io](https://crates.io/crates/flowsurface) ![Lint](https://github.com/flowsurface-rs/flowsurface/actions/workflows/lint.yml) ![Format](https://github.com/flowsurface-rs/flowsurface/actions/workflows/format.yml) ![ライセンス: GPL v3](https://github.com/flowsurface-rs/flowsurface/blob/main/LICENSE) ![iced製](https://github.com/iced-rs/iced)",
+      "language": "Rust",
+      "stars": 139
+    },
+    {
+      "rank": 5,
+      "repo_name": "yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "description_ja": "LEANNで全てを対象としたRAGを実現。高速、高精度、そして100%プライベートなRAGアプリケーションを個人のデバイス上で実行しながら、97%のストレージ節約を享受できます。",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN ロゴ\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python バージョン\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI ステータス\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20",
+      "language": "Python",
+      "stars": 352
+    },
+    {
+      "rank": 6,
+      "repo_name": "apurvsinghgautam/robin",
+      "description": "AI-Powered Dark Web OSINT Tool",
+      "description_ja": "AI搭載ダークウェブOSINTツール",
+      "readme_summary": "<div align=\"center\"> <img src=\".github/assets/logo.png\" alt=\"Logo\" width=\"300\"> <br><a href=\"https://github.com/apurvsinghgautam/robin/actions/workflows/binary.yml\"><img alt=\"Build\" src=\"https://github.com/apurvsinghgautam/robin/actions/workflows/binary.yml/badge.svg\"></a> <a href=\"https://github.com/apurvsinghgautam/robin/releases\"><img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/apurvsinghgautam/robin\"></a> <a href=\"https://hub.docker.com/r/apurvsg/robin\"><img alt=\"Docker...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\".github/assets/logo.png\" alt=\"Logo\" width=\"300\"> <br><a href=\"https://github.com/apurvsinghgautam/robin/actions/workflows/binary.yml\"><img alt=\"Build\" src=\"https://github.com/apurvsinghgautam/robin/actions/workflows/binary.yml/badge.svg\"></a> <a href=\"https://github.com/apurvsinghgautam/robin/releases\"><img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/apurvsinghgautam/robin\"></a> <a href=\"https://hub.docker.com/r/apurvsg/robin\"><img alt=\"Docker...",
+      "language": "Python",
+      "stars": 125
+    }
+  ]
+}
