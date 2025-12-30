@@ -1,56 +1,146 @@
 {
-  "updated_at": "2025-12-28 09:00:47",
-  "total_repos": 5,
+  "updated_at": "2025-12-30 09:01:42",
+  "total_repos": 14,
   "ranking": [
     {
       "rank": 1,
+      "repo_name": "QuantConnect/Lean",
+      "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+      "description_ja": "QuantConnectによるリーンなアルゴリズム取引エンジン (Python, C#)",
+      "readme_summary": "<picture > <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/f3581da5-1983-4f6c-af5a-55c79b37913a\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/0f8022d5-952d-418c-9011-2644830137d2\"> <img alt=\"lean-header\" width=\"100%\"> </picture> <br /> <br /> ![Build Status](https://github.com/QuantConnect/Lean/actions?query=workflow%3A%22Build%20%26%20Test%20Lean%22) &nbsp;&nbsp;&nbsp; ![Regression Tests](https:...",
+      "readme_summary_ja": "[Leanヘッダー画像]\n\n[ビルドステータス](https://github.com/QuantConnect/Lean/actions?query=workflow%3A%22Build%20%26%20Test%20Lean%22) &nbsp;&nbsp;&nbsp; [回帰テスト](https:...",
+      "language": "C#",
+      "stars": 383
+    },
+    {
+      "rank": 2,
+      "repo_name": "RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "description_ja": "Rustで書かれたPythonインタプリタ",
+      "readme_summary": "<img src=\"./logo.png\" width=\"125\" height=\"125\" align=\"right\" /> RustPython A Python-3 (CPython >= 3.13.0) Interpreter written in Rust :snake: :scream: :metal:. ![Build Status](https://github.com/RustPython/RustPython/actions?query=workflow%3ACI) ![codecov](https://codecov.io/gh/RustPython/RustPython) ![License: MIT](https://opensource.org/licenses/MIT) ![Contributors](https://github.com/RustPython/RustPython/graphs/contributors) ![Discord Shield][discord] ![docs.rs](https://docs.rs/rustpython/) ...",
+      "readme_summary_ja": "Rustで書かれたPython 3インタプリタ (CPython >= 3.13.0) :snake: :scream: :metal:. ![ビルドステータス](https://github.com/RustPython/RustPython/actions?query=workflow%3ACI) ![コードカバレッジ](https://codecov.io/gh/RustPython/RustPython) ![ライセンス: MIT](https://opensource.org/licenses/MIT) ![貢献者](https://github.com/RustPython/RustPython/graphs/contributors) ![Discord Shield][discord] ![docs.rs](https://docs.rs/rustpython/) ...",
+      "language": "Rust",
+      "stars": 228
+    },
+    {
+      "rank": 3,
+      "repo_name": "Flowseal/zapret-discord-youtube",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального разработчика zapret тут </div> > [!CAUTION] > > ФЕЙКИ > Я не веду ни...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> https://github.com/bol-van/zapret-win-bundle の代替。オリジナルの zapret 開発者への支援はこちらから。</div> > [!CAUTION] > > 偽物に注意！ > 私は...",
+      "language": "Batchfile",
+      "stars": 234
+    },
+    {
+      "rank": 4,
+      "repo_name": "BloopAI/vibe-kanban",
+      "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+      "description_ja": "Claude Code、Codex、またはその他のコーディングエージェントの能力を10倍に引き出す。",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://vibekanban.com\"> <picture> <source srcset=\"frontend/public/vibe-kanban-logo-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"frontend/public/vibe-kanban-logo.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"frontend/public/vibe-kanban-logo.svg\" alt=\"Vibe Kanban Logo\"> </picture> </a> </p> <p align=\"center\">Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents...</p> <p align=\"center\"> <a href=\"https://www.npmjs.com...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://vibekanban.com\"> <picture> <source srcset=\"frontend/public/vibe-kanban-logo-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"frontend/public/vibe-kanban-logo.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"frontend/public/vibe-kanban-logo.svg\" alt=\"Vibe Kanban Logo\"> </picture> </a> </p> <p align=\"center\">Claude Code、Gemini CLI、Codex、Ampなどのコーディングエージェントの能力を10倍に引き出す...</p> <p align=\"center\"> <a href=\"https://www.npmjs.com...",
+      "language": "Rust",
+      "stars": 827
+    },
+    {
+      "rank": 5,
+      "repo_name": "gitroomhq/postiz-app",
+      "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+      "description_ja": "📨 AI搭載の究極のソーシャルメディア予約投稿ツール",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://postiz.com/\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/765e9d72-3ee7-4a56-9d59-a2c9befe2311\"> <img alt=\"Postiz Logo\" src=\"https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99\" width=\"280\"/> </picture> </a> </p> <p align=\"center\"> <a href=\"https://opensource.org/license/agpl-v3\"> <img src=\"https://img.shields.io/badge/License-AGPL%203.0-blue.svg\" alt=\"Lic...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://postiz.com/\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/765e9d72-3ee7-4a56-9d59-a2c9befe2311\"> <img alt=\"Postiz Logo\" src=\"https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99\" width=\"280\"/> </picture> </a> </p> <p align=\"center\"> <a href=\"https://opensource.org/license/agpl-v3\"> <img src=\"https://img.shields.io/badge/License-AGPL%203.",
+      "language": "TypeScript",
+      "stars": 63
+    },
+    {
+      "rank": 6,
+      "repo_name": "sansan0/TrendRadar",
+      "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点",
+      "description_ja": "🎯 情報過多に別れを告げ、AIがニュースやトレンドを理解するのを支援します。RSS購読、簡単な世論監視分析をサポート - 複数のプラットフォームのトレンド集約 + MCPベースのAI分析ツール。35のプラットフォーム（抖音、知乎、B站、ウォール・ストリート・ジャーナル、財聯社など）を監視し、スマートなフィルタリング + 自動プッシュ + AI対話分析（自然言語でニュースを深く掘り下げ、トレンド追跡、感情分析、類似検索など20種類のツール）。企業WeChat/個人WeChat/Feishu/DingTalk/Telegram/メール/ntfy/bark/Slackへのプッシュをサポート、30秒で高速デプロイ、1分でスマホ通知、プログラミング不要。Dockerデプロイをサポート、データのリモートクラウドストレージをサポート⭐ アルゴリズムに奉仕させ、AIでトレンド",
+      "readme_summary": "<div align=\"center\" id=\"trendradar\"> <a href=\"https://github.com/sansan0/TrendRadar\" title=\"TrendRadar\"> <img src=\"/_image/banner.webp\" alt=\"TrendRadar Banner\" width=\"80%\"> </a> 🚀 最快<strong>30秒</strong>部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯 <a href=\"https://trendshift.io/repositories/14726\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14726\" alt=\"sansan0%2FTrendRadar | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href=\"https://shandianshuo.cn\"...",
+      "readme_summary_ja": "<div align=\"center\" id=\"trendradar\"> <a href=\"https://github.com/sansan0/TrendRadar\" title=\"TrendRadar\"> <img src=\"/_image/banner.webp\" alt=\"TrendRadar Banner\" width=\"80%\"> </a> 🚀 最速<strong>30秒</strong>でデプロイできるトレンドアシスタント —— 無駄な情報に時間を費やすのはもう終わり。本当に気になるニュースだけをチェック！ <a href=\"https://trendshift.io/repositories/14726\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14726\" alt=\"sansan0%2FTrendRadar | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href=\"https://shandianshuo.cn\"...",
+      "language": "Python",
+      "stars": 296
+    },
+    {
+      "rank": 7,
+      "repo_name": "sinelaw/fresh",
+      "description": "Text editor for your terminal: easy, powerful and fast",
+      "description_ja": "Text editor for your terminal: easy, powerful and fast",
+      "readme_summary": "Fresh A terminal-based text editor. Official Website → **📦 Installation Instructions** **Contributing** Why? Why another text editor? Fresh brings the intuitive, conventional UX of editors like VS Code and Sublime Text to the terminal. While veterans like Emacs and Vim - and newer editors like Neovim and Helix - are excellent for power users who prefer modal, highly specialized workflows, they often present a steep learning curve for those used to standard GUI interactions",
+      "readme_summary_ja": "Fresh A terminal-based text editor. Official Website → **📦 Installation Instructions** **Contributing** Why? Why another text editor? Fresh brings the intuitive, conventional UX of editors like VS Code and Sublime Text to the terminal. While veterans like Emacs and Vim - and newer editors like Neovim and Helix - are excellent for power users who prefer modal, highly specialized workflows, they often present a steep learning curve for those used to standard GUI interactions",
+      "language": "Rust",
+      "stars": 386
+    },
+    {
+      "rank": 8,
+      "repo_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "description_ja": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "readme_summary": "**System Prompts and Models of AI Tools** --- <p align=\"center\"> <sub>Special thanks to</sub> </p> <p align=\"center\"> <a href=\"https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship\" target=\"_blank\"> <img src=\"assets/Latitude_logo.png\" alt=\"Latitude Logo\" width=\"700\"/> </a> </p> <div align=\"center\" markdown=\"1\"> <a href=\"https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship\" target=\"_blank\">Make yo...",
+      "readme_summary_ja": "**AIツールのシステムプロンプトとモデル** ---\n\n<p align=\"center\"> <sub>特別な感謝を込めて</sub> </p>\n<p align=\"center\"> <a href=\"https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship\" target=\"_blank\"> <img src=\"assets/Latitude_logo.png\" alt=\"Latitude Logo\" width=\"700\"/> </a> </p>\n<div align=\"center\" markdown=\"1\"> <a href=\"https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship\" target=\"_blank\">Make yo...",
+      "language": "",
+      "stars": 386
+    },
+    {
+      "rank": 9,
+      "repo_name": "Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "description_ja": "どこでも、どんなデバイスでもPDF編集ができる、GitHubでナンバーワンのPDFアプリケーション",
+      "readme_summary": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/Stirling-Tools/Stirling-PDF/main/docs/stirling.png\" width=\"80\" alt=\"Stirling PDF logo\"> </p> <h1 align=\"center\">Stirling PDF - The Open-Source PDF Platform</h1> Stirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/Stirling-Tools/Stirling-PDF/main/docs/stirling.png\" width=\"80\" alt=\"Stirling PDF logo\"> </p> <h1 align=\"center\">Stirling PDF - オープンソースのPDFプラットフォーム</h1> Stirling PDFは、強力なオープンソースのPDF編集プラットフォームです。デスクトップアプリとして、ブラウザ上で、またはプライベートAPIを使って自身のサーバーにデプロイして利用できます。外部サービスにドキュメントを送信することなく、PDFの編集、署名、墨消し、変換、自動化が可能です。",
+      "language": "Java",
+      "stars": 108
+    },
+    {
+      "rank": 10,
+      "repo_name": "resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "description_ja": "最高性能のオープンソースTTS",
+      "readme_summary": "!Chatterbox Turbo Image Chatterbox TTS ![Alt Text](https://resemble-ai.github.io/chatterbox_turbo_demopage/) ![Alt Text](https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo) ![Alt Text](https://podonos.com/resembleai/chatterbox) ![Discord](https://discord.gg/rJq9cRJBJ6) _Made with ♥️ by <a href=\"https://resemble.ai\" target=\"_blank\"><img width=\"100\" alt=\"resemble-logo-horizontal\" src=\"https://github.com/user-attachments/assets/35cf756b-3506-4943-9c72-c05ddfa4e525\" /></a> **Chatterbox**...",
+      "readme_summary_ja": "Chatterbox Turbo Image Chatterbox TTS ![デモページ](https://resemble-ai.github.io/chatterbox_turbo_demopage/) ![デモ](https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo) ![Chatterbox](https://podonos.com/resembleai/chatterbox) ![Discord](https://discord.gg/rJq9cRJBJ6) ♥️を込めて<a href=\"https://resemble.ai\" target=\"_blank\"><img width=\"100\" alt=\"resemble-logo-horizontal\" src=\"https://github.com/user-attachments/assets/35cf756b-3506-4943-9c72-c05ddfa4e525\" /></a> **Chatterbox**...",
+      "language": "Python",
+      "stars": 654
+    },
+    {
+      "rank": 11,
+      "repo_name": "antiwork/gumroad",
+      "description": "Sell stuff and see what sticks",
+      "description_ja": "色々販売してみて、何が売れるか試してみよう",
+      "readme_summary": "<p align=\"center\"> <picture> <source srcset=\"https://public-files.gumroad.com/logo/gumroad-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"https://public-files.gumroad.com/logo/gumroad.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"https://public-files.gumroad.com/logo/gumroad.svg\" height=\"100\" alt=\"Gumroad logo\"> </picture> </p> <p align=\"center\"> <strong>Sell your stuff. See what sticks.</strong> </p> <p align=\"center\"> <a href=\"https://gumroad.com\">Gumroad</a> is an e-c...",
+      "readme_summary_ja": "<p align=\"center\"> <picture> <source srcset=\"https://public-files.gumroad.com/logo/gumroad-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"https://public-files.gumroad.com/logo/gumroad.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"https://public-files.gumroad.com/logo/gumroad.svg\" height=\"100\" alt=\"Gumroad logo\"> </picture> </p> <p align=\"center\"> <strong>あなたの作品を販売し、何が売れるか試しましょう。</strong> </p> <p align=\"center\"> <a href=\"https://gumroad.com\">Gumroad</a> は、eコマース...",
+      "language": "Ruby",
+      "stars": 30
+    },
+    {
+      "rank": 12,
       "repo_name": "TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
       "description_ja": "Pythonで実装されたすべてのアルゴリズム",
       "readme_summary": "<div align=\"center\"> <!-- Title: --> <a href=\"https://github.com/TheAlgorithms/\"> <img src=\"https://raw.githubusercontent.com/TheAlgorithms/website/1cd824df116b27029f17c2d1b42d81731f28a920/public/logo.svg\" height=\"100\"> </a> <h1><a href=\"https://github.com/TheAlgorithms/\">The Algorithms</a> - Python</h1> <!-- Labels: --> <!-- First row: --> <a href=\"https://gitpod.io/#https://github.com/TheAlgorithms/Python\"> <img src=\"https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod&style=fl...",
       "readme_summary_ja": "<div align=\"center\"> <!-- タイトル: --> <a href=\"https://github.com/TheAlgorithms/\"> <img src=\"https://raw.githubusercontent.com/TheAlgorithms/website/1cd824df116b27029f17c2d1b42d81731f28a920/public/logo.svg\" height=\"100\"> </a> <h1><a href=\"https://github.com/TheAlgorithms/\">The Algorithms</a> - Python</h1> <!-- ラベル: --> <!-- 1行目: --> <a href=\"https://gitpod.io/#https://github.com/TheAlgorithms/Python\"> <img src=\"https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod&style=fl...",
       "language": "Python",
-      "stars": 152
+      "stars": 337
     },
     {
-      "rank": 2,
-      "repo_name": "xerrors/Yuxi-Know",
-      "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
-      "description_ja": "LightRAG知識ベースと知識グラフを統合したエージェントプラットフォーム。LangChain v1 + Vue + FastAPIで構築されており、DeepAgents、MinerU PDF、Neo4j、MCPをサポート。",
-      "readme_summary": "<div align=\"center\"> <img width=\"140\" height=\"140\" alt=\"image\" src=\"https://github.com/user-attachments/assets/299137b7-08d8-45b0-9feb-7b4ab35d7b48\" /> <h1>语析 - 基于大模型的知识库与知识图谱智能体开发平台</h1> <a href=\"https://trendshift.io/repositories/15845\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15845\" alt=\"Yuxi-Know | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![Stable](https://github.com/xerrors/Yuxi-Know/tree/v0.4.0) ![](https://github.com/xerro...",
-      "readme_summary_ja": "<div align=\"center\"> <img width=\"140\" height=\"140\" alt=\"image\" src=\"https://github.com/user-attachments/assets/299137b7-08d8-45b0-9feb-7b4ab35d7b48\" /> <h1>语析 - 大規模言語モデル 기반 지식 베이스 및 지식 그래프 지능형 에이전트 개발 플랫폼</h1> <a href=\"https://trendshift.io/repositories/15845\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15845\" alt=\"Yuxi-Know | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![Stable](https://github.com/xerrors/Yuxi-",
-      "language": "Python",
-      "stars": 35
+      "rank": 13,
+      "repo_name": "vanilla-wiiu/vanilla",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "Vanilla This is a **work-in-progress** software clone of the Wii U gamepad. No warranty is provided and everything should be considered **alpha** at best. <p align=\"center\"> <img src=\"https://raw.githubusercontent.com/vanilla-wiiu/vanilla/master/images/screenshot1.png\"> <br> <a href=\"https://youtu.be/DSgFu4rDxgc\"> Announcement Video </a> </p> Usage/Installing Official builds are provided for all supported platforms on the Releases page",
+      "readme_summary_ja": "Vanilla は、Wii U ゲームパッドのソフトウェアクローンを開発中のプロジェクトです。現状、無保証であり、完成度は高くてもアルファ版レベルとお考えください。\n\n（画像）\n\n発表動画: [https://youtu.be/DSgFu4rDxgc]\n\n使い方/インストール: 公式ビルドは、サポートされている全てのプラットフォーム向けにリリースページで提供されています。",
+      "language": "C",
+      "stars": 114
     },
     {
-      "rank": 3,
-      "repo_name": "agrinman/tunnelto",
-      "description": "Expose your local web server to the internet with a public URL.",
-      "description_ja": "ローカルのウェブサーバーを、公開URLを使ってインターネットに公開します。",
-      "readme_summary": "<p align=\"center\" > <img width=\"540px\" src=\"https://repository-images.githubusercontent.com/249120770/7ea6d180-b4ba-11ea-96ab-6c3b987aac9d\" align=\"center\"/> </p> <p align=\"center\"> <a href=\"https://github.com/agrinman/tunnelto/actions?query=workflow%3A%22Build+and+Release%22\"><img src=\"https://github.com/agrinman/wormhole/workflows/Build%20and%20Release/badge.svg\" alt=\"BuildRelease\"></a> <a href=\"https://crates.io/crates/wormhole-tunnel\"><img src=\"https://img.shields.io/crates/v/tunnelto\" alt=\"c...",
-      "readme_summary_ja": "<p align=\"center\"> <img width=\"540px\" src=\"https://repository-images.githubusercontent.com/249120770/7ea6d180-b4ba-11ea-96ab-6c3b987aac9d\" align=\"center\"/> </p> <p align=\"center\"> <a href=\"https://github.com/agrinman/tunnelto/actions?query=workflow%3A%22Build+and+Release%22\"><img src=\"https://github.com/agrinman/wormhole/workflows/Build%20and%20Release/badge.svg\" alt=\"BuildRelease\"></a> <a href=\"https://crates.io/crates/wormhole-tunnel\"><img src=\"https://img.shields.io/crates/v/tunnelto\" alt=\"c...",
-      "language": "Rust",
-      "stars": 590
-    },
-    {
-      "rank": 4,
-      "repo_name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "description_ja": "OpenAI、Anthropic、Gemini、およびオープンソースモデルを活用した、AIエージェントとRAGによる優れたLLMアプリのコレクション。",
-      "readme_summary": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
-      "language": "Python",
-      "stars": 143
-    },
-    {
-      "rank": 5,
-      "repo_name": "rendercv/rendercv",
-      "description": "CV/resume generator for academics and engineers, YAML to PDF",
-      "description_ja": "CV/resume generator for academics and engineers, YAML to PDF",
-      "readme_summary": "<div align=\"center\"> <h1>RenderCV</h1> _CV/resume generator for academics and engineers_ ![test](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![coverage](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![docs>)](https://docs.rendercv.com) ![pypi-version>)](https://pypi.python.org/pypi/rendercv) ![pypi-downloads>)](https://pypistats.org/packages/rendercv) </div> Write your CV or resume as YAML, then run RenderCV, and get a PDF with perfect typograp...",
-      "readme_summary_ja": "<div align=\"center\"> <h1>RenderCV</h1> _CV/resume generator for academics and engineers_ ![test](https://github.com/rendercv/rendercv/actions/workflows/test.yaml) ![coverage](https://coverage-badge.samuelcolvin.workers.dev/redirect/rendercv/rendercv) ![docs>)](https://docs.rendercv.com) ![pypi-version>)](https://pypi.python.org/pypi/rendercv) ![pypi-downloads>)](https://pypistats.org/packages/rendercv) </div> Write your CV or resume as YAML, then run RenderCV, and get a PDF with perfect typograp...",
-      "language": "Python",
-      "stars": 634
+      "rank": 14,
+      "repo_name": "jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "description_ja": "フリーソフトウェアメディアシステム - サーバーバックエンド & API",
+      "readme_summary": "<h1 align=\"center\">Jellyfin</h1> <h3 align=\"center\">The Free Software Media System</h3> --- <p align=\"center\"> <img alt=\"Logo Banner\" src=\"https://raw.githubusercontent.com/jellyfin/jellyfin-ux/master/branding/SVG/banner-logo-solid.svg?sanitize=true\"/> <br/> <br/> <a href=\"https://github.com/jellyfin/jellyfin\"> <img alt=\"GPL 2.0 License\" src=\"https://img.shields.io/github/license/jellyfin/jellyfin.svg\"/> </a> <a href=\"https://github.com/jellyfin/jellyfin/releases\"> <img alt=\"Current Release\" src...",
+      "readme_summary_ja": "<h1 align=\"center\">Jellyfin</h1> <h3 align=\"center\">The Free Software Media System</h3> --- <p align=\"center\"> <img alt=\"Logo Banner\" src=\"https://raw.githubusercontent.com/jellyfin/jellyfin-ux/master/branding/SVG/banner-logo-solid.svg?sanitize=true\"/> <br/> <br/> <a href=\"https://github.com/jellyfin/jellyfin\"> <img alt=\"GPL 2.0 License\" src=\"https://img.shields.io/github/license/jellyfin/jellyfin.svg\"/> </a> <a href=\"https://github.com/jellyfin/jellyfin/releases\"> <img alt=\"Current Release\" src...",
+      "language": "C#",
+      "stars": 36
     }
   ]
 }
