@@ -1,106 +1,126 @@
 {
-  "updated_at": "2026-01-01 09:37:59",
-  "total_repos": 10,
+  "updated_at": "2026-01-01 22:01:16",
+  "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "afkarxyz/SpotiFLAC",
-      "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
-      "description_ja": "Tidal、Qobuz、Amazon MusicからSpotifyの楽曲をFLAC形式で取得できます。アカウントは不要です。",
-      "readme_summary": "![GitHub All Releases](https://github.com/afkarxyz/SpotiFLAC/releases) !Image <div align=\"center\"> Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. !Windows !macOS !Linux </div> Download Screenshot !Image Other project SpotiDownloader Get Spotify tracks in MP3 and FLAC via the spotidownloader.com API ![Ko-fi](https://ko-fi.com/afkarxyz) Disclaimer This project is for **educational and private use only**. The developer does not condone or encourage copyright...",
-      "readme_summary_ja": "![GitHub 全リリース](https://github.com/afkarxyz/SpotiFLAC/releases) !画像\n\n<div align=\"center\">\nTidal、Qobuz、Amazon MusicからSpotifyの楽曲を真のFLAC形式で取得 – アカウント不要。\n!Windows !macOS !Linux\n</div>\n\nダウンロード\n\nスクリーンショット !画像\n\n関連プロジェクト: SpotiDownloader\n\nspotidownloader.com API を介してSpotifyの楽曲をMP3およびFLAC形式で取得\n\n![Ko-fi](https://ko-fi.com/afkarxyz)\n\n免責事項\n\nこのプロジェクトは**教育および個人的な利用のみ**を目的としています。開発者は著作権侵害を容認または推奨しません。",
-      "language": "TypeScript",
-      "stars": 341
+      "repo_name": "awslabs/amazon-bedrock-agentcore-samples",
+      "description": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.",
+      "description_ja": "Amazon Bedrock Agentcoreは、AIエージェントを本番環境へ迅速に移行させ、実運用に不可欠な規模、信頼性、セキュリティを提供します。",
+      "readme_summary": "<div align=\"center\"> <div> <a href=\"https://aws.amazon.com/bedrock/agentcore/\"> <img width=\"150\" height=\"150\" alt=\"image\" src=\"https://github.com/user-attachments/assets/b8b9456d-c9e2-45e1-ac5b-760f21f1ac18\" /> </a> </div> <h1> Amazon Bedrock AgentCore Samples </h1> <h2> Deploy and operate AI agents securely at scale - using any framework and model </h2> <div align=\"center\"> <a href=\"https://github.com/awslabs/amazon-bedrock-agentcore-samples/graphs/commit-activity\"><img alt=\"GitHub commit activ...",
+      "readme_summary_ja": "<div align=\"center\"> <div> <a href=\"https://aws.amazon.com/bedrock/agentcore/\"> <img width=\"150\" height=\"150\" alt=\"image\" src=\"https://github.com/user-attachments/assets/b8b9456d-c9e2-45e1-ac5b-760f21f1ac18\" /> </a> </div> <h1> Amazon Bedrock AgentCore Samples </h1> <h2> Deploy and operate AI agents securely at scale - using any framework and model </h2> <div align=\"center\"> <a href=\"https://github.com/awslabs/amazon-bedrock-agentcore-samples/graphs/commit-activity\"><img alt=\"GitHub commit activ...",
+      "language": "Jupyter Notebook",
+      "stars": 219
     },
     {
       "rank": 2,
-      "repo_name": "google-gemini/computer-use-preview",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "Computer Use Preview Quick Start This section will guide you through setting up and running the Computer Use Preview model, either the Gemini Developer API or Vertex AI. Follow these steps to get started. 1",
-      "readme_summary_ja": "コンピューター利用プレビューのクイックスタート：このセクションでは、Gemini Developer APIまたはVertex AIを用いたコンピューター利用プレビューモデルのセットアップと実行について説明します。以下の手順に従って開始してください。",
-      "language": "Python",
-      "stars": 59
+      "repo_name": "BloopAI/vibe-kanban",
+      "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+      "description_ja": "Get 10X more out of Claude Code, Codex or any coding agent",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://vibekanban.com\"> <picture> <source srcset=\"frontend/public/vibe-kanban-logo-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"frontend/public/vibe-kanban-logo.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"frontend/public/vibe-kanban-logo.svg\" alt=\"Vibe Kanban Logo\"> </picture> </a> </p> <p align=\"center\">Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents...</p> <p align=\"center\"> <a href=\"https://www.npmjs.com...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://vibekanban.com\"> <picture> <source srcset=\"frontend/public/vibe-kanban-logo-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"frontend/public/vibe-kanban-logo.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"frontend/public/vibe-kanban-logo.svg\" alt=\"Vibe Kanban Logo\"> </picture> </a> </p> <p align=\"center\">Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents...</p> <p align=\"center\"> <a href=\"https://www.npmjs.com...",
+      "language": "Rust",
+      "stars": 541
     },
     {
       "rank": 3,
-      "repo_name": "harvard-edge/cs249r_book",
-      "description": "Introduction to Machine Learning Systems",
-      "description_ja": "機械学習システム入門",
-      "readme_summary": "Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <div align=\"center\"> <p align=\"center\"> ![Book](https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml) ![TinyTorch](https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-ci.yml) !Updated ![License](https://github.com/harvard-edge/cs249r_book/blob/dev/LICENSE.md) ![Cite](#-citation--license) ![Fund Us](https://opencollective.com/mlsysbook) </p> <p ali...",
-      "readme_summary_ja": "機械学習システム：人工知能システムのエンジニアリングにおける原理と実践\n\n＜中央揃え＞\n\n（画像：書籍の検証、TinyTorchのCI、更新状況、ライセンス、引用、資金提供）\n\n（以下省略）",
-      "language": "JavaScript",
-      "stars": 1145
+      "repo_name": "usememos/memos",
+      "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+      "description_ja": "オープンソースのセルフホスト型ノートサービス。あなたの思考、あなたのデータ、あなたの管理下で。追跡、広告、サブスクリプション料金は一切ありません。",
+      "readme_summary": "Memos <img align=\"right\" height=\"96px\" src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/logo-rounded.png\" alt=\"Memos\" /> An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. ![Home](https://www.usememos.com) ![Live Demo](https://demo.usememos.com/) ![Docs](https://www.usememos.com/docs) ![Discord](https://discord.gg/tfPJa4UmAv) ![Docker Pulls](https://hub.docker.com/r/neosmemo/memos) <im...",
+      "readme_summary_ja": "Memos <img align=\"right\" height=\"96px\" src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/logo-rounded.png\" alt=\"Memos\" /> は、オープンソースでセルフホスト可能なノートサービスです。あなたの思考、あなたのデータ、あなたの管理下で、トラッキング、広告、サブスクリプション料金は一切ありません。 ![ホーム](https://www.usememos.com) ![ライブデモ](https://demo.usememos.com/) ![ドキュメント](https://www.usememos.com/docs) ![Discord](https://discord.gg/tfPJa4UmAv) ![Docker Pulls](https://hub.docker.com/r/neosmemo/memos) <im...",
+      "language": "Go",
+      "stars": 81
     },
     {
       "rank": 4,
-      "repo_name": "BloopAI/vibe-kanban",
-      "description": "Get 10X more out of Claude Code, Codex or any coding agent",
-      "description_ja": "Claude Code、Codex、またはその他のコーディングエージェントの能力を10倍に引き出す。",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://vibekanban.com\"> <picture> <source srcset=\"frontend/public/vibe-kanban-logo-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"frontend/public/vibe-kanban-logo.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"frontend/public/vibe-kanban-logo.svg\" alt=\"Vibe Kanban Logo\"> </picture> </a> </p> <p align=\"center\">Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents...</p> <p align=\"center\"> <a href=\"https://www.npmjs.com...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://vibekanban.com\"> <picture> <source srcset=\"frontend/public/vibe-kanban-logo-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"frontend/public/vibe-kanban-logo.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"frontend/public/vibe-kanban-logo.svg\" alt=\"Vibe Kanban Logo\"> </picture> </a> </p> <p align=\"center\">Claude Code、Gemini CLI、Codex、Ampなどのコーディングエージェントの能力を10倍に引き出す...</p> <p align=\"center\"> <a href=\"https://www.npmjs.com...",
-      "language": "Rust",
-      "stars": 1546
+      "repo_name": "organicmaps/organicmaps",
+      "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+      "description_ja": "🍃 Organic Mapsは、旅行者、観光客、ハイカー、サイクリスト向けの無料Android/iOSオフライン地図アプリです。クラウドソースのOpenStreetMapデータを使用し、コミュニティによって愛情を込めて開発されています。広告、トラッキング、データ収集、クラップウェアは一切ありません。開発を支援するために寄付をお願いします！",
+      "readme_summary": "<div align=\"center\"> <img src=\"qt/res/logo.png\" height=\"100\"/> </div> <h1 align=\"center\">Organic Maps</h1> **Organic Maps** is a privacy-first offline maps & GPS app for hiking, cycling, biking, and driving. Absolutely free. No ads",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"qt/res/logo.png\" height=\"100\"/> </div> <h1 align=\"center\">Organic Maps</h1> **Organic Maps** は、ハイキング、サイクリング、自転車、ドライブに最適な、プライバシーを重視したオフライン地図＆GPSアプリです。完全無料、広告なし。",
+      "language": "C++",
+      "stars": 232
     },
     {
       "rank": 5,
-      "repo_name": "timescale/pg-aiguide",
-      "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.",
-      "description_ja": "PostgreSQLのスキルとドキュメントのためのMCPサーバーとClaudeプラグイン。AIコーディングツールがより良いPostgreSQLコードを生成するのを支援します。",
-      "readme_summary": "pg-aiguide **AI-optimized PostgreSQL expertise for coding assistants** pg-aiguide helps AI coding tools write dramatically better PostgreSQL code. It provides: - **Semantic search** across the official PostgreSQL manual (version-aware) - **AI-optimized “skills”** — curated, opinionated Postgres best practices used automatically by AI agents - **Extension ecosystem docs**, starting with TimescaleDB, with more coming soon Use it either as: - a **public MCP server** that can be used with any AI cod...",
-      "readme_summary_ja": "pg-aiguide：**コーディングアシスタント向けのAI最適化されたPostgreSQL専門知識**\n\npg-aiguideは、AIコーディングツールが劇的に優れたPostgreSQLコードを作成するのを支援します。以下の機能を提供します。\n\n- 公式PostgreSQLマニュアルの**セマンティック検索**（バージョン対応）\n- **AI最適化された「スキル」** — AIエージェントが自動的に使用する、厳選された独自のPostgresベストプラクティス\n- **拡張機能エコシステムドキュメント**。最初はTimescaleDBから開始し、今後さらに追加予定\n\n以下のいずれかとして使用できます。\n\n- あらゆるAIコードで利用可能な**パブリックMCPサーバー**",
-      "language": "Python",
-      "stars": 314
+      "repo_name": "afkarxyz/SpotiFLAC",
+      "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
+      "description_ja": "Tidal、Qobuz、Amazon MusicからSpotifyの楽曲を、アカウント不要で、真のFLAC形式で取得します。",
+      "readme_summary": "![GitHub All Releases](https://github.com/afkarxyz/SpotiFLAC/releases) !Image <div align=\"center\"> Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. !Windows !macOS !Linux </div> Download Screenshot !Image Other project SpotiDownloader Get Spotify tracks in MP3 and FLAC via the spotidownloader.com API ![Ko-fi](https://ko-fi.com/afkarxyz) Disclaimer This project is for **educational and private use only**. The developer does not condone or encourage copyright...",
+      "readme_summary_ja": "![GitHub All Releases](https://github.com/afkarxyz/SpotiFLAC/releases) !Image <div align=\"center\"> Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. !Windows !macOS !Linux </div> Download Screenshot !Image Other project SpotiDownloader Get Spotify tracks in MP3 and FLAC via the spotidownloader.com API ![Ko-fi](https://ko-fi.com/afkarxyz) Disclaimer This project is for **educational and private use only**. The developer does not condone or encourage copyright...",
+      "language": "TypeScript",
+      "stars": 437
     },
     {
       "rank": 6,
-      "repo_name": "sansan0/TrendRadar",
-      "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点",
-      "description_ja": "🎯 情報過多に別れを告げ、AIがニュースやトレンドを理解するのを支援します。RSS購読、簡単な世論監視分析をサポート - 複数のプラットフォームのトレンド集約 + MCPベースのAI分析ツール。35のプラットフォーム（抖音、知乎、B站、ウォール・ストリート・ジャーナル、財聯社など）を監視し、スマートなフィルタリング + 自動プッシュ + AI対話分析（自然言語でニュースを深く掘り下げます：トレンド追跡、感情分析、類似検索など20種類のツール）。企業WeChat/個人WeChat/Feishu/DingTalk/Telegram/メール/ntfy/bark/Slackへのプッシュをサポート、30秒で迅速にデプロイ、1分でスマホに通知、プログラミング不要。Dockerデプロイをサポート、データのリモートクラウドストレージをサポート⭐ アルゴリズムに奉仕させ、",
-      "readme_summary": "<div align=\"center\" id=\"trendradar\"> <a href=\"https://github.com/sansan0/TrendRadar\" title=\"TrendRadar\"> <img src=\"/_image/banner.webp\" alt=\"TrendRadar Banner\" width=\"80%\"> </a> 🚀 最快<strong>30秒</strong>部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯 <a href=\"https://trendshift.io/repositories/14726\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14726\" alt=\"sansan0%2FTrendRadar | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href=\"https://shandianshuo.cn\"...",
-      "readme_summary_ja": "<div align=\"center\" id=\"trendradar\"> <a href=\"https://github.com/sansan0/TrendRadar\" title=\"TrendRadar\"> <img src=\"/_image/banner.webp\" alt=\"TrendRadar Banner\" width=\"80%\"> </a> 🚀 最速<strong>30秒</strong>でデプロイできるホットな話題アシスタント —— 無駄な情報に埋もれず、本当に気になるニュースだけをチェック <a href=\"https://trendshift.io/repositories/14726\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14726\" alt=\"sansan0%2FTrendRadar | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href=\"https://shandianshuo.cn\"...",
-      "language": "Python",
-      "stars": 141
+      "repo_name": "HQarroum/docker-android",
+      "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+      "description_ja": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+      "readme_summary": "<br /><br /><br /> <p align=\"center\"> <img width=\"400\" src=\"assets/icon.png\" /> </p><br /><br /> docker-android > A minimal and customizable Docker image running the Android emulator as a service. ![Docker Image CI](https://github.com/HQarroum/docker-android/actions/workflows/docker-image.yml) ![DeepSource](https://deepsource.io/gh/HQarroum/docker-android/?ref=repository-badge) !Docker Pulls Current version: **1.1.0** 📋 Table of contents - Features - Description - Usage - See also 🔖 Features - M...",
+      "readme_summary_ja": "<br /><br /><br /> <p align=\"center\"> <img width=\"400\" src=\"assets/icon.png\" /> </p><br /><br /> docker-android > A minimal and customizable Docker image running the Android emulator as a service. ![Docker Image CI](https://github.com/HQarroum/docker-android/actions/workflows/docker-image.yml) ![DeepSource](https://deepsource.io/gh/HQarroum/docker-android/?ref=repository-badge) !Docker Pulls Current version: **1.1.0** 📋 Table of contents - Features - Description - Usage - See also 🔖 Features - M...",
+      "language": "Shell",
+      "stars": 304
     },
     {
       "rank": 7,
-      "repo_name": "openai/openai-cookbook",
-      "description": "Examples and guides for using the OpenAI API",
-      "description_ja": "OpenAI API の使用例とガイド",
-      "readme_summary": "<a href=\"https://cookbook.openai.com\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"/images/openai-cookbook-white.png\" style=\"max-width: 100%; width: 400px; margin-bottom: 20px\"> <img alt=\"OpenAI Cookbook Logo\" src=\"/images/openai-cookbook.png\" width=\"400px\"> </picture> </a> <h3></h3> > ✨ Navigate at cookbook.openai.com Example code and guides for accomplishing common tasks with the OpenAI API. To run these examples, you'll need an OpenAI account and associated ...",
-      "readme_summary_ja": "<a href=\"https://cookbook.openai.com\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"/images/openai-cookbook-white.png\" style=\"max-width: 100%; width: 400px; margin-bottom: 20px\"> <img alt=\"OpenAI Cookbook Logo\" src=\"/images/openai-cookbook.png\" width=\"400px\"> </picture> </a> <h3></h3> > ✨ Navigate at cookbook.openai.com Example code and guides for accomplishing common tasks with the OpenAI API. To run these examples, you'll need an OpenAI account and associated ...",
-      "language": "Jupyter Notebook",
-      "stars": 44
+      "repo_name": "harvard-edge/cs249r_book",
+      "description": "Introduction to Machine Learning Systems",
+      "description_ja": "Introduction to Machine Learning Systems",
+      "readme_summary": "Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <div align=\"center\"> <p align=\"center\"> ![Book](https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml) ![TinyTorch](https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-ci.yml) !Updated ![License](https://github.com/harvard-edge/cs249r_book/blob/dev/LICENSE.md) ![Cite](#-citation--license) ![Fund Us](https://opencollective.com/mlsysbook) </p> <p ali...",
+      "readme_summary_ja": "Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <div align=\"center\"> <p align=\"center\"> ![Book](https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml) ![TinyTorch](https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-ci.yml) !Updated ![License](https://github.com/harvard-edge/cs249r_book/blob/dev/LICENSE.md) ![Cite](#-citation--license) ![Fund Us](https://opencollective.com/mlsysbook) </p> <p ali...",
+      "language": "JavaScript",
+      "stars": 652
     },
     {
       "rank": 8,
-      "repo_name": "organicmaps/organicmaps",
-      "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
-      "description_ja": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
-      "readme_summary": "<div align=\"center\"> <img src=\"qt/res/logo.png\" height=\"100\"/> </div> <h1 align=\"center\">Organic Maps</h1> **Organic Maps** is a privacy-first offline maps & GPS app for hiking, cycling, biking, and driving. Absolutely free. No ads",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"qt/res/logo.png\" height=\"100\"/> </div> <h1 align=\"center\">Organic Maps</h1> **Organic Maps** is a privacy-first offline maps & GPS app for hiking, cycling, biking, and driving. Absolutely free. No ads",
-      "language": "C++",
-      "stars": 52
+      "repo_name": "Polymarket/agents",
+      "description": "Trade autonomously on Polymarket using AI Agents",
+      "description_ja": "Trade autonomously on Polymarket using AI Agents",
+      "readme_summary": "<!-- PROJECT SHIELDS --> [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] <!-- PROJECT LOGO --> <br /> <div align=\"center\"> <a href=\"https://github.com/polymarket/agents\"> <img src=\"docs/images/cli.png\" alt=\"Logo\" width=\"466\" height=\"262\"> </a> <h3 align=\"center\">Polymarket Agents</h3> <p align=\"center\"> Trade autonomously on Po...",
+      "readme_summary_ja": "<!-- プロジェクトシールド --> [![コントリビューター][contributors-shield]][contributors-url] [![フォーク][forks-shield]][forks-url] [![スター][stars-shield]][stars-url] [![Issue][issues-shield]][issues-url] [![MITライセンス][license-shield]][license-url] <!-- プロジェクトロゴ --> <br /> <div align=\"center\"> <a href=\"https://github.com/polymarket/agents\"> <img src=\"docs/images/cli.png\" alt=\"ロゴ\" width=\"466\" height=\"262\"> </a> <h3 align=\"center\">Polymarket Agents</h3> <p align=\"center\"> Po... 上で自動取引",
+      "language": "Python",
+      "stars": 66
     },
     {
       "rank": 9,
-      "repo_name": "resemble-ai/chatterbox",
-      "description": "SoTA open-source TTS",
-      "description_ja": "最先端のオープンソースTTS",
-      "readme_summary": "!Chatterbox Turbo Image Chatterbox TTS ![Alt Text](https://resemble-ai.github.io/chatterbox_turbo_demopage/) ![Alt Text](https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo) ![Alt Text](https://podonos.com/resembleai/chatterbox) ![Discord](https://discord.gg/rJq9cRJBJ6) _Made with ♥️ by <a href=\"https://resemble.ai\" target=\"_blank\"><img width=\"100\" alt=\"resemble-logo-horizontal\" src=\"https://github.com/user-attachments/assets/35cf756b-3506-4943-9c72-c05ddfa4e525\" /></a> **Chatterbox**...",
-      "readme_summary_ja": "Chatterbox Turbo Image Chatterbox TTS ![Alt Text](https://resemble-ai.github.io/chatterbox_turbo_demopage/) ![Alt Text](https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo) ![Alt Text](https://podonos.com/resembleai/chatterbox) ![Discord](https://discord.gg/rJq9cRJBJ6) ♥️を込めて<a href=\"https://resemble.ai\" target=\"_blank\"><img width=\"100\" alt=\"resemble-logo-horizontal\" src=\"https://github.com/user-attachments/assets/35cf756b-3506-4943-9c72-c05ddfa4e525\" /></a>によって作成された**Chatterbox**...",
-      "language": "Python",
-      "stars": 436
+      "repo_name": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+      "description_ja": "O'Reillyの書籍「Hands-On Large Language Models」の公式コードリポジトリ",
+      "readme_summary": "﻿Hands-On Large Language Models <a href=\"https://www.linkedin.com/in/jalammar/\"><img src=\"https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin\"></a> <a href=\"https://www.linkedin.com/in/mgrootendorst/\"><img src=\"https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin\"></a> <a href=\"https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner\"><img src=\"https://img.shields.io/badge/DeepLearning.AI%20Course-NEW!-&la...",
+      "readme_summary_ja": "実践的 大規模言語モデル <a href=\"https://www.linkedin.com/in/jalammar/\"><img src=\"https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin\"></a> <a href=\"https://www.linkedin.com/in/mgrootendorst/\"><img src=\"https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin\"></a> <a href=\"https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner\"><img src=\"https://img.shields.io/badge/DeepLearning.AI%20Course-NEW!-&la...",
+      "language": "Jupyter Notebook",
+      "stars": 101
     },
     {
       "rank": 10,
-      "repo_name": "nocodb/nocodb",
-      "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
-      "description_ja": "🔥 🔥 🔥 オープンソースのAirtable代替",
-      "readme_summary": "<h1 align=\"center\" style=\"border-bottom: none\"> <div> <a style=\"color:#36f\" href=\"https://www.nocodb.com\"> <img src=\"/packages/nc-gui/assets/img/brand/nocodb-full.png\" height=\"80\" /> <br> The Open Source Airtable Alternative </a> <br> </div> </h1> <p align=\"center\"> NocoDB is the fastest and easiest way to build databases online. </p> <p align=\"center\"> <a href=\"http://www.nocodb.com\"><b>Website</b></a> • <a href=\"https://discord.gg/5RgZmkW\"><b>Discord</b></a> • <a href=\"https://community.nocodb...",
-      "readme_summary_ja": "# NocoDB：オープンソースのAirtable代替\n\nNocoDBは、オンラインでデータベースを構築する最も速く簡単な方法です。\n\n[ウェブサイト](http://www.nocodb.com) • [Discord](https://discord.gg/5RgZmkW) • [コミュニティ](https://community.nocodb...",
+      "repo_name": "yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "description_ja": "LEANNで全てを対象としたRAGを。高速、高精度、そして100%プライベートなRAGアプリケーションを、個人のデバイス上で実行しながら、ストレージを97%節約できます。",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN ロゴ\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python バージョン\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI ステータス\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20",
+      "language": "Python",
+      "stars": 638
+    },
+    {
+      "rank": 11,
+      "repo_name": "livekit/agents",
+      "description": "A powerful framework for building realtime voice AI agents 🤖🎙️📹",
+      "description_ja": "リアルタイム音声AIエージェントを構築するための強力なフレームワーク 🤖🎙️📹",
+      "readme_summary": "<!--BEGIN_BANNER_IMAGE--> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"/.github/banner_dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"/.github/banner_light.png\"> <img style=\"width:100%;\" alt=\"The LiveKit icon, the name of the repository and some sample code in the background.\" src=\"https://raw.githubusercontent.com/livekit/agents/main/.github/banner_light.png\"> </picture> <!--END_BANNER_IMAGE--> <br /> !PyPI - Version ![PyPI Downloads](https://pepy.tech/projec...",
+      "readme_summary_ja": "<!--BEGIN_BANNER_IMAGE-->\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"/.github/banner_dark.png\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"/.github/banner_light.png\">\n  <img style=\"width:100%;\" alt=\"LiveKitのアイコン、リポジトリ名、背景にあるサンプルコード\" src=\"https://raw.githubusercontent.com/livekit/agents/main/.github/banner_light.png\">\n</picture>\n<!--END_BANNER_IMAGE-->\n<br />\n!PyPI - バージョン ![PyPI Downloads](https://pepy.tech/projec...",
+      "language": "Python",
+      "stars": 5
+    },
+    {
+      "rank": 12,
+      "repo_name": "DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "description_ja": "draw.ioダイアグラムとAI機能を統合したNext.jsウェブアプリケーションです。自然言語コマンドやAI支援による可視化を通じて、ダイアグラムの作成、修正、拡張が可能です。",
+      "readme_summary": "Next AI Draw.io <div align=\"center\"> **AI-Powered Diagram Creation Tool - Chat, Draw, Visualize** English | 中文 | 日本語 ![TrendShift](https://next-ai-drawio.jiang.jp/) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Next.js](https://nextjs.org/) ![React](https://react.dev/) ![Sponsor](https://github.com/sponsors/DayuanJiang) ![Live Demo](https://next-ai-drawio.jiang.jp/) </div> A Next.js web application that integrates AI capabilities with draw.io diagrams. Create, modify, and ...",
+      "readme_summary_ja": "次世代AI Draw.io\n\nAI搭載の図作成ツール - チャット、描画、可視化\n\nNext.jsで構築されたWebアプリケーションで、draw.ioの図にAI機能を統合。作成、修正、そして...",
       "language": "TypeScript",
-      "stars": 54
+      "stars": 95
     }
   ]
 }
