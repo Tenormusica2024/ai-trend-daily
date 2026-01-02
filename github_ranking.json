@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-01-01 13:00:11",
+  "updated_at": "2026-01-02 03:01:13",
   "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "awslabs/amazon-bedrock-agentcore-samples",
       "description": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.",
-      "description_ja": "Amazon Bedrock Agentcore は、AIエージェントを本番環境へ迅速に移行させ、実世界でのデプロイに不可欠なスケーラビリティ、信頼性、セキュリティを提供します。",
+      "description_ja": "Amazon Bedrock Agentcore は、AIエージェントを本番環境へ迅速に移行させ、実世界でのデプロイに不可欠な規模、信頼性、セキュリティを提供します。",
       "readme_summary": "<div align=\"center\"> <div> <a href=\"https://aws.amazon.com/bedrock/agentcore/\"> <img width=\"150\" height=\"150\" alt=\"image\" src=\"https://github.com/user-attachments/assets/b8b9456d-c9e2-45e1-ac5b-760f21f1ac18\" /> </a> </div> <h1> Amazon Bedrock AgentCore Samples </h1> <h2> Deploy and operate AI agents securely at scale - using any framework and model </h2> <div align=\"center\"> <a href=\"https://github.com/awslabs/amazon-bedrock-agentcore-samples/graphs/commit-activity\"><img alt=\"GitHub commit activ...",
-      "readme_summary_ja": "<div align=\"center\"> <div> <a href=\"https://aws.amazon.com/bedrock/agentcore/\"> <img width=\"150\" height=\"150\" alt=\"image\" src=\"https://github.com/user-attachments/assets/b8b9456d-c9e2-45e1-ac5b-760f21f1ac18\" /> </a> </div> <h1> Amazon Bedrock AgentCore サンプル </h1> <h2> あらゆるフレームワークとモデルを使用して、AIエージェントを安全かつ大規模にデプロイ・運用 </h2> <div align=\"center\"> <a href=\"https://github.com/awslabs/amazon-bedrock-agentcore-samples/graphs/commit-activity\"><img alt=\"GitHub commit activ...",
+      "readme_summary_ja": "<div align=\"center\"> <div> <a href=\"https://aws.amazon.com/bedrock/agentcore/\"> <img width=\"150\" height=\"150\" alt=\"image\" src=\"https://github.com/user-attachments/assets/b8b9456d-c9e2-45e1-ac5b-760f21f1ac18\" /> </a> </div> <h1> Amazon Bedrock AgentCore サンプル </h1> <h2> あらゆるフレームワークとモデルを使用して、AIエージェントをセキュアかつ大規模にデプロイ・運用 </h2> <div align=\"center\"> <a href=\"https://github.com/awslabs/amazon-bedrock-agentcore-samples/graphs/commit-activity\"><img alt=\"GitHub commit activ...",
       "language": "Jupyter Notebook",
-      "stars": 219
+      "stars": 217
     },
     {
       "rank": 2,
@@ -20,37 +20,37 @@
       "readme_summary": "<p align=\"center\"> <a href=\"https://vibekanban.com\"> <picture> <source srcset=\"frontend/public/vibe-kanban-logo-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"frontend/public/vibe-kanban-logo.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"frontend/public/vibe-kanban-logo.svg\" alt=\"Vibe Kanban Logo\"> </picture> </a> </p> <p align=\"center\">Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents...</p> <p align=\"center\"> <a href=\"https://www.npmjs.com...",
       "readme_summary_ja": "<p align=\"center\"> <a href=\"https://vibekanban.com\"> <picture> <source srcset=\"frontend/public/vibe-kanban-logo-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"frontend/public/vibe-kanban-logo.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"frontend/public/vibe-kanban-logo.svg\" alt=\"Vibe Kanban Logo\"> </picture> </a> </p> <p align=\"center\">Claude Code、Gemini CLI、Codex、Ampなどのコーディングエージェントの能力を10倍に引き出す...</p> <p align=\"center\"> <a href=\"https://www.npmjs.com...",
       "language": "Rust",
-      "stars": 541
+      "stars": 550
     },
     {
       "rank": 3,
       "repo_name": "usememos/memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
-      "description_ja": "オープンソースでセルフホスト可能なノートサービス。あなたの思考、あなたのデータ、あなたの管理下で。追跡、広告、サブスクリプション料金は一切ありません。",
+      "description_ja": "オープンソースでセルフホスト可能なノートサービス。あなたの思考、あなたのデータ、あなたの管理下で。トラッキング、広告、サブスクリプション料金は一切不要です。",
       "readme_summary": "Memos <img align=\"right\" height=\"96px\" src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/logo-rounded.png\" alt=\"Memos\" /> An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. ![Home](https://www.usememos.com) ![Live Demo](https://demo.usememos.com/) ![Docs](https://www.usememos.com/docs) ![Discord](https://discord.gg/tfPJa4UmAv) ![Docker Pulls](https://hub.docker.com/r/neosmemo/memos) <im...",
       "readme_summary_ja": "Memos <img align=\"right\" height=\"96px\" src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/logo-rounded.png\" alt=\"Memos\" /> は、オープンソースでセルフホスト可能なメモサービスです。あなたの思考、あなたのデータ、あなたの管理下で。トラッキング、広告、サブスクリプション料金は一切ありません。 ![ホーム](https://www.usememos.com) ![ライブデモ](https://demo.usememos.com/) ![ドキュメント](https://www.usememos.com/docs) ![Discord](https://discord.gg/tfPJa4UmAv) ![Docker Pulls](https://hub.docker.com/r/neosmemo/memos) <im...",
       "language": "Go",
-      "stars": 81
+      "stars": 82
     },
     {
       "rank": 4,
       "repo_name": "organicmaps/organicmaps",
       "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
-      "description_ja": "🍃 Organic Mapsは、旅行者、観光客、ハイカー、サイクリスト向けの無料Android/iOSオフライン地図アプリです。クラウドソースのOpenStreetMapデータを使用し、コミュニティによって愛情を込めて開発されています。広告、トラッキング、データ収集、クソアプリは一切ありません。開発を支援するために寄付をお願いします！",
+      "description_ja": "🍃 Organic Mapsは、旅行者、観光客、ハイカー、サイクリスト向けの無料Android/iOSオフライン地図アプリです。クラウドソースのOpenStreetMapデータを使用し、コミュニティによって愛情を込めて開発されています。広告、トラッキング、データ収集、クラップウェアは一切ありません。開発を支援するために寄付をお願いします！",
       "readme_summary": "<div align=\"center\"> <img src=\"qt/res/logo.png\" height=\"100\"/> </div> <h1 align=\"center\">Organic Maps</h1> **Organic Maps** is a privacy-first offline maps & GPS app for hiking, cycling, biking, and driving. Absolutely free. No ads",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"qt/res/logo.png\" height=\"100\"/> </div> <h1 align=\"center\">Organic Maps</h1> **Organic Maps** は、プライバシーを重視したオフライン地図＆GPSアプリです。ハイキング、サイクリング、バイク、ドライブに最適。完全無料、広告なし。",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"qt/res/logo.png\" height=\"100\"/> </div> <h1 align=\"center\">Organic Maps</h1> **Organic Maps** は、ハイキング、サイクリング、バイク、ドライブに最適な、プライバシーを重視したオフライン地図＆GPSアプリです。完全無料、広告なし。",
       "language": "C++",
-      "stars": 232
+      "stars": 233
     },
     {
       "rank": 5,
       "repo_name": "afkarxyz/SpotiFLAC",
       "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
-      "description_ja": "Tidal、Qobuz、Amazon MusicからSpotifyの楽曲を、アカウント不要でロスレスFLAC形式で取得。",
-      "readme_summary": "![GitHub All Releases](https://github.com/afkarxyz/SpotiFLAC/releases) !Image <div align=\"center\"> Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. !Windows !macOS !Linux </div> Download Screenshot !Image Other project SpotiDownloader Get Spotify tracks in MP3 and FLAC via the spotidownloader.com API ![Ko-fi](https://ko-fi.com/afkarxyz) Disclaimer This project is for **educational and private use only**. The developer does not condone or encourage copyright...",
-      "readme_summary_ja": "![GitHub 全リリース](https://github.com/afkarxyz/SpotiFLAC/releases) !画像\n\n<div align=\"center\"> Tidal、Qobuz、Amazon MusicからSpotifyの楽曲を真のFLAC形式で取得 – アカウント不要。 !Windows !macOS !Linux </div>\n\nダウンロード\n\nスクリーンショット !画像\n\n関連プロジェクト: SpotiDownloader\n\nspotidownloader.com API を使用して、Spotifyの楽曲をMP3およびFLAC形式で取得\n\n![Ko-fi](https://ko-fi.com/afkarxyz)\n\n免責事項\n\nこのプロジェクトは**教育および個人利用のみ**を目的としています。開発者は著作権侵害を容認または推奨しません。",
+      "description_ja": "Tidal、Qobuz、Amazon MusicからSpotifyの楽曲を、アカウント不要で、真のFLAC形式で取得します。",
+      "readme_summary": "![GitHub All Releases](https://github.com/afkarxyz/SpotiFLAC/releases) !Image <div align=\"center\"> Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. !Windows !macOS !Linux </div> Download Screenshot !Image Other projects SpotiFLAC Mobile Mobile port of SpotiFLAC for Android & iOS — maintained by @zarzet SpotiDownloader Get Spotify tracks in MP3 and FLAC via the spotidownloader.com API ![Ko-fi](https://ko-fi.com/afkarxyz) Disclaimer This project is for **educ...",
+      "readme_summary_ja": "![GitHub 全リリース](https://github.com/afkarxyz/SpotiFLAC/releases) !画像\n\n<div align=\"center\">\nTidal、Qobuz、Amazon MusicからSpotifyの楽曲を真のFLAC形式で取得 – アカウント不要。\n!Windows !macOS !Linux\n</div>\n\nダウンロード\n\nスクリーンショット\n\n!画像\n\nその他のプロジェクト\n\nSpotiFLAC Mobile\nAndroid & iOS向けのSpotiFLACモバイル版 – @zarzetがメンテナンス\n\nSpotiDownloader\nspotidownloader.com API経由でSpotifyの楽曲をMP3およびFLACで取得\n\n![Ko-fi](https://ko-fi.com/afkarxyz)\n\n免責事項\nこのプロジェクトは**教育...",
       "language": "TypeScript",
-      "stars": 437
+      "stars": 445
     },
     {
       "rank": 6,
@@ -58,9 +58,9 @@
       "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
       "description_ja": "🤖 Androidエミュレーターをサービスとして実行する、最小限でカスタマイズ可能なDockerイメージ。",
       "readme_summary": "<br /><br /><br /> <p align=\"center\"> <img width=\"400\" src=\"assets/icon.png\" /> </p><br /><br /> docker-android > A minimal and customizable Docker image running the Android emulator as a service. ![Docker Image CI](https://github.com/HQarroum/docker-android/actions/workflows/docker-image.yml) ![DeepSource](https://deepsource.io/gh/HQarroum/docker-android/?ref=repository-badge) !Docker Pulls Current version: **1.1.0** 📋 Table of contents - Features - Description - Usage - See also 🔖 Features - M...",
-      "readme_summary_ja": "<br /><br /><br /> <p align=\"center\"> <img width=\"400\" src=\"assets/icon.png\" /> </p><br /><br /> docker-android > A minimal and customizable Docker image running the Android emulator as a service. ![Docker Image CI](https://github.com/HQarroum/docker-android/actions/workflows/docker-image.yml) ![DeepSource](https://deepsource.io/gh/HQarroum/docker-android/?ref=repository-badge) !Docker Pulls Current version: **1.1.0** 📋 Table of contents - Features - Description - Usage - See also 🔖 Features - M...",
+      "readme_summary_ja": "docker-android：Androidエミュレーターをサービスとして実行する、最小限でカスタマイズ可能なDockerイメージ。\n\n機能：\n- （以下省略）",
       "language": "Shell",
-      "stars": 304
+      "stars": 296
     },
     {
       "rank": 7,
@@ -70,17 +70,17 @@
       "readme_summary": "Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <div align=\"center\"> <p align=\"center\"> ![Book](https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml) ![TinyTorch](https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-ci.yml) !Updated ![License](https://github.com/harvard-edge/cs249r_book/blob/dev/LICENSE.md) ![Cite](#-citation--license) ![Fund Us](https://opencollective.com/mlsysbook) </p> <p ali...",
       "readme_summary_ja": "Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <div align=\"center\"> <p align=\"center\"> ![Book](https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml) ![TinyTorch](https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-ci.yml) !Updated ![License](https://github.com/harvard-edge/cs249r_book/blob/dev/LICENSE.md) ![Cite](#-citation--license) ![Fund Us](https://opencollective.com/mlsysbook) </p> <p ali...",
       "language": "JavaScript",
-      "stars": 652
+      "stars": 678
     },
     {
       "rank": 8,
       "repo_name": "Polymarket/agents",
       "description": "Trade autonomously on Polymarket using AI Agents",
-      "description_ja": "AIエージェントを使って、Polymarketで自動取引",
+      "description_ja": "Trade autonomously on Polymarket using AI Agents",
       "readme_summary": "<!-- PROJECT SHIELDS --> [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] <!-- PROJECT LOGO --> <br /> <div align=\"center\"> <a href=\"https://github.com/polymarket/agents\"> <img src=\"docs/images/cli.png\" alt=\"Logo\" width=\"466\" height=\"262\"> </a> <h3 align=\"center\">Polymarket Agents</h3> <p align=\"center\"> Trade autonomously on Po...",
-      "readme_summary_ja": "<!-- プロジェクトシールド --> [![貢献者][contributors-shield]][contributors-url] [![フォーク][forks-shield]][forks-url] [![スター][stars-shield]][stars-url] [![Issue][issues-shield]][issues-url] [![MITライセンス][license-shield]][license-url] <!-- プロジェクトロゴ --> <br /> <div align=\"center\"> <a href=\"https://github.com/polymarket/agents\"> <img src=\"docs/images/cli.png\" alt=\"ロゴ\" width=\"466\" height=\"262\"> </a> <h3 align=\"center\">Polymarket Agents</h3> <p align=\"center\"> Po上で自律的に取引...",
+      "readme_summary_ja": "<!-- プロジェクトシールド --> [![コントリビューター][contributors-shield]][contributors-url] [![フォーク][forks-shield]][forks-url] [![スター][stars-shield]][stars-url] [![Issue][issues-shield]][issues-url] [![MITライセンス][license-shield]][license-url] <!-- プロジェクトロゴ --> <br /> <div align=\"center\"> <a href=\"https://github.com/polymarket/agents\"> <img src=\"docs/images/cli.png\" alt=\"ロゴ\" width=\"466\" height=\"262\"> </a> <h3 align=\"center\">Polymarket Agents</h3> <p align=\"center\"> Po上で自動取引...",
       "language": "Python",
-      "stars": 66
+      "stars": 65
     },
     {
       "rank": 9,
@@ -90,17 +90,17 @@
       "readme_summary": "﻿Hands-On Large Language Models <a href=\"https://www.linkedin.com/in/jalammar/\"><img src=\"https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin\"></a> <a href=\"https://www.linkedin.com/in/mgrootendorst/\"><img src=\"https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin\"></a> <a href=\"https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner\"><img src=\"https://img.shields.io/badge/DeepLearning.AI%20Course-NEW!-&la...",
       "readme_summary_ja": "実践的 大規模言語モデル <a href=\"https://www.linkedin.com/in/jalammar/\"><img src=\"https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin\"></a> <a href=\"https://www.linkedin.com/in/mgrootendorst/\"><img src=\"https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin\"></a> <a href=\"https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner\"><img src=\"https://img.shields.io/badge/DeepLearning.AI%20Course-NEW!-&la...",
       "language": "Jupyter Notebook",
-      "stars": 101
+      "stars": 74
     },
     {
       "rank": 10,
       "repo_name": "yichuan-w/LEANN",
       "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-      "description_ja": "LEANNで全てを対象としたRAGを。高速、高精度、そして100%プライベートなRAGアプリケーションを、個人のデバイス上で実行しながら、97%のストレージ節約を実現します。",
+      "description_ja": "LEANNで全てに対してRAGを実行。高速、高精度、かつ100%プライベートなRAGアプリケーションを個人のデバイス上で実行しながら、97%のストレージ節約を実現します。",
       "readme_summary": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN ロゴ\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python バージョン\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI ステータス\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20",
       "language": "Python",
-      "stars": 638
+      "stars": 622
     },
     {
       "rank": 11,
@@ -108,19 +108,19 @@
       "description": "A powerful framework for building realtime voice AI agents 🤖🎙️📹",
       "description_ja": "リアルタイム音声AIエージェントを構築するための強力なフレームワーク 🤖🎙️📹",
       "readme_summary": "<!--BEGIN_BANNER_IMAGE--> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"/.github/banner_dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"/.github/banner_light.png\"> <img style=\"width:100%;\" alt=\"The LiveKit icon, the name of the repository and some sample code in the background.\" src=\"https://raw.githubusercontent.com/livekit/agents/main/.github/banner_light.png\"> </picture> <!--END_BANNER_IMAGE--> <br /> !PyPI - Version ![PyPI Downloads](https://pepy.tech/projec...",
-      "readme_summary_ja": "<!--BEGIN_BANNER_IMAGE-->\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"/.github/banner_dark.png\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"/.github/banner_light.png\">\n  <img style=\"width:100%;\" alt=\"LiveKitのアイコン、リポジトリ名、背景にはサンプルコード\" src=\"https://raw.githubusercontent.com/livekit/agents/main/.github/banner_light.png\">\n</picture>\n<!--END_BANNER_IMAGE-->\n<br />\n!PyPI - バージョン ![PyPI Downloads](https://pepy.tech/projec...",
+      "readme_summary_ja": "<!--BEGIN_BANNER_IMAGE-->\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"/.github/banner_dark.png\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"/.github/banner_light.png\">\n  <img style=\"width:100%;\" alt=\"LiveKitのアイコン、リポジトリ名、背景にあるサンプルコード\" src=\"https://raw.githubusercontent.com/livekit/agents/main/.github/banner_light.png\">\n</picture>\n<!--END_BANNER_IMAGE-->\n<br />\n!PyPI - バージョン ![PyPI Downloads](https://pepy.tech/projec...",
       "language": "Python",
-      "stars": 5
+      "stars": 11
     },
     {
       "rank": 12,
       "repo_name": "DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "description_ja": "draw.ioの図にAI機能を統合したNext.jsウェブアプリケーションです。自然言語コマンドやAIによる視覚化支援を通じて、図の作成、修正、強化が可能です。",
+      "description_ja": "draw.ioダイアグラムとAI機能を統合したNext.jsウェブアプリケーションです。自然言語コマンドやAIによる視覚化支援を通じて、ダイアグラムの作成、修正、強化が可能です。",
       "readme_summary": "Next AI Draw.io <div align=\"center\"> **AI-Powered Diagram Creation Tool - Chat, Draw, Visualize** English | 中文 | 日本語 ![TrendShift](https://next-ai-drawio.jiang.jp/) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Next.js](https://nextjs.org/) ![React](https://react.dev/) ![Sponsor](https://github.com/sponsors/DayuanJiang) ![Live Demo](https://next-ai-drawio.jiang.jp/) </div> A Next.js web application that integrates AI capabilities with draw.io diagrams. Create, modify, and ...",
-      "readme_summary_ja": "次世代AI Draw.io\n\nAI搭載の図作成ツール - チャット、描画、可視化\n\n[英語 | 中国語 | 日本語]\n\n(各種バッジ)\n\ndraw.ioの図にAI機能を統合したNext.js製のWebアプリケーションです。作成、修正、そして…",
+      "readme_summary_ja": "次世代AI Draw.io\n\nAI搭載の図作成ツール - チャット、描画、可視化\n\nNext.js製のウェブアプリケーションで、draw.ioの図にAI機能を統合。作成、修正、そして...",
       "language": "TypeScript",
-      "stars": 95
+      "stars": 97
     }
   ]
 }
