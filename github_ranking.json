@@ -1,0 +1,96 @@
+{
+  "updated_at": "2026-01-03 02:52:39",
+  "total_repos": 9,
+  "ranking": [
+    {
+      "rank": 1,
+      "repo_name": "HQarroum/docker-android",
+      "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+      "description_ja": "🤖 Androidエミュレーターをサービスとして実行する、最小限でカスタマイズ可能なDockerイメージ。",
+      "readme_summary": "<br /><br /><br /> <p align=\"center\"> <img width=\"400\" src=\"assets/icon.png\" /> </p><br /><br /> docker-android > A minimal and customizable Docker image running the Android emulator as a service. ![Docker Image CI](https://github.com/HQarroum/docker-android/actions/workflows/docker-image.yml) ![DeepSource](https://deepsource.io/gh/HQarroum/docker-android/?ref=repository-badge) !Docker Pulls Current version: **1.1.0** 📋 Table of contents - Features - Description - Usage - See also 🔖 Features - M...",
+      "readme_summary_ja": "docker-android > Androidエミュレーターをサービスとして実行する、最小限でカスタマイズ可能なDockerイメージ。 ![Docker Image CI](https://github.com/HQarroum/docker-android/actions/workflows/docker-image.yml) ![DeepSource](https://deepsource.io/gh/HQarroum/docker-android/?ref=repository-badge) !Docker Pulls 現在のバージョン: **1.1.0** 📋 目次 - 特徴 - 説明 - 使い方 - 関連情報 🔖 特徴 - M...",
+      "language": "Shell",
+      "stars": 474
+    },
+    {
+      "rank": 2,
+      "repo_name": "nocodb/nocodb",
+      "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+      "description_ja": "🔥 🔥 🔥 オープンソースのAirtable代替",
+      "readme_summary": "<h1 align=\"center\" style=\"border-bottom: none\"> <div> <a style=\"color:#36f\" href=\"https://www.nocodb.com\"> <img src=\"/packages/nc-gui/assets/img/brand/nocodb-full.png\" height=\"80\" /> <br> The Open Source Airtable Alternative </a> <br> </div> </h1> <p align=\"center\"> NocoDB is the fastest and easiest way to build databases online. </p> <p align=\"center\"> <a href=\"http://www.nocodb.com\"><b>Website</b></a> • <a href=\"https://discord.gg/5RgZmkW\"><b>Discord</b></a> • <a href=\"https://community.nocodb...",
+      "readme_summary_ja": "# NocoDB：オープンソースのAirtable代替\n\nNocoDBは、オンラインでデータベースを構築する最も速く簡単な方法です。\n\n[ウェブサイト](http://www.nocodb.com) • [Discord](https://discord.gg/5RgZmkW) • [コミュニティ](https://community.nocodb...",
+      "language": "TypeScript",
+      "stars": 112
+    },
+    {
+      "rank": 3,
+      "repo_name": "openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
+      "description_ja": "OpenAI API の使用例とガイド",
+      "readme_summary": "<a href=\"https://cookbook.openai.com\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"/images/openai-cookbook-white.png\" style=\"max-width: 100%; width: 400px; margin-bottom: 20px\"> <img alt=\"OpenAI Cookbook Logo\" src=\"/images/openai-cookbook.png\" width=\"400px\"> </picture> </a> <h3></h3> > ✨ Navigate at cookbook.openai.com Example code and guides for accomplishing common tasks with the OpenAI API. To run these examples, you'll need an OpenAI account and associated ...",
+      "readme_summary_ja": "[OpenAI Cookbook](https://cookbook.openai.com)\n\n✨ cookbook.openai.com で詳細をご覧ください。 OpenAI API を使用して一般的なタスクを実行するためのサンプルコードとガイドです。 これらのサンプルを実行するには、OpenAI アカウントと関連する... が必要です。",
+      "language": "Jupyter Notebook",
+      "stars": 30
+    },
+    {
+      "rank": 4,
+      "repo_name": "ourongxing/newsnow",
+      "description": "Elegant reading of real-time and hottest news",
+      "description_ja": "リアルタイムな最新ニュースをスマートに閲覧",
+      "readme_summary": "![](/public/og-image.png) English | 简体中文 | 日本語 > [!NOTE] > This is a demo version currently supporting Chinese only. A full-featured version with better customization and English content support will be released later. **_Elegant reading of real-time and hottest news_** Features - Clean and elegant UI design for optimal reading experience - Real-time updates on trending news - GitHub OAuth login with data synchronization - 30-minute default cache duration (logged-in users can force refresh) - Ad...",
+      "readme_summary_ja": "![](/public/og-image.png) English | 简体中文 | 日本語 > [!NOTE] > これはデモ版であり、現在中国語のみをサポートしています。より優れたカスタマイズ機能と英語コンテンツのサポートを備えたフル機能を備えたバージョンは後日リリース予定です。 **_リアルタイムで最もホットなニュースをエレガントに閲覧_** 特徴 - 最適な読書体験のためのクリーンでエレガントなUIデザイン - トレンドニュースのリアルタイム更新 - データ同期によるGitHub OAuthログイン - 30分のデフォルトキャッシュ期間（ログインユーザーは強制リフレッシュ可能） - 広告...",
+      "language": "TypeScript",
+      "stars": 220
+    },
+    {
+      "rank": 5,
+      "repo_name": "rossant/awesome-math",
+      "description": "A curated list of awesome mathematics resources",
+      "description_ja": "素晴らしい数学リソースの厳選リスト",
+      "readme_summary": "Awesome Math ![Awesome](https://github.com/sindresorhus/awesome) A curated list of awesome mathematics resources. All resources are freely available except those with a 💲 icon. Contents <!-- START_TOC --> * Contents * General Resources * Learning Platforms * Learn to Learn * Youtube Series * Tools * Questions and Answers * Encyclopedia * Books * Magazines * Blogs * Meetings and Conferences * Misc * Branches of Mathematics * Foundations of Mathematics * Transition To Pure Rigour Math * Set Theory...",
+      "readme_summary_ja": "素晴らしい数学リソース集 ![Awesome](https://github.com/sindresorhus/awesome) 厳選された素晴らしい数学リソースのリストです。💲マークが付いているものを除き、すべてのリソースは無料で利用できます。\n\n目次\n\n* 目次\n* 一般的なリソース\n* 学習プラットフォーム\n* 学習方法を学ぶ\n* YouTubeシリーズ\n* ツール\n* 質疑応答\n* 百科事典\n* 書籍\n* 雑誌\n* ブログ\n* 会議\n* その他\n* 数学の分野\n* 数学の基礎\n* 純粋数学への移行\n* 集合論...",
+      "language": "Python",
+      "stars": 117
+    },
+    {
+      "rank": 6,
+      "repo_name": "usememos/memos",
+      "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+      "description_ja": "オープンソースでセルフホスト可能なノートサービス。あなたの思考、あなたのデータ、あなたの管理下で。トラッキング、広告、サブスクリプション料金は一切不要です。",
+      "readme_summary": "Memos <img align=\"right\" height=\"96px\" src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/logo-rounded.png\" alt=\"Memos\" /> An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. ![Home](https://www.usememos.com) ![Live Demo](https://demo.usememos.com/) ![Docs](https://www.usememos.com/docs) ![Discord](https://discord.gg/tfPJa4UmAv) ![Docker Pulls](https://hub.docker.com/r/neosmemo/memos) <im...",
+      "readme_summary_ja": "Memos <img align=\"right\" height=\"96px\" src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/logo-rounded.png\" alt=\"Memos\" /> An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. ![Home](https://www.usememos.com) ![Live Demo](https://demo.usememos.com/) ![Docs](https://www.usememos.com/docs) ![Discord](https://discord.gg/tfPJa4UmAv) ![Docker Pulls](https://hub.docker.com/r/neosmemo/memos) <im...",
+      "language": "Go",
+      "stars": 661
+    },
+    {
+      "rank": 7,
+      "repo_name": "GitHubDaily/GitHubDaily",
+      "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+      "description_ja": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+      "readme_summary": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/githubdaily_brand.png\"> </p> <p align=\"center\"> <a href=\"https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png\"><img src=\"https://img.shields.io/badge/ GitHubDaily-公众号-brightgreen.svg\" alt=\"WeChat\"></a> <a href=\"https://weibo.com/GitHubDaily\"><img src=\"https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-%E5%BE%AE%E5%8D%9A-red\" alt=\"Weibo\"></a> <a href=\"https://www.zhihu.c...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/githubdaily_brand.png\"> </p> <p align=\"center\"> <a href=\"https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png\"><img src=\"https://img.shields.io/badge/ GitHubDaily-公众号-brightgreen.svg\" alt=\"WeChat\"></a> <a href=\"https://weibo.com/GitHubDaily\"><img src=\"https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-%E5%BE%AE%E5%8D%9A-red\" alt=\"Weibo\"></a> <a href=\"https://www.zhihu.c...",
+      "language": "",
+      "stars": 53
+    },
+    {
+      "rank": 8,
+      "repo_name": "SYSTRAN/faster-whisper",
+      "description": "Faster Whisper transcription with CTranslate2",
+      "description_ja": "Faster Whisper transcription with CTranslate2",
+      "readme_summary": "![CI](https://github.com/SYSTRAN/faster-whisper/actions?query=workflow%3ACI) ![PyPI version](https://badge.fury.io/py/faster-whisper) Faster Whisper transcription with CTranslate2 **faster-whisper** is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models. This implementation is up to 4 times faster than openai/whisper for the same accuracy while using less memory. The efficiency can be further improved with 8-bit quantization on ...",
+      "readme_summary_ja": "![CI](https://github.com/SYSTRAN/faster-whisper/actions?query=workflow%3ACI) ![PyPI version](https://badge.fury.io/py/faster-whisper) Faster Whisper transcription with CTranslate2 **faster-whisper** is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models. This implementation is up to 4 times faster than openai/whisper for the same accuracy while using less memory. The efficiency can be further improved with 8-bit quantization on ...",
+      "language": "Python",
+      "stars": 107
+    },
+    {
+      "rank": 9,
+      "repo_name": "Koenkk/zigbee2mqtt",
+      "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+      "description_ja": "ZigbeeからMQTTへのブリッジ。独自のZigbeeブリッジから解放されましょう！",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/koenkk/zigbee2mqtt\"> <img width=\"150\" height=\"150\" src=\"images/logo.png\"> </a> <br> <br> <div style=\"display: flex;\"> <a href=\"https://github.com/Koenkk/zigbee2mqtt/releases\"> <img src=\"https://img.shields.io/github/release/koenkk/zigbee2mqtt.svg\"> </a> <a href=\"https://www.npmjs.com/package/zigbee2mqtt\"> <img src=\"https://img.shields.io/npm/v/zigbee2mqtt\"> </a> <a href=\"https://github.com/Koenkk/zigbee2mqtt/actions/workflows/ci.yml\"> <img src=\"ht...",
+      "readme_summary_ja": "Zigbee2MQTT：ZigbeeデバイスをMQTT経由で制御",
+      "language": "TypeScript",
+      "stars": 15
+    }
+  ]
+}
