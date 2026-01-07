@@ -1,106 +1,106 @@
 {
-  "updated_at": "2026-01-06 09:00:33",
+  "updated_at": "2026-01-07 09:00:34",
   "total_repos": 10,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "description_ja": "The open source coding agent.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The open source AI coding agent.</p> <p align=\"center\"> <a href=\"https://opencode.ai/discord\"><img a...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The open source AI coding agent.</p> <p align=\"center\"> <a href=\"https://opencode.ai/discord\"><img a...",
-      "language": "TypeScript",
-      "stars": 1852
+      "repo_name": "protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "description_ja": "Protocol Buffers - Google's data interchange format",
+      "readme_summary": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
+      "readme_summary_ja": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
+      "language": "C++",
+      "stars": 14
     },
     {
       "rank": 2,
-      "repo_name": "usememos/memos",
-      "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
-      "description_ja": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
-      "readme_summary": "Memos <img align=\"right\" height=\"96px\" src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/logo-rounded.png\" alt=\"Memos\" /> An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. ![Home](https://usememos.com) ![Live Demo](https://demo.usememos.com/) ![Docs](https://usememos.com/docs) ![Discord](https://discord.gg/tfPJa4UmAv) ![Docker Pulls](https://hub.docker.com/r/neosmemo/memos) <img src=\"h...",
-      "readme_summary_ja": "Memos <img align=\"right\" height=\"96px\" src=\"https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/logo-rounded.png\" alt=\"Memos\" /> An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. ![Home](https://usememos.com) ![Live Demo](https://demo.usememos.com/) ![Docs](https://usememos.com/docs) ![Discord](https://discord.gg/tfPJa4UmAv) ![Docker Pulls](https://hub.docker.com/r/neosmemo/memos) <img src=\"h...",
-      "language": "Go",
-      "stars": 658
+      "repo_name": "Lissy93/web-check",
+      "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+      "description_ja": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+      "readme_summary": "<h1 align=\"center\">Web-Check</h1> <p align=\"center\"> <img src=\"https://i.ibb.co/q1gZN2p/web-check-logo.png\" width=\"96\" /><br /> <b><i>Comprehensive, on-demand open source intelligence for any website</i></b> <br /> <b>🌐 <a href=\"https://web-check.xyz/\">web-check.xyz</a></b><br /> </p> --- <p align=\"center\"> <sup>Kindly supported by:</sup><br> <a href=\"https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh\"> <img src=\"https://i.ibb.co/8jrrcZ0/IMG-...",
+      "readme_summary_ja": "<h1 align=\"center\">Web-Check</h1> <p align=\"center\"> <img src=\"https://i.ibb.co/q1gZN2p/web-check-logo.png\" width=\"96\" /><br /> <b><i>Comprehensive, on-demand open source intelligence for any website</i></b> <br /> <b>🌐 <a href=\"https://web-check.xyz/\">web-check.xyz</a></b><br /> </p> --- <p align=\"center\"> <sup>Kindly supported by:</sup><br> <a href=\"https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh\"> <img src=\"https://i.ibb.co/8jrrcZ0/IMG-...",
+      "language": "TypeScript",
+      "stars": 173
     },
     {
       "rank": 3,
-      "repo_name": "OpenBB-finance/OpenBB",
-      "description": "Financial data platform for analysts, quants and AI agents.",
-      "description_ja": "Financial data platform for analysts, quants and AI agents.",
-      "readme_summary": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
-      "readme_summary_ja": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
-      "language": "Python",
-      "stars": 388
+      "repo_name": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+      "description_ja": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
+      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
+      "language": "C#",
+      "stars": 60
     },
     {
       "rank": 4,
-      "repo_name": "ourongxing/newsnow",
-      "description": "Elegant reading of real-time and hottest news",
-      "description_ja": "Elegant reading of real-time and hottest news",
-      "readme_summary": "![](/public/og-image.png) English | 简体中文 | 日本語 > [!NOTE] > This is a demo version currently supporting Chinese only. A full-featured version with better customization and English content support will be released later. **_Elegant reading of real-time and hottest news_** Features - Clean and elegant UI design for optimal reading experience - Real-time updates on trending news - GitHub OAuth login with data synchronization - 30-minute default cache duration (logged-in users can force refresh) - Ad...",
-      "readme_summary_ja": "![](/public/og-image.png) English | 简体中文 | 日本語 > [!NOTE] > This is a demo version currently supporting Chinese only. A full-featured version with better customization and English content support will be released later. **_Elegant reading of real-time and hottest news_** Features - Clean and elegant UI design for optimal reading experience - Real-time updates on trending news - GitHub OAuth login with data synchronization - 30-minute default cache duration (logged-in users can force refresh) - Ad...",
+      "repo_name": "anthropics/claude-code-action",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "!Claude Code Action responding to a comment Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether responding to @claude mentions, issue assignments, or executing automation tasks with explicit prompts. It supports multiple authentication methods including Anthropic direct API, Amazon Bedrock, Google Vertex AI, and Microsoft Fo...",
+      "readme_summary_ja": "!Claude Code Action responding to a comment Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether responding to @claude mentions, issue assignments, or executing automation tasks with explicit prompts. It supports multiple authentication methods including Anthropic direct API, Amazon Bedrock, Google Vertex AI, and Microsoft Fo...",
       "language": "TypeScript",
-      "stars": 211
+      "stars": 32
     },
     {
       "rank": 5,
-      "repo_name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "description_ja": "An AI Hedge Fund Team",
-      "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
-      "readme_summary_ja": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "repo_name": "microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "description_ja": "Official inference framework for 1-bit LLMs",
+      "readme_summary": "bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) !version <img src=\"./assets/header_model_release.png\" alt=\"BitNet Model on Hugging Face\" width=\"800\"/> Try it out via this demo, or build and run it on your own CPU or GPU. bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU and GPU (NPU support will coming next)",
+      "readme_summary_ja": "bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) !version <img src=\"./assets/header_model_release.png\" alt=\"BitNet Model on Hugging Face\" width=\"800\"/> Try it out via this demo, or build and run it on your own CPU or GPU. bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU and GPU (NPU support will coming next)",
       "language": "Python",
-      "stars": 214
+      "stars": 766
     },
     {
       "rank": 6,
-      "repo_name": "python/cpython",
-      "description": "The Python programming language",
-      "description_ja": "The Python programming language",
-      "readme_summary": "This is Python version 3.15.0 alpha 3 ===================================== .. image:: https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push :alt: CPython build status on GitHub Actions :target: https://github.com/python/cpython/actions .. image:: https://dev.azure.com/python/cpython/_apis/build/status/Azure%20Pipelines%20CI?branchName=main :alt: CPython build status on Azure DevOps :target: https://dev.azure.com/python/cpython/_build/latest?definitionId=...",
-      "readme_summary_ja": "This is Python version 3.15.0 alpha 3 ===================================== .. image:: https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push :alt: CPython build status on GitHub Actions :target: https://github.com/python/cpython/actions .. image:: https://dev.azure.com/python/cpython/_apis/build/status/Azure%20Pipelines%20CI?branchName=main :alt: CPython build status on Azure DevOps :target: https://dev.azure.com/python/cpython/_build/latest?definitionId=...",
-      "language": "Python",
+      "repo_name": "marcelscruz/public-apis",
+      "description": "A collaborative list of public APIs for developers",
+      "description_ja": "A collaborative list of public APIs for developers",
+      "readme_summary": "<!-- <div align=\"center\"> <div> <p align=\"center\"><a href=\"https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/public-apis.png\" width=\"130px\"><source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/scrapfly-light-mode.svg\" width=\"130px\"><img alt=\"Scrapfly logo\" src=\"./assets/public-apis.png\" width=\"130px\"></picture></a> </p> <p align=\"center\"><a href=\"https://publicapis.dev?ref=dr-pa&utm_medium=public-...",
+      "readme_summary_ja": "<!-- <div align=\"center\"> <div> <p align=\"center\"><a href=\"https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/public-apis.png\" width=\"130px\"><source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/scrapfly-light-mode.svg\" width=\"130px\"><img alt=\"Scrapfly logo\" src=\"./assets/public-apis.png\" width=\"130px\"></picture></a> </p> <p align=\"center\"><a href=\"https://publicapis.dev?ref=dr-pa&utm_medium=public-...",
+      "language": "JavaScript",
       "stars": 171
     },
     {
       "rank": 7,
-      "repo_name": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "description_ja": "Open-Source Frontier Voice AI",
-      "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![Technical Report](https://arxiv.org/pdf/2508.19205) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"Figures/VibeVoice_logo_white.png\"> <img src=\"Figures/VibeVoice_logo.png\" alt=\"VibeVoice Logo\" width=\"300\"> </picture> </div> <div align=\"l...",
-      "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![Technical Report](https://arxiv.org/pdf/2508.19205) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"Figures/VibeVoice_logo_white.png\"> <img src=\"Figures/VibeVoice_logo.png\" alt=\"VibeVoice Logo\" width=\"300\"> </picture> </div> <div align=\"l...",
-      "language": "Python",
-      "stars": 144
+      "repo_name": "kirodotdev/Kiro",
+      "description": "Kiro is an agentic IDE that works alongside you from prototype to production.",
+      "description_ja": "Kiro is an agentic IDE that works alongside you from prototype to production.",
+      "readme_summary": "<div align=\"left\"> <img src=\"assets/kiro-icon.png\" alt=\"Kiro\" width=\"120\" height=\"120\"> Kiro Kiro is an agentic IDE that helps you go from prototype to production with spec-driven development, agent hooks, and natural language coding assistance. Build faster with AI-powered features that understand your entire codebase, turn prompts into structured specs, and automate repetitive tasks. </div> Core Capabilities - **Specs** - Plan and build features using structured specifications that break down ...",
+      "readme_summary_ja": "<div align=\"left\"> <img src=\"assets/kiro-icon.png\" alt=\"Kiro\" width=\"120\" height=\"120\"> Kiro Kiro is an agentic IDE that helps you go from prototype to production with spec-driven development, agent hooks, and natural language coding assistance. Build faster with AI-powered features that understand your entire codebase, turn prompts into structured specs, and automate repetitive tasks. </div> Core Capabilities - **Specs** - Plan and build features using structured specifications that break down ...",
+      "language": "",
+      "stars": 25
     },
     {
       "rank": 8,
-      "repo_name": "3b1b/manim",
-      "description": "Animation engine for explanatory math videos",
-      "description_ja": "Animation engine for explanatory math videos",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/3b1b/manim\"> <img src=\"https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png\"> </a> </p> ![pypi version](https://pypi.org/project/manimgl/) ![MIT License](http://choosealicense.com/licenses/mit/) ![Manim Subreddit](https://www.reddit.com/r/manim/) ![Manim Discord](https://discord.com/invite/bYCyhM9Kz2) ![docs](https://3b1b.github.io/manim/) Manim is an engine for precise programmatic animations, designed for creating explanatory math ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/3b1b/manim\"> <img src=\"https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png\"> </a> </p> ![pypi version](https://pypi.org/project/manimgl/) ![MIT License](http://choosealicense.com/licenses/mit/) ![Manim Subreddit](https://www.reddit.com/r/manim/) ![Manim Discord](https://discord.com/invite/bYCyhM9Kz2) ![docs](https://3b1b.github.io/manim/) Manim is an engine for precise programmatic animations, designed for creating explanatory math ...",
+      "repo_name": "LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+      "description": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+      "description_ja": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+      "readme_summary": "ChatGPT Micro-Cap Experiment Welcome to the repo behind my 6-month live trading experiment where ChatGPT manages a real-money micro-cap portfolio. Overview on getting started: Here Repository Structure - **trading_script.py** - Main trading engine with portfolio management and stop-loss automation - **Scripts and CSV Files/** - My personal portfolio (updates every trading day) - **Start Your Own/** - Template files and guide for starting your own experiment - **Weekly Deep Research (MD|PDF)/** -...",
+      "readme_summary_ja": "ChatGPT Micro-Cap Experiment Welcome to the repo behind my 6-month live trading experiment where ChatGPT manages a real-money micro-cap portfolio. Overview on getting started: Here Repository Structure - **trading_script.py** - Main trading engine with portfolio management and stop-loss automation - **Scripts and CSV Files/** - My personal portfolio (updates every trading day) - **Start Your Own/** - Template files and guide for starting your own experiment - **Weekly Deep Research (MD|PDF)/** -...",
       "language": "Python",
-      "stars": 84
+      "stars": 67
     },
     {
       "rank": 9,
-      "repo_name": "maplibre/maplibre-gl-js",
-      "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
-      "description_ja": "MapLibre GL JS - Interactive vector tile maps in the browser",
-      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://maplibre.org/img/maplibre-logos/maplibre-logo-for-dark-bg.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://maplibre.org/img/maplibre-logos/maplibre-logo-for-light-bg.svg\"> <img alt=\"MapLibre Logo\" src=\"https://maplibre.org/img/maplibre-logos/maplibre-logo-for-light-bg.svg\" width=\"200\"> </picture> </p> MapLibre GL JS ![License](LICENSE.txt) ![Version](https://www.npmjs.com/package/maplibre...",
-      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://maplibre.org/img/maplibre-logos/maplibre-logo-for-dark-bg.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://maplibre.org/img/maplibre-logos/maplibre-logo-for-light-bg.svg\"> <img alt=\"MapLibre Logo\" src=\"https://maplibre.org/img/maplibre-logos/maplibre-logo-for-light-bg.svg\" width=\"200\"> </picture> </p> MapLibre GL JS ![License](LICENSE.txt) ![Version](https://www.npmjs.com/package/maplibre...",
-      "language": "TypeScript",
-      "stars": 39
+      "repo_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
+      "description_ja": "📑 PageIndex: Document Index for Reasoning-based RAG",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
+      "language": "Jupyter Notebook",
+      "stars": 41
     },
     {
       "rank": 10,
-      "repo_name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "description_ja": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "readme_summary_ja": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "language": "Shell",
-      "stars": 405
+      "repo_name": "bobbyiliev/introduction-to-bash-scripting",
+      "description": "Free Introduction to Bash Scripting eBook",
+      "description_ja": "Free Introduction to Bash Scripting eBook",
+      "readme_summary": "<p align=\"center\"><img src=\"https://imgur.com/eXCcDPp.png\" height=\"450\" width=\"auto\"></p> <div align=\"center\"> <p> <a name=\"stars\"><img src=\"https://img.shields.io/github/stars/bobbyiliev/introduction-to-bash-scripting?style=for-the-badge\"></a> <a name=\"forks\"><img src=\"https://img.shields.io/github/forks/bobbyiliev/introduction-to-bash-scripting?logoColor=green&style=for-the-badge\"></a> <a name=\"contributions\"><img src=\"https://img.shields.io/github/contributors/bobbyiliev/introduction-to-bash-...",
+      "readme_summary_ja": "<p align=\"center\"><img src=\"https://imgur.com/eXCcDPp.png\" height=\"450\" width=\"auto\"></p> <div align=\"center\"> <p> <a name=\"stars\"><img src=\"https://img.shields.io/github/stars/bobbyiliev/introduction-to-bash-scripting?style=for-the-badge\"></a> <a name=\"forks\"><img src=\"https://img.shields.io/github/forks/bobbyiliev/introduction-to-bash-scripting?logoColor=green&style=for-the-badge\"></a> <a name=\"contributions\"><img src=\"https://img.shields.io/github/contributors/bobbyiliev/introduction-to-bash-...",
+      "language": "HTML",
+      "stars": 75
     }
   ]
 }
