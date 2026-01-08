@@ -1,106 +1,136 @@
 {
-  "updated_at": "2026-01-07 03:00:29",
-  "total_repos": 10,
+  "updated_at": "2026-01-08 03:00:23",
+  "total_repos": 13,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "description_ja": "Protocol Buffers - Google のデータ交換フォーマット",
-      "readme_summary": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
-      "readme_summary_ja": "Protocol Buffers - Googleのデータ交換フォーマット =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC 概要 -------- Protocol Buffers（別名protobuf）は、構造化データをシリアライズするための、Googleの言語中立、プラットフォーム中立、拡張可能なメカニズムです。詳細については、protobufのドキュメントを参照してください。このREADMEファイルには、protobufのインストール手順が含まれています...",
-      "language": "C++",
-      "stars": 14
+      "repo_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_ja": "Claudeのコーディングセッションを自動で記録し、AI（Claudeのagent-sdkを使用）で圧縮、関連するコンテキストを今後のセッションに注入するプラグイン。",
+      "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
+      "readme_summary_ja": "# Claude-Mem\n\n[Claude-Memのリポジトリへ](https://github.com/thedotmack/claude-mem)\n\n（ダークモードとライトモードに対応したロゴ）",
+      "language": "TypeScript",
+      "stars": 703
     },
     {
       "rank": 2,
+      "repo_name": "google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "description_ja": "GoogleTest - Googleのテストおよびモックフレームワーク",
+      "readme_summary": "GoogleTest Announcements Documentation Updates Our documentation is now live on GitHub Pages at https://google.github.io/googletest/. We recommend browsing the documentation on GitHub Pages rather than directly in the repository. Release 1.17.0 Release 1.17.0 is now available",
+      "readme_summary_ja": "GoogleTestからのお知らせ\n\nドキュメントの更新：ドキュメントをGitHub Pages (https://google.github.io/googletest/) で公開しました。リポジトリ内を直接参照するよりも、GitHub Pagesでドキュメントを閲覧することを推奨します。\n\nリリース 1.17.0：リリース 1.17.0 が利用可能です。",
+      "language": "C++",
+      "stars": 9
+    },
+    {
+      "rank": 3,
       "repo_name": "Lissy93/web-check",
       "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
       "description_ja": "🕵️‍♂️ あらゆるウェブサイトを分析できるオールインワンのOSINTツール",
       "readme_summary": "<h1 align=\"center\">Web-Check</h1> <p align=\"center\"> <img src=\"https://i.ibb.co/q1gZN2p/web-check-logo.png\" width=\"96\" /><br /> <b><i>Comprehensive, on-demand open source intelligence for any website</i></b> <br /> <b>🌐 <a href=\"https://web-check.xyz/\">web-check.xyz</a></b><br /> </p> --- <p align=\"center\"> <sup>Kindly supported by:</sup><br> <a href=\"https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh\"> <img src=\"https://i.ibb.co/8jrrcZ0/IMG-...",
-      "readme_summary_ja": "<h1 align=\"center\">Web-Check</h1> <p align=\"center\"> <img src=\"https://i.ibb.co/q1gZN2p/web-check-logo.png\" width=\"96\" /><br /> <b><i>あらゆるウェブサイト向けの包括的なオンデマンド型オープンソースインテリジェンス</i></b> <br /> <b>🌐 <a href=\"https://web-check.xyz/\">web-check.xyz</a></b><br /> </p> --- <p align=\"center\"> <sup>提供元:</sup><br> <a href=\"https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh\"> <img src=\"https://i.ibb.co/8jrrcZ0/IMG-...",
+      "readme_summary_ja": "# Web-Check\n\n包括的な、オンデマンドのウェブサイト向けオープンソースインテリジェンス\n\n🌐 [web-check.xyz](https://web-check.xyz/)\n\n---\n\n<sup>提供：</sup>\n[Terminal Trove](https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh)",
       "language": "TypeScript",
-      "stars": 173
+      "stars": 783
     },
     {
-      "rank": 3,
+      "rank": 4,
       "repo_name": "microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
       "description_ja": "Microsoft PowerToysは、Windowsのカスタマイズや日常的なタスクの効率化に役立つユーティリティ集です。",
       "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
-      "readme_summary_ja": "Microsoft PowerToysは、Windowsのカスタマイズと日常的なタスクの効率化を支援するユーティリティ集です。\n\nインストール · ...",
+      "readme_summary_ja": "Microsoft PowerToysは、Windowsのカスタマイズと日常的なタスクの効率化を支援するユーティリティ集です。\n\nインストール",
       "language": "C#",
-      "stars": 60
-    },
-    {
-      "rank": 4,
-      "repo_name": "anthropics/claude-code-action",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "!Claude Code Action responding to a comment Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether responding to @claude mentions, issue assignments, or executing automation tasks with explicit prompts. It supports multiple authentication methods including Anthropic direct API, Amazon Bedrock, Google Vertex AI, and Microsoft Fo...",
-      "readme_summary_ja": "コメントに対応するClaude Code Action。GitHubのPRやIssueに対応する汎用的なClaude Code Actionで、質問に答えたり、コード変更を実装したりできます。このアクションは、@claudeへのメンション、Issueのアサイン、明示的なプロンプトによる自動化タスクの実行など、ワークフローのコンテキストに基づいて、いつアクティブ化するかをインテリジェントに検出します。Anthropicの直接API、Amazon Bedrock、Google Vertex AI、Microsoft Azure OpenAI Serviceなど、複数の認証方法をサポートしています。",
-      "language": "TypeScript",
-      "stars": 32
+      "stars": 330
     },
     {
       "rank": 5,
-      "repo_name": "microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "description_ja": "1ビットLLM公式推論フレームワーク",
-      "readme_summary": "bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) !version <img src=\"./assets/header_model_release.png\" alt=\"BitNet Model on Hugging Face\" width=\"800\"/> Try it out via this demo, or build and run it on your own CPU or GPU. bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU and GPU (NPU support will coming next)",
-      "readme_summary_ja": "bitnet.cpp ![ライセンス: MIT](https://opensource.org/licenses/MIT) !バージョン <img src=\"./assets/header_model_release.png\" alt=\"Hugging Face上のBitNetモデル\" width=\"800\"/> デモでお試しいただくか、ご自身のCPUまたはGPUでビルドして実行してください。bitnet.cppは、1ビットLLM（例：BitNet b1.58）の公式推論フレームワークです。CPUおよびGPU上で1.58ビットモデルの**高速**かつ**ロスレス**な推論をサポートする最適化されたカーネル群を提供します（NPUサポートは近日提供予定）。",
-      "language": "Python",
-      "stars": 766
+      "repo_name": "protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "description_ja": "Protocol Buffers - Google のデータ交換フォーマット",
+      "readme_summary": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
+      "readme_summary_ja": "Protocol Buffers - Googleのデータ交換フォーマット\n===================================================\n![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf)\n\nCopyright 2008 Google LLC\n\n概要\n--------\nProtocol Buffers（protobufとしても知られる）は、構造化データをシリアライズするための、Googleの言語中立、プラットフォーム中立、拡張可能なメカニズムです。詳細については、protobufのドキュメントを参照してください。このREADMEファイルには、protobufのインストール手順が含まれています...",
+      "language": "C++",
+      "stars": 133
     },
     {
       "rank": 6,
+      "repo_name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "description_ja": "コーディングエージェント向け Chrome DevTools",
+      "readme_summary": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
+      "readme_summary_ja": "Chrome DevTools MCP は、Gemini、Claude、Cursor、Copilot などのコーディングエージェントが、動作中の Chrome ブラウザを制御・検査できるようにします。Model-Context-Protocol (MCP) サーバーとして機能し、AI コーディングアシスタントに Chrome DevTools のフルパワーを提供することで、信頼性の高い自動化、詳細なデバッグ、パフォーマンス分析を実現します。ツールリファレンス | 変更履歴 | 貢献 | トラブルシューティング | 設計...",
+      "language": "TypeScript",
+      "stars": 90
+    },
+    {
+      "rank": 7,
+      "repo_name": "memvid/memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "description_ja": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "readme_summary": "<img width=\"2000\" height=\"491\" alt=\"Social Cover (6)\" src=\"https://github.com/user-attachments/assets/4e256804-53ac-4173-bcff-81994d52bf5c\" /> <p align=\"center\"> <strong>Memvid is a single-file memory layer for AI agents with instant retrieval and long-term memory.</strong><br/> Persistent, versioned, and portable memory, without databases. </p> <p align=\"center\"> <a href=\"https://www.memvid.com\">Website</a> · <a href=\"https://sandbox.memvid.com\">Try Sandbox</a> · <a href=\"https://docs.memvid.co...",
+      "readme_summary_ja": "<img width=\"2000\" height=\"491\" alt=\"Social Cover (6)\" src=\"https://github.com/user-attachments/assets/4e256804-53ac-4173-bcff-81994d52bf5c\" /> <p align=\"center\"> <strong>Memvid is a single-file memory layer for AI agents with instant retrieval and long-term memory.</strong><br/> Persistent, versioned, and portable memory, without databases. </p> <p align=\"center\"> <a href=\"https://www.memvid.com\">Website</a> · <a href=\"https://sandbox.memvid.com\">Try Sandbox</a> · <a href=\"https://docs.memvid.co...",
+      "language": "Rust",
+      "stars": 233
+    },
+    {
+      "rank": 8,
+      "repo_name": "patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "description_ja": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"Trending Badge\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AI Engineering Hub Banner\"> </p> --- AI Engineering Hub 🚀 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefron...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"Trending Badge\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AI Engineering Hub Banner\"> </p> --- AI Engineering Hub 🚀 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefron...",
+      "language": "Jupyter Notebook",
+      "stars": 158
+    },
+    {
+      "rank": 9,
+      "repo_name": "DrewThomasson/ebook2audiobook",
+      "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
+      "description_ja": "電子書籍からオーディオブックを生成。音声クローン作成と1158以上の言語に対応！",
+      "readme_summary": "📚 ebook2audiobook CPU/GPU Converter from eBooks to audiobooks with chapters and metadata<br/> using XTTSv2, Bark, Vits, Fairseq, YourTTS, Tacotron2 and more. Supports voice cloning and 1158 languages! > [!IMPORTANT] **This tool is intended for use with non-DRM, legally acquired eBooks only.** <br> The authors are not responsible for any misuse of this software or any resulting legal consequences. <br> Use this tool responsibly and in accordance with all applicable laws",
+      "readme_summary_ja": "📚 eBookをチャプターやメタデータ付きのオーディオブックに変換するCPU/GPUコンバーター。XTTSv2、Bark、Vits、Fairseq、YourTTS、Tacotron2などを利用。ボイスクローニングと1158言語に対応！ > [!重要] **このツールは、DRMフリーで合法的に入手したeBookのみを対象としています。** <br> 作者は、本ソフトウェアの誤用、またはそれによって生じる法的責任を一切負いません。 <br> 責任を持って、適用されるすべての法律に従ってこのツールを使用してください。",
+      "language": "Python",
+      "stars": 69
+    },
+    {
+      "rank": 10,
       "repo_name": "marcelscruz/public-apis",
       "description": "A collaborative list of public APIs for developers",
       "description_ja": "開発者向けの公開APIの共同リスト",
       "readme_summary": "<!-- <div align=\"center\"> <div> <p align=\"center\"><a href=\"https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/public-apis.png\" width=\"130px\"><source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/scrapfly-light-mode.svg\" width=\"130px\"><img alt=\"Scrapfly logo\" src=\"./assets/public-apis.png\" width=\"130px\"></picture></a> </p> <p align=\"center\"><a href=\"https://publicapis.dev?ref=dr-pa&utm_medium=public-...",
-      "readme_summary_ja": "(中央揃え)\n\n(中央揃え) Public APIsのロゴ (Scrapfly提供)\n\n(中央揃え) Public APIsについてもっと知りたいですか？[https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme](https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme)をご覧ください。",
+      "readme_summary_ja": "(中央揃え)\n\n(中央揃え) Public APIsのロゴ (Scrapfly提供)\n\n(中央揃え) Public APIsは、ソフトウェアおよびウェブ開発で使用できる無料のAPIをまとめた大規模なリストです。",
       "language": "JavaScript",
-      "stars": 171
+      "stars": 454
     },
     {
-      "rank": 7,
-      "repo_name": "kirodotdev/Kiro",
-      "description": "Kiro is an agentic IDE that works alongside you from prototype to production.",
-      "description_ja": "Kiroは、プロトタイプ作成から本番環境まで、あなたをサポートするエージェント型IDEです。",
-      "readme_summary": "<div align=\"left\"> <img src=\"assets/kiro-icon.png\" alt=\"Kiro\" width=\"120\" height=\"120\"> Kiro Kiro is an agentic IDE that helps you go from prototype to production with spec-driven development, agent hooks, and natural language coding assistance. Build faster with AI-powered features that understand your entire codebase, turn prompts into structured specs, and automate repetitive tasks. </div> Core Capabilities - **Specs** - Plan and build features using structured specifications that break down ...",
-      "readme_summary_ja": "Kiroは、仕様駆動開発、エージェントフック、自然言語によるコーディング支援により、プロトタイプから本番環境への移行を支援するエージェント型IDEです。AIを活用した機能で、コードベース全体を理解し、プロンプトを構造化された仕様に変換し、反復的なタスクを自動化することで、開発を加速します。\n\n主な機能：\n\n*   **仕様 (Specs)** - 構造化された仕様を使用して、機能を計画および構築します。",
-      "language": "",
-      "stars": 25
+      "rank": 11,
+      "repo_name": "prateek-chaubey/YTPro",
+      "description": "Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.",
+      "description_ja": "古いAndroidバージョンをサポートし、バックグラウンド再生、Google Gemini ✨ などを搭載したYouTubeクライアント",
+      "readme_summary": "<p align=\"center\"> <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/ytpro.gif' height=150 > </p> <h1 align=center>YT PRO </h1> <div align=\"center\"> ![Gradle](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml) <a href=\"https://www.jsdelivr.com/package/npm/ytpro?tab=stats\" ><img alt=\"jsDelivr monthly hits badge\" src=\"https://data.jsdelivr.com/v1/package/npm/ytpro/badge\"></a> <img src=https://img.shields.io/github/downloads/prateek-chaubey/YTPro...",
+      "readme_summary_ja": "<p align=\"center\"> <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/ytpro.gif' height=150 > </p> <h1 align=center>YT PRO </h1> <div align=\"center\"> ![Gradle](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml) <a href=\"https://www.jsdelivr.com/package/npm/ytpro?tab=stats\" ><img alt=\"jsDelivr 月間ヒット数バッジ\" src=\"https://data.jsdelivr.com/v1/package/npm/ytpro/badge\"></a> <img src=https://img.shields.io/github/downloads/prateek-chaubey/YTPro...",
+      "language": "JavaScript",
+      "stars": 261
     },
     {
-      "rank": 8,
-      "repo_name": "LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
-      "description": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
-      "description_ja": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
-      "readme_summary": "ChatGPT Micro-Cap Experiment Welcome to the repo behind my 6-month live trading experiment where ChatGPT manages a real-money micro-cap portfolio. Overview on getting started: Here Repository Structure - **trading_script.py** - Main trading engine with portfolio management and stop-loss automation - **Scripts and CSV Files/** - My personal portfolio (updates every trading day) - **Start Your Own/** - Template files and guide for starting your own experiment - **Weekly Deep Research (MD|PDF)/** -...",
-      "readme_summary_ja": "ChatGPT Micro-Cap Experiment Welcome to the repo behind my 6-month live trading experiment where ChatGPT manages a real-money micro-cap portfolio. Overview on getting started: Here Repository Structure - **trading_script.py** - Main trading engine with portfolio management and stop-loss automation - **Scripts and CSV Files/** - My personal portfolio (updates every trading day) - **Start Your Own/** - Template files and guide for starting your own experiment - **Weekly Deep Research (MD|PDF)/** -...",
+      "rank": 12,
+      "repo_name": "MiroMindAI/MiroThinker",
+      "description": "MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities.",
+      "description_ja": "MiroThinkerは、ツールを活用した推論と情報探索能力を向上させるために設計された、一連のオープンソース検索エージェントです。",
+      "readme_summary": "<div align=\"center\"> <img src=\"assets/miro_thinker.png\" width=\"55%\" alt=\"MiroThinker\" /> </div> <br> <div align=\"center\"> ![DEMO](https://dr.miromind.ai/) ![MODELS](https://huggingface.co/collections/miromind-ai/mirothinker-v15) ![Paper](https://arxiv.org/abs/2511.11793) ![Blog](https://miromind.ai/#blog) ![DATA](https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1) ![GITHUB](https://github.com/MiroMindAI) ![WEBSITE](https://miromind.ai/) ![DISCORD](https://discord.com/invite/GPqEnkzQZd) !...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/miro_thinker.png\" width=\"55%\" alt=\"MiroThinker\" /> </div> <br> <div align=\"center\"> [デモ](https://dr.miromind.ai/) [モデル](https://huggingface.co/collections/miromind-ai/mirothinker-v15) [論文](https://arxiv.org/abs/2511.11793) [ブログ](https://miromind.ai/#blog) [データ](https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1) [GitHub](https://github.com/MiroMindAI) [ウェブサイト](https://miromind.ai/) [Discord](https://discord.com/invite/GPqEnkzQZd) !...",
       "language": "Python",
-      "stars": 67
+      "stars": 511
     },
     {
-      "rank": 9,
-      "repo_name": "VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
-      "description_ja": "📑 PageIndex: Document Index for Reasoning-based RAG",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex バナー\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
+      "rank": 13,
+      "repo_name": "anthropics/prompt-eng-interactive-tutorial",
+      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+      "description_ja": "Anthropicのインタラクティブなプロンプトエンジニアリングチュートリアル",
+      "readme_summary": "Welcome to Anthropic's Prompt Engineering Interactive Tutorial Course introduction and goals This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude. **After completing this course, you will be able to**: - Master the basic structure of a good prompt - Recognize common failure modes and learn the '80/20' techniques to address them - Understand Claude's strengths and weaknesses - Build strong prompts from scratch for ...",
+      "readme_summary_ja": "Anthropicのプロンプトエンジニアリングインタラクティブチュートリアルコースへようこそ。このコースでは、Claudeで最適なプロンプトを作成するためのステップバイステップの包括的な理解を提供します。**コース修了後、以下のことができるようになります**:\n\n* 優れたプロンプトの基本構造を習得する\n* よくある失敗パターンを認識し、それに対処するための「80/20」テクニックを学ぶ\n* Claudeの強みと弱みを理解する\n* ゼロから強力なプロンプトを構築する",
       "language": "Jupyter Notebook",
-      "stars": 41
-    },
-    {
-      "rank": 10,
-      "repo_name": "bobbyiliev/introduction-to-bash-scripting",
-      "description": "Free Introduction to Bash Scripting eBook",
-      "description_ja": "Bashスクリプト入門無料電子書籍",
-      "readme_summary": "<p align=\"center\"><img src=\"https://imgur.com/eXCcDPp.png\" height=\"450\" width=\"auto\"></p> <div align=\"center\"> <p> <a name=\"stars\"><img src=\"https://img.shields.io/github/stars/bobbyiliev/introduction-to-bash-scripting?style=for-the-badge\"></a> <a name=\"forks\"><img src=\"https://img.shields.io/github/forks/bobbyiliev/introduction-to-bash-scripting?logoColor=green&style=for-the-badge\"></a> <a name=\"contributions\"><img src=\"https://img.shields.io/github/contributors/bobbyiliev/introduction-to-bash-...",
-      "readme_summary_ja": "<p align=\"center\"><img src=\"https://imgur.com/eXCcDPp.png\" height=\"450\" width=\"auto\"></p> <div align=\"center\"> <p> <a name=\"stars\"><img src=\"https://img.shields.io/github/stars/bobbyiliev/introduction-to-bash-scripting?style=for-the-badge\"></a> <a name=\"forks\"><img src=\"https://img.shields.io/github/forks/bobbyiliev/introduction-to-bash-scripting?logoColor=green&style=for-the-badge\"></a> <a name=\"contributions\"><img src=\"https://img.shields.io/github/contributors/bobbyiliev/introduction-to-bash-...",
-      "language": "HTML",
-      "stars": 75
+      "stars": 74
     }
   ]
 }
