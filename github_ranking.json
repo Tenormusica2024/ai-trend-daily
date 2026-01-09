@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-01-08 09:00:45",
-  "total_repos": 13,
+  "updated_at": "2026-01-09 09:00:46",
+  "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
-      "readme_summary_ja": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
+      "repo_name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "description_ja": "Chrome DevTools for coding agents",
+      "readme_summary": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
+      "readme_summary_ja": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
       "language": "TypeScript",
-      "stars": 703
+      "stars": 315
     },
     {
       "rank": 2,
-      "repo_name": "google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
-      "description_ja": "GoogleTest - Google Testing and Mocking Framework",
-      "readme_summary": "GoogleTest Announcements Documentation Updates Our documentation is now live on GitHub Pages at https://google.github.io/googletest/. We recommend browsing the documentation on GitHub Pages rather than directly in the repository. Release 1.17.0 Release 1.17.0 is now available",
-      "readme_summary_ja": "GoogleTest Announcements Documentation Updates Our documentation is now live on GitHub Pages at https://google.github.io/googletest/. We recommend browsing the documentation on GitHub Pages rather than directly in the repository. Release 1.17.0 Release 1.17.0 is now available",
-      "language": "C++",
-      "stars": 9
+      "repo_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "description_ja": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
+      "readme_summary_ja": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
+      "language": "Shell",
+      "stars": 671
     },
     {
       "rank": 3,
-      "repo_name": "Lissy93/web-check",
-      "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
-      "description_ja": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
-      "readme_summary": "<h1 align=\"center\">Web-Check</h1> <p align=\"center\"> <img src=\"https://i.ibb.co/q1gZN2p/web-check-logo.png\" width=\"96\" /><br /> <b><i>Comprehensive, on-demand open source intelligence for any website</i></b> <br /> <b>🌐 <a href=\"https://web-check.xyz/\">web-check.xyz</a></b><br /> </p> --- <p align=\"center\"> <sup>Kindly supported by:</sup><br> <a href=\"https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh\"> <img src=\"https://i.ibb.co/8jrrcZ0/IMG-...",
-      "readme_summary_ja": "<h1 align=\"center\">Web-Check</h1> <p align=\"center\"> <img src=\"https://i.ibb.co/q1gZN2p/web-check-logo.png\" width=\"96\" /><br /> <b><i>Comprehensive, on-demand open source intelligence for any website</i></b> <br /> <b>🌐 <a href=\"https://web-check.xyz/\">web-check.xyz</a></b><br /> </p> --- <p align=\"center\"> <sup>Kindly supported by:</sup><br> <a href=\"https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh\"> <img src=\"https://i.ibb.co/8jrrcZ0/IMG-...",
-      "language": "TypeScript",
-      "stars": 783
+      "repo_name": "nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "description_ja": "stb single-file public domain libraries for C/C++",
+      "readme_summary": "<!--- THIS FILE IS AUTOMATICALLY GENERATED, DO NOT CHANGE IT BY HAND ---> stb === single-file public domain (or MIT licensed) libraries for C/C++ This project discusses security-relevant bugs in public in Github Issues and Pull Requests, and it may take significant time for security fixes to be implemented or merged. If this poses an unreasonable risk to your project, do not use stb libraries. Noteworthy: * image loader: stb_image.h * image writer: stb_image_write.h * image resizer: stb_image_re...",
+      "readme_summary_ja": "<!--- THIS FILE IS AUTOMATICALLY GENERATED, DO NOT CHANGE IT BY HAND ---> stb === single-file public domain (or MIT licensed) libraries for C/C++ This project discusses security-relevant bugs in public in Github Issues and Pull Requests, and it may take significant time for security fixes to be implemented or merged. If this poses an unreasonable risk to your project, do not use stb libraries. Noteworthy: * image loader: stb_image.h * image writer: stb_image_write.h * image resizer: stb_image_re...",
+      "language": "C",
+      "stars": 185
     },
     {
       "rank": 4,
-      "repo_name": "microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
-      "description_ja": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
-      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
-      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
-      "language": "C#",
-      "stars": 330
+      "repo_name": "MiroMindAI/MiroThinker",
+      "description": "MiroThinker is an open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
+      "description_ja": "MiroThinker is an open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
+      "readme_summary": "<div align=\"center\"> <img src=\"assets/miro_thinker.png\" width=\"55%\" alt=\"MiroThinker\" /> </div> <br> <div align=\"center\"> ![DEMO](https://dr.miromind.ai/) ![MODELS](https://huggingface.co/collections/miromind-ai/mirothinker-v15) ![Paper](https://arxiv.org/abs/2511.11793) ![Blog](https://miromind.ai/#blog) ![DATA](https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1) ![GITHUB](https://github.com/MiroMindAI) ![WEBSITE](https://miromind.ai/) ![DISCORD](https://discord.com/invite/GPqEnkzQZd) !...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/miro_thinker.png\" width=\"55%\" alt=\"MiroThinker\" /> </div> <br> <div align=\"center\"> ![DEMO](https://dr.miromind.ai/) ![MODELS](https://huggingface.co/collections/miromind-ai/mirothinker-v15) ![Paper](https://arxiv.org/abs/2511.11793) ![Blog](https://miromind.ai/#blog) ![DATA](https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1) ![GITHUB](https://github.com/MiroMindAI) ![WEBSITE](https://miromind.ai/) ![DISCORD](https://discord.com/invite/GPqEnkzQZd) !...",
+      "language": "Python",
+      "stars": 803
     },
     {
       "rank": 5,
@@ -50,87 +50,107 @@
       "readme_summary": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
       "readme_summary_ja": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
       "language": "C++",
-      "stars": 133
+      "stars": 62
     },
     {
       "rank": 6,
-      "repo_name": "ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "description_ja": "Chrome DevTools for coding agents",
-      "readme_summary": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
-      "readme_summary_ja": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
+      "repo_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
+      "readme_summary_ja": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
       "language": "TypeScript",
-      "stars": 90
+      "stars": 800
     },
     {
       "rank": 7,
-      "repo_name": "memvid/memvid",
-      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
-      "description_ja": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
-      "readme_summary": "<img width=\"2000\" height=\"491\" alt=\"Social Cover (6)\" src=\"https://github.com/user-attachments/assets/4e256804-53ac-4173-bcff-81994d52bf5c\" /> <p align=\"center\"> <strong>Memvid is a single-file memory layer for AI agents with instant retrieval and long-term memory.</strong><br/> Persistent, versioned, and portable memory, without databases. </p> <p align=\"center\"> <a href=\"https://www.memvid.com\">Website</a> · <a href=\"https://sandbox.memvid.com\">Try Sandbox</a> · <a href=\"https://docs.memvid.co...",
-      "readme_summary_ja": "<img width=\"2000\" height=\"491\" alt=\"Social Cover (6)\" src=\"https://github.com/user-attachments/assets/4e256804-53ac-4173-bcff-81994d52bf5c\" /> <p align=\"center\"> <strong>Memvid is a single-file memory layer for AI agents with instant retrieval and long-term memory.</strong><br/> Persistent, versioned, and portable memory, without databases. </p> <p align=\"center\"> <a href=\"https://www.memvid.com\">Website</a> · <a href=\"https://sandbox.memvid.com\">Try Sandbox</a> · <a href=\"https://docs.memvid.co...",
-      "language": "Rust",
-      "stars": 233
+      "repo_name": "xpipe-io/xpipe",
+      "description": "Access your entire server infrastructure from your local desktop",
+      "description_ja": "Access your entire server infrastructure from your local desktop",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://xpipe.io\" target=\"_blank\" rel=\"noopener\"> <img src=\"https://github.com/xpipe-io/.github/raw/main/img/banner.png\" alt=\"XPipe Banner\" /> </a> </p> <h1></h1> About XPipe is a connection hub that allows you to access your entire server infrastructure from your local desktop. It works on top of your installed command-line programs like SSH, docker, or others, and does not require any setup on your remote systems. It integrates with your favourite text editors, term...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://xpipe.io\" target=\"_blank\" rel=\"noopener\"> <img src=\"https://github.com/xpipe-io/.github/raw/main/img/banner.png\" alt=\"XPipe Banner\" /> </a> </p> <h1></h1> About XPipe is a connection hub that allows you to access your entire server infrastructure from your local desktop. It works on top of your installed command-line programs like SSH, docker, or others, and does not require any setup on your remote systems. It integrates with your favourite text editors, term...",
+      "language": "Java",
+      "stars": 172
     },
     {
       "rank": 8,
-      "repo_name": "patchy631/ai-engineering-hub",
-      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "description_ja": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"Trending Badge\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AI Engineering Hub Banner\"> </p> --- AI Engineering Hub 🚀 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefron...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"Trending Badge\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AI Engineering Hub Banner\"> </p> --- AI Engineering Hub 🚀 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefron...",
-      "language": "Jupyter Notebook",
-      "stars": 158
+      "repo_name": "NVlabs/alpasim",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "AlpaSim: A modular, lightweight, and data-driven research simulator for autonomous driving <div align=\"center\"> <img src=\"docs/assets/images/thumbnail.gif\" alt=\"AlpaSim Simulation Demo\" width=\"600\"> </div> What is AlpaSim? AlpaSim is an open-source autonomous vehicle simulation platform designed specifically for research and development. It allows users to test end-to-end AV policies in a closed-loop setting by simulating realistic sensor data, vehicle dynamics, and traffic scenarios within a mo...",
+      "readme_summary_ja": "AlpaSim: A modular, lightweight, and data-driven research simulator for autonomous driving <div align=\"center\"> <img src=\"docs/assets/images/thumbnail.gif\" alt=\"AlpaSim Simulation Demo\" width=\"600\"> </div> What is AlpaSim? AlpaSim is an open-source autonomous vehicle simulation platform designed specifically for research and development. It allows users to test end-to-end AV policies in a closed-loop setting by simulating realistic sensor data, vehicle dynamics, and traffic scenarios within a mo...",
+      "language": "Python",
+      "stars": 65
     },
     {
       "rank": 9,
-      "repo_name": "DrewThomasson/ebook2audiobook",
-      "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
-      "description_ja": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
-      "readme_summary": "📚 ebook2audiobook CPU/GPU Converter from eBooks to audiobooks with chapters and metadata<br/> using XTTSv2, Bark, Vits, Fairseq, YourTTS, Tacotron2 and more. Supports voice cloning and 1158 languages! > [!IMPORTANT] **This tool is intended for use with non-DRM, legally acquired eBooks only.** <br> The authors are not responsible for any misuse of this software or any resulting legal consequences. <br> Use this tool responsibly and in accordance with all applicable laws",
-      "readme_summary_ja": "📚 ebook2audiobook CPU/GPU Converter from eBooks to audiobooks with chapters and metadata<br/> using XTTSv2, Bark, Vits, Fairseq, YourTTS, Tacotron2 and more. Supports voice cloning and 1158 languages! > [!IMPORTANT] **This tool is intended for use with non-DRM, legally acquired eBooks only.** <br> The authors are not responsible for any misuse of this software or any resulting legal consequences. <br> Use this tool responsibly and in accordance with all applicable laws",
-      "language": "Python",
-      "stars": 69
+      "repo_name": "Lissy93/web-check",
+      "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+      "description_ja": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+      "readme_summary": "<h1 align=\"center\">Web-Check</h1> <p align=\"center\"> <img src=\"https://i.ibb.co/q1gZN2p/web-check-logo.png\" width=\"96\" /><br /> <b><i>Comprehensive, on-demand open source intelligence for any website</i></b> <br /> <b>🌐 <a href=\"https://web-check.xyz/\">web-check.xyz</a></b><br /> </p> --- <p align=\"center\"> <sup>Kindly supported by:</sup><br> <a href=\"https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh\"> <img src=\"https://i.ibb.co/8jrrcZ0/IMG-...",
+      "readme_summary_ja": "<h1 align=\"center\">Web-Check</h1> <p align=\"center\"> <img src=\"https://i.ibb.co/q1gZN2p/web-check-logo.png\" width=\"96\" /><br /> <b><i>Comprehensive, on-demand open source intelligence for any website</i></b> <br /> <b>🌐 <a href=\"https://web-check.xyz/\">web-check.xyz</a></b><br /> </p> --- <p align=\"center\"> <sup>Kindly supported by:</sup><br> <a href=\"https://terminaltrove.com/?utm_campaign=github&utm_medium=referral&utm_content=web-check&utm_source=wcgh\"> <img src=\"https://i.ibb.co/8jrrcZ0/IMG-...",
+      "language": "TypeScript",
+      "stars": 642
     },
     {
       "rank": 10,
-      "repo_name": "marcelscruz/public-apis",
-      "description": "A collaborative list of public APIs for developers",
-      "description_ja": "A collaborative list of public APIs for developers",
-      "readme_summary": "<!-- <div align=\"center\"> <div> <p align=\"center\"><a href=\"https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/public-apis.png\" width=\"130px\"><source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/scrapfly-light-mode.svg\" width=\"130px\"><img alt=\"Scrapfly logo\" src=\"./assets/public-apis.png\" width=\"130px\"></picture></a> </p> <p align=\"center\"><a href=\"https://publicapis.dev?ref=dr-pa&utm_medium=public-...",
-      "readme_summary_ja": "<!-- <div align=\"center\"> <div> <p align=\"center\"><a href=\"https://publicapis.dev?ref=dr-pa&utm_medium=public-apis-repo-readme\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/public-apis.png\" width=\"130px\"><source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/scrapfly-light-mode.svg\" width=\"130px\"><img alt=\"Scrapfly logo\" src=\"./assets/public-apis.png\" width=\"130px\"></picture></a> </p> <p align=\"center\"><a href=\"https://publicapis.dev?ref=dr-pa&utm_medium=public-...",
-      "language": "JavaScript",
-      "stars": 454
+      "repo_name": "google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "description_ja": "GoogleTest - Google Testing and Mocking Framework",
+      "readme_summary": "GoogleTest Announcements Documentation Updates Our documentation is now live on GitHub Pages at https://google.github.io/googletest/. We recommend browsing the documentation on GitHub Pages rather than directly in the repository. Release 1.17.0 Release 1.17.0 is now available",
+      "readme_summary_ja": "GoogleTest Announcements Documentation Updates Our documentation is now live on GitHub Pages at https://google.github.io/googletest/. We recommend browsing the documentation on GitHub Pages rather than directly in the repository. Release 1.17.0 Release 1.17.0 is now available",
+      "language": "C++",
+      "stars": 119
     },
     {
       "rank": 11,
-      "repo_name": "prateek-chaubey/YTPro",
-      "description": "Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.",
-      "description_ja": "Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.",
-      "readme_summary": "<p align=\"center\"> <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/ytpro.gif' height=150 > </p> <h1 align=center>YT PRO </h1> <div align=\"center\"> ![Gradle](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml) <a href=\"https://www.jsdelivr.com/package/npm/ytpro?tab=stats\" ><img alt=\"jsDelivr monthly hits badge\" src=\"https://data.jsdelivr.com/v1/package/npm/ytpro/badge\"></a> <img src=https://img.shields.io/github/downloads/prateek-chaubey/YTPro...",
-      "readme_summary_ja": "<p align=\"center\"> <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/ytpro.gif' height=150 > </p> <h1 align=center>YT PRO </h1> <div align=\"center\"> ![Gradle](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml) <a href=\"https://www.jsdelivr.com/package/npm/ytpro?tab=stats\" ><img alt=\"jsDelivr monthly hits badge\" src=\"https://data.jsdelivr.com/v1/package/npm/ytpro/badge\"></a> <img src=https://img.shields.io/github/downloads/prateek-chaubey/YTPro...",
-      "language": "JavaScript",
-      "stars": 261
+      "repo_name": "apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "description_ja": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "readme_summary": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
+      "readme_summary_ja": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
+      "language": "TypeScript",
+      "stars": 40
     },
     {
       "rank": 12,
-      "repo_name": "MiroMindAI/MiroThinker",
-      "description": "MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities.",
-      "description_ja": "MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities.",
-      "readme_summary": "<div align=\"center\"> <img src=\"assets/miro_thinker.png\" width=\"55%\" alt=\"MiroThinker\" /> </div> <br> <div align=\"center\"> ![DEMO](https://dr.miromind.ai/) ![MODELS](https://huggingface.co/collections/miromind-ai/mirothinker-v15) ![Paper](https://arxiv.org/abs/2511.11793) ![Blog](https://miromind.ai/#blog) ![DATA](https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1) ![GITHUB](https://github.com/MiroMindAI) ![WEBSITE](https://miromind.ai/) ![DISCORD](https://discord.com/invite/GPqEnkzQZd) !...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/miro_thinker.png\" width=\"55%\" alt=\"MiroThinker\" /> </div> <br> <div align=\"center\"> ![DEMO](https://dr.miromind.ai/) ![MODELS](https://huggingface.co/collections/miromind-ai/mirothinker-v15) ![Paper](https://arxiv.org/abs/2511.11793) ![Blog](https://miromind.ai/#blog) ![DATA](https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1) ![GITHUB](https://github.com/MiroMindAI) ![WEBSITE](https://miromind.ai/) ![DISCORD](https://discord.com/invite/GPqEnkzQZd) !...",
-      "language": "Python",
-      "stars": 511
+      "repo_name": "memvid/memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "description_ja": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "readme_summary": "<img width=\"2000\" height=\"491\" alt=\"Social Cover (6)\" src=\"https://github.com/user-attachments/assets/4e256804-53ac-4173-bcff-81994d52bf5c\" /> <p align=\"center\"> <a href=\"docs/i18n/README.fr.md\">🇫🇷 Français</a> <a href=\"docs/i18n/README.so.md\">🇸🇴 Soomaali</a> </p> <p align=\"center\"> <strong>Memvid is a single-file memory layer for AI agents with instant retrieval and long-term memory.</strong><br/> Persistent, versioned, and portable memory, without databases. </p> <p align=\"center\"> <a href=\"ht...",
+      "readme_summary_ja": "<img width=\"2000\" height=\"491\" alt=\"Social Cover (6)\" src=\"https://github.com/user-attachments/assets/4e256804-53ac-4173-bcff-81994d52bf5c\" /> <p align=\"center\"> <a href=\"docs/i18n/README.fr.md\">🇫🇷 Français</a> <a href=\"docs/i18n/README.so.md\">🇸🇴 Soomaali</a> </p> <p align=\"center\"> <strong>Memvid is a single-file memory layer for AI agents with instant retrieval and long-term memory.</strong><br/> Persistent, versioned, and portable memory, without databases. </p> <p align=\"center\"> <a href=\"ht...",
+      "language": "Rust",
+      "stars": 465
     },
     {
       "rank": 13,
-      "repo_name": "anthropics/prompt-eng-interactive-tutorial",
-      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
-      "description_ja": "Anthropic's Interactive Prompt Engineering Tutorial",
-      "readme_summary": "Welcome to Anthropic's Prompt Engineering Interactive Tutorial Course introduction and goals This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude. **After completing this course, you will be able to**: - Master the basic structure of a good prompt - Recognize common failure modes and learn the '80/20' techniques to address them - Understand Claude's strengths and weaknesses - Build strong prompts from scratch for ...",
-      "readme_summary_ja": "Welcome to Anthropic's Prompt Engineering Interactive Tutorial Course introduction and goals This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude. **After completing this course, you will be able to**: - Master the basic structure of a good prompt - Recognize common failure modes and learn the '80/20' techniques to address them - Understand Claude's strengths and weaknesses - Build strong prompts from scratch for ...",
-      "language": "Jupyter Notebook",
-      "stars": 74
+      "repo_name": "Lightricks/ComfyUI-LTXVideo",
+      "description": "LTX-Video Support for ComfyUI",
+      "description_ja": "LTX-Video Support for ComfyUI",
+      "readme_summary": "ComfyUI-LTXVideo ![GitHub](https://github.com/Lightricks/LTX-2) ![Website](https://ltx.io/model) ![Model](https://huggingface.co/Lightricks/LTX-2) ![LTXV Trainer](https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-trainer) ![Demo](https://app.ltx.studio/ltx-2-playground/i2v) ![Paper](https://videos.ltx.io/LTX-2/grants/LTX_2_Technical_Report_compressed.pdf) ![Discord](https://discord.gg/ltxplatform) A collection of powerful custom nodes that extend ComfyUI's capabilities for the LTX-2 vid...",
+      "readme_summary_ja": "ComfyUI-LTXVideo ![GitHub](https://github.com/Lightricks/LTX-2) ![Website](https://ltx.io/model) ![Model](https://huggingface.co/Lightricks/LTX-2) ![LTXV Trainer](https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-trainer) ![Demo](https://app.ltx.studio/ltx-2-playground/i2v) ![Paper](https://videos.ltx.io/LTX-2/grants/LTX_2_Technical_Report_compressed.pdf) ![Discord](https://discord.gg/ltxplatform) A collection of powerful custom nodes that extend ComfyUI's capabilities for the LTX-2 vid...",
+      "language": "Python",
+      "stars": 48
+    },
+    {
+      "rank": 14,
+      "repo_name": "NevaMind-AI/memU",
+      "description": "Memory infrastructure for LLMs and AI agents",
+      "description_ja": "Memory infrastructure for LLMs and AI agents",
+      "readme_summary": "!MemU Banner <div align=\"center\"> MemU A Future-Oriented Agentic Memory System ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"width: 25...",
+      "readme_summary_ja": "!MemU Banner <div align=\"center\"> MemU A Future-Oriented Agentic Memory System ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"width: 25...",
+      "language": "Python",
+      "stars": 112
+    },
+    {
+      "rank": 15,
+      "repo_name": "HKUDS/VideoRAG",
+      "description": "[KDD'2026] \"VideoRAG: Chat with Your Videos\"",
+      "description_ja": "[KDD'2026] \"VideoRAG: Chat with Your Videos\"",
+      "readme_summary": "<div align=\"center\"> <picture> <img src=\"cover.png\" width=\"80%\" style=\"border: none; box-shadow: none;\" alt=\"Vimo: Chat with Your Videos\"> </picture> <h1> <strong>VideoRAG: Chat with Your Videos</strong> • <strong>Vimo Desktop</strong> </h1> <a href=\"https://trendshift.io/repositories/16146\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16146\" alt=\"HKUDS%2FVideoRAG | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href='https://arxiv.org/...",
+      "readme_summary_ja": "<div align=\"center\"> <picture> <img src=\"cover.png\" width=\"80%\" style=\"border: none; box-shadow: none;\" alt=\"Vimo: Chat with Your Videos\"> </picture> <h1> <strong>VideoRAG: Chat with Your Videos</strong> • <strong>Vimo Desktop</strong> </h1> <a href=\"https://trendshift.io/repositories/16146\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16146\" alt=\"HKUDS%2FVideoRAG | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href='https://arxiv.org/...",
+      "language": "Python",
+      "stars": 127
     }
   ]
 }
