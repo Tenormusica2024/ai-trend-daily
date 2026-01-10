@@ -1,0 +1,126 @@
+{
+  "updated_at": "2026-01-10 02:54:45",
+  "total_repos": 12,
+  "ranking": [
+    {
+      "rank": 1,
+      "repo_name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "description_ja": "コーディングエージェント向け Chrome DevTools",
+      "readme_summary": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
+      "readme_summary_ja": "Chrome DevTools MCP ![npm chrome-devtools-mcp パッケージ](https://npmjs.org/package/chrome-devtools-mcp) は、Gemini、Claude、Cursor、Copilotなどのコーディングエージェントが、起動中のChromeブラウザを制御・検査できるようにします。Model-Context-Protocol (MCP) サーバーとして機能し、AIコーディングアシスタントにChrome DevToolsの全機能へのアクセスを提供し、信頼性の高い自動化、詳細なデバッグ、パフォーマンス分析を実現します。ツールリファレンス | 変更履歴 | 貢献 | トラブルシューティング | 設計...",
+      "language": "TypeScript",
+      "stars": 432
+    },
+    {
+      "rank": 2,
+      "repo_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "description_ja": "Claude Codeは、ターミナル上で動作するエージェント型のコーディングツールです。あなたのコードベースを理解し、日常的なタスクの実行、複雑なコードの説明、Gitワークフローの処理などを自然言語コマンドを通じて行い、コーディングをより迅速に進めることができます。",
+      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
+      "readme_summary_ja": "Claude Codeは、ターミナル上で動作するエージェント型のコーディングツールです。あなたのコードベースを理解し、日常的なタスクの実行、複雑なコードの説明、Gitワークフローの処理などを自然言語コマンドを通じて行い、コーディングを高速化します。ターミナルで利用できます。",
+      "language": "Shell",
+      "stars": 789
+    },
+    {
+      "rank": 3,
+      "repo_name": "obra/superpowers",
+      "description": "Claude Code superpowers: core skills library",
+      "description_ja": "Claude Codeのスーパーパワー：コアスキルライブラリ",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowersは、コーディングエージェント向けの包括的なソフトウェア開発ワークフローです。これは、組み合わせ可能な「スキル」のセットと、エージェントがそれらを確実に使用するための初期指示に基づいて構築されています。\n\nその仕組みは、コーディングエージェントを起動した瞬間から始まります。何かの構築を開始したことを認識すると、すぐにコードを書き始めるのではなく、まず準備をします。",
+      "language": "Shell",
+      "stars": 381
+    },
+    {
+      "rank": 4,
+      "repo_name": "tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "description_ja": "高速なUI開発のための、ユーティリティファーストなCSSフレームワーク。",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://tailwindcss.com\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\"> <img alt=\"Tailwind CSS\" src=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\" width=\"350\" height=...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://tailwindcss.com\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\"> <img alt=\"Tailwind CSS\" src=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\" width=\"350\" height=...",
+      "language": "TypeScript",
+      "stars": 262
+    },
+    {
+      "rank": 5,
+      "repo_name": "netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "description_ja": "デバイスをセキュアなWireGuard®ベースのオーバーレイネットワークに接続し、SSO、MFA、およびきめ細かいアクセス制御を実現します。",
+      "readme_summary": "<div align=\"center\"> <br/> <br/> <p align=\"center\"> <img width=\"234\" src=\"docs/media/logo-full.png\"/> </p> <p> <a href=\"https://img.shields.io/badge/license-BSD--3-blue)\"> <img src=\"https://sonarcloud.io/api/project_badges/measure?project=netbirdio_netbird&metric=alert_status\" /> </a> <a href=\"https://github.com/netbirdio/netbird/blob/main/LICENSE\"> <img src=\"https://img.shields.io/badge/license-BSD--3-blue\" /> </a> <br> <a href=\"https://docs.netbird.io/slack-url\"> <img src=\"https://img.shields....",
+      "readme_summary_ja": "<div align=\"center\"> <br/> <br/> <p align=\"center\"> <img width=\"234\" src=\"docs/media/logo-full.png\"/> </p> <p> <a href=\"https://img.shields.io/badge/license-BSD--3-blue)\"> <img src=\"https://sonarcloud.io/api/project_badges/measure?project=netbirdio_netbird&metric=alert_status\" /> </a> <a href=\"https://github.com/netbirdio/netbird/blob/main/LICENSE\"> <img src=\"https://img.shields.io/badge/license-BSD--3-blue\" /> </a> <br> <a href=\"https://docs.netbird.io/slack-url\"> <img src=\"https://img.shields....",
+      "language": "Go",
+      "stars": 28
+    },
+    {
+      "rank": 6,
+      "repo_name": "C4illin/ConvertX",
+      "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+      "description_ja": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+      "readme_summary": "!ConvertX ConvertX ![Docker](https://github.com/C4illin/ConvertX/actions/workflows/docker-publish.yml) ![ghcr.io Pulls](https://github.com/C4illin/ConvertX/pkgs/container/ConvertX) ![Docker Pulls](https://hub.docker.com/r/c4illin/convertx) ![GitHub Release](https://github.com/C4illin/ConvertX/pkgs/container/convertx) !GitHub commits since latest release !GitHub repo size !Docker container size <a href=\"https://trendshift.io/repositories/13818\" target=\"_blank\"><img src=\"https://trendshift.io/api/...",
+      "readme_summary_ja": "!ConvertX ConvertX ![Docker](https://github.com/C4illin/ConvertX/actions/workflows/docker-publish.yml) ![ghcr.io Pulls](https://github.com/C4illin/ConvertX/pkgs/container/ConvertX) ![Docker Pulls](https://hub.docker.com/r/c4illin/convertx) ![GitHub Release](https://github.com/C4illin/ConvertX/pkgs/container/convertx) !GitHub commits since latest release !GitHub repo size !Docker container size <a href=\"https://trendshift.io/repositories/13818\" target=\"_blank\"><img src=\"https://trendshift.io/api/...",
+      "language": "TypeScript",
+      "stars": 160
+    },
+    {
+      "rank": 7,
+      "repo_name": "Lightricks/ComfyUI-LTXVideo",
+      "description": "LTX-Video Support for ComfyUI",
+      "description_ja": "LTX-Video Support for ComfyUI",
+      "readme_summary": "ComfyUI-LTXVideo ![GitHub](https://github.com/Lightricks/LTX-2) ![Website](https://ltx.io/model) ![Model](https://huggingface.co/Lightricks/LTX-2) ![LTXV Trainer](https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-trainer) ![Demo](https://app.ltx.studio/ltx-2-playground/i2v) ![Paper](https://videos.ltx.io/LTX-2/grants/LTX_2_Technical_Report_compressed.pdf) ![Discord](https://discord.gg/ltxplatform) A collection of powerful custom nodes that extend ComfyUI's capabilities for the LTX-2 vid...",
+      "readme_summary_ja": "ComfyUI-LTXVideo：ComfyUIの機能を拡張し、LTX-2ビデオに対応するための強力なカスタムノード集。[GitHub](https://github.com/Lightricks/LTX-2) [ウェブサイト](https://ltx.io/model) [モデル](https://huggingface.co/Lightricks/LTX-2) [LTXV Trainer](https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-trainer) [デモ](https://app.ltx.studio/ltx-2-playground/i2v) [論文](https://videos.ltx.io/LTX-2/grants/LTX_2_Technical_Report_compressed.pdf) [Discord](https://discord.gg/ltxplatform)",
+      "language": "Python",
+      "stars": 158
+    },
+    {
+      "rank": 8,
+      "repo_name": "MiroMindAI/MiroThinker",
+      "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
+      "description_ja": "MiroThinkerは、ツールを活用した推論と現実世界の情報探索のために構築された、オープンソースの検索エージェントモデルです。 OpenAI Deep ResearchやGemini Deep Researchの持つ高度な調査能力に匹敵することを目指しています。",
+      "readme_summary": "<div align=\"center\"> <img src=\"assets/miro_thinker.png\" width=\"55%\" alt=\"MiroThinker\" /> </div> <br> <div align=\"center\"> ![DEMO](https://dr.miromind.ai/) ![MODELS](https://huggingface.co/collections/miromind-ai/mirothinker-v15) ![Paper](https://arxiv.org/abs/2511.11793) ![Blog](https://miromind.ai/#blog) ![DATA](https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1) ![GITHUB](https://github.com/MiroMindAI) ![WEBSITE](https://miromind.ai/) ![DISCORD](https://discord.com/invite/GPqEnkzQZd) !...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/miro_thinker.png\" width=\"55%\" alt=\"MiroThinker\" /> </div> <br> <div align=\"center\"> [デモ](https://dr.miromind.ai/) [モデル](https://huggingface.co/collections/miromind-ai/mirothinker-v15) [論文](https://arxiv.org/abs/2511.11793) [ブログ](https://miromind.ai/#blog) [データ](https://huggingface.co/datasets/miromind-ai/MiroVerse-v0.1) [GitHub](https://github.com/MiroMindAI) [ウェブサイト](https://miromind.ai/) [Discord](https://discord.com/invite/GPqEnkzQZd) !...",
+      "language": "Python",
+      "stars": 619
+    },
+    {
+      "rank": 9,
+      "repo_name": "google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "description_ja": "GoogleTest - Googleのテストおよびモック作成フレームワーク",
+      "readme_summary": "GoogleTest Announcements Documentation Updates Our documentation is now live on GitHub Pages at https://google.github.io/googletest/. We recommend browsing the documentation on GitHub Pages rather than directly in the repository. Release 1.17.0 Release 1.17.0 is now available",
+      "readme_summary_ja": "GoogleTestからのお知らせ\n\nドキュメントの更新: ドキュメントをGitHub Pages (https://google.github.io/googletest/) で公開しました。リポジトリ内を直接参照するよりも、GitHub Pagesでドキュメントを閲覧することを推奨します。\n\nリリース 1.17.0: リリース 1.17.0 が利用可能になりました。",
+      "language": "C++",
+      "stars": 75
+    },
+    {
+      "rank": 10,
+      "repo_name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "description_ja": "オープンソースのマルチモーダルAIエージェントスタック：最先端のAIモデルとエージェント基盤を接続",
+      "readme_summary": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
+      "readme_summary_ja": "Agent TARS バナー\n\nはじめに: English | 简体中文 ![](https://trendshift.io/repositories/13584)\n\n<b>TARS<sup>\\*</sup></b> はマルチモーダルAIエージェントスタックで、現在 Agent TARS と UI-TARS-desktop の2つのプロジェクトを提供しています。\n\n| Agent TARS | UI-TARS-desktop |\n|---|---|\n| ...",
+      "language": "TypeScript",
+      "stars": 831
+    },
+    {
+      "rank": 11,
+      "repo_name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+      "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
+      "description_ja": "Shadowrocket用のルールを多数提供。強力な広告フィルタリング機能を搭載。ルールは毎日午前8時に再構築されます。",
+      "readme_summary": "最完善的 iOS Shadowrocket规则 试更新公告 由于原作者 h2y 已停止维护 Shadowrocket-ADBlock-Rules，Shadowrocket 再无划分如此细致精美的规则。因此我决定用自己有限的能力和技术对该项目以个人的理解进行更新与维护。**所有规则都会在每天北京时间 8:00 更新发布。** 写在前面 —— 请保护好自己 谷歌中英文的搜索体验都优于百度，而刷美剧、ins 追星、去推特看看特朗普也都挺有意思。但是，随着看到的人和事越多，我越发想要在这里说一些话，告诫路过的各位： **请务必保护好自己** 我们自认为打破了信息的壁垒，其实打破的是保护我们的屏障。因为外网真的存在很多误导性言论，来自各个利益集团对中国网民疯狂洗脑，他们往往还喜欢以平等自由等旗号自称，但仔细想想真的是这样吗？我只知道美国是最善于运用舆论的国家，会结合大数据潜移默化地改变你的观念。如果大家在上网过程中不经意看到了某些观点，务必保留自己独立思考的能力，如果你是一个容易被带偏的人，则建议回到屏障之中。 本规则只提供给大家用于更便捷地学习和工作。如果你是对上述观点持反对意见的极端政治人士...",
+      "readme_summary_ja": "最も完璧なiOS Shadowrocketルール。\n\n**更新のお知らせ：** オリジナル作者であるh2y氏がShadowrocket-ADBlock-Rulesのメンテナンスを停止したため、Shadowrocketにはこれほど細かく美しいルールは存在しません。そこで、私自身の限られた能力と技術で、このプロジェクトを個人的な解釈に基づいて更新・メンテナンスすることにしました。**すべてのルールは毎日、北京時間の午前8時に更新・公開されます。**\n\n**はじめに：** 自分自身をしっかり守ってください。Googleの検索は、日本語・英語ともに百度よりも優れています。海外ドラマを見たり、Instagramでスターを追いかけたり、Twitterでトランプ大統領の動向をチェックしたりするのも面白いでしょう。しかし、見聞きするものが増えるほど、私はここで何かを言いたくなります。通りすがりの皆さん、**どうか自分自身をしっかり守ってください。**\n\n私たちは情報の壁を打ち破ったと思っていますが、実は私たちを守る障壁",
+      "language": "",
+      "stars": 101
+    },
+    {
+      "rank": 12,
+      "repo_name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "description_ja": "オープンソースのコーディングエージェント",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The open source AI coding agent.</p> <p align=\"center\"> <a href=\"https://opencode.ai/discord\"><img a...",
+      "readme_summary_ja": "オープンソースのAIコーディングエージェント",
+      "language": "TypeScript",
+      "stars": 1877
+    }
+  ]
+}
