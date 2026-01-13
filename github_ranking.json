@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-01-12 09:00:51",
-  "total_repos": 13,
+  "updated_at": "2026-01-13 09:00:43",
+  "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "description_ja": "The open source coding agent.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The open source AI coding agent.</p> <p align=\"center\"> <a href=\"https://opencode.ai/discord\"><img a...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The open source AI coding agent.</p> <p align=\"center\"> <a href=\"https://opencode.ai/discord\"><img a...",
-      "language": "TypeScript",
-      "stars": 2087
+      "repo_name": "DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "description_ja": "Fullstack app framework for web, desktop, and mobile.",
+      "readme_summary": "<p> <p align=\"center\" > <!-- <img src=\"./notes/header-light-updated.svg#gh-light-mode-only\" > <img src=\"./notes/header-dark-updated.svg#gh-dark-mode-only\" > --> <!-- <a href=\"https://dioxuslabs.com\"> <img src=\"./notes/flat-splash.avif\"> </a> --> <img src=\"./notes/splash-header-darkmode.svg#gh-dark-mode-only\" style=\"width: 80%; height: auto;\"> <img src=\"./notes/splash-header.svg#gh-light-mode-only\" style=\"width: 80%; height: auto;\"> <img src=\"./notes/image-splash.avif\"> <br> </p> </p> <div align=...",
+      "readme_summary_ja": "<p> <p align=\"center\" > <!-- <img src=\"./notes/header-light-updated.svg#gh-light-mode-only\" > <img src=\"./notes/header-dark-updated.svg#gh-dark-mode-only\" > --> <!-- <a href=\"https://dioxuslabs.com\"> <img src=\"./notes/flat-splash.avif\"> </a> --> <img src=\"./notes/splash-header-darkmode.svg#gh-dark-mode-only\" style=\"width: 80%; height: auto;\"> <img src=\"./notes/splash-header.svg#gh-light-mode-only\" style=\"width: 80%; height: auto;\"> <img src=\"./notes/image-splash.avif\"> <br> </p> </p> <div align=...",
+      "language": "Rust",
+      "stars": 177
     },
     {
       "rank": 2,
-      "repo_name": "obra/superpowers",
-      "description": "Claude Code superpowers: core skills library",
-      "description_ja": "Claude Code superpowers: core skills library",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 699
+      "repo_name": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "description_ja": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "readme_summary": "🔥 MediaCrawler - 自媒体平台爬虫 🕷️ <div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://go.warp.dev/MediaCrawler\"> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png?raw=true\"> </a> Warp is built for coding with multiple AI agents </div> <hr> <div align=\"center\"> <a href=\"https://trendshift.io/repositories/8291\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories...",
+      "readme_summary_ja": "🔥 MediaCrawler - 自媒体平台爬虫 🕷️ <div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://go.warp.dev/MediaCrawler\"> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png?raw=true\"> </a> Warp is built for coding with multiple AI agents </div> <hr> <div align=\"center\"> <a href=\"https://trendshift.io/repositories/8291\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories...",
+      "language": "Python",
+      "stars": 167
     },
     {
       "rank": 3,
@@ -30,57 +30,57 @@
       "readme_summary": "Ralph for Claude Code ![CI](https://github.com/frankbria/ralph-claude-code/actions/workflows/test.yml) ![License: MIT](LICENSE) !Version !Tests ![GitHub Issues](https://github.com/frankbria/ralph-claude-code/issues) ![Mentioned in Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) ![Follow on X](https://x.com/FrankBria18044) > **Autonomous AI development loop with intelligent exit detection and rate limiting** Ralph is an implementation of the Geoffrey Huntley's technique ...",
       "readme_summary_ja": "Ralph for Claude Code ![CI](https://github.com/frankbria/ralph-claude-code/actions/workflows/test.yml) ![License: MIT](LICENSE) !Version !Tests ![GitHub Issues](https://github.com/frankbria/ralph-claude-code/issues) ![Mentioned in Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) ![Follow on X](https://x.com/FrankBria18044) > **Autonomous AI development loop with intelligent exit detection and rate limiting** Ralph is an implementation of the Geoffrey Huntley's technique ...",
       "language": "Shell",
-      "stars": 255
+      "stars": 673
     },
     {
       "rank": 4,
-      "repo_name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "description_ja": "CLI tool for configuring and monitoring Claude Code",
-      "readme_summary": "![npm version](https://www.npmjs.com/package/claude-code-templates) ![npm downloads](https://www.npmjs.com/package/claude-code-templates) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](CONTRIBUTING.md) ![Sponsored by Z.AI](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=github&utm_medium=badge&utm_campaign=readme) ![Buy Me A Coffee](https://buymeacoffee.com/daniavila) ![GitHub stars](https://github.com/davila7/claude-code-templates) <p align=\"center\"> <a href=\"https://trends...",
-      "readme_summary_ja": "![npm version](https://www.npmjs.com/package/claude-code-templates) ![npm downloads](https://www.npmjs.com/package/claude-code-templates) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](CONTRIBUTING.md) ![Sponsored by Z.AI](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=github&utm_medium=badge&utm_campaign=readme) ![Buy Me A Coffee](https://buymeacoffee.com/daniavila) ![GitHub stars](https://github.com/davila7/claude-code-templates) <p align=\"center\"> <a href=\"https://trends...",
-      "language": "Python",
-      "stars": 133
+      "repo_name": "iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "description_ja": "Collection of publicly available IPTV channels from all over the world",
+      "readme_summary": "IPTV ![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents - 🚀 How to use? - 📺 Playlists - 🗓 EPG - 🗄 Database - 👨‍💻 API - 📚 Resources - 💬 Discussions - ❓ FAQ - 🛠 Contribution - ⚖ Legal - © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press _Open_. !VLC Network Panel Playlists The mai...",
+      "readme_summary_ja": "IPTV ![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents - 🚀 How to use? - 📺 Playlists - 🗓 EPG - 🗄 Database - 👨‍💻 API - 📚 Resources - 💬 Discussions - ❓ FAQ - 🛠 Contribution - ⚖ Legal - © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press _Open_. !VLC Network Panel Playlists The mai...",
+      "language": "TypeScript",
+      "stars": 140
     },
     {
       "rank": 5,
-      "repo_name": "makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "description_ja": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "readme_summary": "<br /><br /> <p align=\"center\"> <a href=\"https://plane.so\"> <img src=\"https://media.docs.plane.so/logo/plane_github_readme.png\" alt=\"Plane Logo\" width=\"400\"> </a> </p> <p align=\"center\"><b>Modern project management for all teams</b></p> <p align=\"center\"> <a href=\"https://discord.com/invite/A92xrEGCge\"> <img alt=\"Discord online members\" src=\"https://img.shields.io/discord/1031547764020084846?color=5865F2&label=Discord&style=for-the-badge\" /> </a> <img alt=\"Commit activity per month\" src=\"https:/...",
-      "readme_summary_ja": "<br /><br /> <p align=\"center\"> <a href=\"https://plane.so\"> <img src=\"https://media.docs.plane.so/logo/plane_github_readme.png\" alt=\"Plane Logo\" width=\"400\"> </a> </p> <p align=\"center\"><b>Modern project management for all teams</b></p> <p align=\"center\"> <a href=\"https://discord.com/invite/A92xrEGCge\"> <img alt=\"Discord online members\" src=\"https://img.shields.io/discord/1031547764020084846?color=5865F2&label=Discord&style=for-the-badge\" /> </a> <img alt=\"Commit activity per month\" src=\"https:/...",
-      "language": "TypeScript",
-      "stars": 326
+      "repo_name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "description_ja": "real time face swap and one-click video deepfake with only a single image",
+      "readme_summary": "<h1 align=\"center\">Deep-Live-Cam 2.0.1c</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Discl...",
+      "readme_summary_ja": "<h1 align=\"center\">Deep-Live-Cam 2.0.1c</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Discl...",
+      "language": "Python",
+      "stars": 91
     },
     {
       "rank": 6,
-      "repo_name": "twitter/twemoji",
-      "description": "Emoji for everyone.https://twemoji.twitter.com/",
-      "description_ja": "Emoji for everyone.https://twemoji.twitter.com/",
-      "readme_summary": "Twitter Emoji (Twemoji) ![Build Status](https://travis-ci.org/twitter/twemoji) A simple library that provides standard Unicode emoji support across all platforms. **Twemoji v14.0** adheres to the Unicode 14.0 spec and supports the Emoji 14.0 spec. _We do not support custom emoji._ The Twemoji library offers support for all Unicode-defined emoji which are recommended for general interchange (RGI)",
-      "readme_summary_ja": "Twitter Emoji (Twemoji) ![Build Status](https://travis-ci.org/twitter/twemoji) A simple library that provides standard Unicode emoji support across all platforms. **Twemoji v14.0** adheres to the Unicode 14.0 spec and supports the Emoji 14.0 spec. _We do not support custom emoji._ The Twemoji library offers support for all Unicode-defined emoji which are recommended for general interchange (RGI)",
-      "language": "HTML",
-      "stars": 17
-    },
-    {
-      "rank": 7,
       "repo_name": "bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "description_ja": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "readme_summary": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
       "readme_summary_ja": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
       "language": "TypeScript",
-      "stars": 473
+      "stars": 492
+    },
+    {
+      "rank": 7,
+      "repo_name": "obra/superpowers",
+      "description": "Claude Code superpowers: core skills library",
+      "description_ja": "Claude Code superpowers: core skills library",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 1538
     },
     {
       "rank": 8,
-      "repo_name": "twentyhq/twenty",
-      "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "description_ja": "Building a modern alternative to Salesforce, powered by the community.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://www.twenty.com\"> <img src=\"./packages/twenty-website/public/images/core/logo.svg\" width=\"100px\" alt=\"Twenty logo\" /> </a> </p> <h2 align=\"center\" >The #1 Open-Source CRM </h2> <p align=\"center\"><a href=\"https://twenty.com\">🌐 Website</a> · <a href=\"https://docs.twenty.com\">📚 Documentation</a> · <a href=\"https://github.com/orgs/twentyhq/projects/1\"><img src=\"./packages/twenty-website/public/images/readme/planner-icon.svg\" width=\"12\" height=\"12\"/> Roadmap </a> · ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://www.twenty.com\"> <img src=\"./packages/twenty-website/public/images/core/logo.svg\" width=\"100px\" alt=\"Twenty logo\" /> </a> </p> <h2 align=\"center\" >The #1 Open-Source CRM </h2> <p align=\"center\"><a href=\"https://twenty.com\">🌐 Website</a> · <a href=\"https://docs.twenty.com\">📚 Documentation</a> · <a href=\"https://github.com/orgs/twentyhq/projects/1\"><img src=\"./packages/twenty-website/public/images/readme/planner-icon.svg\" width=\"12\" height=\"12\"/> Roadmap </a> · ...",
-      "language": "TypeScript",
-      "stars": 342
+      "repo_name": "ruvnet/claude-flow",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
+      "description_ja": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
+      "readme_summary": "🌊 Claude-Flow v2.7.0: Enterprise AI Orchestration Platform <div align=\"center\"> ![🌟 Star on GitHub](https://github.com/ruvnet/claude-flow) ![📈 Downloads](https://www.npmjs.com/package/claude-flow) ![📦 Latest Release](https://www.npmjs.com/package/claude-flow) ![⚡ Claude Code](https://github.com/ruvnet/claude-flow) ![🏛️ Agentics Foundation](https://discord.com/invite/dfxmpwkG2D) ![🛡️ MIT License](https://opensource.org/licenses/MIT) </div> 🌟 **Overview** **Claude-Flow v2.7** is an enterprise-grad...",
+      "readme_summary_ja": "🌊 Claude-Flow v2.7.0: Enterprise AI Orchestration Platform <div align=\"center\"> ![🌟 Star on GitHub](https://github.com/ruvnet/claude-flow) ![📈 Downloads](https://www.npmjs.com/package/claude-flow) ![📦 Latest Release](https://www.npmjs.com/package/claude-flow) ![⚡ Claude Code](https://github.com/ruvnet/claude-flow) ![🏛️ Agentics Foundation](https://discord.com/invite/dfxmpwkG2D) ![🛡️ MIT License](https://opensource.org/licenses/MIT) </div> 🌟 **Overview** **Claude-Flow v2.7** is an enterprise-grad...",
+      "language": "JavaScript",
+      "stars": 102
     },
     {
       "rank": 9,
@@ -90,47 +90,37 @@
       "readme_summary": "![Discord](https://www.home-assistant.io/join-chat/) ![License: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![Deploys by netlify](https://www.netlify.com) Home Assistant website This is the source for the Home-Assistant.io website. Access You can access the site at the following URLs, depending on the target branch: - **Production** (current branch): https://www.home-assistant.io - **Beta** (rc branch): https://rc.home-assistant.io - **Development** (next branch): https:...",
       "readme_summary_ja": "![Discord](https://www.home-assistant.io/join-chat/) ![License: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![Deploys by netlify](https://www.netlify.com) Home Assistant website This is the source for the Home-Assistant.io website. Access You can access the site at the following URLs, depending on the target branch: - **Production** (current branch): https://www.home-assistant.io - **Beta** (rc branch): https://rc.home-assistant.io - **Development** (next branch): https:...",
       "language": "HTML",
-      "stars": 12
+      "stars": 267
     },
     {
       "rank": 10,
-      "repo_name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "description_ja": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "readme_summary_ja": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "language": "Shell",
-      "stars": 602
+      "repo_name": "mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "description_ja": "🎥 Command line media player",
+      "readme_summary": "!mpv logo mpv * External links * Overview * System requirements * Downloads * Changelog * Compilation * Release cycle * Bug reports * Contributing * License * Contact External links * Wiki * User Scripts * [FAQ][FAQ] * Manual Overview **mpv** is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types. There is a [FAQ][FAQ]",
+      "readme_summary_ja": "!mpv logo mpv * External links * Overview * System requirements * Downloads * Changelog * Compilation * Release cycle * Bug reports * Contributing * License * Contact External links * Wiki * User Scripts * [FAQ][FAQ] * Manual Overview **mpv** is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types. There is a [FAQ][FAQ]",
+      "language": "C",
+      "stars": 26
     },
     {
       "rank": 11,
-      "repo_name": "C4illin/ConvertX",
-      "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-      "description_ja": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-      "readme_summary": "!ConvertX ConvertX ![Docker](https://github.com/C4illin/ConvertX/actions/workflows/docker-publish.yml) ![ghcr.io Pulls](https://github.com/C4illin/ConvertX/pkgs/container/ConvertX) ![Docker Pulls](https://hub.docker.com/r/c4illin/convertx) ![GitHub Release](https://github.com/C4illin/ConvertX/pkgs/container/convertx) !GitHub commits since latest release !GitHub repo size !Docker container size <a href=\"https://trendshift.io/repositories/13818\" target=\"_blank\"><img src=\"https://trendshift.io/api/...",
-      "readme_summary_ja": "!ConvertX ConvertX ![Docker](https://github.com/C4illin/ConvertX/actions/workflows/docker-publish.yml) ![ghcr.io Pulls](https://github.com/C4illin/ConvertX/pkgs/container/ConvertX) ![Docker Pulls](https://hub.docker.com/r/c4illin/convertx) ![GitHub Release](https://github.com/C4illin/ConvertX/pkgs/container/convertx) !GitHub commits since latest release !GitHub repo size !Docker container size <a href=\"https://trendshift.io/repositories/13818\" target=\"_blank\"><img src=\"https://trendshift.io/api/...",
-      "language": "TypeScript",
-      "stars": 316
+      "repo_name": "OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "description_ja": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "readme_summary": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
+      "readme_summary_ja": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
+      "language": "Python",
+      "stars": 65
     },
     {
       "rank": 12,
-      "repo_name": "simstudioai/sim",
-      "description": "Open-source platform to build and deploy AI agent workflows.",
-      "description_ja": "Open-source platform to build and deploy AI agent workflows.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"apps/sim/public/logo/reverse/text/large.png\" alt=\"Sim Logo\" width=\"500\"/> </a> </p> <p align=\"center\">Build and deploy AI agent workflows in minutes.</p> <p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/sim.ai-6F3DFA\" alt=\"Sim.ai\"></a> <a href=\"https://discord.gg/Hr4UWYEcTT\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"apps/sim/public/logo/reverse/text/large.png\" alt=\"Sim Logo\" width=\"500\"/> </a> </p> <p align=\"center\">Build and deploy AI agent workflows in minutes.</p> <p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/sim.ai-6F3DFA\" alt=\"Sim.ai\"></a> <a href=\"https://discord.gg/Hr4UWYEcTT\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=...",
-      "language": "TypeScript",
-      "stars": 152
-    },
-    {
-      "rank": 13,
-      "repo_name": "gyoridavid/ai_agents_az",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "AI Agents A-Z In this repo, you can find the n8n templates we created for the episodes of AI Agents A-Z. Season 1 - Episode 1: Creating a prescription agent - Episode 2: Making a daily digest agent - Episode 3: Making LinkedIn posts using Human in the Loop approval process - Episode 4: Deep Research Agent using Google - Episode 5: Creating a blog writing system using deep research - Episode 6: Lead generation with X-Ray search and LinkedIn - Episode 7: Creating Youtube short videos using our cus...",
-      "readme_summary_ja": "AI Agents A-Z In this repo, you can find the n8n templates we created for the episodes of AI Agents A-Z. Season 1 - Episode 1: Creating a prescription agent - Episode 2: Making a daily digest agent - Episode 3: Making LinkedIn posts using Human in the Loop approval process - Episode 4: Deep Research Agent using Google - Episode 5: Creating a blog writing system using deep research - Episode 6: Lead generation with X-Ray search and LinkedIn - Episode 7: Creating Youtube short videos using our cus...",
-      "language": "Python",
-      "stars": 333
+      "repo_name": "opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "description_ja": "OpenProject is the leading open source project management software.",
+      "readme_summary": "OpenProject !GitHub release (latest by date) !GitHub commit activity !GitHub branch checks state ![Github Tests](https://github.com/opf/openproject/actions/workflows/test-core.yml) **We empower teams to achieve great things together for the good of society.** OpenProject is a web-based project management software. Use OpenProject to manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github",
+      "readme_summary_ja": "OpenProject !GitHub release (latest by date) !GitHub commit activity !GitHub branch checks state ![Github Tests](https://github.com/opf/openproject/actions/workflows/test-core.yml) **We empower teams to achieve great things together for the good of society.** OpenProject is a web-based project management software. Use OpenProject to manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github",
+      "language": "Ruby",
+      "stars": 72
     }
   ]
 }
