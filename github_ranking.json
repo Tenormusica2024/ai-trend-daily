@@ -1,126 +1,96 @@
 {
-  "updated_at": "2026-01-13 09:00:43",
-  "total_repos": 12,
+  "updated_at": "2026-01-14 09:00:36",
+  "total_repos": 9,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "DioxusLabs/dioxus",
-      "description": "Fullstack app framework for web, desktop, and mobile.",
-      "description_ja": "Fullstack app framework for web, desktop, and mobile.",
-      "readme_summary": "<p> <p align=\"center\" > <!-- <img src=\"./notes/header-light-updated.svg#gh-light-mode-only\" > <img src=\"./notes/header-dark-updated.svg#gh-dark-mode-only\" > --> <!-- <a href=\"https://dioxuslabs.com\"> <img src=\"./notes/flat-splash.avif\"> </a> --> <img src=\"./notes/splash-header-darkmode.svg#gh-dark-mode-only\" style=\"width: 80%; height: auto;\"> <img src=\"./notes/splash-header.svg#gh-light-mode-only\" style=\"width: 80%; height: auto;\"> <img src=\"./notes/image-splash.avif\"> <br> </p> </p> <div align=...",
-      "readme_summary_ja": "<p> <p align=\"center\" > <!-- <img src=\"./notes/header-light-updated.svg#gh-light-mode-only\" > <img src=\"./notes/header-dark-updated.svg#gh-dark-mode-only\" > --> <!-- <a href=\"https://dioxuslabs.com\"> <img src=\"./notes/flat-splash.avif\"> </a> --> <img src=\"./notes/splash-header-darkmode.svg#gh-dark-mode-only\" style=\"width: 80%; height: auto;\"> <img src=\"./notes/splash-header.svg#gh-light-mode-only\" style=\"width: 80%; height: auto;\"> <img src=\"./notes/image-splash.avif\"> <br> </p> </p> <div align=...",
-      "language": "Rust",
-      "stars": 177
-    },
-    {
-      "rank": 2,
-      "repo_name": "NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "description_ja": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "readme_summary": "🔥 MediaCrawler - 自媒体平台爬虫 🕷️ <div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://go.warp.dev/MediaCrawler\"> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png?raw=true\"> </a> Warp is built for coding with multiple AI agents </div> <hr> <div align=\"center\"> <a href=\"https://trendshift.io/repositories/8291\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories...",
-      "readme_summary_ja": "🔥 MediaCrawler - 自媒体平台爬虫 🕷️ <div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://go.warp.dev/MediaCrawler\"> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png?raw=true\"> </a> Warp is built for coding with multiple AI agents </div> <hr> <div align=\"center\"> <a href=\"https://trendshift.io/repositories/8291\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories...",
-      "language": "Python",
-      "stars": 167
-    },
-    {
-      "rank": 3,
-      "repo_name": "frankbria/ralph-claude-code",
-      "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
-      "description_ja": "Autonomous AI development loop for Claude Code with intelligent exit detection",
-      "readme_summary": "Ralph for Claude Code ![CI](https://github.com/frankbria/ralph-claude-code/actions/workflows/test.yml) ![License: MIT](LICENSE) !Version !Tests ![GitHub Issues](https://github.com/frankbria/ralph-claude-code/issues) ![Mentioned in Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) ![Follow on X](https://x.com/FrankBria18044) > **Autonomous AI development loop with intelligent exit detection and rate limiting** Ralph is an implementation of the Geoffrey Huntley's technique ...",
-      "readme_summary_ja": "Ralph for Claude Code ![CI](https://github.com/frankbria/ralph-claude-code/actions/workflows/test.yml) ![License: MIT](LICENSE) !Version !Tests ![GitHub Issues](https://github.com/frankbria/ralph-claude-code/issues) ![Mentioned in Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) ![Follow on X](https://x.com/FrankBria18044) > **Autonomous AI development loop with intelligent exit detection and rate limiting** Ralph is an implementation of the Geoffrey Huntley's technique ...",
-      "language": "Shell",
-      "stars": 673
-    },
-    {
-      "rank": 4,
-      "repo_name": "iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "description_ja": "Collection of publicly available IPTV channels from all over the world",
-      "readme_summary": "IPTV ![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents - 🚀 How to use? - 📺 Playlists - 🗓 EPG - 🗄 Database - 👨‍💻 API - 📚 Resources - 💬 Discussions - ❓ FAQ - 🛠 Contribution - ⚖ Legal - © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press _Open_. !VLC Network Panel Playlists The mai...",
-      "readme_summary_ja": "IPTV ![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents - 🚀 How to use? - 📺 Playlists - 🗓 EPG - 🗄 Database - 👨‍💻 API - 📚 Resources - 💬 Discussions - ❓ FAQ - 🛠 Contribution - ⚖ Legal - © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press _Open_. !VLC Network Panel Playlists The mai...",
-      "language": "TypeScript",
-      "stars": 140
-    },
-    {
-      "rank": 5,
-      "repo_name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "description_ja": "real time face swap and one-click video deepfake with only a single image",
-      "readme_summary": "<h1 align=\"center\">Deep-Live-Cam 2.0.1c</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Discl...",
-      "readme_summary_ja": "<h1 align=\"center\">Deep-Live-Cam 2.0.1c</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Discl...",
-      "language": "Python",
-      "stars": 91
-    },
-    {
-      "rank": 6,
-      "repo_name": "bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "description_ja": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "readme_summary": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
-      "readme_summary_ja": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
-      "language": "TypeScript",
-      "stars": 492
-    },
-    {
-      "rank": 7,
       "repo_name": "obra/superpowers",
       "description": "Claude Code superpowers: core skills library",
       "description_ja": "Claude Code superpowers: core skills library",
       "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
       "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
       "language": "Shell",
-      "stars": 1538
+      "stars": 1576
     },
     {
-      "rank": 8,
-      "repo_name": "ruvnet/claude-flow",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
-      "description_ja": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
-      "readme_summary": "🌊 Claude-Flow v2.7.0: Enterprise AI Orchestration Platform <div align=\"center\"> ![🌟 Star on GitHub](https://github.com/ruvnet/claude-flow) ![📈 Downloads](https://www.npmjs.com/package/claude-flow) ![📦 Latest Release](https://www.npmjs.com/package/claude-flow) ![⚡ Claude Code](https://github.com/ruvnet/claude-flow) ![🏛️ Agentics Foundation](https://discord.com/invite/dfxmpwkG2D) ![🛡️ MIT License](https://opensource.org/licenses/MIT) </div> 🌟 **Overview** **Claude-Flow v2.7** is an enterprise-grad...",
-      "readme_summary_ja": "🌊 Claude-Flow v2.7.0: Enterprise AI Orchestration Platform <div align=\"center\"> ![🌟 Star on GitHub](https://github.com/ruvnet/claude-flow) ![📈 Downloads](https://www.npmjs.com/package/claude-flow) ![📦 Latest Release](https://www.npmjs.com/package/claude-flow) ![⚡ Claude Code](https://github.com/ruvnet/claude-flow) ![🏛️ Agentics Foundation](https://discord.com/invite/dfxmpwkG2D) ![🛡️ MIT License](https://opensource.org/licenses/MIT) </div> 🌟 **Overview** **Claude-Flow v2.7** is an enterprise-grad...",
-      "language": "JavaScript",
-      "stars": 102
+      "rank": 2,
+      "repo_name": "icloud-photos-downloader/icloud_photos_downloader",
+      "description": "A command-line tool to download photos from iCloud",
+      "description_ja": "A command-line tool to download photos from iCloud",
+      "readme_summary": "!!!! Looking for MAINTAINER for this project !!!! iCloud Photos Downloader ![Quality Checks](https://github.com/icloud-photos-downloader/icloud_photos_downloader/actions/workflows/quality-checks.yml) ![Build and Package](https://github.com/icloud-photos-downloader/icloud_photos_downloader/actions/workflows/produce-artifacts.yml) ![MIT License](LICENSE) - A command-line tool to download all your iCloud photos. - Works on Linux, Windows, and macOS; laptop, desktop, and NAS - Available as an execut...",
+      "readme_summary_ja": "!!!! Looking for MAINTAINER for this project !!!! iCloud Photos Downloader ![Quality Checks](https://github.com/icloud-photos-downloader/icloud_photos_downloader/actions/workflows/quality-checks.yml) ![Build and Package](https://github.com/icloud-photos-downloader/icloud_photos_downloader/actions/workflows/produce-artifacts.yml) ![MIT License](LICENSE) - A command-line tool to download all your iCloud photos. - Works on Linux, Windows, and macOS; laptop, desktop, and NAS - Available as an execut...",
+      "language": "Python",
+      "stars": 413
     },
     {
-      "rank": 9,
+      "rank": 3,
+      "repo_name": "blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "description_ja": "NVR with realtime local object detection for IP cameras",
+      "readme_summary": "<p align=\"center\"> <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\"> </p> Frigate NVR™ - Realtime Object Detection for IP Cameras ![License: MIT](https://opensource.org/licenses/MIT) <a href=\"https://hosted.weblate.org/engage/frigate-nvr/\"> <img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" /> </a> \\[English\\] | 简体中文 A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow ...",
+      "readme_summary_ja": "<p align=\"center\"> <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\"> </p> Frigate NVR™ - Realtime Object Detection for IP Cameras ![License: MIT](https://opensource.org/licenses/MIT) <a href=\"https://hosted.weblate.org/engage/frigate-nvr/\"> <img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" /> </a> \\[English\\] | 简体中文 A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow ...",
+      "language": "TypeScript",
+      "stars": 51
+    },
+    {
+      "rank": 4,
+      "repo_name": "twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "description_ja": "Source code for the X Recommendation Algorithm",
+      "readme_summary": "X's Recommendation Algorithm X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our engineering blog",
+      "readme_summary_ja": "X's Recommendation Algorithm X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our engineering blog",
+      "language": "Scala",
+      "stars": 73
+    },
+    {
+      "rank": 5,
       "repo_name": "home-assistant/home-assistant.io",
       "description": "📘 Home Assistant User documentation",
       "description_ja": "📘 Home Assistant User documentation",
       "readme_summary": "![Discord](https://www.home-assistant.io/join-chat/) ![License: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![Deploys by netlify](https://www.netlify.com) Home Assistant website This is the source for the Home-Assistant.io website. Access You can access the site at the following URLs, depending on the target branch: - **Production** (current branch): https://www.home-assistant.io - **Beta** (rc branch): https://rc.home-assistant.io - **Development** (next branch): https:...",
       "readme_summary_ja": "![Discord](https://www.home-assistant.io/join-chat/) ![License: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![Deploys by netlify](https://www.netlify.com) Home Assistant website This is the source for the Home-Assistant.io website. Access You can access the site at the following URLs, depending on the target branch: - **Production** (current branch): https://www.home-assistant.io - **Beta** (rc branch): https://rc.home-assistant.io - **Development** (next branch): https:...",
       "language": "HTML",
-      "stars": 267
+      "stars": 185
     },
     {
-      "rank": 10,
-      "repo_name": "mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "description_ja": "🎥 Command line media player",
-      "readme_summary": "!mpv logo mpv * External links * Overview * System requirements * Downloads * Changelog * Compilation * Release cycle * Bug reports * Contributing * License * Contact External links * Wiki * User Scripts * [FAQ][FAQ] * Manual Overview **mpv** is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types. There is a [FAQ][FAQ]",
-      "readme_summary_ja": "!mpv logo mpv * External links * Overview * System requirements * Downloads * Changelog * Compilation * Release cycle * Bug reports * Contributing * License * Contact External links * Wiki * User Scripts * [FAQ][FAQ] * Manual Overview **mpv** is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types. There is a [FAQ][FAQ]",
-      "language": "C",
-      "stars": 26
-    },
-    {
-      "rank": 11,
-      "repo_name": "OpenBMB/ChatDev",
-      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "description_ja": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "readme_summary": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
-      "readme_summary_ja": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
+      "rank": 6,
+      "repo_name": "chidiwilliams/buzz",
+      "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+      "description_ja": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+      "readme_summary": "[简体中文] <- 点击查看中文页面。 Buzz Documentation Transcribe and translate audio offline on your personal computer. Powered by OpenAI's Whisper. !MIT License ![CI](https://github.com/chidiwilliams/buzz/actions/workflows/ci.yml) ![codecov](https://codecov.io/github/chidiwilliams/buzz) !GitHub release (latest by date) ![Github all releases](https://GitHub.com/chidiwilliams/buzz/releases/) !Buzz Features - Transcribe audio and video files or Youtube links - Live realtime audio transcription from microphone - ...",
+      "readme_summary_ja": "[简体中文] <- 点击查看中文页面。 Buzz Documentation Transcribe and translate audio offline on your personal computer. Powered by OpenAI's Whisper. !MIT License ![CI](https://github.com/chidiwilliams/buzz/actions/workflows/ci.yml) ![codecov](https://codecov.io/github/chidiwilliams/buzz) !GitHub release (latest by date) ![Github all releases](https://GitHub.com/chidiwilliams/buzz/releases/) !Buzz Features - Transcribe audio and video files or Youtube links - Live realtime audio transcription from microphone - ...",
       "language": "Python",
-      "stars": 65
+      "stars": 280
     },
     {
-      "rank": 12,
-      "repo_name": "opf/openproject",
-      "description": "OpenProject is the leading open source project management software.",
-      "description_ja": "OpenProject is the leading open source project management software.",
-      "readme_summary": "OpenProject !GitHub release (latest by date) !GitHub commit activity !GitHub branch checks state ![Github Tests](https://github.com/opf/openproject/actions/workflows/test-core.yml) **We empower teams to achieve great things together for the good of society.** OpenProject is a web-based project management software. Use OpenProject to manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github",
-      "readme_summary_ja": "OpenProject !GitHub release (latest by date) !GitHub commit activity !GitHub branch checks state ![Github Tests](https://github.com/opf/openproject/actions/workflows/test-core.yml) **We empower teams to achieve great things together for the good of society.** OpenProject is a web-based project management software. Use OpenProject to manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github",
-      "language": "Ruby",
-      "stars": 72
+      "rank": 7,
+      "repo_name": "adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "description_ja": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "readme_summary": "tiny-gpu A minimal GPU implementation in Verilog optimized for learning about how GPUs work from the ground up. Built with <15 files of fully documented Verilog, complete documentation on architecture & ISA, working matrix addition/multiplication kernels, and full support for kernel simulation & execution traces. Table of Contents - Overview - Architecture - GPU - Memory - Core - ISA - Execution - Core - Thread - Kernels - Matrix Addition - Matrix Multiplication - Simulation - Advanced Functiona...",
+      "readme_summary_ja": "tiny-gpu A minimal GPU implementation in Verilog optimized for learning about how GPUs work from the ground up. Built with <15 files of fully documented Verilog, complete documentation on architecture & ISA, working matrix addition/multiplication kernels, and full support for kernel simulation & execution traces. Table of Contents - Overview - Architecture - GPU - Memory - Core - ISA - Execution - Core - Thread - Kernels - Matrix Addition - Matrix Multiplication - Simulation - Advanced Functiona...",
+      "language": "SystemVerilog",
+      "stars": 107
+    },
+    {
+      "rank": 8,
+      "repo_name": "Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "description_ja": "M3U Playlist for free TV channels",
+      "readme_summary": "Free TV ======= This is an M3U playlist for free TV channels around the World. Either free locally (over the air): <img src=\"https://hatscripts.github.io/circle-flags/flags/us.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ca.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/gb.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ie.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/au.svg\" width=\"...",
+      "readme_summary_ja": "Free TV ======= This is an M3U playlist for free TV channels around the World. Either free locally (over the air): <img src=\"https://hatscripts.github.io/circle-flags/flags/us.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ca.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/gb.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ie.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/au.svg\" width=\"...",
+      "language": "Python",
+      "stars": 319
+    },
+    {
+      "rank": 9,
+      "repo_name": "onlook-dev/onlook",
+      "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+      "description_ja": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+      "readme_summary": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 --> <div align=\"center\"> <img width=\"800\" alt=\"header image\" src=\"assets/web-preview.png\"> <h3 align=\"center\">Onlook</h3> <p align=\"center\"> Cursor for Designers <br /> <a href=\"https://docs.onlook.com\"><strong>Explore the docs »</strong></a> <br /> </p> <p align=\"center\"> 👨‍💻👩‍💻👨‍💻 <a href=\"https://www.ycombinator.com/companies/onlook/jobs/e4gHv1n-founding-engineer-fullstack\">We're ...",
+      "readme_summary_ja": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 --> <div align=\"center\"> <img width=\"800\" alt=\"header image\" src=\"assets/web-preview.png\"> <h3 align=\"center\">Onlook</h3> <p align=\"center\"> Cursor for Designers <br /> <a href=\"https://docs.onlook.com\"><strong>Explore the docs »</strong></a> <br /> </p> <p align=\"center\"> 👨‍💻👩‍💻👨‍💻 <a href=\"https://www.ycombinator.com/companies/onlook/jobs/e4gHv1n-founding-engineer-fullstack\">We're ...",
+      "language": "TypeScript",
+      "stars": 54
     }
   ]
 }
