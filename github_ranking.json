@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-14 09:00:36",
-  "total_repos": 9,
+  "updated_at": "2026-01-15 09:00:26",
+  "total_repos": 7,
   "ranking": [
     {
       "rank": 1,
@@ -10,87 +10,67 @@
       "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
       "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
       "language": "Shell",
-      "stars": 1576
+      "stars": 1863
     },
     {
       "rank": 2,
-      "repo_name": "icloud-photos-downloader/icloud_photos_downloader",
-      "description": "A command-line tool to download photos from iCloud",
-      "description_ja": "A command-line tool to download photos from iCloud",
-      "readme_summary": "!!!! Looking for MAINTAINER for this project !!!! iCloud Photos Downloader ![Quality Checks](https://github.com/icloud-photos-downloader/icloud_photos_downloader/actions/workflows/quality-checks.yml) ![Build and Package](https://github.com/icloud-photos-downloader/icloud_photos_downloader/actions/workflows/produce-artifacts.yml) ![MIT License](LICENSE) - A command-line tool to download all your iCloud photos. - Works on Linux, Windows, and macOS; laptop, desktop, and NAS - Available as an execut...",
-      "readme_summary_ja": "!!!! Looking for MAINTAINER for this project !!!! iCloud Photos Downloader ![Quality Checks](https://github.com/icloud-photos-downloader/icloud_photos_downloader/actions/workflows/quality-checks.yml) ![Build and Package](https://github.com/icloud-photos-downloader/icloud_photos_downloader/actions/workflows/produce-artifacts.yml) ![MIT License](LICENSE) - A command-line tool to download all your iCloud photos. - Works on Linux, Windows, and macOS; laptop, desktop, and NAS - Available as an execut...",
-      "language": "Python",
-      "stars": 413
-    },
-    {
-      "rank": 3,
-      "repo_name": "blakeblackshear/frigate",
-      "description": "NVR with realtime local object detection for IP cameras",
-      "description_ja": "NVR with realtime local object detection for IP cameras",
-      "readme_summary": "<p align=\"center\"> <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\"> </p> Frigate NVR™ - Realtime Object Detection for IP Cameras ![License: MIT](https://opensource.org/licenses/MIT) <a href=\"https://hosted.weblate.org/engage/frigate-nvr/\"> <img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" /> </a> \\[English\\] | 简体中文 A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow ...",
-      "readme_summary_ja": "<p align=\"center\"> <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\"> </p> Frigate NVR™ - Realtime Object Detection for IP Cameras ![License: MIT](https://opensource.org/licenses/MIT) <a href=\"https://hosted.weblate.org/engage/frigate-nvr/\"> <img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" /> </a> \\[English\\] | 简体中文 A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow ...",
-      "language": "TypeScript",
-      "stars": 51
-    },
-    {
-      "rank": 4,
       "repo_name": "twitter/the-algorithm",
       "description": "Source code for the X Recommendation Algorithm",
       "description_ja": "Source code for the X Recommendation Algorithm",
       "readme_summary": "X's Recommendation Algorithm X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our engineering blog",
       "readme_summary_ja": "X's Recommendation Algorithm X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our engineering blog",
       "language": "Scala",
-      "stars": 73
+      "stars": 366
+    },
+    {
+      "rank": 3,
+      "repo_name": "dev-sec/ansible-collection-hardening",
+      "description": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL",
+      "description_ja": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL",
+      "readme_summary": "Ansible Collection - devsec.hardening ![devsec.os_hardening](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening.yml) ![devsec.os_hardening VM](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening_vm.yml) ![devsec.ssh_hardening](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/ssh_hardening.yml) ![devsec.ssh_hardening BSD](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/ssh_har...",
+      "readme_summary_ja": "Ansible Collection - devsec.hardening ![devsec.os_hardening](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening.yml) ![devsec.os_hardening VM](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening_vm.yml) ![devsec.ssh_hardening](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/ssh_hardening.yml) ![devsec.ssh_hardening BSD](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/ssh_har...",
+      "language": "Jinja",
+      "stars": 23
+    },
+    {
+      "rank": 4,
+      "repo_name": "mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+      "description_ja": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+      "readme_summary": "<h1 align=\"center\"> <br> <img width=\"300\" src=\"./core/http/static/logo.png\"> <br> <br> </h1> <p align=\"center\"> <a href=\"https://github.com/go-skynet/LocalAI/fork\" target=\"blank\"> <img src=\"https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI forks\"/> </a> <a href=\"https://github.com/go-skynet/LocalAI/stargazers\" target=\"blank\"> <img src=\"https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI stars\"/> </a> <a href=\"https://githu...",
+      "readme_summary_ja": "<h1 align=\"center\"> <br> <img width=\"300\" src=\"./core/http/static/logo.png\"> <br> <br> </h1> <p align=\"center\"> <a href=\"https://github.com/go-skynet/LocalAI/fork\" target=\"blank\"> <img src=\"https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI forks\"/> </a> <a href=\"https://github.com/go-skynet/LocalAI/stargazers\" target=\"blank\"> <img src=\"https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI stars\"/> </a> <a href=\"https://githu...",
+      "language": "Go",
+      "stars": 64
     },
     {
       "rank": 5,
-      "repo_name": "home-assistant/home-assistant.io",
-      "description": "📘 Home Assistant User documentation",
-      "description_ja": "📘 Home Assistant User documentation",
-      "readme_summary": "![Discord](https://www.home-assistant.io/join-chat/) ![License: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![Deploys by netlify](https://www.netlify.com) Home Assistant website This is the source for the Home-Assistant.io website. Access You can access the site at the following URLs, depending on the target branch: - **Production** (current branch): https://www.home-assistant.io - **Beta** (rc branch): https://rc.home-assistant.io - **Development** (next branch): https:...",
-      "readme_summary_ja": "![Discord](https://www.home-assistant.io/join-chat/) ![License: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![Deploys by netlify](https://www.netlify.com) Home Assistant website This is the source for the Home-Assistant.io website. Access You can access the site at the following URLs, depending on the target branch: - **Production** (current branch): https://www.home-assistant.io - **Beta** (rc branch): https://rc.home-assistant.io - **Development** (next branch): https:...",
-      "language": "HTML",
-      "stars": 185
+      "repo_name": "grab/cursor-talk-to-figma-mcp",
+      "description": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
+      "description_ja": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
+      "readme_summary": "Cursor Talk to Figma MCP This project implements a Model Context Protocol (MCP) integration between Cursor AI and Figma, allowing Cursor to communicate with Figma for reading designs and modifying them programmatically. https://github.com/user-attachments/assets/129a14d2-ed73-470f-9a4c-2240b2a4885c Project Structure - src/talk_to_figma_mcp/ - TypeScript MCP server for Figma integration - src/cursor_mcp_plugin/ - Figma plugin for communicating with Cursor - src/socket.ts - WebSocket server that f...",
+      "readme_summary_ja": "Cursor Talk to Figma MCP This project implements a Model Context Protocol (MCP) integration between Cursor AI and Figma, allowing Cursor to communicate with Figma for reading designs and modifying them programmatically. https://github.com/user-attachments/assets/129a14d2-ed73-470f-9a4c-2240b2a4885c Project Structure - src/talk_to_figma_mcp/ - TypeScript MCP server for Figma integration - src/cursor_mcp_plugin/ - Figma plugin for communicating with Cursor - src/socket.ts - WebSocket server that f...",
+      "language": "JavaScript",
+      "stars": 14
     },
     {
       "rank": 6,
-      "repo_name": "chidiwilliams/buzz",
-      "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
-      "description_ja": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
-      "readme_summary": "[简体中文] <- 点击查看中文页面。 Buzz Documentation Transcribe and translate audio offline on your personal computer. Powered by OpenAI's Whisper. !MIT License ![CI](https://github.com/chidiwilliams/buzz/actions/workflows/ci.yml) ![codecov](https://codecov.io/github/chidiwilliams/buzz) !GitHub release (latest by date) ![Github all releases](https://GitHub.com/chidiwilliams/buzz/releases/) !Buzz Features - Transcribe audio and video files or Youtube links - Live realtime audio transcription from microphone - ...",
-      "readme_summary_ja": "[简体中文] <- 点击查看中文页面。 Buzz Documentation Transcribe and translate audio offline on your personal computer. Powered by OpenAI's Whisper. !MIT License ![CI](https://github.com/chidiwilliams/buzz/actions/workflows/ci.yml) ![codecov](https://codecov.io/github/chidiwilliams/buzz) !GitHub release (latest by date) ![Github all releases](https://GitHub.com/chidiwilliams/buzz/releases/) !Buzz Features - Transcribe audio and video files or Youtube links - Live realtime audio transcription from microphone - ...",
-      "language": "Python",
-      "stars": 280
+      "repo_name": "zoicware/RemoveWindowsAI",
+      "description": "Force Remove Copilot, Recall and More in Windows 11",
+      "description_ja": "Force Remove Copilot, Recall and More in Windows 11",
+      "readme_summary": "Remove Windows Ai Why? The current 25H2 build of Windows 11 and future builds will include increasingly more AI features and components. This script aims to remove ALL of these features to improve user experience, privacy and security. <img width=\"150\" alt=\"AI-Explorer-icon\" src=\"https://github.com/zoicware/RemoveWindowsAI/assets/118035521/33efb033-c935-416c-977d-777bb69a3737\"> ---------------------- Script Features - **Disable Registry Keys** - Disable Copilot - Disable Recall - Disable Input I...",
+      "readme_summary_ja": "Remove Windows Ai Why? The current 25H2 build of Windows 11 and future builds will include increasingly more AI features and components. This script aims to remove ALL of these features to improve user experience, privacy and security. <img width=\"150\" alt=\"AI-Explorer-icon\" src=\"https://github.com/zoicware/RemoveWindowsAI/assets/118035521/33efb033-c935-416c-977d-777bb69a3737\"> ---------------------- Script Features - **Disable Registry Keys** - Disable Copilot - Disable Recall - Disable Input I...",
+      "language": "PowerShell",
+      "stars": 339
     },
     {
       "rank": 7,
-      "repo_name": "adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "description_ja": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "readme_summary": "tiny-gpu A minimal GPU implementation in Verilog optimized for learning about how GPUs work from the ground up. Built with <15 files of fully documented Verilog, complete documentation on architecture & ISA, working matrix addition/multiplication kernels, and full support for kernel simulation & execution traces. Table of Contents - Overview - Architecture - GPU - Memory - Core - ISA - Execution - Core - Thread - Kernels - Matrix Addition - Matrix Multiplication - Simulation - Advanced Functiona...",
-      "readme_summary_ja": "tiny-gpu A minimal GPU implementation in Verilog optimized for learning about how GPUs work from the ground up. Built with <15 files of fully documented Verilog, complete documentation on architecture & ISA, working matrix addition/multiplication kernels, and full support for kernel simulation & execution traces. Table of Contents - Overview - Architecture - GPU - Memory - Core - ISA - Execution - Core - Thread - Kernels - Matrix Addition - Matrix Multiplication - Simulation - Advanced Functiona...",
-      "language": "SystemVerilog",
-      "stars": 107
-    },
-    {
-      "rank": 8,
-      "repo_name": "Free-TV/IPTV",
-      "description": "M3U Playlist for free TV channels",
-      "description_ja": "M3U Playlist for free TV channels",
-      "readme_summary": "Free TV ======= This is an M3U playlist for free TV channels around the World. Either free locally (over the air): <img src=\"https://hatscripts.github.io/circle-flags/flags/us.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ca.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/gb.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ie.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/au.svg\" width=\"...",
-      "readme_summary_ja": "Free TV ======= This is an M3U playlist for free TV channels around the World. Either free locally (over the air): <img src=\"https://hatscripts.github.io/circle-flags/flags/us.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ca.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/gb.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ie.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/au.svg\" width=\"...",
-      "language": "Python",
-      "stars": 319
-    },
-    {
-      "rank": 9,
-      "repo_name": "onlook-dev/onlook",
-      "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
-      "description_ja": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
-      "readme_summary": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 --> <div align=\"center\"> <img width=\"800\" alt=\"header image\" src=\"assets/web-preview.png\"> <h3 align=\"center\">Onlook</h3> <p align=\"center\"> Cursor for Designers <br /> <a href=\"https://docs.onlook.com\"><strong>Explore the docs »</strong></a> <br /> </p> <p align=\"center\"> 👨‍💻👩‍💻👨‍💻 <a href=\"https://www.ycombinator.com/companies/onlook/jobs/e4gHv1n-founding-engineer-fullstack\">We're ...",
-      "readme_summary_ja": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 --> <div align=\"center\"> <img width=\"800\" alt=\"header image\" src=\"assets/web-preview.png\"> <h3 align=\"center\">Onlook</h3> <p align=\"center\"> Cursor for Designers <br /> <a href=\"https://docs.onlook.com\"><strong>Explore the docs »</strong></a> <br /> </p> <p align=\"center\"> 👨‍💻👩‍💻👨‍💻 <a href=\"https://www.ycombinator.com/companies/onlook/jobs/e4gHv1n-founding-engineer-fullstack\">We're ...",
-      "language": "TypeScript",
-      "stars": 54
+      "repo_name": "rancher/rancher",
+      "description": "Complete container management platform",
+      "description_ja": "Complete container management platform",
+      "readme_summary": "Rancher ![Docker Pulls](https://store.docker.com/community/images/rancher/rancher) ![Go Report Card](https://goreportcard.com/report/github.com/rancher/rancher) Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams. Stable Release <!-- stable v2.13.1 DO NOT REMOVE THIS LINE --> * v2.13 * Stable - v2.13.1 - rancher/rancher:v2.13.1 / ran...",
+      "readme_summary_ja": "Rancher ![Docker Pulls](https://store.docker.com/community/images/rancher/rancher) ![Go Report Card](https://goreportcard.com/report/github.com/rancher/rancher) Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams. Stable Release <!-- stable v2.13.1 DO NOT REMOVE THIS LINE --> * v2.13 * Stable - v2.13.1 - rancher/rancher:v2.13.1 / ran...",
+      "language": "Go",
+      "stars": 6
     }
   ]
 }
