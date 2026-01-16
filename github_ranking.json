@@ -1,76 +1,106 @@
 {
-  "updated_at": "2026-01-15 03:00:56",
-  "total_repos": 7,
+  "updated_at": "2026-01-16 03:01:58",
+  "total_repos": 10,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "obra/superpowers",
-      "description": "Claude Code superpowers: core skills library",
-      "description_ja": "Claude Code のスーパーパワー：コアスキルライブラリ",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowersは、コーディングエージェント向けの包括的なソフトウェア開発ワークフローです。これは、組み合わせ可能な「スキル」と、エージェントがそれらを確実に使用するための初期指示に基づいて構築されています。\n\n仕組みは、コーディングエージェントを起動した瞬間から始まります。エージェントは、あなたが何かを構築しようとしていることを認識すると、すぐにコードを書き始めるのではなく、まず状況を把握します。",
-      "language": "Shell",
-      "stars": 1863
+      "repo_name": "eigent-ai/eigent",
+      "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+      "description_ja": "Eigent: 例外的な生産性を引き出す、オープンソースのコワークデスクトップ。",
+      "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-head]][eigent-site] [![][image-seperator]][eigent-site] Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity <!-- SHIELD GROUP --> [![][download-shield]][eigent-download] [![][github-star]][eigent-github] [![][social-x-shield]][social-x-link] [![][discord-image]][discord-url]<br> [![Reddit][reddit-image]][reddit-url] [![Wechat][wechat-image]][wechat-url] [![][sponsor-shield]][sponsor-link] [![][built-with-camel]][...",
+      "readme_summary_ja": "Eigent: 例外的な生産性を引き出すオープンソースのコワークデスクトップ\n\n<!-- SHIELD GROUP -->\n\n[ダウンロード][Eigentダウンロード] [GitHubスター][Eigent GitHub] [X (旧Twitter)][Xリンク] [Discord][Discord URL]\n[Reddit][Reddit URL] [Wechat][Wechat URL] [スポンサー][スポンサーリンク] [Camelで構築] [...]",
+      "language": "TypeScript",
+      "stars": 751
     },
     {
       "rank": 2,
+      "repo_name": "blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "description_ja": "IPカメラ向けリアルタイムローカル物体検出機能付きNVR",
+      "readme_summary": "<p align=\"center\"> <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\"> </p> Frigate NVR™ - Realtime Object Detection for IP Cameras ![License: MIT](https://opensource.org/licenses/MIT) <a href=\"https://hosted.weblate.org/engage/frigate-nvr/\"> <img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" /> </a> \\[English\\] | 简体中文 A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow ...",
+      "readme_summary_ja": "<p align=\"center\"> <img align=\"center\" alt=\"logo\" src=\"docs/static/img/branding/frigate.png\"> </p> Frigate NVR™ - IPカメラ向けリアルタイム物体検出 ![License: MIT](https://opensource.org/licenses/MIT) <a href=\"https://hosted.weblate.org/engage/frigate-nvr/\"> <img src=\"https://hosted.weblate.org/widget/frigate-nvr/language-badge.svg\" alt=\"Translation status\" /> </a> \\[English\\] | 简体中文 Home Assistant向けに設計された、AI物体検出機能付きの完全なローカルNVR。 OpenCVとTensorflowを使用。",
+      "language": "TypeScript",
+      "stars": 96
+    },
+    {
+      "rank": 3,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "自律的なスキルフレームワークと、実際に機能するソフトウェア開発手法。",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowersは、コーディングエージェント向けの包括的なソフトウェア開発ワークフローです。これは、組み合わせ可能な「スキル」と、エージェントがそれらを確実に使用するための初期指示に基づいて構築されています。\n\nその仕組みは、コーディングエージェントを起動した瞬間から始まります。エージェントは、何かを構築しようとしていることを認識すると、すぐにコードを書き始めるのではなく、まず状況を把握します。",
+      "language": "Shell",
+      "stars": 2053
+    },
+    {
+      "rank": 4,
+      "repo_name": "cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "description_ja": "eBPFベースのネットワーク、セキュリティ、および可観測性",
+      "readme_summary": ".. raw:: html <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://cdn.jsdelivr.net/gh/cilium/cilium@main/Documentation/images/logo.png\" width=\"350\" alt=\"Cilium Logo\"> <img src=\"https://cdn.jsdelivr.net/gh/cilium/cilium@main/Documentation/images/logo-dark.png\" width=\"350\" alt=\"Cilium Logo\"> </picture> |cii| |go-report| |clomonitor| |artifacthub| |slack| |go-doc| |rtd| |apache| |bsd| |gpl| |fossa| |gateway-api| |codespaces| Cilium is a networking, observability, and security so...",
+      "readme_summary_ja": "<picture>\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://cdn.jsdelivr.net/gh/cilium/cilium@main/Documentation/images/logo.png\" width=\"350\" alt=\"Cilium Logo\">\n  <img src=\"https://cdn.jsdelivr.net/gh/cilium/cilium@main/Documentation/images/logo-dark.png\" width=\"350\" alt=\"Cilium Logo\">\n</picture>\n\nCiliumは、ネットワーキング、可観測性、そしてセキュリティを...",
+      "language": "Go",
+      "stars": 20
+    },
+    {
+      "rank": 5,
+      "repo_name": "wavetermdev/waveterm",
+      "description": "An open-source, cross-platform terminal for seamless workflows",
+      "description_ja": "シームレスなワークフローを実現する、オープンソースのクロスプラットフォーム対応ターミナル",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://www.waveterm.dev\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/wave-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/wave-light.png\"> <img alt=\"Wave Terminal Logo\" src=\"./assets/wave-light.png\" width=\"240\"> </picture> </a> <br/> </p> Wave Terminal ![FOSSA Status](https://app.fossa.com/projects/git%2Bgithub.com%2Fwavetermdev%2Fwaveterm?ref=badge_shield) Wave is an open-source terminal that combines traditiona...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://www.waveterm.dev\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/wave-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/wave-light.png\"> <img alt=\"Wave Terminal Logo\" src=\"./assets/wave-light.png\" width=\"240\"> </picture> </a> <br/> </p> Wave Terminal ![FOSSA Status](https://app.fossa.com/projects/git%2Bgithub.com%2Fwavetermdev%2Fwaveterm?ref=badge_shield) Waveは、伝統的な... (以下省略)",
+      "language": "Go",
+      "stars": 88
+    },
+    {
+      "rank": 6,
+      "repo_name": "ultralytics/ultralytics",
+      "description": "Ultralytics YOLO 🚀",
+      "description_ja": "Ultralytics YOLO 🚀",
+      "readme_summary": "<div align=\"center\"> <p> <a href=\"https://www.ultralytics.com/events/yolovision?utm_source=github&utm_medium=org&utm_campaign=yv25_event\" target=\"_blank\"> <img width=\"100%\" src=\"https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png\" alt=\"Ultralytics YOLO banner\"></a> </p> 中文 | 한국어 | 日本語 | Русский | Deutsch | Français | Español | Português | Türkçe | Tiếng Việt | العربية <br> <div> <a href=\"https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml\"><img src=...",
+      "readme_summary_ja": "<div align=\"center\"> <p> <a href=\"https://www.ultralytics.com/events/yolovision?utm_source=github&utm_medium=org&utm_campaign=yv25_event\" target=\"_blank\"> <img width=\"100%\" src=\"https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png\" alt=\"Ultralytics YOLO banner\"></a> </p> 中文 | 한국어 | 日本語 | Русский | Deutsch | Français | Español | Português | Türkçe | Tiếng Việt | العربية <br> <div> <a href=\"https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml\"><img src=...",
+      "language": "Python",
+      "stars": 149
+    },
+    {
+      "rank": 7,
+      "repo_name": "mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+      "description_ja": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+      "readme_summary": "<h1 align=\"center\"> <br> <img width=\"300\" src=\"./core/http/static/logo.png\"> <br> <br> </h1> <p align=\"center\"> <a href=\"https://github.com/go-skynet/LocalAI/fork\" target=\"blank\"> <img src=\"https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI forks\"/> </a> <a href=\"https://github.com/go-skynet/LocalAI/stargazers\" target=\"blank\"> <img src=\"https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI stars\"/> </a> <a href=\"https://githu...",
+      "readme_summary_ja": "<h1 align=\"center\"> <br> <img width=\"300\" src=\"./core/http/static/logo.png\"> <br> <br> </h1> <p align=\"center\"> <a href=\"https://github.com/go-skynet/LocalAI/fork\" target=\"blank\"> <img src=\"https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI forks\"/> </a> <a href=\"https://github.com/go-skynet/LocalAI/stargazers\" target=\"blank\"> <img src=\"https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI stars\"/> </a> <a href=\"https://githu...",
+      "language": "Go",
+      "stars": 390
+    },
+    {
+      "rank": 8,
+      "repo_name": "google-ai-edge/mediapipe",
+      "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+      "description_ja": "Cross-platform, customizable ML solutions for live and streaming media.",
+      "readme_summary": "--- layout: forward target: https://developers.google.com/mediapipe title: Home nav_order: 1 --- ---- **Attention:** *We have moved to https://developers.google.com/mediapipe as the primary developer documentation site for MediaPipe as of April 3, 2023.* !MediaPipe **Attention**: MediaPipe Solutions Preview is an early release. Learn more. **On-device machine learning for everyone** Delight your customers with innovative machine learning features",
+      "readme_summary_ja": "---\nレイアウト: 転送先: https://developers.google.com/mediapipe タイトル: ホーム ナビゲーション順: 1 ---\n\n**重要:** 2023年4月3日より、MediaPipeの主要な開発者向けドキュメントサイトは https://developers.google.com/mediapipe に移行しました。\n\n!MediaPipe\n\n**重要**: MediaPipe Solutions Preview は早期リリース版です。詳細はこちらをご覧ください。\n\n**誰でも使えるオンデバイス機械学習**\n\n革新的な機械学習機能で顧客を魅了しましょう。",
+      "language": "C++",
+      "stars": 48
+    },
+    {
+      "rank": 9,
+      "repo_name": "puckeditor/puck",
+      "description": "The visual editor for React",
+      "description_ja": "React 向けのビジュアルエディタ",
+      "readme_summary": "<br /><br /><br /> <div align=\"center\"> <a href=\"https://puckeditor.com?utm_source=readme&utm_medium=code&utm_campaign=repo&utm_contents=logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_White_RGB_j2rwgg.svg\" height=\"100px\" aria-label=\"Puck logo\"> <img src=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_Black_RGB_dqsjag.svg\" height=\"100px\" aria-label=\"Puck logo\"> </picture> </a> _The visual editor for Re...",
+      "readme_summary_ja": "Re...のためのビジュアルエディタ、Puck。",
+      "language": "TypeScript",
+      "stars": 53
+    },
+    {
+      "rank": 10,
       "repo_name": "twitter/the-algorithm",
       "description": "Source code for the X Recommendation Algorithm",
       "description_ja": "Xレコメンデーションアルゴリズムのソースコード",
       "readme_summary": "X's Recommendation Algorithm X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our engineering blog",
-      "readme_summary_ja": "Xのレコメンデーションアルゴリズムは、Xのすべてのプロダクト画面（例：おすすめタイムライン、検索、探索、通知）で、投稿やその他のコンテンツのフィードを提供するサービスとジョブの集合体です。アルゴリズムの仕組みについては、エンジニアリングブログをご覧ください。",
+      "readme_summary_ja": "Xのレコメンデーションアルゴリズムは、Xのすべてのプロダクト画面（例：おすすめタイムライン、検索、探索、通知）で、投稿やその他のコンテンツのフィードを提供するサービスとジョブ群です。アルゴリズムの仕組みについては、エンジニアリングブログをご覧ください。",
       "language": "Scala",
-      "stars": 366
-    },
-    {
-      "rank": 3,
-      "repo_name": "dev-sec/ansible-collection-hardening",
-      "description": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL",
-      "description_ja": "このAnsibleコレクションは、Linux、SSH、nginx、MySQLに対して、実戦で検証済みのセキュリティ強化策を提供します。",
-      "readme_summary": "Ansible Collection - devsec.hardening ![devsec.os_hardening](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening.yml) ![devsec.os_hardening VM](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening_vm.yml) ![devsec.ssh_hardening](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/ssh_hardening.yml) ![devsec.ssh_hardening BSD](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/ssh_har...",
-      "readme_summary_ja": "Ansible Collection - devsec.hardening ![devsec.os_hardening](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening.yml) ![devsec.os_hardening VM](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/os_hardening_vm.yml) ![devsec.ssh_hardening](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/ssh_hardening.yml) ![devsec.ssh_hardening BSD](https://github.com/dev-sec/ansible-collection-hardening/actions/workflows/ssh_har...",
-      "language": "Jinja",
-      "stars": 23
-    },
-    {
-      "rank": 4,
-      "repo_name": "mudler/LocalAI",
-      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
-      "description_ja": "🤖 OpenAI、Claudeなどの代替となる、無料のオープンソース。セルフホスト型でローカルファースト。OpenAIのドロップイン代替として、一般消費者向けハードウェア上で動作。GPU不要。gguf、transformers、diffusersなど多数に対応。テキスト生成、MCP、オーディオ、ビデオ、画像、音声クローン、分散処理、P2P、分散型推論などの機能を搭載。",
-      "readme_summary": "<h1 align=\"center\"> <br> <img width=\"300\" src=\"./core/http/static/logo.png\"> <br> <br> </h1> <p align=\"center\"> <a href=\"https://github.com/go-skynet/LocalAI/fork\" target=\"blank\"> <img src=\"https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI forks\"/> </a> <a href=\"https://github.com/go-skynet/LocalAI/stargazers\" target=\"blank\"> <img src=\"https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI stars\"/> </a> <a href=\"https://githu...",
-      "readme_summary_ja": "<div align=\"center\">\n  <br>\n  <img width=\"300\" src=\"./core/http/static/logo.png\">\n  <br>\n  <br>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://github.com/go-skynet/LocalAI/fork\" target=\"_blank\">\n    <img src=\"https://img.shields.io/github/forks/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI forks\"/>\n  </a>\n  <a href=\"https://github.com/go-skynet/LocalAI/stargazers\" target=\"_blank\">\n    <img src=\"https://img.shields.io/github/stars/go-skynet/LocalAI?style=for-the-badge\" alt=\"LocalAI stars\"/>\n  </a>\n  <a href=\"https",
-      "language": "Go",
-      "stars": 64
-    },
-    {
-      "rank": 5,
-      "repo_name": "grab/cursor-talk-to-figma-mcp",
-      "description": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
-      "description_ja": "TalkToFigma：CursorとFigmaを連携させるMCP統合。CursorのAgentic AIがFigmaと通信し、デザインの読み取りやプログラムによる変更を可能にします。",
-      "readme_summary": "Cursor Talk to Figma MCP This project implements a Model Context Protocol (MCP) integration between Cursor AI and Figma, allowing Cursor to communicate with Figma for reading designs and modifying them programmatically. https://github.com/user-attachments/assets/129a14d2-ed73-470f-9a4c-2240b2a4885c Project Structure - src/talk_to_figma_mcp/ - TypeScript MCP server for Figma integration - src/cursor_mcp_plugin/ - Figma plugin for communicating with Cursor - src/socket.ts - WebSocket server that f...",
-      "readme_summary_ja": "Cursor Talk to Figma MCP This project implements a Model Context Protocol (MCP) integration between Cursor AI and Figma, allowing Cursor to communicate with Figma for reading designs and modifying them programmatically. https://github.com/user-attachments/assets/129a14d2-ed73-470f-9a4c-2240b2a4885c Project Structure - src/talk_to_figma_mcp/ - TypeScript MCP server for Figma integration - src/cursor_mcp_plugin/ - Figma plugin for communicating with Cursor - src/socket.ts - WebSocket server that f...",
-      "language": "JavaScript",
-      "stars": 14
-    },
-    {
-      "rank": 6,
-      "repo_name": "zoicware/RemoveWindowsAI",
-      "description": "Force Remove Copilot, Recall and More in Windows 11",
-      "description_ja": "Force Remove Copilot, Recall and More in Windows 11",
-      "readme_summary": "Remove Windows Ai Why? The current 25H2 build of Windows 11 and future builds will include increasingly more AI features and components. This script aims to remove ALL of these features to improve user experience, privacy and security. <img width=\"150\" alt=\"AI-Explorer-icon\" src=\"https://github.com/zoicware/RemoveWindowsAI/assets/118035521/33efb033-c935-416c-977d-777bb69a3737\"> ---------------------- Script Features - **Disable Registry Keys** - Disable Copilot - Disable Recall - Disable Input I...",
-      "readme_summary_ja": "Remove Windows Ai Why? The current 25H2 build of Windows 11 and future builds will include increasingly more AI features and components. This script aims to remove ALL of these features to improve user experience, privacy and security. <img width=\"150\" alt=\"AI-Explorer-icon\" src=\"https://github.com/zoicware/RemoveWindowsAI/assets/118035521/33efb033-c935-416c-977d-777bb69a3737\"> ---------------------- Script Features - **Disable Registry Keys** - Disable Copilot - Disable Recall - Disable Input I...",
-      "language": "PowerShell",
-      "stars": 339
-    },
-    {
-      "rank": 7,
-      "repo_name": "rancher/rancher",
-      "description": "Complete container management platform",
-      "description_ja": "Complete container management platform",
-      "readme_summary": "Rancher ![Docker Pulls](https://store.docker.com/community/images/rancher/rancher) ![Go Report Card](https://goreportcard.com/report/github.com/rancher/rancher) Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams. Stable Release <!-- stable v2.13.1 DO NOT REMOVE THIS LINE --> * v2.13 * Stable - v2.13.1 - rancher/rancher:v2.13.1 / ran...",
-      "readme_summary_ja": "Rancher ![Docker Pulls](https://store.docker.com/community/images/rancher/rancher) ![Go Report Card](https://goreportcard.com/report/github.com/rancher/rancher) Rancherは、本番環境でコンテナをデプロイする組織向けに構築された、オープンソースのコンテナ管理プラットフォームです。Rancherを使用すると、Kubernetesをあらゆる場所で簡単に実行し、IT要件を満たし、DevOpsチームを強化できます。安定版リリース <!-- stable v2.13.1 DO NOT REMOVE THIS LINE --> * v2.13 * 安定版 - v2.13.1 - rancher/rancher:v2.13.1 / ran...",
-      "language": "Go",
-      "stars": 6
+      "stars": 370
     }
   ]
 }
