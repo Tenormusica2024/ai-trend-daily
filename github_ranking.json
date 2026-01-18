@@ -1,96 +1,56 @@
 {
-  "updated_at": "2026-01-17 02:53:33",
-  "total_repos": 9,
+  "updated_at": "2026-01-18 03:07:44",
+  "total_repos": 5,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "自律型エージェントのスキルフレームワークと、実用的なソフトウェア開発手法。",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowersは、コーディングエージェント向けの包括的なソフトウェア開発ワークフローです。これは、組み合わせ可能な「スキル」と、エージェントがそれらを確実に使用するための初期指示に基づいて構築されています。\n\n仕組みは、コーディングエージェントを起動した瞬間から始まります。何かの構築を開始したことを認識すると、すぐにコードを書き始めるのではなく、まず状況を把握します。",
-      "language": "Shell",
-      "stars": 1961
+      "repo_name": "eigent-ai/eigent",
+      "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+      "description_ja": "Eigent: 例外的な生産性を引き出す、オープンソースのコワークデスクトップ。",
+      "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-head]][eigent-site] [![][image-seperator]][eigent-site] Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity <!-- SHIELD GROUP --> [![][download-shield]][eigent-download] [![][github-star]][eigent-github] [![][social-x-shield]][social-x-link] [![][discord-image]][discord-url]<br> [![Reddit][reddit-image]][reddit-url] [![Wechat][wechat-image]][wechat-url] [![][sponsor-shield]][sponsor-link] [![][built-with-camel]][...",
+      "readme_summary_ja": "Eigent: 例外的な生産性を引き出す、オープンソースのコワークデスクトップ\n\n<!-- シールドグループ -->\n\n[ダウンロード][Eigentダウンロード] [GitHubスター][Eigent GitHub] [X (旧Twitter)][Xリンク] [Discord][Discord URL]\n[Reddit][Reddit URL] [Wechat][Wechat URL] [スポンサー][スポンサーリンク] [Camelで構築] [...]",
+      "language": "TypeScript",
+      "stars": 760
     },
     {
       "rank": 2,
-      "repo_name": "Gentleman-Programming/Gentleman.Dots",
-      "description": "My personal configuration for LazyVim !",
-      "description_ja": "LazyVim用の個人設定",
-      "readme_summary": "Gentleman.Dots > ℹ️ **Update (January 2026)**: OpenCode now supports Claude Max/Pro subscriptions via the opencode-anthropic-auth plugin (included in this config). Both **Claude Code** and **OpenCode** work with your Claude subscription. *Note: This workaround is stable for now, but Anthropic could block it in the future.* Table of Contents - What is this? - Quick Start - Supported Platforms - Vim Mastery Trainer - Documentation - Tools Overview - Bleeding Edge - Project Structure - Support --- ...",
-      "readme_summary_ja": "Gentleman.Dots > ℹ️ **更新 (2026年1月)**: OpenCodeは、opencode-anthropic-authプラグイン（本設定に含まれています）を通じて、Claude Max/Proのサブスクリプションをサポートしました。**Claude Code**と**OpenCode**の両方が、Claudeのサブスクリプションで動作します。*注: 現在この回避策は安定していますが、Anthropicが将来的にブロックする可能性があります。* 目次 - これは何か？ - クイックスタート - サポートされているプラットフォーム - Vimマスタリートレーナー - ドキュメント - ツール概要 - 最先端機能 - プロジェクト構成 - サポート --- ...",
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "自律的なスキルフレームワークと、実際に機能するソフトウェア開発手法。",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowersは、コーディングエージェント向けの包括的なソフトウェア開発ワークフローです。これは、組み合わせ可能な「スキル」のセットと、エージェントがそれらを確実に使用するための初期指示に基づいて構築されています。\n\n仕組み：コーディングエージェントを起動した瞬間から始まります。何かの構築を開始したことを認識すると、すぐにコードを書き始めるのではなく、まず準備をします。",
       "language": "Shell",
-      "stars": 15
+      "stars": 1422
     },
     {
       "rank": 3,
-      "repo_name": "google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "description_ja": "LLMを活用して、非構造化テキストから構造化された情報を、正確なソースに基づいて抽出し、インタラクティブに可視化するためのPythonライブラリ。",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) 目次 - はじめに - LangExtractの利点 - クイックスタート - インストール - クラウドモデルのAPIキー設定 - ...",
-      "language": "Python",
+      "repo_name": "puckeditor/puck",
+      "description": "The visual editor for React with AI superpowers",
+      "description_ja": "AIを活用した、React向けビジュアルエディタ",
+      "readme_summary": "<br /><br /><br /> <div align=\"center\"> <a href=\"https://puckeditor.com?utm_source=readme&utm_medium=code&utm_campaign=repo&utm_contents=logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_White_RGB_j2rwgg.svg\" height=\"100px\" aria-label=\"Puck logo\"> <img src=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_Black_RGB_dqsjag.svg\" height=\"100px\" aria-label=\"Puck logo\"> </picture> </a> _The visual editor for Re...",
+      "readme_summary_ja": "Re...のためのビジュアルエディタ、Puck。",
+      "language": "TypeScript",
       "stars": 336
     },
     {
       "rank": 4,
-      "repo_name": "cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "description_ja": "完全オフラインで動作する、無料のオープンソースで拡張可能な音声テキスト変換アプリケーション。",
-      "readme_summary": "Handy ![Discord](https://discord.com/invite/WVBeWsNXK4) **A free, open source, and extensible speech-to-text application that works completely offline.** Handy is a cross-platform desktop application built with Tauri (Rust + React/TypeScript) that provides simple, privacy-focused speech transcription. Press a shortcut, speak, and have your words appear in any text field—all without sending your voice to the cloud. Why Handy? Handy was created to fill the gap for a truly open source, extensible s...",
-      "readme_summary_ja": "便利なオフライン音声テキスト変換アプリ Handy ![Discord](https://discord.com/invite/WVBeWsNXK4) **完全オフラインで動作する、無料のオープンソースで拡張可能な音声テキスト変換アプリケーションです。** Handyは、Tauri (Rust + React/TypeScript) で構築されたクロスプラットフォームのデスクトップアプリケーションで、シンプルでプライバシーを重視した音声文字起こしを提供します。ショートカットを押して話すだけで、クラウドに音声を送信することなく、あらゆるテキストフィールドにあなたの言葉が表示されます。Handyを選ぶ理由？Handyは、真にオープンソースで拡張可能な... のギャップを埋めるために作成されました。",
-      "language": "TypeScript",
-      "stars": 405
+      "repo_name": "google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "description_ja": "LLMを活用して、非構造化テキストから構造化された情報を、正確なソース特定とインタラクティブな可視化機能付きで抽出するPythonライブラリ。",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) 目次 - はじめに - LangExtractの利点 - クイックスタート - インストール - クラウドモデルのAPIキー設定 - ...",
+      "language": "Python",
+      "stars": 425
     },
     {
       "rank": 5,
-      "repo_name": "puckeditor/puck",
-      "description": "The visual editor for React",
-      "description_ja": "React のビジュアルエディタ",
-      "readme_summary": "<br /><br /><br /> <div align=\"center\"> <a href=\"https://puckeditor.com?utm_source=readme&utm_medium=code&utm_campaign=repo&utm_contents=logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_White_RGB_j2rwgg.svg\" height=\"100px\" aria-label=\"Puck logo\"> <img src=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_Black_RGB_dqsjag.svg\" height=\"100px\" aria-label=\"Puck logo\"> </picture> </a> _The visual editor for Re...",
-      "readme_summary_ja": "Re...のためのビジュアルエディタ、Puck。",
-      "language": "TypeScript",
-      "stars": 504
-    },
-    {
-      "rank": 6,
-      "repo_name": "ultralytics/ultralytics",
-      "description": "Ultralytics YOLO 🚀",
-      "description_ja": "Ultralytics YOLO 🚀",
-      "readme_summary": "<div align=\"center\"> <p> <a href=\"https://platform.ultralytics.com/ultralytics/yolo26\" target=\"_blank\"> <img width=\"100%\" src=\"https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png\" alt=\"Ultralytics YOLO banner\"></a> </p> 中文 | 한국어 | 日本語 | Русский | Deutsch | Français | Español | Português | Türkçe | Tiếng Việt | العربية <br> <div> <a href=\"https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml\"><img src=\"https://github.com/ultralytics/ultralytics/actions...",
-      "readme_summary_ja": "<div align=\"center\"> <p> <a href=\"https://platform.ultralytics.com/ultralytics/yolo26\" target=\"_blank\"> <img width=\"100%\" src=\"https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png\" alt=\"Ultralytics YOLO banner\"></a> </p> 中文 | 한국어 | 日本語 | Русский | Deutsch | Français | Español | Português | Türkçe | Tiếng Việt | العربية <br> <div> <a href=\"https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml\"><img src=\"https://github.com/ultralytics/ultralytics/actions...",
-      "language": "Python",
-      "stars": 379
-    },
-    {
-      "rank": 7,
-      "repo_name": "eigent-ai/eigent",
-      "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
-      "description_ja": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
-      "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-head]][eigent-site] [![][image-seperator]][eigent-site] Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity <!-- SHIELD GROUP --> [![][download-shield]][eigent-download] [![][github-star]][eigent-github] [![][social-x-shield]][social-x-link] [![][discord-image]][discord-url]<br> [![Reddit][reddit-image]][reddit-url] [![Wechat][wechat-image]][wechat-url] [![][sponsor-shield]][sponsor-link] [![][built-with-camel]][...",
-      "readme_summary_ja": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-head]][eigent-site] [![][image-seperator]][eigent-site] Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity <!-- SHIELD GROUP --> [![][download-shield]][eigent-download] [![][github-star]][eigent-github] [![][social-x-shield]][social-x-link] [![][discord-image]][discord-url]<br> [![Reddit][reddit-image]][reddit-url] [![Wechat][wechat-image]][wechat-url] [![][sponsor-shield]][sponsor-link] [![][built-with-camel]][...",
-      "language": "TypeScript",
-      "stars": 2179
-    },
-    {
-      "rank": 8,
       "repo_name": "iOfficeAI/AionUi",
       "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
-      "description_ja": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+      "description_ja": "Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggieなどに対応した、無料・ローカル実行・オープンソースのCoworkです。気に入ったらスターをお願いします！",
       "readme_summary": "<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?sty...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - CLI AIエージェントと連携\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?sty...",
       "language": "TypeScript",
-      "stars": 174
-    },
-    {
-      "rank": 9,
-      "repo_name": "agentsmd/agents.md",
-      "description": "AGENTS.md — a simple, open format for guiding coding agents",
-      "description_ja": "AGENTS.md - コーディングエージェントを導くための、シンプルでオープンなフォーマット",
-      "readme_summary": "AGENTS.md !AGENTS.md logo AGENTS.md is a simple, open format for guiding coding agents. Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide context and instructions to help AI coding agents work on your project. Below is a minimal example of an AGENTS.md file: Website This repository also includes a basic Next.js website hosted at https://agents.md/ that explains the project’s goals in a simple way, and featuring some examples",
-      "readme_summary_ja": "AGENTS.mdは、コーディングエージェントを導くためのシンプルでオープンなフォーマットです。AGENTS.mdをエージェント向けのREADMEと考えてください。AIコーディングエージェントがあなたのプロジェクトで作業するのを支援するために、コンテキストと指示を提供する、専用の予測可能な場所です。以下は、AGENTS.mdファイルの最小限の例です。\n\nウェブサイト：このリポジトリには、プロジェクトの目標をわかりやすく説明し、いくつかの例を紹介する、https://agents.md/ でホストされている基本的なNext.jsウェブサイトも含まれています。",
-      "language": "TypeScript",
-      "stars": 97
+      "stars": 605
     }
   ]
 }
