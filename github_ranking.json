@@ -1,96 +1,56 @@
 {
-  "updated_at": "2026-01-17 09:00:29",
-  "total_repos": 9,
+  "updated_at": "2026-01-18 09:00:18",
+  "total_repos": 5,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 1961
-    },
-    {
-      "rank": 2,
-      "repo_name": "Gentleman-Programming/Gentleman.Dots",
-      "description": "My personal configuration for LazyVim !",
-      "description_ja": "My personal configuration for LazyVim !",
-      "readme_summary": "Gentleman.Dots > ℹ️ **Update (January 2026)**: OpenCode now supports Claude Max/Pro subscriptions via the opencode-anthropic-auth plugin (included in this config). Both **Claude Code** and **OpenCode** work with your Claude subscription. *Note: This workaround is stable for now, but Anthropic could block it in the future.* Table of Contents - What is this? - Quick Start - Supported Platforms - Vim Mastery Trainer - Documentation - Tools Overview - Bleeding Edge - Project Structure - Support --- ...",
-      "readme_summary_ja": "Gentleman.Dots > ℹ️ **Update (January 2026)**: OpenCode now supports Claude Max/Pro subscriptions via the opencode-anthropic-auth plugin (included in this config). Both **Claude Code** and **OpenCode** work with your Claude subscription. *Note: This workaround is stable for now, but Anthropic could block it in the future.* Table of Contents - What is this? - Quick Start - Supported Platforms - Vim Mastery Trainer - Documentation - Tools Overview - Bleeding Edge - Project Structure - Support --- ...",
-      "language": "Shell",
-      "stars": 15
-    },
-    {
-      "rank": 3,
-      "repo_name": "google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "description_ja": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "language": "Python",
-      "stars": 336
-    },
-    {
-      "rank": 4,
-      "repo_name": "cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "description_ja": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "readme_summary": "Handy ![Discord](https://discord.com/invite/WVBeWsNXK4) **A free, open source, and extensible speech-to-text application that works completely offline.** Handy is a cross-platform desktop application built with Tauri (Rust + React/TypeScript) that provides simple, privacy-focused speech transcription. Press a shortcut, speak, and have your words appear in any text field—all without sending your voice to the cloud. Why Handy? Handy was created to fill the gap for a truly open source, extensible s...",
-      "readme_summary_ja": "Handy ![Discord](https://discord.com/invite/WVBeWsNXK4) **A free, open source, and extensible speech-to-text application that works completely offline.** Handy is a cross-platform desktop application built with Tauri (Rust + React/TypeScript) that provides simple, privacy-focused speech transcription. Press a shortcut, speak, and have your words appear in any text field—all without sending your voice to the cloud. Why Handy? Handy was created to fill the gap for a truly open source, extensible s...",
-      "language": "TypeScript",
-      "stars": 405
-    },
-    {
-      "rank": 5,
-      "repo_name": "puckeditor/puck",
-      "description": "The visual editor for React",
-      "description_ja": "The visual editor for React",
-      "readme_summary": "<br /><br /><br /> <div align=\"center\"> <a href=\"https://puckeditor.com?utm_source=readme&utm_medium=code&utm_campaign=repo&utm_contents=logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_White_RGB_j2rwgg.svg\" height=\"100px\" aria-label=\"Puck logo\"> <img src=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_Black_RGB_dqsjag.svg\" height=\"100px\" aria-label=\"Puck logo\"> </picture> </a> _The visual editor for Re...",
-      "readme_summary_ja": "<br /><br /><br /> <div align=\"center\"> <a href=\"https://puckeditor.com?utm_source=readme&utm_medium=code&utm_campaign=repo&utm_contents=logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_White_RGB_j2rwgg.svg\" height=\"100px\" aria-label=\"Puck logo\"> <img src=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_Black_RGB_dqsjag.svg\" height=\"100px\" aria-label=\"Puck logo\"> </picture> </a> _The visual editor for Re...",
-      "language": "TypeScript",
-      "stars": 504
-    },
-    {
-      "rank": 6,
-      "repo_name": "ultralytics/ultralytics",
-      "description": "Ultralytics YOLO 🚀",
-      "description_ja": "Ultralytics YOLO 🚀",
-      "readme_summary": "<div align=\"center\"> <p> <a href=\"https://platform.ultralytics.com/ultralytics/yolo26\" target=\"_blank\"> <img width=\"100%\" src=\"https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png\" alt=\"Ultralytics YOLO banner\"></a> </p> 中文 | 한국어 | 日本語 | Русский | Deutsch | Français | Español | Português | Türkçe | Tiếng Việt | العربية <br> <div> <a href=\"https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml\"><img src=\"https://github.com/ultralytics/ultralytics/actions...",
-      "readme_summary_ja": "<div align=\"center\"> <p> <a href=\"https://platform.ultralytics.com/ultralytics/yolo26\" target=\"_blank\"> <img width=\"100%\" src=\"https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png\" alt=\"Ultralytics YOLO banner\"></a> </p> 中文 | 한국어 | 日本語 | Русский | Deutsch | Français | Español | Português | Türkçe | Tiếng Việt | العربية <br> <div> <a href=\"https://github.com/ultralytics/ultralytics/actions/workflows/ci.yml\"><img src=\"https://github.com/ultralytics/ultralytics/actions...",
-      "language": "Python",
-      "stars": 379
-    },
-    {
-      "rank": 7,
       "repo_name": "eigent-ai/eigent",
       "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
       "description_ja": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
       "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-head]][eigent-site] [![][image-seperator]][eigent-site] Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity <!-- SHIELD GROUP --> [![][download-shield]][eigent-download] [![][github-star]][eigent-github] [![][social-x-shield]][social-x-link] [![][discord-image]][discord-url]<br> [![Reddit][reddit-image]][reddit-url] [![Wechat][wechat-image]][wechat-url] [![][sponsor-shield]][sponsor-link] [![][built-with-camel]][...",
       "readme_summary_ja": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-head]][eigent-site] [![][image-seperator]][eigent-site] Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity <!-- SHIELD GROUP --> [![][download-shield]][eigent-download] [![][github-star]][eigent-github] [![][social-x-shield]][social-x-link] [![][discord-image]][discord-url]<br> [![Reddit][reddit-image]][reddit-url] [![Wechat][wechat-image]][wechat-url] [![][sponsor-shield]][sponsor-link] [![][built-with-camel]][...",
       "language": "TypeScript",
-      "stars": 2179
+      "stars": 760
     },
     {
-      "rank": 8,
+      "rank": 2,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 1422
+    },
+    {
+      "rank": 3,
+      "repo_name": "puckeditor/puck",
+      "description": "The visual editor for React with AI superpowers",
+      "description_ja": "The visual editor for React with AI superpowers",
+      "readme_summary": "<br /><br /><br /> <div align=\"center\"> <a href=\"https://puckeditor.com?utm_source=readme&utm_medium=code&utm_campaign=repo&utm_contents=logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_White_RGB_j2rwgg.svg\" height=\"100px\" aria-label=\"Puck logo\"> <img src=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_Black_RGB_dqsjag.svg\" height=\"100px\" aria-label=\"Puck logo\"> </picture> </a> _The visual editor for Re...",
+      "readme_summary_ja": "<br /><br /><br /> <div align=\"center\"> <a href=\"https://puckeditor.com?utm_source=readme&utm_medium=code&utm_campaign=repo&utm_contents=logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_White_RGB_j2rwgg.svg\" height=\"100px\" aria-label=\"Puck logo\"> <img src=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_Black_RGB_dqsjag.svg\" height=\"100px\" aria-label=\"Puck logo\"> </picture> </a> _The visual editor for Re...",
+      "language": "TypeScript",
+      "stars": 336
+    },
+    {
+      "rank": 4,
+      "repo_name": "google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "description_ja": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
+      "language": "Python",
+      "stars": 425
+    },
+    {
+      "rank": 5,
       "repo_name": "iOfficeAI/AionUi",
       "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
       "description_ja": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
       "readme_summary": "<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?sty...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?sty...",
       "language": "TypeScript",
-      "stars": 174
-    },
-    {
-      "rank": 9,
-      "repo_name": "agentsmd/agents.md",
-      "description": "AGENTS.md — a simple, open format for guiding coding agents",
-      "description_ja": "AGENTS.md — a simple, open format for guiding coding agents",
-      "readme_summary": "AGENTS.md !AGENTS.md logo AGENTS.md is a simple, open format for guiding coding agents. Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide context and instructions to help AI coding agents work on your project. Below is a minimal example of an AGENTS.md file: Website This repository also includes a basic Next.js website hosted at https://agents.md/ that explains the project’s goals in a simple way, and featuring some examples",
-      "readme_summary_ja": "AGENTS.md !AGENTS.md logo AGENTS.md is a simple, open format for guiding coding agents. Think of AGENTS.md as a README for agents: a dedicated, predictable place to provide context and instructions to help AI coding agents work on your project. Below is a minimal example of an AGENTS.md file: Website This repository also includes a basic Next.js website hosted at https://agents.md/ that explains the project’s goals in a simple way, and featuring some examples",
-      "language": "TypeScript",
-      "stars": 97
+      "stars": 605
     }
   ]
 }
