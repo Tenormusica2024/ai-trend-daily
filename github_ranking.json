@@ -1,56 +1,96 @@
 {
-  "updated_at": "2026-01-18 03:07:44",
-  "total_repos": 5,
+  "updated_at": "2026-01-19 03:08:55",
+  "total_repos": 9,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "eigent-ai/eigent",
-      "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
-      "description_ja": "Eigent: 例外的な生産性を引き出す、オープンソースのコワークデスクトップ。",
-      "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-head]][eigent-site] [![][image-seperator]][eigent-site] Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity <!-- SHIELD GROUP --> [![][download-shield]][eigent-download] [![][github-star]][eigent-github] [![][social-x-shield]][social-x-link] [![][discord-image]][discord-url]<br> [![Reddit][reddit-image]][reddit-url] [![Wechat][wechat-image]][wechat-url] [![][sponsor-shield]][sponsor-link] [![][built-with-camel]][...",
-      "readme_summary_ja": "Eigent: 例外的な生産性を引き出す、オープンソースのコワークデスクトップ\n\n<!-- シールドグループ -->\n\n[ダウンロード][Eigentダウンロード] [GitHubスター][Eigent GitHub] [X (旧Twitter)][Xリンク] [Discord][Discord URL]\n[Reddit][Reddit URL] [Wechat][Wechat URL] [スポンサー][スポンサーリンク] [Camelで構築] [...]",
-      "language": "TypeScript",
-      "stars": 760
-    },
-    {
-      "rank": 2,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "自律的なスキルフレームワークと、実際に機能するソフトウェア開発手法。",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowersは、コーディングエージェント向けの包括的なソフトウェア開発ワークフローです。これは、組み合わせ可能な「スキル」のセットと、エージェントがそれらを確実に使用するための初期指示に基づいて構築されています。\n\n仕組み：コーディングエージェントを起動した瞬間から始まります。何かの構築を開始したことを認識すると、すぐにコードを書き始めるのではなく、まず準備をします。",
-      "language": "Shell",
-      "stars": 1422
-    },
-    {
-      "rank": 3,
-      "repo_name": "puckeditor/puck",
-      "description": "The visual editor for React with AI superpowers",
-      "description_ja": "AIを活用した、React向けビジュアルエディタ",
-      "readme_summary": "<br /><br /><br /> <div align=\"center\"> <a href=\"https://puckeditor.com?utm_source=readme&utm_medium=code&utm_campaign=repo&utm_contents=logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_White_RGB_j2rwgg.svg\" height=\"100px\" aria-label=\"Puck logo\"> <img src=\"https://res.cloudinary.com/die3nptcg/image/upload/Puck_Logo_Black_RGB_dqsjag.svg\" height=\"100px\" aria-label=\"Puck logo\"> </picture> </a> _The visual editor for Re...",
-      "readme_summary_ja": "Re...のためのビジュアルエディタ、Puck。",
-      "language": "TypeScript",
-      "stars": 336
-    },
-    {
-      "rank": 4,
-      "repo_name": "google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "description_ja": "LLMを活用して、非構造化テキストから構造化された情報を、正確なソース特定とインタラクティブな可視化機能付きで抽出するPythonライブラリ。",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) 目次 - はじめに - LangExtractの利点 - クイックスタート - インストール - クラウドモデルのAPIキー設定 - ...",
-      "language": "Python",
-      "stars": 425
-    },
-    {
-      "rank": 5,
       "repo_name": "iOfficeAI/AionUi",
       "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
       "description_ja": "Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggieなどに対応した、無料・ローカル実行・オープンソースのCoworkです。気に入ったらスターをお願いします！",
       "readme_summary": "<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?sty...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - CLI AIエージェントと連携\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?sty...",
       "language": "TypeScript",
-      "stars": 605
+      "stars": 651
+    },
+    {
+      "rank": 2,
+      "repo_name": "yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "description_ja": "高機能なコマンドライン動画/音声ダウンローダー",
+      "readme_summary": "<!-- MANPAGE: BEGIN EXCLUDED SECTION --> <div align=\"center\"> ![YT-DLP](#readme) ![Release version](#installation \"Installation\") ![PyPI](https://pypi.org/project/yt-dlp \"PyPI\") ![Donate](Maintainers.md#maintainers \"Donate\") ![Discord](https://discord.gg/H5MNcFW63r \"Discord\") ![Supported Sites](supportedsites.md \"Supported Sites\") ![License: Unlicense](LICENSE \"License\") ![CI Status](https://github.com/yt-dlp/yt-dlp/actions \"CI Status\") ![Commits](https://github.com/yt-dlp/yt-dlp/commits \"Commit...",
+      "readme_summary_ja": "<div align=\"center\"> ![YT-DLP](#readme) ![リリースバージョン](#installation \"インストール\") ![PyPI](https://pypi.org/project/yt-dlp \"PyPI\") ![寄付](Maintainers.md#maintainers \"寄付\") ![Discord](https://discord.gg/H5MNcFW63r \"Discord\") ![対応サイト](supportedsites.md \"対応サイト\") ![ライセンス: Unlicense](LICENSE \"ライセンス\") ![CIステータス](https://github.com/yt-dlp/yt-dlp/actions \"CIステータス\") ![コミット](https://github.com/yt-dlp/yt-dlp/commits \"コミット...",
+      "language": "Python",
+      "stars": 149
+    },
+    {
+      "rank": 3,
+      "repo_name": "nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "description_ja": "高性能なアルゴリズム取引プラットフォームとイベント駆動型バックテスター",
+      "readme_summary": "<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\"> ![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader) ![codspeed](https://codspeed.io/nautechsystems/nautilus_trader) !pythons !pypi-version !pypi-format ![Downloads](https://pepy.tech/project/nautilus-trader) ![Discord](https://discord.gg/NautilusTrader) | Branch | Version | Status | | :-------- | :----------------------------------------------------------------------...",
+      "readme_summary_ja": "Nautilus Trader\n\n[![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader)](https://codecov.io/gh/nautechsystems/nautilus_trader) [![codspeed](https://codspeed.io/nautechsystems/nautilus_trader)](https://codspeed.io/nautechsystems/nautilus_trader) ![pythons](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue) ![pypi-version](https://badge.fury.io/py/nautilus-trader.svg) ![pypi-format](https://img.shields.io/pypi/format/n",
+      "language": "Rust",
+      "stars": 46
+    },
+    {
+      "rank": 4,
+      "repo_name": "google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "description_ja": "LLMを活用して、非構造化テキストから構造化された情報を、正確なソースに基づき抽出し、インタラクティブに可視化するためのPythonライブラリ。",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) 目次 - はじめに - LangExtractを選ぶ理由 - クイックスタート - インストール - クラウドモデルのAPIキー設定 - ...",
+      "language": "Python",
+      "stars": 395
+    },
+    {
+      "rank": 5,
+      "repo_name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+      "description_ja": "VoxCPM：トークナイザー不要のTTS、文脈を考慮した音声生成とリアルな声質クローンを実現",
+      "readme_summary": "🎙️ VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning ![Project Page](https://github.com/OpenBMB/VoxCPM/) ![Technical Report](https://arxiv.org/abs/2509.24650)![Live Playground](https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo) ![Samples](https://openbmb.github.io/VoxCPM-demopage) VoxCPM1.5 Model Weights ![Hugging Face](https://huggingface.co/openbmb/VoxCPM1.5) ![ModelScope](https://modelscope.cn/models/OpenBMB/VoxCPM1.5) <div align=\"center\"> <img src=...",
+      "readme_summary_ja": "🎙️ VoxCPM: トークナイザ不要、文脈を考慮した音声生成とリアルな声質クローンを実現するTTS\n\n[プロジェクトページ](https://github.com/OpenBMB/VoxCPM/) [技術レポート](https://arxiv.org/abs/2509.24650) [ライブデモ](https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo) [サンプル](https://openbmb.github.io/VoxCPM-demopage) VoxCPM1.5 モデルウェイト [Hugging Face](https://huggingface.co/openbmb/VoxCPM1.5) [ModelScope](https://modelscope.cn/models/OpenBMB/VoxCPM1.5)",
+      "language": "Python",
+      "stars": 238
+    },
+    {
+      "rank": 6,
+      "repo_name": "yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "description_ja": "LEANNで全てを対象としたRAGを。高速かつ正確で、100%プライベートなRAGアプリケーションを個人のデバイス上で実行しながら、97%のストレージ節約を実現します。",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
+      "language": "Python",
+      "stars": 144
+    },
+    {
+      "rank": 7,
+      "repo_name": "Flowseal/zapret-discord-youtube",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального разработчика zapret тут </div> > [!CAUTION] > > ФЕЙКИ > Я не веду ни...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального разработчика zapret тут </div> > [!CAUTION] > > ФЕЙКИ > Я не веду ни...",
+      "language": "Batchfile",
+      "stars": 55
+    },
+    {
+      "rank": 8,
+      "repo_name": "tobi/try",
+      "description": "fresh directories for every vibe",
+      "description_ja": "気分に合わせてディレクトリを新規作成",
+      "readme_summary": "try - fresh directories for every vibe **Website** · **RubyGems** · **GitHub** *Your experiments deserve a home.* 🏠 > For everyone who constantly creates new projects for little experiments, a one-file Ruby script to quickly manage and navigate to keep them somewhat organized Ever find yourself with 50 directories named test, test2, new-test, actually-working-test, scattered across your filesystem? Or worse, just coding in /tmp and losing everything? **try** is here for your beautifully chaotic ...",
+      "readme_summary_ja": "try - fresh directories for every vibe **Website** · **RubyGems** · **GitHub** *Your experiments deserve a home.* 🏠 > For everyone who constantly creates new projects for little experiments, a one-file Ruby script to quickly manage and navigate to keep them somewhat organized Ever find yourself with 50 directories named test, test2, new-test, actually-working-test, scattered across your filesystem? Or worse, just coding in /tmp and losing everything? **try** is here for your beautifully chaotic ...",
+      "language": "Shell",
+      "stars": 29
+    },
+    {
+      "rank": 9,
+      "repo_name": "Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "description_ja": "Common User Passwords Profiler (CUPP)",
+      "readme_summary": "CUPP - Common User Passwords Profiler ![Build Status](https://travis-ci.org/Mebus/cupp) ![Coverage Status](https://coveralls.io/github/Mebus/cupp) ![Codacy Badge](https://app.codacy.com/gh/Mebus/cupp/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) About The most common form of authentication is the combination of a username and a password or passphrase. If both match values stored within a locally s...",
+      "readme_summary_ja": "CUPP - 一般的なユーザーパスワードプロファイラー\n\n最も一般的な認証形式は、ユーザー名とパスワード（またはパスフレーズ）の組み合わせです。両方がローカルに保存された値と一致する場合...",
+      "language": "Python",
+      "stars": 31
     }
   ]
 }
