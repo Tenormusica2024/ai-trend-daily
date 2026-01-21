@@ -1,86 +1,76 @@
 {
-  "updated_at": "2026-01-20 03:03:41",
-  "total_repos": 8,
+  "updated_at": "2026-01-21 03:02:35",
+  "total_repos": 7,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "OpenBMB/VoxCPM",
-      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
-      "description_ja": "VoxCPM: トークン不要のTTS、文脈を考慮した音声生成とリアルな声質クローニングを実現",
-      "readme_summary": "🎙️ VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning ![Project Page](https://github.com/OpenBMB/VoxCPM/) ![Technical Report](https://arxiv.org/abs/2509.24650)![Live Playground](https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo) ![Samples](https://openbmb.github.io/VoxCPM-demopage) VoxCPM1.5 Model Weights ![Hugging Face](https://huggingface.co/openbmb/VoxCPM1.5) ![ModelScope](https://modelscope.cn/models/OpenBMB/VoxCPM1.5) <div align=\"center\"> <img src=...",
-      "readme_summary_ja": "🎙️ VoxCPM：トークン化不要のTTS、文脈を考慮した音声生成とリアルな声質クローニングを実現 ![プロジェクトページ](https://github.com/OpenBMB/VoxCPM/) ![技術レポート](https://arxiv.org/abs/2509.24650) ![ライブデモ](https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo) ![サンプル](https://openbmb.github.io/VoxCPM-demopage) VoxCPM1.5 モデルウェイト ![Hugging Face](https://huggingface.co/openbmb/VoxCPM1.5) ![ModelScope](https://modelscope.cn/models/OpenBMB/VoxCPM1.5) <div align=\"center\"> <img src=...",
+      "repo_name": "microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "description_ja": "AIエージェントを活性化させるための究極のトレーナー。",
+      "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![単体テスト](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![ドキュメント](https://microsoft.github.io/agent-lightning/) ![PyPIバージョン](https://badge.fury.io/py/agentlightning) ![ライセンス](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **究極のトレーナー、それは…",
       "language": "Python",
-      "stars": 673
+      "stars": 98
     },
     {
       "rank": 2,
-      "repo_name": "google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "description_ja": "LLMを活用して、非構造化テキストから構造化された情報を、正確なソース特定とインタラクティブな可視化機能付きで抽出するPythonライブラリ。",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) 目次 - はじめに - LangExtractの利点 - クイックスタート - インストール - クラウドモデルのAPIキー設定 - ...",
-      "language": "Python",
-      "stars": 652
-    },
-    {
-      "rank": 3,
       "repo_name": "iOfficeAI/AionUi",
       "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
       "description_ja": "Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggieなどに対応した、無料・ローカル実行・オープンソースのCoworkです。気に入ったらスターをお願いします！",
       "readme_summary": "﻿<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?st...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - CLI AIエージェントと連携\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?st...",
       "language": "TypeScript",
-      "stars": 1192
+      "stars": 970
+    },
+    {
+      "rank": 3,
+      "repo_name": "google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "description_ja": "LLMを活用し、非構造化テキストから構造化された情報を、正確なソースに基づいて抽出し、インタラクティブに可視化するためのPythonライブラリ。",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) 目次 - はじめに - LangExtractの利点 - クイックスタート - インストール - クラウドモデルのAPIキー設定 - ...",
+      "language": "Python",
+      "stars": 552
     },
     {
       "rank": 4,
-      "repo_name": "czlonkowski/n8n-mcp",
-      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-      "description_ja": "Claude Desktop、Claude Code、Windsurf、Cursorからn8nワークフローを構築するためのMCP（Meta-Control Program）",
-      "readme_summary": "n8n-MCP ![License: MIT](https://opensource.org/licenses/MIT) ![GitHub stars](https://github.com/czlonkowski/n8n-mcp) ![npm version](https://www.npmjs.com/package/n8n-mcp) ![codecov](https://codecov.io/gh/czlonkowski/n8n-mcp) ![Tests](https://github.com/czlonkowski/n8n-mcp/actions) ![n8n version](https://github.com/n8n-io/n8n) ![Docker](https://github.com/czlonkowski/n8n-mcp/pkgs/container/n8n-mcp) ![Deploy on Railway](https://railway.com/deploy/n8n-mcp?referralCode=n8n-mcp) A Model Context Proto...",
-      "readme_summary_ja": "n8n-MCP（モデルコンテキストプロトコル）\n\nライセンス: MIT\nGitHubスター数: [スター数]\nnpmバージョン: [バージョン]\nCodecov: [カバレッジ]\nテスト: [テスト状況]\nn8nバージョン: [バージョン]\nDockerイメージ: [イメージ]\nRailwayへのデプロイ: [デプロイ]",
-      "language": "TypeScript",
-      "stars": 95
+      "repo_name": "AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "description_ja": "RTSP、RTMP、HTTP-FLV、WebRTC、MSE、HLS、MP4、MJPEG、HomeKit、FFmpegなど、様々なプロトコルに対応した究極のカメラストリーミングアプリケーション。",
+      "readme_summary": "<h1 align=\"center\"> !go2rtc <br> ![stars](https://github.com/AlexxIT/go2rtc/stargazers) ![docker pulls](https://hub.docker.com/r/alexxit/go2rtc) ![releases](https://github.com/AlexxIT/go2rtc/releases) ![goreport](https://goreportcard.com/report/github.com/AlexxIT/go2rtc) </h1> Ultimate camera streaming application with support for RTSP, WebRTC, HomeKit, FFmpeg, RTMP, etc. ![](assets/go2rtc.png) - zero-dependency and zero-config small app for all OS (Windows, macOS, Linux, ARM) - zero-delay for m...",
+      "readme_summary_ja": "# !go2rtc\n究極のカメラストリーミングアプリケーション。RTSP、WebRTC、HomeKit、FFmpeg、RTMPなどをサポート。\n\n- 依存関係なし、設定不要の小型アプリで、すべてのOS（Windows、macOS、Linux、ARM）に対応\n- m... のゼロ遅延",
+      "language": "Go",
+      "stars": 69
     },
     {
       "rank": 5,
-      "repo_name": "nautechsystems/nautilus_trader",
-      "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "description_ja": "高性能なアルゴリズム取引プラットフォームおよびイベント駆動型バックテスター",
-      "readme_summary": "<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\"> ![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader) ![codspeed](https://codspeed.io/nautechsystems/nautilus_trader) !pythons !pypi-version !pypi-format ![Downloads](https://pepy.tech/project/nautilus-trader) ![Discord](https://discord.gg/NautilusTrader) | Branch | Version | Status | | :-------- | :----------------------------------------------------------------------...",
-      "readme_summary_ja": "Nautilus Trader\n\n[ロゴ画像]\n\n[Codecovバッジ] [Codspeedバッジ] [Python対応状況バッジ] [PyPIバージョンバッジ] [PyPIフォーマットバッジ] [ダウンロード数バッジ] [Discordバッジ]\n\n| ブランチ | バージョン | ステータス |\n| :-------- | :----------------------------------------------------------------------...",
-      "language": "Rust",
-      "stars": 518
+      "repo_name": "lukasz-madon/awesome-remote-job",
+      "description": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
+      "description_ja": "素晴らしいリモートワークと関連リソースの厳選リスト。https://github.com/vinta/awesome-python に触発されました。",
+      "readme_summary": "Awesome Remote Job ![Awesome](https://github.com/sindresorhus/awesome) ![Track Awesome List](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/) A curated list of awesome remote working resources. *To contribute, click README.md and then the pencil icon. Make your changes and click the \"Propose file change\" button to submit a pull request",
+      "readme_summary_ja": "素晴らしいリモートワーク ![Awesome](https://github.com/sindresorhus/awesome) ![Awesomeリストを追跡](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/) リモートワークに役立つ厳選されたリソース集です。 *貢献するには、README.mdをクリックし、鉛筆アイコンをクリックしてください。変更を加え、「変更を提案」ボタンをクリックしてプルリクエストを送信してください。",
+      "language": "",
+      "stars": 262
     },
     {
       "rank": 6,
-      "repo_name": "ahujasid/blender-mcp",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "BlenderMCP - Blender Model Context Protocol Integration BlenderMCP connects Blender to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Blender. This integration enables prompt assisted 3D modeling, scene creation, and manipulation. **We have no official website",
-      "readme_summary_ja": "BlenderMCP - Blenderモデルコンテキストプロトコル統合\n\nBlenderMCPは、Blenderをモデルコンテキストプロトコル（MCP）を介してClaude AIに接続し、ClaudeがBlenderと直接やり取りし、制御できるようにします。この統合により、プロンプトによる3Dモデリング、シーン作成、および操作が可能になります。\n\n**公式ウェブサイトはありません。",
-      "language": "Python",
-      "stars": 188
+      "repo_name": "tobi/try",
+      "description": "fresh directories for every vibe",
+      "description_ja": "気分に合わせてディレクトリを新規作成",
+      "readme_summary": "try - fresh directories for every vibe **Website** · **RubyGems** · **GitHub** *Your experiments deserve a home.* 🏠 > For everyone who constantly creates new projects for little experiments, a one-file Ruby script to quickly manage and navigate to keep them somewhat organized Ever find yourself with 50 directories named test, test2, new-test, actually-working-test, scattered across your filesystem? Or worse, just coding in /tmp and losing everything? **try** is here for your beautifully chaotic ...",
+      "readme_summary_ja": "try - あらゆる気分に合わせた新鮮なディレクトリを **ウェブサイト** · **RubyGems** · **GitHub** *あなたの実験には居場所が必要です。* 🏠\n\nちょっとした実験のために常に新しいプロジェクトを作成するすべての人へ。それらを整理し、素早く管理・移動するための、単一ファイルのRubyスクリプトです。\n\nファイルシステム全体に、test、test2、new-test、actually-working-testといった名前のディレクトリが50個も散らばっていることはありませんか？ あるいは、もっと悪いことに、/tmpでコーディングしてすべてを失ってしまうことは？ **try**は、あなたの美しく混沌とした状況を救います...",
+      "language": "Shell",
+      "stars": 43
     },
     {
       "rank": 7,
-      "repo_name": "yichuan-w/LEANN",
-      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-      "description_ja": "LEANNで全てを対象としたRAGを。高速かつ正確で、100%プライベートなRAGアプリケーションを個人のデバイス上で実行しながら、97%のストレージ節約を実現します。",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo-text.png\" alt=\"LEANN Logo\" width=\"400\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg\" alt=\"Python Versions\"> <img src=\"https://github.com/yichuan-w/LEANN/actions/workflows/build-and-publish.yml/badge.svg\" alt=\"CI Status\"> <img src=\"https://img.shields.io/badge/Platform-Ubuntu%20%26%20Arch%20%26%20WSL%20%7C%20macOS%20(ARM64%2FIntel)-lightgrey\" alt=\"Platform\"> <img src...",
-      "language": "Python",
-      "stars": 374
-    },
-    {
-      "rank": 8,
       "repo_name": "DavidXanatos/TaskExplorer",
       "description": "Power full Task Manager",
       "description_ja": "Power full Task Manager",
       "readme_summary": "TaskExplorer Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing. Its user interface prioritizes speed and efficiency, delivering real-time data on processes with minimal interaction. Instead of requiring multiple windows or sub-windows, Task Explorer displays relevant information in accessible panels",
       "readme_summary_ja": "TaskExplorer Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing. Its user interface prioritizes speed and efficiency, delivering real-time data on processes with minimal interaction. Instead of requiring multiple windows or sub-windows, Task Explorer displays relevant information in accessible panels",
       "language": "C",
-      "stars": 236
+      "stars": 328
     }
   ]
 }
