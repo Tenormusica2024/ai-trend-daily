@@ -1,76 +1,86 @@
 {
-  "updated_at": "2026-01-21 09:00:24",
-  "total_repos": 7,
+  "updated_at": "2026-01-22 09:00:27",
+  "total_repos": 8,
   "ranking": [
     {
       "rank": 1,
+      "repo_name": "tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "description_ja": "Generative UI SDK for React",
+      "readme_summary": "<div align=\"center\"> <img src=\"assets/octo-white-background-rounded.png\" width=\"150\"> <h1>Tambo AI</h1> <h3>Generative UI for React</h3> <p>Build apps that adapt to your users.</p> </div> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@tambo-ai/react\"><img src=\"https://img.shields.io/npm/v/%40tambo-ai%2Freact?logo=npm\" alt=\"npm version\" /></a> <a href=\"https://github.com/tambo-ai/tambo/blob/main/LICENSE\"><img src=\"https://img.shields.io/github/license/tambo-ai/tambo\" alt=\"License\" /><...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/octo-white-background-rounded.png\" width=\"150\"> <h1>Tambo AI</h1> <h3>Generative UI for React</h3> <p>Build apps that adapt to your users.</p> </div> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@tambo-ai/react\"><img src=\"https://img.shields.io/npm/v/%40tambo-ai%2Freact?logo=npm\" alt=\"npm version\" /></a> <a href=\"https://github.com/tambo-ai/tambo/blob/main/LICENSE\"><img src=\"https://img.shields.io/github/license/tambo-ai/tambo\" alt=\"License\" /><...",
+      "language": "TypeScript",
+      "stars": 222
+    },
+    {
+      "rank": 2,
+      "repo_name": "EveryInc/compound-engineering-plugin",
+      "description": "Official Claude Code compound engineering plugin",
+      "description_ja": "Official Claude Code compound engineering plugin",
+      "readme_summary": "Compound Marketplace A Claude Code plugin marketplace featuring the **Compound Engineering Plugin** — tools that make each unit of engineering work easier than the last. Install Workflow | Command | Purpose | |---------|---------| | /workflows:plan | Turn feature ideas into detailed implementation plans | | /workflows:work | Execute plans with worktrees and task tracking | | /workflows:review | Multi-agent code review before merging | | /workflows:compound | Document learnings to make future wor...",
+      "readme_summary_ja": "Compound Marketplace A Claude Code plugin marketplace featuring the **Compound Engineering Plugin** — tools that make each unit of engineering work easier than the last. Install Workflow | Command | Purpose | |---------|---------| | /workflows:plan | Turn feature ideas into detailed implementation plans | | /workflows:work | Execute plans with worktrees and task tracking | | /workflows:review | Multi-agent code review before merging | | /workflows:compound | Document learnings to make future wor...",
+      "language": "Python",
+      "stars": 190
+    },
+    {
+      "rank": 3,
+      "repo_name": "twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "description_ja": "Source code for the X Recommendation Algorithm",
+      "readme_summary": "X's Recommendation Algorithm X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our engineering blog",
+      "readme_summary_ja": "X's Recommendation Algorithm X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our engineering blog",
+      "language": "Scala",
+      "stars": 391
+    },
+    {
+      "rank": 4,
+      "repo_name": "xai-org/grok-1",
+      "description": "Grok open release",
+      "description_ja": "Grok open release",
+      "readme_summary": "Grok-1 This repository contains JAX example code for loading and running the Grok-1 open-weights model. Make sure to download the checkpoint and place the ckpt-0 directory in checkpoints - see Downloading the weights Then, run to test the code. The script loads the checkpoint and samples from the model on a test input",
+      "readme_summary_ja": "Grok-1 This repository contains JAX example code for loading and running the Grok-1 open-weights model. Make sure to download the checkpoint and place the ckpt-0 directory in checkpoints - see Downloading the weights Then, run to test the code. The script loads the checkpoint and samples from the model on a test input",
+      "language": "Python",
+      "stars": 141
+    },
+    {
+      "rank": 5,
       "repo_name": "microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
       "description_ja": "The absolute trainer to light up AI agents.",
       "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
       "language": "Python",
-      "stars": 98
-    },
-    {
-      "rank": 2,
-      "repo_name": "iOfficeAI/AionUi",
-      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
-      "description_ja": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
-      "readme_summary": "﻿<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?st...",
-      "readme_summary_ja": "﻿<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?st...",
-      "language": "TypeScript",
-      "stars": 970
-    },
-    {
-      "rank": 3,
-      "repo_name": "google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "description_ja": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "language": "Python",
-      "stars": 552
-    },
-    {
-      "rank": 4,
-      "repo_name": "AlexxIT/go2rtc",
-      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
-      "description_ja": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
-      "readme_summary": "<h1 align=\"center\"> !go2rtc <br> ![stars](https://github.com/AlexxIT/go2rtc/stargazers) ![docker pulls](https://hub.docker.com/r/alexxit/go2rtc) ![releases](https://github.com/AlexxIT/go2rtc/releases) ![goreport](https://goreportcard.com/report/github.com/AlexxIT/go2rtc) </h1> Ultimate camera streaming application with support for RTSP, WebRTC, HomeKit, FFmpeg, RTMP, etc. ![](assets/go2rtc.png) - zero-dependency and zero-config small app for all OS (Windows, macOS, Linux, ARM) - zero-delay for m...",
-      "readme_summary_ja": "<h1 align=\"center\"> !go2rtc <br> ![stars](https://github.com/AlexxIT/go2rtc/stargazers) ![docker pulls](https://hub.docker.com/r/alexxit/go2rtc) ![releases](https://github.com/AlexxIT/go2rtc/releases) ![goreport](https://goreportcard.com/report/github.com/AlexxIT/go2rtc) </h1> Ultimate camera streaming application with support for RTSP, WebRTC, HomeKit, FFmpeg, RTMP, etc. ![](assets/go2rtc.png) - zero-dependency and zero-config small app for all OS (Windows, macOS, Linux, ARM) - zero-delay for m...",
-      "language": "Go",
-      "stars": 69
-    },
-    {
-      "rank": 5,
-      "repo_name": "lukasz-madon/awesome-remote-job",
-      "description": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
-      "description_ja": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
-      "readme_summary": "Awesome Remote Job ![Awesome](https://github.com/sindresorhus/awesome) ![Track Awesome List](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/) A curated list of awesome remote working resources. *To contribute, click README.md and then the pencil icon. Make your changes and click the \"Propose file change\" button to submit a pull request",
-      "readme_summary_ja": "Awesome Remote Job ![Awesome](https://github.com/sindresorhus/awesome) ![Track Awesome List](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/) A curated list of awesome remote working resources. *To contribute, click README.md and then the pencil icon. Make your changes and click the \"Propose file change\" button to submit a pull request",
-      "language": "",
-      "stars": 262
+      "stars": 527
     },
     {
       "rank": 6,
+      "repo_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "description_ja": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
+      "language": "Python",
+      "stars": 100
+    },
+    {
+      "rank": 7,
+      "repo_name": "microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "description_ja": "10 Weeks, 20 Lessons, Data Science for All!",
+      "readme_summary": "Data Science for Beginners - A Curriculum ![Open in GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198) ![GitHub license](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/Data-Science-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/Data-Science-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/Data-Science-For-...",
+      "readme_summary_ja": "Data Science for Beginners - A Curriculum ![Open in GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198) ![GitHub license](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/Data-Science-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/Data-Science-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/Data-Science-For-...",
+      "language": "Jupyter Notebook",
+      "stars": 99
+    },
+    {
+      "rank": 8,
       "repo_name": "tobi/try",
       "description": "fresh directories for every vibe",
       "description_ja": "fresh directories for every vibe",
       "readme_summary": "try - fresh directories for every vibe **Website** · **RubyGems** · **GitHub** *Your experiments deserve a home.* 🏠 > For everyone who constantly creates new projects for little experiments, a one-file Ruby script to quickly manage and navigate to keep them somewhat organized Ever find yourself with 50 directories named test, test2, new-test, actually-working-test, scattered across your filesystem? Or worse, just coding in /tmp and losing everything? **try** is here for your beautifully chaotic ...",
       "readme_summary_ja": "try - fresh directories for every vibe **Website** · **RubyGems** · **GitHub** *Your experiments deserve a home.* 🏠 > For everyone who constantly creates new projects for little experiments, a one-file Ruby script to quickly manage and navigate to keep them somewhat organized Ever find yourself with 50 directories named test, test2, new-test, actually-working-test, scattered across your filesystem? Or worse, just coding in /tmp and losing everything? **try** is here for your beautifully chaotic ...",
       "language": "Shell",
-      "stars": 43
-    },
-    {
-      "rank": 7,
-      "repo_name": "DavidXanatos/TaskExplorer",
-      "description": "Power full Task Manager",
-      "description_ja": "Power full Task Manager",
-      "readme_summary": "TaskExplorer Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing. Its user interface prioritizes speed and efficiency, delivering real-time data on processes with minimal interaction. Instead of requiring multiple windows or sub-windows, Task Explorer displays relevant information in accessible panels",
-      "readme_summary_ja": "TaskExplorer Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing. Its user interface prioritizes speed and efficiency, delivering real-time data on processes with minimal interaction. Instead of requiring multiple windows or sub-windows, Task Explorer displays relevant information in accessible panels",
-      "language": "C",
-      "stars": 328
+      "stars": 189
     }
   ]
 }
