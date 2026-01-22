@@ -1,76 +1,86 @@
 {
-  "updated_at": "2026-01-21 03:02:35",
-  "total_repos": 7,
+  "updated_at": "2026-01-22 03:07:19",
+  "total_repos": 8,
   "ranking": [
     {
       "rank": 1,
+      "repo_name": "tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "description_ja": "React用 生成UI SDK",
+      "readme_summary": "<div align=\"center\"> <img src=\"assets/octo-white-background-rounded.png\" width=\"150\"> <h1>Tambo AI</h1> <h3>Generative UI for React</h3> <p>Build apps that adapt to your users.</p> </div> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@tambo-ai/react\"><img src=\"https://img.shields.io/npm/v/%40tambo-ai%2Freact?logo=npm\" alt=\"npm version\" /></a> <a href=\"https://github.com/tambo-ai/tambo/blob/main/LICENSE\"><img src=\"https://img.shields.io/github/license/tambo-ai/tambo\" alt=\"License\" /><...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/octo-white-background-rounded.png\" width=\"150\"> <h1>Tambo AI</h1> <h3>React用生成UI</h3> <p>ユーザーに適応するアプリを構築。</p> </div> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@tambo-ai/react\"><img src=\"https://img.shields.io/npm/v/%40tambo-ai%2Freact?logo=npm\" alt=\"npm version\" /></a> <a href=\"https://github.com/tambo-ai/tambo/blob/main/LICENSE\"><img src=\"https://img.shields.io/github/license/tambo-ai/tambo\" alt=\"License\" /></a>",
+      "language": "TypeScript",
+      "stars": 222
+    },
+    {
+      "rank": 2,
+      "repo_name": "EveryInc/compound-engineering-plugin",
+      "description": "Official Claude Code compound engineering plugin",
+      "description_ja": "公式 Claude コード複合エンジニアリングプラグイン",
+      "readme_summary": "Compound Marketplace A Claude Code plugin marketplace featuring the **Compound Engineering Plugin** — tools that make each unit of engineering work easier than the last. Claude Code Install OpenCode + Codex (experimental) Install This repo includes a Bun/TypeScript CLI that converts Claude Code plugins to OpenCode and Codex. Local dev: OpenCode output is written to ~/.opencode by default, with opencode.json at the root and agents/, skills/, and plugins/ alongside it",
+      "readme_summary_ja": "Compound Marketplace：Claude Codeプラグインのマーケットプレイス。特に、エンジニアリング作業を効率化するツール群「Compound Engineering Plugin」を搭載。\n\nClaude Codeインストール：OpenCode + Codex (実験的) をインストール。\n\nこのリポジトリには、Claude CodeプラグインをOpenCodeおよびCodex形式に変換するBun/TypeScript CLIが含まれています。\n\nローカル開発：OpenCodeの出力はデフォルトで`~/.opencode`に書き込まれます。ルートディレクトリには`opencode.json`が、その隣には`agents/`、`skills/`、`plugins/`ディレクトリが配置されます。",
+      "language": "TypeScript",
+      "stars": 190
+    },
+    {
+      "rank": 3,
+      "repo_name": "twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "description_ja": "Xレコメンデーションアルゴリズムのソースコード",
+      "readme_summary": "X's Recommendation Algorithm X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our engineering blog",
+      "readme_summary_ja": "Xのレコメンデーションアルゴリズムは、Xのすべてのプロダクト画面（例：おすすめタイムライン、検索、探索、通知）で、投稿やその他のコンテンツのフィードを提供するサービスとジョブ群です。アルゴリズムの仕組みについては、エンジニアリングブログをご覧ください。",
+      "language": "Scala",
+      "stars": 391
+    },
+    {
+      "rank": 4,
+      "repo_name": "xai-org/grok-1",
+      "description": "Grok open release",
+      "description_ja": "Grok オープンリリース",
+      "readme_summary": "Grok-1 This repository contains JAX example code for loading and running the Grok-1 open-weights model. Make sure to download the checkpoint and place the ckpt-0 directory in checkpoints - see Downloading the weights Then, run to test the code. The script loads the checkpoint and samples from the model on a test input",
+      "readme_summary_ja": "Grok-1：このリポジトリには、Grok-1のオープンウェイトモデルをロードして実行するためのJAXのサンプルコードが含まれています。チェックポイントをダウンロードし、ckpt-0ディレクトリをcheckpointsに配置してください（「重みのダウンロード」を参照）。その後、実行してコードをテストしてください。スクリプトはチェックポイントをロードし、テスト入力に対するモデルからのサンプルを生成します。",
+      "language": "Python",
+      "stars": 141
+    },
+    {
+      "rank": 5,
       "repo_name": "microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
       "description_ja": "AIエージェントを活性化させるための究極のトレーナー。",
       "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![単体テスト](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![ドキュメント](https://microsoft.github.io/agent-lightning/) ![PyPIバージョン](https://badge.fury.io/py/agentlightning) ![ライセンス](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **究極のトレーナー、それは…",
       "language": "Python",
-      "stars": 98
-    },
-    {
-      "rank": 2,
-      "repo_name": "iOfficeAI/AionUi",
-      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
-      "description_ja": "Gemini CLI、Claude Code、Codex、Opencode、Qwen Code、Goose Cli、Auggieなどに対応した、無料・ローカル実行・オープンソースのCoworkです。気に入ったらスターをお願いします！",
-      "readme_summary": "﻿<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?st...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - CLI AIエージェントと連携\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?st...",
-      "language": "TypeScript",
-      "stars": 970
-    },
-    {
-      "rank": 3,
-      "repo_name": "google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "description_ja": "LLMを活用し、非構造化テキストから構造化された情報を、正確なソースに基づいて抽出し、インタラクティブに可視化するためのPythonライブラリ。",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) 目次 - はじめに - LangExtractの利点 - クイックスタート - インストール - クラウドモデルのAPIキー設定 - ...",
-      "language": "Python",
-      "stars": 552
-    },
-    {
-      "rank": 4,
-      "repo_name": "AlexxIT/go2rtc",
-      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
-      "description_ja": "RTSP、RTMP、HTTP-FLV、WebRTC、MSE、HLS、MP4、MJPEG、HomeKit、FFmpegなど、様々なプロトコルに対応した究極のカメラストリーミングアプリケーション。",
-      "readme_summary": "<h1 align=\"center\"> !go2rtc <br> ![stars](https://github.com/AlexxIT/go2rtc/stargazers) ![docker pulls](https://hub.docker.com/r/alexxit/go2rtc) ![releases](https://github.com/AlexxIT/go2rtc/releases) ![goreport](https://goreportcard.com/report/github.com/AlexxIT/go2rtc) </h1> Ultimate camera streaming application with support for RTSP, WebRTC, HomeKit, FFmpeg, RTMP, etc. ![](assets/go2rtc.png) - zero-dependency and zero-config small app for all OS (Windows, macOS, Linux, ARM) - zero-delay for m...",
-      "readme_summary_ja": "# !go2rtc\n究極のカメラストリーミングアプリケーション。RTSP、WebRTC、HomeKit、FFmpeg、RTMPなどをサポート。\n\n- 依存関係なし、設定不要の小型アプリで、すべてのOS（Windows、macOS、Linux、ARM）に対応\n- m... のゼロ遅延",
-      "language": "Go",
-      "stars": 69
-    },
-    {
-      "rank": 5,
-      "repo_name": "lukasz-madon/awesome-remote-job",
-      "description": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
-      "description_ja": "素晴らしいリモートワークと関連リソースの厳選リスト。https://github.com/vinta/awesome-python に触発されました。",
-      "readme_summary": "Awesome Remote Job ![Awesome](https://github.com/sindresorhus/awesome) ![Track Awesome List](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/) A curated list of awesome remote working resources. *To contribute, click README.md and then the pencil icon. Make your changes and click the \"Propose file change\" button to submit a pull request",
-      "readme_summary_ja": "素晴らしいリモートワーク ![Awesome](https://github.com/sindresorhus/awesome) ![Awesomeリストを追跡](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/) リモートワークに役立つ厳選されたリソース集です。 *貢献するには、README.mdをクリックし、鉛筆アイコンをクリックしてください。変更を加え、「変更を提案」ボタンをクリックしてプルリクエストを送信してください。",
-      "language": "",
-      "stars": 262
+      "stars": 527
     },
     {
       "rank": 6,
-      "repo_name": "tobi/try",
-      "description": "fresh directories for every vibe",
-      "description_ja": "気分に合わせてディレクトリを新規作成",
-      "readme_summary": "try - fresh directories for every vibe **Website** · **RubyGems** · **GitHub** *Your experiments deserve a home.* 🏠 > For everyone who constantly creates new projects for little experiments, a one-file Ruby script to quickly manage and navigate to keep them somewhat organized Ever find yourself with 50 directories named test, test2, new-test, actually-working-test, scattered across your filesystem? Or worse, just coding in /tmp and losing everything? **try** is here for your beautifully chaotic ...",
-      "readme_summary_ja": "try - あらゆる気分に合わせた新鮮なディレクトリを **ウェブサイト** · **RubyGems** · **GitHub** *あなたの実験には居場所が必要です。* 🏠\n\nちょっとした実験のために常に新しいプロジェクトを作成するすべての人へ。それらを整理し、素早く管理・移動するための、単一ファイルのRubyスクリプトです。\n\nファイルシステム全体に、test、test2、new-test、actually-working-testといった名前のディレクトリが50個も散らばっていることはありませんか？ あるいは、もっと悪いことに、/tmpでコーディングしてすべてを失ってしまうことは？ **try**は、あなたの美しく混沌とした状況を救います...",
-      "language": "Shell",
-      "stars": 43
+      "repo_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "description_ja": "📑 PageIndex: ベクトルを使わない推論ベースのRAGのためのドキュメントインデックス",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
+      "language": "Python",
+      "stars": 100
     },
     {
       "rank": 7,
-      "repo_name": "DavidXanatos/TaskExplorer",
-      "description": "Power full Task Manager",
-      "description_ja": "Power full Task Manager",
-      "readme_summary": "TaskExplorer Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing. Its user interface prioritizes speed and efficiency, delivering real-time data on processes with minimal interaction. Instead of requiring multiple windows or sub-windows, Task Explorer displays relevant information in accessible panels",
-      "readme_summary_ja": "TaskExplorer Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing. Its user interface prioritizes speed and efficiency, delivering real-time data on processes with minimal interaction. Instead of requiring multiple windows or sub-windows, Task Explorer displays relevant information in accessible panels",
-      "language": "C",
-      "stars": 328
+      "repo_name": "microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "description_ja": "10 Weeks, 20 Lessons, Data Science for All!",
+      "readme_summary": "Data Science for Beginners - A Curriculum ![Open in GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198) ![GitHub license](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/Data-Science-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/Data-Science-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/Data-Science-For-...",
+      "readme_summary_ja": "Data Science for Beginners - A Curriculum ![Open in GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198) ![GitHub license](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/Data-Science-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/Data-Science-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/Data-Science-For-...",
+      "language": "Jupyter Notebook",
+      "stars": 99
+    },
+    {
+      "rank": 8,
+      "repo_name": "tobi/try",
+      "description": "fresh directories for every vibe",
+      "description_ja": "気分に合わせてディレクトリを新しく作成",
+      "readme_summary": "try - fresh directories for every vibe **Website** · **RubyGems** · **GitHub** *Your experiments deserve a home.* 🏠 > For everyone who constantly creates new projects for little experiments, a one-file Ruby script to quickly manage and navigate to keep them somewhat organized Ever find yourself with 50 directories named test, test2, new-test, actually-working-test, scattered across your filesystem? Or worse, just coding in /tmp and losing everything? **try** is here for your beautifully chaotic ...",
+      "readme_summary_ja": "try - fresh directories for every vibe **Website** · **RubyGems** · **GitHub** *Your experiments deserve a home.* 🏠 > For everyone who constantly creates new projects for little experiments, a one-file Ruby script to quickly manage and navigate to keep them somewhat organized Ever find yourself with 50 directories named test, test2, new-test, actually-working-test, scattered across your filesystem? Or worse, just coding in /tmp and losing everything? **try** is here for your beautifully chaotic ...",
+      "language": "Shell",
+      "stars": 189
     }
   ]
 }
