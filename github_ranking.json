@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-01-22 03:07:19",
-  "total_repos": 8,
+  "updated_at": "2026-01-23 03:03:00",
+  "total_repos": 11,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "tambo-ai/tambo",
-      "description": "Generative UI SDK for React",
-      "description_ja": "React用 生成UI SDK",
-      "readme_summary": "<div align=\"center\"> <img src=\"assets/octo-white-background-rounded.png\" width=\"150\"> <h1>Tambo AI</h1> <h3>Generative UI for React</h3> <p>Build apps that adapt to your users.</p> </div> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@tambo-ai/react\"><img src=\"https://img.shields.io/npm/v/%40tambo-ai%2Freact?logo=npm\" alt=\"npm version\" /></a> <a href=\"https://github.com/tambo-ai/tambo/blob/main/LICENSE\"><img src=\"https://img.shields.io/github/license/tambo-ai/tambo\" alt=\"License\" /><...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/octo-white-background-rounded.png\" width=\"150\"> <h1>Tambo AI</h1> <h3>React用生成UI</h3> <p>ユーザーに適応するアプリを構築。</p> </div> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@tambo-ai/react\"><img src=\"https://img.shields.io/npm/v/%40tambo-ai%2Freact?logo=npm\" alt=\"npm version\" /></a> <a href=\"https://github.com/tambo-ai/tambo/blob/main/LICENSE\"><img src=\"https://img.shields.io/github/license/tambo-ai/tambo\" alt=\"License\" /></a>",
+      "repo_name": "remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "description_ja": "🎥 Reactで動画をプログラム的に作成",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"Animated Remotion Logo\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord Shield](https://remotion.dev/discord) ![NPM Version](https://www.npmjs.org/package/remotion) ![NPM Downloads](https://npmcharts.com/compare/re...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"アニメーションRemotionロゴ\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord](https://remotion.dev/discord) ![NPMバージョン](https://www.npmjs.org/package/remotion) ![NPMダウンロード数](https://npmcharts.com/compare/re...",
       "language": "TypeScript",
-      "stars": 222
+      "stars": 537
     },
     {
       "rank": 2,
-      "repo_name": "EveryInc/compound-engineering-plugin",
-      "description": "Official Claude Code compound engineering plugin",
-      "description_ja": "公式 Claude コード複合エンジニアリングプラグイン",
-      "readme_summary": "Compound Marketplace A Claude Code plugin marketplace featuring the **Compound Engineering Plugin** — tools that make each unit of engineering work easier than the last. Claude Code Install OpenCode + Codex (experimental) Install This repo includes a Bun/TypeScript CLI that converts Claude Code plugins to OpenCode and Codex. Local dev: OpenCode output is written to ~/.opencode by default, with opencode.json at the root and agents/, skills/, and plugins/ alongside it",
-      "readme_summary_ja": "Compound Marketplace：Claude Codeプラグインのマーケットプレイス。特に、エンジニアリング作業を効率化するツール群「Compound Engineering Plugin」を搭載。\n\nClaude Codeインストール：OpenCode + Codex (実験的) をインストール。\n\nこのリポジトリには、Claude CodeプラグインをOpenCodeおよびCodex形式に変換するBun/TypeScript CLIが含まれています。\n\nローカル開発：OpenCodeの出力はデフォルトで`~/.opencode`に書き込まれます。ルートディレクトリには`opencode.json`が、その隣には`agents/`、`skills/`、`plugins/`ディレクトリが配置されます。",
-      "language": "TypeScript",
-      "stars": 190
+      "repo_name": "block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "description_ja": "コード提案にとどまらない、拡張可能なオープンソースのAIエージェント。あらゆるLLMでインストール、実行、編集、テストが可能です。",
+      "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"> <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"> </a> <a href=\"https://discord.gg/goose-oss\"> <img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"> </a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\"> ...",
+      "readme_summary_ja": "goose：ローカルで拡張可能なオープンソースのAIエージェント。エンジニアリングタスクを自動化します。",
+      "language": "Rust",
+      "stars": 347
     },
     {
       "rank": 3,
@@ -28,59 +28,89 @@
       "description": "Source code for the X Recommendation Algorithm",
       "description_ja": "Xレコメンデーションアルゴリズムのソースコード",
       "readme_summary": "X's Recommendation Algorithm X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our engineering blog",
-      "readme_summary_ja": "Xのレコメンデーションアルゴリズムは、Xのすべてのプロダクト画面（例：おすすめタイムライン、検索、探索、通知）で、投稿やその他のコンテンツのフィードを提供するサービスとジョブ群です。アルゴリズムの仕組みについては、エンジニアリングブログをご覧ください。",
+      "readme_summary_ja": "Xのレコメンデーションアルゴリズムは、Xのすべてのプロダクト画面（例：おすすめタイムライン、検索、探索、通知）で、投稿やその他のコンテンツのフィードを提供するサービスとジョブの集合体です。アルゴリズムの仕組みについては、エンジニアリングブログをご覧ください。",
       "language": "Scala",
-      "stars": 391
+      "stars": 473
     },
     {
       "rank": 4,
       "repo_name": "xai-org/grok-1",
       "description": "Grok open release",
-      "description_ja": "Grok オープンリリース",
+      "description_ja": "Grokのオープンリリース",
       "readme_summary": "Grok-1 This repository contains JAX example code for loading and running the Grok-1 open-weights model. Make sure to download the checkpoint and place the ckpt-0 directory in checkpoints - see Downloading the weights Then, run to test the code. The script loads the checkpoint and samples from the model on a test input",
-      "readme_summary_ja": "Grok-1：このリポジトリには、Grok-1のオープンウェイトモデルをロードして実行するためのJAXのサンプルコードが含まれています。チェックポイントをダウンロードし、ckpt-0ディレクトリをcheckpointsに配置してください（「重みのダウンロード」を参照）。その後、実行してコードをテストしてください。スクリプトはチェックポイントをロードし、テスト入力に対するモデルからのサンプルを生成します。",
+      "readme_summary_ja": "Grok-1：このリポジトリには、Grok-1のオープンウェイトモデルをロードして実行するためのJAXのサンプルコードが含まれています。チェックポイントをダウンロードし、ckpt-0ディレクトリをcheckpointsに配置してください（ウェイトのダウンロードを参照）。その後、実行してコードをテストします。スクリプトはチェックポイントをロードし、テスト入力に基づいてモデルからサンプルを生成します。",
       "language": "Python",
-      "stars": 141
+      "stars": 348
     },
     {
       "rank": 5,
+      "repo_name": "deepseek-ai/FlashMLA",
+      "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+      "description_ja": "FlashMLA: 効率的なマルチヘッド潜在アテンションカーネル",
+      "readme_summary": "FlashMLA Introduction FlashMLA is DeepSeek's library of optimized attention kernels, powering the DeepSeek-V3 and DeepSeek-V3.2-Exp models. This repository contains the following implementations: **Sparse Attention Kernels** *These kernels power DeepSeek Sparse Attention (DSA), as introduced in this paper.* - Token-level sparse attention for the prefill stage - Token-level sparse attention for the decoding stage, with FP8 KV cache **Dense Attention Kernels** - Dense attention for the prefill sta...",
+      "readme_summary_ja": "FlashMLAについて\n\nFlashMLAは、DeepSeekの最適化されたアテンションカーネルライブラリであり、DeepSeek-V3およびDeepSeek-V3.2-Expモデルを支えています。このリポジトリには、以下の実装が含まれています。\n\n**スパースアテンションカーネル**\n\n*これらのカーネルは、論文で紹介されているDeepSeekスパースアテンション（DSA）を実装しています。*\n\n*   プリフィル段階におけるトークンレベルのスパースアテンション\n*   デコード段階におけるトークンレベルのスパースアテンション（FP8 KVキャッシュを使用）\n\n**密なアテンションカーネル**\n\n*   プリフィル段階における密なアテンション",
+      "language": "C++",
+      "stars": 30
+    },
+    {
+      "rank": 6,
       "repo_name": "microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
       "description_ja": "AIエージェントを活性化させるための究極のトレーナー。",
       "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![単体テスト](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![ドキュメント](https://microsoft.github.io/agent-lightning/) ![PyPIバージョン](https://badge.fury.io/py/agentlightning) ![ライセンス](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **究極のトレーナー、それは…",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![単体テスト](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![ドキュメント](https://microsoft.github.io/agent-lightning/) ![PyPIバージョン](https://badge.fury.io/py/agentlightning) ![ライセンス](LICENSE) ![DeepWikiで質問](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **究極のトレーナー、それは…",
       "language": "Python",
-      "stars": 527
-    },
-    {
-      "rank": 6,
-      "repo_name": "VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "description_ja": "📑 PageIndex: ベクトルを使わない推論ベースのRAGのためのドキュメントインデックス",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
-      "language": "Python",
-      "stars": 100
+      "stars": 327
     },
     {
       "rank": 7,
-      "repo_name": "microsoft/Data-Science-For-Beginners",
-      "description": "10 Weeks, 20 Lessons, Data Science for All!",
-      "description_ja": "10 Weeks, 20 Lessons, Data Science for All!",
-      "readme_summary": "Data Science for Beginners - A Curriculum ![Open in GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198) ![GitHub license](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/Data-Science-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/Data-Science-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/Data-Science-For-...",
-      "readme_summary_ja": "Data Science for Beginners - A Curriculum ![Open in GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198) ![GitHub license](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/Data-Science-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/Data-Science-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/Data-Science-For-...",
-      "language": "Jupyter Notebook",
-      "stars": 99
+      "repo_name": "iOfficeAI/AionUi",
+      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+      "description_ja": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+      "readme_summary": "﻿<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?st...",
+      "readme_summary_ja": "﻿<p align=\"center\"> <img src=\"./resources/aionui-banner-1 copy.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?st...",
+      "language": "TypeScript",
+      "stars": 554
     },
     {
       "rank": 8,
-      "repo_name": "tobi/try",
-      "description": "fresh directories for every vibe",
-      "description_ja": "気分に合わせてディレクトリを新しく作成",
-      "readme_summary": "try - fresh directories for every vibe **Website** · **RubyGems** · **GitHub** *Your experiments deserve a home.* 🏠 > For everyone who constantly creates new projects for little experiments, a one-file Ruby script to quickly manage and navigate to keep them somewhat organized Ever find yourself with 50 directories named test, test2, new-test, actually-working-test, scattered across your filesystem? Or worse, just coding in /tmp and losing everything? **try** is here for your beautifully chaotic ...",
-      "readme_summary_ja": "try - fresh directories for every vibe **Website** · **RubyGems** · **GitHub** *Your experiments deserve a home.* 🏠 > For everyone who constantly creates new projects for little experiments, a one-file Ruby script to quickly manage and navigate to keep them somewhat organized Ever find yourself with 50 directories named test, test2, new-test, actually-working-test, scattered across your filesystem? Or worse, just coding in /tmp and losing everything? **try** is here for your beautifully chaotic ...",
-      "language": "Shell",
-      "stars": 189
+      "repo_name": "mastra-ai/mastra",
+      "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+      "description_ja": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+      "readme_summary": "Mastra ![npm version](https://www.npmjs.com/package/@mastra/core) ![CodeQl](https://github.com/mastra-ai/mastra/actions/workflows/github-code-scanning/codeql) ![GitHub Repo stars](https://github.com/mastra-ai/mastra/stargazers) ![Discord](https://discord.gg/BTYqqHKUrf) ![Twitter Follow](https://x.com/mastra_ai) ![NPM Downloads](https://www.npmjs.com/package/@mastra/core) ![Static Badge](https://www.ycombinator.com/companies?batch=W25) Mastra is a framework for building AI-powered applications an...",
+      "readme_summary_ja": "Mastra ![npm version](https://www.npmjs.com/package/@mastra/core) ![CodeQl](https://github.com/mastra-ai/mastra/actions/workflows/github-code-scanning/codeql) ![GitHub Repo stars](https://github.com/mastra-ai/mastra/stargazers) ![Discord](https://discord.gg/BTYqqHKUrf) ![Twitter Follow](https://x.com/mastra_ai) ![NPM Downloads](https://www.npmjs.com/package/@mastra/core) ![Static Badge](https://www.ycombinator.com/companies?batch=W25) Mastra is a framework for building AI-powered applications an...",
+      "language": "TypeScript",
+      "stars": 227
+    },
+    {
+      "rank": 9,
+      "repo_name": "microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "description_ja": "10週間で学ぶ、全20回のデータサイエンス入門！",
+      "readme_summary": "Data Science for Beginners - A Curriculum ![Open in GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198) ![GitHub license](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/Data-Science-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/Data-Science-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/Data-Science-For-...",
+      "readme_summary_ja": "データサイエンス入門 - カリキュラム",
+      "language": "Jupyter Notebook",
+      "stars": 651
+    },
+    {
+      "rank": 10,
+      "repo_name": "nexmoe/VidBee",
+      "description": "Download videos from almost any website worldwide",
+      "description_ja": "世界中のほぼすべてのウェブサイトから動画をダウンロード",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/nexmoe/VidBee\"> <img src=\"build/icon.png\" alt=\"Logo\" width=\"80\" height=\"80\"> </a> <h3>VidBee</h3> <p> <a href=\"https://github.com/nexmoe/VidBee/stargazers\"><img src=\"https://img.shields.io/github/stars/nexmoe/VidBee?color=ffcb47&labelColor=black&logo=github&label=Stars\" /></a> <a href=\"https://github.com/nexmoe/VidBee/graphs/contributors\"><img src=\"https://img.shields.io/github/contributors/nexmoe/VidBee?ogo=github&label=Contributors&labelColor=bl...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/nexmoe/VidBee\"> <img src=\"build/icon.png\" alt=\"Logo\" width=\"80\" height=\"80\"> </a> <h3>VidBee</h3> <p> <a href=\"https://github.com/nexmoe/VidBee/stargazers\"><img src=\"https://img.shields.io/github/stars/nexmoe/VidBee?color=ffcb47&labelColor=black&logo=github&label=Stars\" /></a> <a href=\"https://github.com/nexmoe/VidBee/graphs/contributors\"><img src=\"https://img.shields.io/github/contributors/nexmoe/VidBee?ogo=github&label=Contributors&labelColor=bl...",
+      "language": "TypeScript",
+      "stars": 267
+    },
+    {
+      "rank": 11,
+      "repo_name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "description_ja": "深層学習を用いた金融調査のための自律エージェント",
+      "readme_summary": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
+      "readme_summary_ja": "Dexter 🤖 は、自律的な金融リサーチエージェントです。思考、計画、学習を繰り返しながら動作します。タスクプランニング、自己反省、リアルタイムの市場データを用いて分析を実行します。Claude Codeの金融リサーチ特化版とお考えください。",
+      "language": "TypeScript",
+      "stars": 248
     }
   ]
 }
