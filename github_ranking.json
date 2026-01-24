@@ -1,136 +1,106 @@
 {
-  "updated_at": "2026-01-24 02:57:36",
-  "total_repos": 13,
+  "updated_at": "2026-01-24 15:09:58",
+  "total_repos": 10,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "remotion-dev/remotion",
       "description": "🎥 Make videos programmatically with React",
-      "description_ja": "🎥 Reactでビデオをプログラム的に作成",
+      "description_ja": "Reactで動画をプログラムで生成。",
       "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"Animated Remotion Logo\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord Shield](https://remotion.dev/discord) ![NPM Version](https://www.npmjs.org/package/remotion) ![NPM Downloads](https://npmcharts.com/compare/re...",
       "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"アニメーションRemotionロゴ\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord Shield](https://remotion.dev/discord) ![NPM Version](https://www.npmjs.org/package/remotion) ![NPM Downloads](https://npmcharts.com/compare/re...",
       "language": "TypeScript",
-      "stars": 1618
+      "stars": 1168
     },
     {
       "rank": 2,
-      "repo_name": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "description_ja": "オープンソースの最先端音声AI",
-      "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dar...",
-      "readme_summary_ja": "VibeVoice: オープンソースの最先端音声AI\n\n[プロジェクトページ](https://microsoft.github.io/VibeVoice) [Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) [TTS Report](https://arxiv.org/pdf/2508.19205) [Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) [ASR Playground](https://aka.ms/vibevoice-asr)",
+      "repo_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "description_ja": "📑 PageIndex: ベクトルを使わない推論ベースのRAGのためのドキュメントインデックス",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex バナー\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
       "language": "Python",
-      "stars": 261
+      "stars": 1350
     },
     {
       "rank": 3,
-      "repo_name": "block/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "description_ja": "コード補完にとどまらない、拡張可能なオープンソースのAIエージェント。あらゆるLLMを使って、インストール、実行、編集、テストが可能です。",
-      "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"> <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"> </a> <a href=\"https://discord.gg/goose-oss\"> <img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"> </a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\"> ...",
-      "readme_summary_ja": "goose：ローカルで実行可能、拡張可能、オープンソースのAIエージェント。エンジニアリングタスクを自動化します。",
-      "language": "Rust",
-      "stars": 491
-    },
-    {
-      "rank": 4,
-      "repo_name": "ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "description_ja": "データセンター規模の分散推論サービングフレームワーク",
-      "readme_summary": "<!-- SPDX-FileCopyrightText: Copyright (c) 2024-2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved. SPDX-License-Identifier: Apache-2.0 Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
-      "readme_summary_ja": "Copyright (c) 2024-2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved. Apache 2.0ライセンスに基づきライセンスされています。ライセンスに準拠する場合を除き、このファイルを使用することはできません。",
-      "language": "Rust",
-      "stars": 33
-    },
-    {
-      "rank": 5,
-      "repo_name": "browser-use/browser-use",
-      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "description_ja": "🌐 AIエージェントがアクセスしやすいウェブサイトを構築。オンラインタスクを簡単に自動化。",
-      "readme_summary": "<picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\"> <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\" width=\"full\"> </picture> <div alig...",
-      "readme_summary_ja": "<picture>\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\">\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\">\n  <img alt=\"ライトモードでは黒、ダークモードでは白のBrowser Useロゴを表示\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\" width=\"full\">\n</",
-      "language": "Python",
-      "stars": 205
-    },
-    {
-      "rank": 6,
-      "repo_name": "github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "description_ja": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "readme_summary": "GitHub Copilot CLI (Public Preview) The power of GitHub Copilot, now in your terminal. GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations. Powered by the same agentic harness as GitHub's Copilot coding agent, it provides intelligent assistance while staying deeply integrated with your GitHub workflow",
-      "readme_summary_ja": "GitHub Copilot CLI (パブリックプレビュー): GitHub Copilot のパワーを、あなたのターミナルで。GitHub Copilot CLI は、AI によるコーディング支援をコマンドラインに直接提供し、自然言語での会話を通じてコードの構築、デバッグ、理解を可能にします。GitHub Copilot コーディングエージェントと同じエージェントハーネスを搭載し、GitHub ワークフローと深く統合しながら、インテリジェントな支援を提供します。",
-      "language": "Shell",
-      "stars": 125
-    },
-    {
-      "rank": 7,
-      "repo_name": "Asabeneh/30-Days-Of-Python",
-      "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
-      "description_ja": "Pythonプログラミングを30日間で学ぶためのステップバイステップガイドです。この30日間Pythonプログラミングチャレンジは、100日以上かかる場合もあります。ご自身のペースで進めてください。以下の動画も参考になるでしょう: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
-      "readme_summary": "🐍 30 Days Of Python |Day | Topics | |------|:---------------------------------------------------------:| | 01 | Introduction| | 02 | Variables, Built-in Functions| | 03 | Operators| | 04 | Strings| | 05 | Lists| | 06 | Tuples| | 07 | Sets| | 08 | Dictionaries| | 09 | Conditionals| | 10 | Loops| | 11 | Functions| | 12 | Modules| | 13 | List Comprehension| | 14 | Higher Order Functions| | 15 | Python Type Errors| | 16 | Python Date time | | 17 | Exception Handling| | 18 | Regular Expressions| | 19...",
-      "readme_summary_ja": "🐍 30 Days Of Python |Day | Topics | |------|:---------------------------------------------------------:| | 01 | Introduction| | 02 | Variables, Built-in Functions| | 03 | Operators| | 04 | Strings| | 05 | Lists| | 06 | Tuples| | 07 | Sets| | 08 | Dictionaries| | 09 | Conditionals| | 10 | Loops| | 11 | Functions| | 12 | Modules| | 13 | List Comprehension| | 14 | Higher Order Functions| | 15 | Python Type Errors| | 16 | Python Date time | | 17 | Exception Handling| | 18 | Regular Expressions| | 19...",
-      "language": "Python",
-      "stars": 91
-    },
-    {
-      "rank": 8,
-      "repo_name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "description_ja": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "readme_summary_ja": "Claude Codeは、ターミナル上で動作するエージェント型のコーディングツールです。あなたのコードベースを理解し、日常的なタスクの実行、複雑なコードの説明、Gitワークフローの処理などを自然言語コマンドを通じて行い、コーディングを高速化します。ターミナルで活用してください。",
-      "language": "Shell",
-      "stars": 393
-    },
-    {
-      "rank": 9,
-      "repo_name": "deepseek-ai/FlashMLA",
-      "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
-      "description_ja": "FlashMLA: 効率的なマルチヘッド潜在アテンションカーネル",
-      "readme_summary": "FlashMLA Introduction FlashMLA is DeepSeek's library of optimized attention kernels, powering the DeepSeek-V3 and DeepSeek-V3.2-Exp models. This repository contains the following implementations: **Sparse Attention Kernels** *These kernels power DeepSeek Sparse Attention (DSA), as introduced in this paper.* - Token-level sparse attention for the prefill stage - Token-level sparse attention for the decoding stage, with FP8 KV cache **Dense Attention Kernels** - Dense attention for the prefill sta...",
-      "readme_summary_ja": "FlashMLA は、DeepSeek の最適化された attention カーネルライブラリであり、DeepSeek-V3 および DeepSeek-V3.2-Exp モデルを支えています。このリポジトリには、以下の実装が含まれています。\n\n**Sparse Attention カーネル**\n\n*   これらのカーネルは、論文で発表された DeepSeek Sparse Attention (DSA) を実現します。\n\n    *   プリフィル段階におけるトークンレベルの sparse attention\n    *   デコード段階におけるトークンレベルの sparse attention (FP8 KV キャッシュ付き)\n\n**Dense Attention カーネル**\n\n*   プリフィル段階における dense attention",
-      "language": "C++",
-      "stars": 184
-    },
-    {
-      "rank": 10,
-      "repo_name": "microsoft/Data-Science-For-Beginners",
-      "description": "10 Weeks, 20 Lessons, Data Science for All!",
-      "description_ja": "10週間で学ぶ、全20回のデータサイエンス入門！",
-      "readme_summary": "Data Science for Beginners - A Curriculum ![Open in GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198) ![GitHub license](https://github.com/microsoft/Data-Science-For-Beginners/blob/master/LICENSE) ![GitHub contributors](https://GitHub.com/microsoft/Data-Science-For-Beginners/graphs/contributors/) ![GitHub issues](https://GitHub.com/microsoft/Data-Science-For-Beginners/issues/) ![GitHub pull-requests](https://GitHub.com/microsoft/Data-Science-For-...",
-      "readme_summary_ja": "データサイエンス入門 - カリキュラム",
-      "language": "Jupyter Notebook",
-      "stars": 555
-    },
-    {
-      "rank": 11,
       "repo_name": "OpenBMB/UltraRAG",
       "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
       "description_ja": "UltraRAG v3: 複雑かつ革新的なRAGパイプラインを構築するためのローコードMCPフレームワーク",
       "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/ultrarag_dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./docs/ultrarag.svg\"> <img alt=\"UltraRAG\" src=\"./docs/ultrarag.svg\" width=\"55%\"> </picture> </p> <h3 align=\"center\"> Less Code, Lower Barrier, Faster Deployment </h3> <p align=\"center\"> | <a href=\"https://ultrarag.openbmb.cn/pages/en/getting_started/introduction\"><b>Documentation</b></a> | <a href=\"https://modelscope.cn/datasets/UltraR...",
       "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/ultrarag_dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./docs/ultrarag.svg\"> <img alt=\"UltraRAG\" src=\"./docs/ultrarag.svg\" width=\"55%\"> </picture> </p> <h3 align=\"center\"> より少ないコード、より低い障壁、より迅速なデプロイ </h3> <p align=\"center\"> | <a href=\"https://ultrarag.openbmb.cn/pages/en/getting_started/introduction\"><b>ドキュメント</b></a> | <a href=\"https://modelscope.cn/datasets/UltraR...",
       "language": "Python",
-      "stars": 130
+      "stars": 591
     },
     {
-      "rank": 12,
-      "repo_name": "lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "description_ja": "4GB GPU 1基で動作する AirLLM 70B 推論",
-      "readme_summary": "!airllm_logo **Quickstart** | **Configurations** | **MacOS** | **Example notebooks** | **FAQ** **AirLLM** optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run **405B Llama3.1** on **8GB vram** now. <a href=\"https://github.com/lyogavin/airllm/stargazers\">!GitHub Repo stars</a> ![Downloads](https://pepy.tech/project/airllm) ![Code License](https://github.com/LianjiaTech/BELLE/b...",
-      "readme_summary_ja": "**AirLLM** | **クイックスタート** | **設定** | **MacOS** | **サンプルノートブック** | **FAQ**\n\n**AirLLM**は推論時のメモリ使用量を最適化し、量子化、蒸留、枝刈りなしで、700億パラメータの巨大言語モデルを4GBのGPUカード1枚で推論実行できるようにします。さらに、**4050億パラメータのLlama3.1**を**8GBのVRAM**で実行可能です。\n[GitHubリポジトリのスター数](https://github.com/lyogavin/airllm/stargazers) ![ダウンロード数](https://pepy.tech/project/airllm) ![コードライセンス](https://github.com/LianjiaTech/BELLE/b...)",
-      "language": "Jupyter Notebook",
-      "stars": 493
-    },
-    {
-      "rank": 13,
-      "repo_name": "KellerJordan/modded-nanogpt",
-      "description": "NanoGPT (124M) in 2 minutes",
-      "description_ja": "NanoGPT (1億2400万パラメータ) を2分で実行",
-      "readme_summary": "Modded-NanoGPT This repository hosts the *NanoGPT speedrun*, in which we (collaboratively|competitively) search for the fastest algorithm to use 8 NVIDIA H100 GPUs to train a language model that attains 3.28 cross-entropy loss on the FineWeb validation set. The target (3.28 validation loss on FineWeb) follows Andrej Karpathy's GPT-2 replication in llm.c, which attains that loss after running for 45 minutes. The speedrun code also descends from llm.c's PyTorch trainer, which itself descends from ...",
-      "readme_summary_ja": "Modded-NanoGPT：このリポジトリは「NanoGPTスピードラン」の舞台です。ここでは、8基のNVIDIA H100 GPUを用いて、FineWeb検証セットでクロスエントロピー損失3.28を達成する言語モデルを、最も高速に学習させるアルゴリズムを（協力または競争的に）探求します。目標値（FineWebでの検証損失3.28）は、Andrej Karpathy氏のllm.cにおけるGPT-2再現実験（45分間の実行で同損失を達成）に準拠しています。このスピードランのコードは、llm.cのPyTorchトレーナーをベースにしており、さらにそのトレーナーは…へと遡ります。",
+      "rank": 4,
+      "repo_name": "browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "description_ja": "🌐 AIエージェントがアクセスしやすいウェブサイトを構築。オンラインタスクを簡単に自動化。",
+      "readme_summary": "<picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\"> <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\" width=\"full\"> </picture> <div alig...",
+      "readme_summary_ja": "<picture>\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\">\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\">\n  <img alt=\"ライトモードでは黒色のBrowser Useロゴ、ダークモードでは白色のロゴを表示\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\" width=\"full\">",
       "language": "Python",
-      "stars": 54
+      "stars": 410
+    },
+    {
+      "rank": 5,
+      "repo_name": "block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "description_ja": "コード提案にとどまらない、拡張可能なオープンソースのAIエージェント。あらゆるLLMでインストール、実行、編集、テストが可能です。",
+      "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"> <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"> </a> <a href=\"https://discord.gg/goose-oss\"> <img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"> </a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\"> ...",
+      "readme_summary_ja": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"> <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"> </a> <a href=\"https://discord.gg/goose-oss\"> <img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"> </a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\"> ...",
+      "language": "Rust",
+      "stars": 411
+    },
+    {
+      "rank": 6,
+      "repo_name": "Blaizzy/mlx-audio",
+      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+      "description_ja": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+      "readme_summary": "MLX-Audio The best audio processing library built on Apple's MLX framework, providing fast and efficient text-to-speech (TTS), speech-to-text (STT), and speech-to-speech (STS) on Apple Silicon. Features - Fast inference optimized for Apple Silicon (M series chips) - Multiple model architectures for TTS, STT, and STS - Multilingual support across models - Voice customization and cloning capabilities - Adjustable speech speed control - Interactive web interface with 3D audio visualization - OpenAI...",
+      "readme_summary_ja": "MLX-Audio The best audio processing library built on Apple's MLX framework, providing fast and efficient text-to-speech (TTS), speech-to-text (STT), and speech-to-speech (STS) on Apple Silicon. Features - Fast inference optimized for Apple Silicon (M series chips) - Multiple model architectures for TTS, STT, and STS - Multilingual support across models - Voice customization and cloning capabilities - Adjustable speech speed control - Interactive web interface with 3D audio visualization - OpenAI...",
+      "language": "Python",
+      "stars": 63
+    },
+    {
+      "rank": 7,
+      "repo_name": "simstudioai/sim",
+      "description": "Open-source platform to build and deploy AI agent workflows.",
+      "description_ja": "AIエージェントのワークフローを構築・デプロイするためのオープンソースプラットフォーム。",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"apps/sim/public/logo/reverse/text/large.png\" alt=\"Sim Logo\" width=\"500\"/> </a> </p> <p align=\"center\">Build and deploy AI agent workflows in minutes.</p> <p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/sim.ai-6F3DFA\" alt=\"Sim.ai\"></a> <a href=\"https://discord.gg/Hr4UWYEcTT\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=...",
+      "readme_summary_ja": "AIエージェントのワークフローを数分で構築・デプロイ。",
+      "language": "TypeScript",
+      "stars": 78
+    },
+    {
+      "rank": 8,
+      "repo_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "description_ja": "オープンソースの最先端音声AI",
+      "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dar...",
+      "readme_summary_ja": "VibeVoice: オープンソースの最先端音声AI\n\n[プロジェクトページ](https://microsoft.github.io/VibeVoice) [Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) [TTSレポート](https://arxiv.org/pdf/2508.19205) [Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) [ASR Playground](https://aka.ms/vibevoice-asr)",
+      "language": "Python",
+      "stars": 453
+    },
+    {
+      "rank": 9,
+      "repo_name": "putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "description_ja": "WeChatビデオ、ミニプログラム、TikTok、Kuaishou、小紅書、ライブストリーム、m3u8、酷狗音楽、QQ音楽など、一般的なオンラインリソースのダウンロードツール！",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/putyy/res-downloader\"><img src=\"build/appicon.png\" width=\"120\"/></a> <h1>res-downloader</h1> <h4>📖 中文 | <a href=\"https://github.com/putyy/res-downloader/blob/master/README-EN.md\">English</a></h4> ![GitHub stars](https://github.com/putyy/res-downloader/stargazers) ![GitHub forks](https://github.com/putyy/res-downloader/fork) ![GitHub release](https://github.com/putyy/res-downloader/releases) !GitHub All Releases ![License](https://github.com/putyy/...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/putyy/res-downloader\"><img src=\"build/appicon.png\" width=\"120\"/></a> <h1>res-downloader</h1> <h4>📖 中文 | <a href=\"https://github.com/putyy/res-downloader/blob/master/README-EN.md\">English</a></h4> ![GitHub stars](https://github.com/putyy/res-downloader/stargazers) ![GitHub forks](https://github.com/putyy/res-downloader/fork) ![GitHub release](https://github.com/putyy/res-downloader/releases) !GitHub All Releases ![License](https://github.com/putyy/...",
+      "language": "Go",
+      "stars": 394
+    },
+    {
+      "rank": 10,
+      "repo_name": "AI4Finance-Foundation/FinRobot",
+      "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
+      "description_ja": "FinRobot: LLMを活用した金融分析のためのオープンソースAIエージェントプラットフォーム🚀 🚀 🚀",
+      "readme_summary": "<div align=\"center\"> <img align=\"center\" width=\"30%\" alt=\"image\" src=\"https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139\"> </div> FinRobot: An Open-Source AI Agent Platform for Financial Analysis using Large Language Models ![Downloads](https://pepy.tech/project/finrobot) ![Downloads](https://pepy.tech/project/finrobot) ![Join Discord](https://discord.gg/trsr8SXpW5) ![Python 3.8](https://www.python.org/downloads/release/python-360/) ![PyPI](https...",
+      "readme_summary_ja": "FinRobot: 大規模言語モデルを活用した金融分析のためのオープンソースAIエージェントプラットフォーム。",
+      "language": "Jupyter Notebook",
+      "stars": 53
     }
   ]
 }
