@@ -1,106 +1,96 @@
 {
-  "updated_at": "2026-01-25 09:00:32",
-  "total_repos": 10,
+  "updated_at": "2026-01-26 09:00:32",
+  "total_repos": 9,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "remotion-dev/remotion",
-      "description": "🎥 Make videos programmatically with React",
-      "description_ja": "🎥 Make videos programmatically with React",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"Animated Remotion Logo\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord Shield](https://remotion.dev/discord) ![NPM Version](https://www.npmjs.org/package/remotion) ![NPM Downloads](https://npmcharts.com/compare/re...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"Animated Remotion Logo\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord Shield](https://remotion.dev/discord) ![NPM Version](https://www.npmjs.org/package/remotion) ![NPM Downloads](https://npmcharts.com/compare/re...",
-      "language": "TypeScript",
-      "stars": 1171
-    },
-    {
-      "rank": 2,
-      "repo_name": "VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "description_ja": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"><b>Reasonin...",
-      "language": "Python",
-      "stars": 1374
-    },
-    {
-      "rank": 3,
-      "repo_name": "OpenBMB/UltraRAG",
-      "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
-      "description_ja": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
-      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/ultrarag_dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./docs/ultrarag.svg\"> <img alt=\"UltraRAG\" src=\"./docs/ultrarag.svg\" width=\"55%\"> </picture> </p> <h3 align=\"center\"> Less Code, Lower Barrier, Faster Deployment </h3> <p align=\"center\"> | <a href=\"https://ultrarag.openbmb.cn/pages/en/getting_started/introduction\"><b>Documentation</b></a> | <a href=\"https://modelscope.cn/datasets/UltraR...",
-      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/ultrarag_dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./docs/ultrarag.svg\"> <img alt=\"UltraRAG\" src=\"./docs/ultrarag.svg\" width=\"55%\"> </picture> </p> <h3 align=\"center\"> Less Code, Lower Barrier, Faster Deployment </h3> <p align=\"center\"> | <a href=\"https://ultrarag.openbmb.cn/pages/en/getting_started/introduction\"><b>Documentation</b></a> | <a href=\"https://modelscope.cn/datasets/UltraR...",
-      "language": "Python",
-      "stars": 585
-    },
-    {
-      "rank": 4,
-      "repo_name": "browser-use/browser-use",
-      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "description_ja": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "readme_summary": "<picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\"> <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\" width=\"full\"> </picture> <div alig...",
-      "readme_summary_ja": "<picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\"> <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\" width=\"full\"> </picture> <div alig...",
-      "language": "Python",
-      "stars": 380
-    },
-    {
-      "rank": 5,
-      "repo_name": "block/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "description_ja": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"> <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"> </a> <a href=\"https://discord.gg/goose-oss\"> <img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"> </a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\"> ...",
-      "readme_summary_ja": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"> <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"> </a> <a href=\"https://discord.gg/goose-oss\"> <img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"> </a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\"> ...",
-      "language": "Rust",
-      "stars": 407
-    },
-    {
-      "rank": 6,
       "repo_name": "Blaizzy/mlx-audio",
       "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
       "description_ja": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
       "readme_summary": "MLX-Audio The best audio processing library built on Apple's MLX framework, providing fast and efficient text-to-speech (TTS), speech-to-text (STT), and speech-to-speech (STS) on Apple Silicon. Features - Fast inference optimized for Apple Silicon (M series chips) - Multiple model architectures for TTS, STT, and STS - Multilingual support across models - Voice customization and cloning capabilities - Adjustable speech speed control - Interactive web interface with 3D audio visualization - OpenAI...",
       "readme_summary_ja": "MLX-Audio The best audio processing library built on Apple's MLX framework, providing fast and efficient text-to-speech (TTS), speech-to-text (STT), and speech-to-speech (STS) on Apple Silicon. Features - Fast inference optimized for Apple Silicon (M series chips) - Multiple model architectures for TTS, STT, and STS - Multilingual support across models - Voice customization and cloning capabilities - Adjustable speech speed control - Interactive web interface with 3D audio visualization - OpenAI...",
       "language": "Python",
-      "stars": 65
+      "stars": 272
     },
     {
-      "rank": 7,
-      "repo_name": "simstudioai/sim",
-      "description": "Open-source platform to build and deploy AI agent workflows.",
-      "description_ja": "Open-source platform to build and deploy AI agent workflows.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"apps/sim/public/logo/reverse/text/large.png\" alt=\"Sim Logo\" width=\"500\"/> </a> </p> <p align=\"center\">Build and deploy AI agent workflows in minutes.</p> <p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/sim.ai-6F3DFA\" alt=\"Sim.ai\"></a> <a href=\"https://discord.gg/Hr4UWYEcTT\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"apps/sim/public/logo/reverse/text/large.png\" alt=\"Sim Logo\" width=\"500\"/> </a> </p> <p align=\"center\">Build and deploy AI agent workflows in minutes.</p> <p align=\"center\"> <a href=\"https://sim.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/sim.ai-6F3DFA\" alt=\"Sim.ai\"></a> <a href=\"https://discord.gg/Hr4UWYEcTT\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=...",
+      "rank": 2,
+      "repo_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "description_ja": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> PageIndex: Vectorless, Reason...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> PageIndex: Vectorless, Reason...",
+      "language": "Python",
+      "stars": 1004
+    },
+    {
+      "rank": 3,
+      "repo_name": "remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "description_ja": "🎥 Make videos programmatically with React",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"Animated Remotion Logo\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord Shield](https://remotion.dev/discord) ![NPM Version](https://www.npmjs.org/package/remotion) ![NPM Downloads](https://npmcharts.com/compare/re...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"Animated Remotion Logo\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord Shield](https://remotion.dev/discord) ![NPM Version](https://www.npmjs.org/package/remotion) ![NPM Downloads](https://npmcharts.com/compare/re...",
       "language": "TypeScript",
+      "stars": 1114
+    },
+    {
+      "rank": 4,
+      "repo_name": "qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "description_ja": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "readme_summary": "!krokiet_logo **Krokiet** ((IPA: [ˈkrɔcɛt]), \"croquette\" in Polish) new generation GUI frontend, simple, multiplatform, fast and free app to remove unnecessary files from your computer. !czkawka_logo **Czkawka** (_tch•kav•ka_ (IPA: [ˈʧ̑kafka]), \"hiccup\" in Polish) older gtk4 GUI frontend, superseded by Krokiet, but still receiving bugfix updates. Features - Written in memory-safe Rust - almost 100% unsafe code free - Amazingly fast - due to using more or less advanced algorithms and multithreadi...",
+      "readme_summary_ja": "!krokiet_logo **Krokiet** ((IPA: [ˈkrɔcɛt]), \"croquette\" in Polish) new generation GUI frontend, simple, multiplatform, fast and free app to remove unnecessary files from your computer. !czkawka_logo **Czkawka** (_tch•kav•ka_ (IPA: [ˈʧ̑kafka]), \"hiccup\" in Polish) older gtk4 GUI frontend, superseded by Krokiet, but still receiving bugfix updates. Features - Written in memory-safe Rust - almost 100% unsafe code free - Amazingly fast - due to using more or less advanced algorithms and multithreadi...",
+      "language": "Rust",
       "stars": 65
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "repo_name": "OpenBMB/UltraRAG",
+      "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+      "description_ja": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/ultrarag_dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./docs/ultrarag.svg\"> <img alt=\"UltraRAG\" src=\"./docs/ultrarag.svg\" width=\"55%\"> </picture> </p> <h3 align=\"center\"> Less Code, Lower Barrier, Faster Deployment </h3> <p align=\"center\"> | <a href=\"https://ultrarag.openbmb.cn/pages/en/getting_started/introduction\"><b>Documentation</b></a> | <a href=\"https://modelscope.cn/datasets/UltraR...",
+      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/ultrarag_dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./docs/ultrarag.svg\"> <img alt=\"UltraRAG\" src=\"./docs/ultrarag.svg\" width=\"55%\"> </picture> </p> <h3 align=\"center\"> Less Code, Lower Barrier, Faster Deployment </h3> <p align=\"center\"> | <a href=\"https://ultrarag.openbmb.cn/pages/en/getting_started/introduction\"><b>Documentation</b></a> | <a href=\"https://modelscope.cn/datasets/UltraR...",
+      "language": "Python",
+      "stars": 437
+    },
+    {
+      "rank": 6,
       "repo_name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "description_ja": "Open-Source Frontier Voice AI",
-      "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dar...",
-      "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) </div> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dar...",
+      "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![ASR Report](docs/VibeVoice-ASR-Report.pdf) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) </div> <div align=\"center\"> <pictu...",
+      "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![ASR Report](docs/VibeVoice-ASR-Report.pdf) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) </div> <div align=\"center\"> <pictu...",
       "language": "Python",
-      "stars": 454
+      "stars": 362
+    },
+    {
+      "rank": 7,
+      "repo_name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "description_ja": "Lightweight coding agent that runs in your terminal",
+      "readme_summary": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"./.github/codex-cli-splash.png\" alt=\"Codex CLI splash\" width=\"80%\" /> </p> </br> If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE.</a> </br>If you are looking for the ...",
+      "readme_summary_ja": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"./.github/codex-cli-splash.png\" alt=\"Codex CLI splash\" width=\"80%\" /> </p> </br> If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE.</a> </br>If you are looking for the ...",
+      "language": "Rust",
+      "stars": 170
+    },
+    {
+      "rank": 8,
+      "repo_name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "description_ja": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "readme_summary": "<p align=\"center\" style=\"padding-bottom:20px;padding-top:20px\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"supermemory Logo\" width=\"400\" /> </picture> <br/><br/> <em>Your AI second brain for saving and organizing everything that matters.</em> <br/><br/> <a href=\"https://app.supermemory.ai\" style=\"...",
+      "readme_summary_ja": "<p align=\"center\" style=\"padding-bottom:20px;padding-top:20px\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"supermemory Logo\" width=\"400\" /> </picture> <br/><br/> <em>Your AI second brain for saving and organizing everything that matters.</em> <br/><br/> <a href=\"https://app.supermemory.ai\" style=\"...",
+      "language": "TypeScript",
+      "stars": 157
     },
     {
       "rank": 9,
-      "repo_name": "putyy/res-downloader",
-      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
-      "description_ja": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/putyy/res-downloader\"><img src=\"build/appicon.png\" width=\"120\"/></a> <h1>res-downloader</h1> <h4>📖 中文 | <a href=\"https://github.com/putyy/res-downloader/blob/master/README-EN.md\">English</a></h4> ![GitHub stars](https://github.com/putyy/res-downloader/stargazers) ![GitHub forks](https://github.com/putyy/res-downloader/fork) ![GitHub release](https://github.com/putyy/res-downloader/releases) !GitHub All Releases ![License](https://github.com/putyy/...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/putyy/res-downloader\"><img src=\"build/appicon.png\" width=\"120\"/></a> <h1>res-downloader</h1> <h4>📖 中文 | <a href=\"https://github.com/putyy/res-downloader/blob/master/README-EN.md\">English</a></h4> ![GitHub stars](https://github.com/putyy/res-downloader/stargazers) ![GitHub forks](https://github.com/putyy/res-downloader/fork) ![GitHub release](https://github.com/putyy/res-downloader/releases) !GitHub All Releases ![License](https://github.com/putyy/...",
-      "language": "Go",
-      "stars": 211
-    },
-    {
-      "rank": 10,
-      "repo_name": "AI4Finance-Foundation/FinRobot",
-      "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
-      "description_ja": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
-      "readme_summary": "<div align=\"center\"> <img align=\"center\" width=\"30%\" alt=\"image\" src=\"https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139\"> </div> FinRobot: An Open-Source AI Agent Platform for Financial Analysis using Large Language Models ![Downloads](https://pepy.tech/project/finrobot) ![Downloads](https://pepy.tech/project/finrobot) ![Join Discord](https://discord.gg/trsr8SXpW5) ![Python 3.8](https://www.python.org/downloads/release/python-360/) ![PyPI](https...",
-      "readme_summary_ja": "<div align=\"center\"> <img align=\"center\" width=\"30%\" alt=\"image\" src=\"https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139\"> </div> FinRobot: An Open-Source AI Agent Platform for Financial Analysis using Large Language Models ![Downloads](https://pepy.tech/project/finrobot) ![Downloads](https://pepy.tech/project/finrobot) ![Join Discord](https://discord.gg/trsr8SXpW5) ![Python 3.8](https://www.python.org/downloads/release/python-360/) ![PyPI](https...",
-      "language": "Jupyter Notebook",
-      "stars": 34
+      "repo_name": "Psiphon-Inc/conduit",
+      "description": "Conduit React Native app",
+      "description_ja": "Conduit React Native app",
+      "readme_summary": "Conduit App Conduit runs inproxy from psiphon-tunnel-core in a mobile app. This repository targets Android, iOS and Mac (via Catalyst). For more information about Conduit, visit the web site",
+      "readme_summary_ja": "Conduit App Conduit runs inproxy from psiphon-tunnel-core in a mobile app. This repository targets Android, iOS and Mac (via Catalyst). For more information about Conduit, visit the web site",
+      "language": "TypeScript",
+      "stars": 17
     }
   ]
 }
