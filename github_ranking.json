@@ -1,96 +1,86 @@
 {
-  "updated_at": "2026-01-26 03:18:14",
-  "total_repos": 9,
+  "updated_at": "2026-01-27 03:08:03",
+  "total_repos": 8,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "Blaizzy/mlx-audio",
       "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
-      "description_ja": "Apple Silicon上で効率的な音声分析を実現する、AppleのMLXフレームワーク上に構築されたテキスト読み上げ (TTS)、音声テキスト変換 (STT)、音声変換 (STS) ライブラリ。",
+      "description_ja": "Apple Silicon上で効率的な音声解析を実現する、AppleのMLXフレームワークを基盤としたテキスト音声合成（TTS）、音声テキスト変換（STT）、音声変換（STS）ライブラリ。",
       "readme_summary": "MLX-Audio The best audio processing library built on Apple's MLX framework, providing fast and efficient text-to-speech (TTS), speech-to-text (STT), and speech-to-speech (STS) on Apple Silicon. Features - Fast inference optimized for Apple Silicon (M series chips) - Multiple model architectures for TTS, STT, and STS - Multilingual support across models - Voice customization and cloning capabilities - Adjustable speech speed control - Interactive web interface with 3D audio visualization - OpenAI...",
-      "readme_summary_ja": "MLX-Audio：Apple Silicon上で高速かつ効率的なテキスト音声合成 (TTS)、音声テキスト変換 (STT)、音声変換 (STS) を実現する、AppleのMLXフレームワーク上に構築された最高のオーディオ処理ライブラリ。\n\n特徴：\n\n*   Apple Silicon (Mシリーズチップ) に最適化された高速推論\n*   TTS、STT、STSに対応する複数のモデルアーキテクチャ\n*   モデルを跨いだ多言語サポート\n*   音声のカスタマイズとクローン機能\n*   調整可能な音声速度制御\n*   3Dオーディオ可視化を備えたインタラクティブなWebインターフェース\n*   OpenAI...",
+      "readme_summary_ja": "MLX-Audio：Apple Silicon上で高速かつ効率的なテキスト読み上げ (TTS)、音声認識 (STT)、音声変換 (STS) を実現する、AppleのMLXフレームワーク上に構築された最高のオーディオ処理ライブラリ。特徴：Apple Silicon (Mシリーズチップ) に最適化された高速な推論、TTS、STT、STSのための複数のモデルアーキテクチャ、モデルを跨いだ多言語サポート、音声のカスタマイズとクローン機能、調整可能な音声速度制御、3Dオーディオ可視化を備えたインタラクティブなWebインターフェース、OpenAI...",
       "language": "Python",
-      "stars": 272
+      "stars": 1233
     },
     {
       "rank": 2,
       "repo_name": "VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "description_ja": "📑 PageIndex: ベクトルを使用しない推論ベースのRAGのためのドキュメントインデックス",
+      "description_ja": "📑 PageIndex: ベクトルを用いない推論ベースのRAGのためのドキュメントインデックス",
       "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> PageIndex: Vectorless, Reason...",
-      "readme_summary_ja": "PageIndex: ベクトルを使わない、Reasonで記述された...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> PageIndex: ベクトルなし、Reason...",
       "language": "Python",
-      "stars": 1004
+      "stars": 726
     },
     {
       "rank": 3,
-      "repo_name": "remotion-dev/remotion",
-      "description": "🎥 Make videos programmatically with React",
-      "description_ja": "🎥 Reactで動画をプログラムで生成",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"Animated Remotion Logo\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord Shield](https://remotion.dev/discord) ![NPM Version](https://www.npmjs.org/package/remotion) ![NPM Downloads](https://npmcharts.com/compare/re...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"アニメーションRemotionロゴ\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discordシールド](https://remotion.dev/discord) ![NPMバージョン](https://www.npmjs.org/package/remotion) ![NPMダウンロード数](https://npmcharts.com/compare/re...",
+      "repo_name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "description_ja": "極めて高速かつスケーラブルな、メモリエンジンとアプリケーション。AI時代のためのメモリAPI。",
+      "readme_summary": "<p align=\"center\" style=\"padding-bottom:20px;padding-top:20px\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"supermemory Logo\" width=\"400\" /> </picture> <br/><br/> <em>Your AI second brain for saving and organizing everything that matters.</em> <br/><br/> <a href=\"https://app.supermemory.ai\" style=\"...",
+      "readme_summary_ja": "<p align=\"center\" style=\"padding-bottom:20px;padding-top:20px\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"supermemory Logo\" width=\"400\" /> </picture> <br/><br/> <em>あなたの大切なものを保存・整理するためのAIセカンドブレイン。</em> <br/><br/> <a href=\"https://app.supermemory.ai\" style=\"...",
       "language": "TypeScript",
-      "stars": 1114
+      "stars": 420
     },
     {
       "rank": 4,
-      "repo_name": "qarmin/czkawka",
-      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
-      "description_ja": "重複ファイル、空のフォルダ、類似画像などを検出する多機能アプリ",
-      "readme_summary": "!krokiet_logo **Krokiet** ((IPA: [ˈkrɔcɛt]), \"croquette\" in Polish) new generation GUI frontend, simple, multiplatform, fast and free app to remove unnecessary files from your computer. !czkawka_logo **Czkawka** (_tch•kav•ka_ (IPA: [ˈʧ̑kafka]), \"hiccup\" in Polish) older gtk4 GUI frontend, superseded by Krokiet, but still receiving bugfix updates. Features - Written in memory-safe Rust - almost 100% unsafe code free - Amazingly fast - due to using more or less advanced algorithms and multithreadi...",
-      "readme_summary_ja": "!krokiet_logo **Krokiet** (IPA: [ˈkrɔcɛt]、ポーランド語で「クロケット」) は、次世代のGUIフロントエンドです。シンプルで、マルチプラットフォームに対応し、高速かつ無料なアプリで、コンピューターから不要なファイルを削除します。!czkawka_logo **Czkawka** (_tch•kav•ka_ (IPA: [ˈʧ̑kafka])、ポーランド語で「しゃっくり」) は、以前のgtk4 GUIフロントエンドで、Krokietに取って代わられましたが、バグ修正のアップデートは引き続き行われています。特徴: メモリ安全なRustで記述 - ほぼ100%安全でないコードは使用していません - 驚くほど高速 - 高度なアルゴリズムとマルチスレッド処理を使用しているため...",
+      "repo_name": "block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "description_ja": "コード補完にとどまらない、拡張可能なオープンソースのAIエージェント。あらゆるLLMでインストール、実行、編集、テストが可能です。",
+      "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"> <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"> </a> <a href=\"https://discord.gg/goose-oss\"> <img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"> </a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\"> ...",
+      "readme_summary_ja": "goose：ローカルで拡張可能なオープンソースのAIエージェント。エンジニアリングタスクを自動化します。",
       "language": "Rust",
-      "stars": 65
+      "stars": 332
     },
     {
       "rank": 5,
-      "repo_name": "OpenBMB/UltraRAG",
-      "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
-      "description_ja": "UltraRAG v3: 複雑かつ革新的なRAGパイプラインを構築するためのローコードMCPフレームワーク",
-      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/ultrarag_dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./docs/ultrarag.svg\"> <img alt=\"UltraRAG\" src=\"./docs/ultrarag.svg\" width=\"55%\"> </picture> </p> <h3 align=\"center\"> Less Code, Lower Barrier, Faster Deployment </h3> <p align=\"center\"> | <a href=\"https://ultrarag.openbmb.cn/pages/en/getting_started/introduction\"><b>Documentation</b></a> | <a href=\"https://modelscope.cn/datasets/UltraR...",
-      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/ultrarag_dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./docs/ultrarag.svg\"> <img alt=\"UltraRAG\" src=\"./docs/ultrarag.svg\" width=\"55%\"> </picture> </p> <h3 align=\"center\"> より少ないコード、より低い障壁、より迅速なデプロイ </h3> <p align=\"center\"> | <a href=\"https://ultrarag.openbmb.cn/pages/en/getting_started/introduction\"><b>ドキュメント</b></a> | <a href=\"https://modelscope.cn/datasets/UltraR...",
-      "language": "Python",
-      "stars": 437
+      "repo_name": "remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "description_ja": "🎥 Reactで動画をプログラム的に作成",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"Animated Remotion Logo\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord Shield](https://remotion.dev/discord) ![NPM Version](https://www.npmjs.org/package/remotion) ![NPM Downloads](https://npmcharts.com/compare/re...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/remotion-dev/logo\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng\"> <img alt=\"アニメーションRemotionロゴ\" src=\"https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif\"> </picture> </a> </p> ![Discord](https://remotion.dev/discord) ![NPMバージョン](https://www.npmjs.org/package/remotion) ![NPMダウンロード数](https://npmcharts.com/compare/re...",
+      "language": "TypeScript",
+      "stars": 1374
     },
     {
       "rank": 6,
-      "repo_name": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "description_ja": "オープンソースの最先端音声AI",
-      "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![ASR Report](docs/VibeVoice-ASR-Report.pdf) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) </div> <div align=\"center\"> <pictu...",
-      "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![ASR Report](docs/VibeVoice-ASR-Report.pdf) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) </div> <div align=\"center\"> <pictu...",
-      "language": "Python",
-      "stars": 362
+      "repo_name": "AI4Finance-Foundation/FinRobot",
+      "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
+      "description_ja": "FinRobot: LLMを活用した金融分析のためのオープンソースAIエージェントプラットフォーム🚀 🚀 🚀",
+      "readme_summary": "<div align=\"center\"> <img align=\"center\" width=\"30%\" alt=\"image\" src=\"https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139\"> </div> FinRobot: An Open-Source AI Agent Platform for Financial Analysis using Large Language Models ![Downloads](https://pepy.tech/project/finrobot) ![Downloads](https://pepy.tech/project/finrobot) ![Join Discord](https://discord.gg/trsr8SXpW5) ![Python 3.8](https://www.python.org/downloads/release/python-360/) ![PyPI](https...",
+      "readme_summary_ja": "<div align=\"center\"> <img align=\"center\" width=\"30%\" alt=\"image\" src=\"https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139\"> </div> FinRobot: An Open-Source AI Agent Platform for Financial Analysis using Large Language Models ![Downloads](https://pepy.tech/project/finrobot) ![Downloads](https://pepy.tech/project/finrobot) ![Join Discord](https://discord.gg/trsr8SXpW5) ![Python 3.8](https://www.python.org/downloads/release/python-360/) ![PyPI](https...",
+      "language": "Jupyter Notebook",
+      "stars": 68
     },
     {
       "rank": 7,
-      "repo_name": "openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "description_ja": "Lightweight coding agent that runs in your terminal",
-      "readme_summary": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"./.github/codex-cli-splash.png\" alt=\"Codex CLI splash\" width=\"80%\" /> </p> </br> If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE.</a> </br>If you are looking for the ...",
-      "readme_summary_ja": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"./.github/codex-cli-splash.png\" alt=\"Codex CLI splash\" width=\"80%\" /> </p> </br> If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE.</a> </br>If you are looking for the ...",
-      "language": "Rust",
-      "stars": 170
+      "repo_name": "k4yt3x/video2x",
+      "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+      "description_ja": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+      "readme_summary": "<p align=\"center\"> <img src=\"https://github.com/user-attachments/assets/5cd63373-e806-474f-94ec-6e04963bf90f\" alt=\"Video2X: A machine learning-based video super resolution and frame interpolation framework.\"/> </br> <img src=\"https://img.shields.io/github/v/release/k4yt3x/video2x?style=flat-square\"/> <img src=\"https://img.shields.io/github/downloads/k4yt3x/video2x/total?style=flat-square\"/> <img src=\"https://img.shields.io/github/license/k4yt3x/video2x?style=flat-square\"/> <img src=\"https://img....",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://github.com/user-attachments/assets/5cd63373-e806-474f-94ec-6e04963bf90f\" alt=\"Video2X: A machine learning-based video super resolution and frame interpolation framework.\"/> </br> <img src=\"https://img.shields.io/github/v/release/k4yt3x/video2x?style=flat-square\"/> <img src=\"https://img.shields.io/github/downloads/k4yt3x/video2x/total?style=flat-square\"/> <img src=\"https://img.shields.io/github/license/k4yt3x/video2x?style=flat-square\"/> <img src=\"https://img....",
+      "language": "C++",
+      "stars": 468
     },
     {
       "rank": 8,
-      "repo_name": "supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "description_ja": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "readme_summary": "<p align=\"center\" style=\"padding-bottom:20px;padding-top:20px\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"supermemory Logo\" width=\"400\" /> </picture> <br/><br/> <em>Your AI second brain for saving and organizing everything that matters.</em> <br/><br/> <a href=\"https://app.supermemory.ai\" style=\"...",
-      "readme_summary_ja": "<p align=\"center\" style=\"padding-bottom:20px;padding-top:20px\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"supermemory Logo\" width=\"400\" /> </picture> <br/><br/> <em>あなたのAIセカンドブレイン。大切なものをすべて保存・整理します。</em> <br/><br/> <a href=\"https://app.supermemory.ai\" style=\"...\">",
-      "language": "TypeScript",
-      "stars": 157
-    },
-    {
-      "rank": 9,
-      "repo_name": "Psiphon-Inc/conduit",
-      "description": "Conduit Client",
-      "description_ja": "Conduitクライアント",
-      "readme_summary": "Conduit App Conduit runs inproxy from psiphon-tunnel-core in a mobile app. This repository targets Android, iOS and Mac (via Catalyst). For more information about Conduit, visit the web site",
-      "readme_summary_ja": "Conduitアプリは、Psiphon-tunnel-coreのinproxyをモバイルアプリ内で実行します。このリポジトリは、Android、iOS、およびMac（Catalyst経由）を対象としています。Conduitの詳細については、ウェブサイトをご覧ください。",
-      "language": "TypeScript",
-      "stars": 17
+      "repo_name": "business-science/ai-data-science-team",
+      "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
+      "description_ja": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/business-science/ai-data-science-team\"> <picture> <img src=\"./img/ai_data_science_logo.png\" alt=\"AI Data Science Team\" width=\"360\"> </picture> </a> </div> <div align=\"center\"> <em>AI Data Science Team + AI Pipeline Studio</em> </div> <div align=\"center\"> <a href=\"https://pypi.python.org/pypi/ai-data-science-team\"><img src=\"https://img.shields.io/pypi/v/ai-data-science-team.svg?style=for-the-badge\" alt=\"PyPI\"></a> <a href=\"https://github.com/busine...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/business-science/ai-data-science-team\"> <picture> <img src=\"./img/ai_data_science_logo.png\" alt=\"AI Data Science Team\" width=\"360\"> </picture> </a> </div> <div align=\"center\"> <em>AIデータサイエンスチーム + AIパイプラインスタジオ</em> </div> <div align=\"center\"> <a href=\"https://pypi.python.org/pypi/ai-data-science-team\"><img src=\"https://img.shields.io/pypi/v/ai-data-science-team.svg?style=for-the-badge\" alt=\"PyPI\"></a> <a href=\"https://github.com/busine...",
+      "language": "Python",
+      "stars": 80
     }
   ]
 }
