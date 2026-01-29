@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-28 09:00:21",
-  "total_repos": 6,
+  "updated_at": "2026-01-29 09:00:34",
+  "total_repos": 11,
   "ranking": [
     {
       "rank": 1,
@@ -10,57 +10,107 @@
       "readme_summary": "<p align=\"center\"> <a href=\"https://shittycodingagent.ai\"> <img src=\"https://shittycodingagent.ai/logo.svg\" alt=\"pi logo\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/nKXTsAcmbT\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://github.com/badlogic/pi-mono/actions/workflows/ci.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/b...",
       "readme_summary_ja": "<p align=\"center\"> <a href=\"https://shittycodingagent.ai\"> <img src=\"https://shittycodingagent.ai/logo.svg\" alt=\"pi logo\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/nKXTsAcmbT\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://github.com/badlogic/pi-mono/actions/workflows/ci.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/b...",
       "language": "TypeScript",
-      "stars": 118
+      "stars": 467
     },
     {
       "rank": 2,
-      "repo_name": "supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "description_ja": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "readme_summary": "<p align=\"center\" style=\"padding-bottom:20px;padding-top:20px\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"supermemory Logo\" width=\"400\" /> </picture> <br/><br/> <em>Your AI second brain for saving and organizing everything that matters.</em> <br/><br/> <a href=\"https://app.supermemory.ai\" style=\"...",
-      "readme_summary_ja": "<p align=\"center\" style=\"padding-bottom:20px;padding-top:20px\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"supermemory Logo\" width=\"400\" /> </picture> <br/><br/> <em>Your AI second brain for saving and organizing everything that matters.</em> <br/><br/> <a href=\"https://app.supermemory.ai\" style=\"...",
-      "language": "TypeScript",
-      "stars": 435
-    },
-    {
-      "rank": 3,
-      "repo_name": "Blaizzy/mlx-audio",
-      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
-      "description_ja": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
-      "readme_summary": "MLX-Audio The best audio processing library built on Apple's MLX framework, providing fast and efficient text-to-speech (TTS), speech-to-text (STT), and speech-to-speech (STS) on Apple Silicon. Features - Fast inference optimized for Apple Silicon (M series chips) - Multiple model architectures for TTS, STT, and STS - Multilingual support across models - Voice customization and cloning capabilities - Adjustable speech speed control - Interactive web interface with 3D audio visualization - OpenAI...",
-      "readme_summary_ja": "MLX-Audio The best audio processing library built on Apple's MLX framework, providing fast and efficient text-to-speech (TTS), speech-to-text (STT), and speech-to-speech (STS) on Apple Silicon. Features - Fast inference optimized for Apple Silicon (M series chips) - Multiple model architectures for TTS, STT, and STS - Multilingual support across models - Voice customization and cloning capabilities - Adjustable speech speed control - Interactive web interface with 3D audio visualization - OpenAI...",
-      "language": "Python",
-      "stars": 458
-    },
-    {
-      "rank": 4,
-      "repo_name": "Free-TV/IPTV",
-      "description": "M3U Playlist for free TV channels",
-      "description_ja": "M3U Playlist for free TV channels",
-      "readme_summary": "Free TV ======= This is an M3U playlist for free TV channels around the World. Either free locally (over the air): <img src=\"https://hatscripts.github.io/circle-flags/flags/us.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ca.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/gb.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ie.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/au.svg\" width=\"...",
-      "readme_summary_ja": "Free TV ======= This is an M3U playlist for free TV channels around the World. Either free locally (over the air): <img src=\"https://hatscripts.github.io/circle-flags/flags/us.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ca.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/gb.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/ie.svg\" width=\"24\"> <img src=\"https://hatscripts.github.io/circle-flags/flags/au.svg\" width=\"...",
-      "language": "Python",
-      "stars": 295
-    },
-    {
-      "rank": 5,
       "repo_name": "hashicorp/vault",
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "description_ja": "A tool for secrets management, encryption as a service, and privileged access management",
       "readme_summary": "Vault ![build](https://github.com/hashicorp/vault/actions/workflows/build.yml) ![ci](https://github.com/hashicorp/vault/actions/workflows/ci.yml) ![vault enterprise](https://www.hashicorp.com/products/vault/?utm_source=github&utm_medium=banner&utm_campaign=github-vault-enterprise) ---- **Please note**: We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in Vault, _please responsibly disclose_ by contacting us at security@hashicorp.com. ---...",
       "readme_summary_ja": "Vault ![build](https://github.com/hashicorp/vault/actions/workflows/build.yml) ![ci](https://github.com/hashicorp/vault/actions/workflows/ci.yml) ![vault enterprise](https://www.hashicorp.com/products/vault/?utm_source=github&utm_medium=banner&utm_campaign=github-vault-enterprise) ---- **Please note**: We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in Vault, _please responsibly disclose_ by contacting us at security@hashicorp.com. ---...",
       "language": "Go",
-      "stars": 13
+      "stars": 352
+    },
+    {
+      "rank": 3,
+      "repo_name": "asgeirtj/system_prompts_leaks",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+      "description_ja": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+      "readme_summary": "!CleanShot 2025-09-03 at 02 37 49 System Prompts Leaks Collection of system prompts/system messages/developer messages. Feel free to do Pull Requests Star History ![Star History Chart](https://www.star-history.com/#asgeirtj/system_prompts_leaks&Date)",
+      "readme_summary_ja": "!CleanShot 2025-09-03 at 02 37 49 System Prompts Leaks Collection of system prompts/system messages/developer messages. Feel free to do Pull Requests Star History ![Star History Chart](https://www.star-history.com/#asgeirtj/system_prompts_leaks&Date)",
+      "language": "JavaScript",
+      "stars": 216
+    },
+    {
+      "rank": 4,
+      "repo_name": "NevaMind-AI/memU",
+      "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
+      "description_ja": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
+      "readme_summary": "!MemU Banner <div align=\"center\"> memU Always-On Proactive Memory for AI Agents ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"width: 2...",
+      "readme_summary_ja": "!MemU Banner <div align=\"center\"> memU Always-On Proactive Memory for AI Agents ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"width: 2...",
+      "language": "Python",
+      "stars": 239
+    },
+    {
+      "rank": 5,
+      "repo_name": "MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "description_ja": "Kimi Code CLI is your next CLI agent.",
+      "readme_summary": "Kimi Code CLI ![Commit Activity](https://github.com/MoonshotAI/kimi-cli/graphs/commit-activity) ![Checks](https://github.com/MoonshotAI/kimi-cli/actions) ![Version](https://pypi.org/project/kimi-cli/) ![Downloads](https://pypistats.org/packages/kimi-cli) ![Ask DeepWiki](https://deepwiki.com/MoonshotAI/kimi-cli) Kimi Code | Documentation | 文档 Kimi Code CLI is an AI agent that runs in the terminal, helping you complete software development tasks and terminal operations. It can read and edit code, ...",
+      "readme_summary_ja": "Kimi Code CLI ![Commit Activity](https://github.com/MoonshotAI/kimi-cli/graphs/commit-activity) ![Checks](https://github.com/MoonshotAI/kimi-cli/actions) ![Version](https://pypi.org/project/kimi-cli/) ![Downloads](https://pypistats.org/packages/kimi-cli) ![Ask DeepWiki](https://deepwiki.com/MoonshotAI/kimi-cli) Kimi Code | Documentation | 文档 Kimi Code CLI is an AI agent that runs in the terminal, helping you complete software development tasks and terminal operations. It can read and edit code, ...",
+      "language": "Python",
+      "stars": 298
     },
     {
       "rank": 6,
-      "repo_name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "description_ja": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "readme_summary": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
+      "repo_name": "kubernetes/ingress-nginx",
+      "description": "Ingress NGINX Controller for Kubernetes",
+      "description_ja": "Ingress NGINX Controller for Kubernetes",
+      "readme_summary": "Ingress NGINX Retirement Retiring What You Need to Know about Ingress NGINX Retirement: * Best-effort maintenance will continue until March 2026. * Afterward, there will be no further releases, no bugfixes, and no updates to resolve any security vulnerabilities that may be discovered. * Existing deployments of Ingress NGINX will not be broken",
+      "readme_summary_ja": "Ingress NGINX Retirement Retiring What You Need to Know about Ingress NGINX Retirement: * Best-effort maintenance will continue until March 2026. * Afterward, there will be no further releases, no bugfixes, and no updates to resolve any security vulnerabilities that may be discovered. * Existing deployments of Ingress NGINX will not be broken",
+      "language": "Go",
+      "stars": 29
+    },
+    {
+      "rank": 7,
+      "repo_name": "protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "description_ja": "Protocol Buffers - Google's data interchange format",
+      "readme_summary": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
+      "readme_summary_ja": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
+      "language": "C++",
+      "stars": 16
+    },
+    {
+      "rank": 8,
+      "repo_name": "lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "description_ja": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-banner]][vercel-link] LobeHub LobeHub is the ultimate space for work and life: <br/> to find, build, and collaborate with agent teammates that grow with you.<br/> We’re building the world’s largest human–agent co-evolving network. **English** · 简体中文 · [Official Site][official-site] · [Changelog][changelog] · [Documents][docs] · [Blog][blog] · [Feedback][github-issues-link] <!-- SHIELD GROUP --> [![][github-release-shield]][github-release-l...",
+      "readme_summary_ja": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-banner]][vercel-link] LobeHub LobeHub is the ultimate space for work and life: <br/> to find, build, and collaborate with agent teammates that grow with you.<br/> We’re building the world’s largest human–agent co-evolving network. **English** · 简体中文 · [Official Site][official-site] · [Changelog][changelog] · [Documents][docs] · [Blog][blog] · [Feedback][github-issues-link] <!-- SHIELD GROUP --> [![][github-release-shield]][github-release-l...",
+      "language": "TypeScript",
+      "stars": 144
+    },
+    {
+      "rank": 9,
+      "repo_name": "ran-j/PS2Recomp",
+      "description": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports",
+      "description_ja": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports",
+      "readme_summary": "PS2Recomp: PlayStation 2 Static Recompiler (Not ready) ![Discord](https://discord.gg/JQ8mawxUEf) * Note this is an experiment and doesn't work as it should, feel free to open a PR to help the project. PS2Recomp is a tool designed to statically recompile PlayStation 2 ELF binaries into C++ code that can be compiled for any modern platform. This enables running PS2 games natively on PC and other platforms without traditional emulation",
+      "readme_summary_ja": "PS2Recomp: PlayStation 2 Static Recompiler (Not ready) ![Discord](https://discord.gg/JQ8mawxUEf) * Note this is an experiment and doesn't work as it should, feel free to open a PR to help the project. PS2Recomp is a tool designed to statically recompile PlayStation 2 ELF binaries into C++ code that can be compiled for any modern platform. This enables running PS2 games natively on PC and other platforms without traditional emulation",
+      "language": "C++",
+      "stars": 458
+    },
+    {
+      "rank": 10,
+      "repo_name": "bambulab/BambuStudio",
+      "description": "PC Software for BambuLab and other 3D printers",
+      "description_ja": "PC Software for BambuLab and other 3D printers",
+      "readme_summary": "!image BambuStudio Bambu Studio is a cutting-edge, feature-rich slicing software. It contains project-based workflows, systematically optimized slicing algorithms, and an easy-to-use graphic interface, bringing users an incredibly smooth printing experience. Prebuilt Windows, macOS 64-bit and Linux releases are available through the github releases page",
+      "readme_summary_ja": "!image BambuStudio Bambu Studio is a cutting-edge, feature-rich slicing software. It contains project-based workflows, systematically optimized slicing algorithms, and an easy-to-use graphic interface, bringing users an incredibly smooth printing experience. Prebuilt Windows, macOS 64-bit and Linux releases are available through the github releases page",
+      "language": "C++",
+      "stars": 33
+    },
+    {
+      "rank": 11,
+      "repo_name": "GetStream/Vision-Agents",
+      "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
+      "description_ja": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
+      "readme_summary": "<img width=\"1280\" height=\"360\" alt=\"Readme\" src=\"assets/repo_image.png\" /> Open Vision Agents by Stream ![build](https://github.com/GetStream/Vision-Agents/actions) ![PyPI version](http://badge.fury.io/py/vision-agents) !PyPI - Python Version ![License](https://github.com/GetStream/Vision-Agents/blob/main/LICENSE) ![Discord](https://discord.gg/RkhX9PxMS6) --- Build Real-Time Vision AI Agents https://github.com/user-attachments/assets/d9778ab9-938d-4101-8605-ff879c29b0e4 Multi-modal AI agents tha...",
+      "readme_summary_ja": "<img width=\"1280\" height=\"360\" alt=\"Readme\" src=\"assets/repo_image.png\" /> Open Vision Agents by Stream ![build](https://github.com/GetStream/Vision-Agents/actions) ![PyPI version](http://badge.fury.io/py/vision-agents) !PyPI - Python Version ![License](https://github.com/GetStream/Vision-Agents/blob/main/LICENSE) ![Discord](https://discord.gg/RkhX9PxMS6) --- Build Real-Time Vision AI Agents https://github.com/user-attachments/assets/d9778ab9-938d-4101-8605-ff879c29b0e4 Multi-modal AI agents tha...",
       "language": "Python",
-      "stars": 294
+      "stars": 109
     }
   ]
 }
