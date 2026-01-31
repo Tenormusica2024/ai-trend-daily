@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-01-30 09:00:42",
+  "updated_at": "2026-01-31 09:00:44",
   "total_repos": 14,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "moltbot/moltbot",
+      "repo_name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "readme_summary": "🦞 Moltbot — Personal AI Assistant <p align=\"center\"> <img src=\"https://raw.githubusercontent.com/moltbot/moltbot/main/docs/whatsapp-clawd.jpg\" alt=\"Clawdbot\" width=\"400\"> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/moltbot/moltbot/actions/workflows/ci.yml?branch=main\"><img src=\"https://img.shields.io/github/actions/workflow/status/moltbot/moltbot/ci.yml?branch=main&style=for-the-badge\" alt=\"CI status\"></a> <a href=\"https://gi...",
-      "readme_summary_ja": "🦞 Moltbot — Personal AI Assistant <p align=\"center\"> <img src=\"https://raw.githubusercontent.com/moltbot/moltbot/main/docs/whatsapp-clawd.jpg\" alt=\"Clawdbot\" width=\"400\"> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/moltbot/moltbot/actions/workflows/ci.yml?branch=main\"><img src=\"https://img.shields.io/github/actions/workflow/status/moltbot/moltbot/ci.yml?branch=main&style=for-the-badge\" alt=\"CI status\"></a> <a href=\"https://gi...",
+      "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
+      "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
       "language": "TypeScript",
-      "stars": 16338
+      "stars": 14228
     },
     {
       "rank": 2,
@@ -20,7 +20,7 @@
       "readme_summary": "<a href=\"https://trendshift.io/repositories/14577\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14577\" alt=\"asgeirtj%2Fsystem_prompts_leaks | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> !CleanShot 2025-09-03 at 02 37 49 System Prompts Leaks Collection of system prompts/system messages/developer messages. Feel free to do Pull Requests Star History ![Star History Chart](https://www.star-history.com/#asgeirtj/system_prompts_leaks&Date)",
       "readme_summary_ja": "<a href=\"https://trendshift.io/repositories/14577\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14577\" alt=\"asgeirtj%2Fsystem_prompts_leaks | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> !CleanShot 2025-09-03 at 02 37 49 System Prompts Leaks Collection of system prompts/system messages/developer messages. Feel free to do Pull Requests Star History ![Star History Chart](https://www.star-history.com/#asgeirtj/system_prompts_leaks&Date)",
       "language": "JavaScript",
-      "stars": 1387
+      "stars": 1083
     },
     {
       "rank": 3,
@@ -30,7 +30,7 @@
       "readme_summary": "Kimi Code CLI ![Commit Activity](https://github.com/MoonshotAI/kimi-cli/graphs/commit-activity) ![Checks](https://github.com/MoonshotAI/kimi-cli/actions) ![Version](https://pypi.org/project/kimi-cli/) ![Downloads](https://pypistats.org/packages/kimi-cli) ![Ask DeepWiki](https://deepwiki.com/MoonshotAI/kimi-cli) Kimi Code | Documentation | 文档 Kimi Code CLI is an AI agent that runs in the terminal, helping you complete software development tasks and terminal operations. It can read and edit code, ...",
       "readme_summary_ja": "Kimi Code CLI ![Commit Activity](https://github.com/MoonshotAI/kimi-cli/graphs/commit-activity) ![Checks](https://github.com/MoonshotAI/kimi-cli/actions) ![Version](https://pypi.org/project/kimi-cli/) ![Downloads](https://pypistats.org/packages/kimi-cli) ![Ask DeepWiki](https://deepwiki.com/MoonshotAI/kimi-cli) Kimi Code | Documentation | 文档 Kimi Code CLI is an AI agent that runs in the terminal, helping you complete software development tasks and terminal operations. It can read and edit code, ...",
       "language": "Python",
-      "stars": 492
+      "stars": 377
     },
     {
       "rank": 4,
@@ -40,17 +40,17 @@
       "readme_summary": "@modelcontextprotocol/ext-apps ![npm version](https://www.npmjs.com/package/@modelcontextprotocol/ext-apps) ![API Documentation](https://modelcontextprotocol.github.io/ext-apps/api/) This repo contains the SDK and specification for MCP Apps Extension (SEP-1865). Specification | Version | Status | Link | | -------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------- | | **2026-01-26** | Stable | sp...",
       "readme_summary_ja": "@modelcontextprotocol/ext-apps ![npm version](https://www.npmjs.com/package/@modelcontextprotocol/ext-apps) ![API Documentation](https://modelcontextprotocol.github.io/ext-apps/api/) This repo contains the SDK and specification for MCP Apps Extension (SEP-1865). Specification | Version | Status | Link | | -------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------- | | **2026-01-26** | Stable | sp...",
       "language": "TypeScript",
-      "stars": 117
+      "stars": 195
     },
     {
       "rank": 5,
       "repo_name": "NevaMind-AI/memU",
-      "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
-      "description_ja": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
-      "readme_summary": "!MemU Banner <div align=\"center\"> memU Always-On Proactive Memory for AI Agents ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"width: 2...",
-      "readme_summary_ja": "!MemU Banner <div align=\"center\"> memU Always-On Proactive Memory for AI Agents ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"width: 2...",
+      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+      "description_ja": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+      "readme_summary": "!MemU Banner <div align=\"center\"> memU 24/7 Always-On Proactive Memory for AI Agents ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"wid...",
+      "readme_summary_ja": "!MemU Banner <div align=\"center\"> memU 24/7 Always-On Proactive Memory for AI Agents ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"wid...",
       "language": "Python",
-      "stars": 604
+      "stars": 465
     },
     {
       "rank": 6,
@@ -60,7 +60,7 @@
       "readme_summary": "Vault ![build](https://github.com/hashicorp/vault/actions/workflows/build.yml) ![ci](https://github.com/hashicorp/vault/actions/workflows/ci.yml) ![vault enterprise](https://www.hashicorp.com/products/vault/?utm_source=github&utm_medium=banner&utm_campaign=github-vault-enterprise) ---- **Please note**: We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in Vault, _please responsibly disclose_ by contacting us at security@hashicorp.com. ---...",
       "readme_summary_ja": "Vault ![build](https://github.com/hashicorp/vault/actions/workflows/build.yml) ![ci](https://github.com/hashicorp/vault/actions/workflows/ci.yml) ![vault enterprise](https://www.hashicorp.com/products/vault/?utm_source=github&utm_medium=banner&utm_campaign=github-vault-enterprise) ---- **Please note**: We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in Vault, _please responsibly disclose_ by contacting us at security@hashicorp.com. ---...",
       "language": "Go",
-      "stars": 255
+      "stars": 227
     },
     {
       "rank": 7,
@@ -70,7 +70,7 @@
       "readme_summary": "<p align=\"center\"> <a href=\"https://shittycodingagent.ai\"> <img src=\"https://shittycodingagent.ai/logo.svg\" alt=\"pi logo\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/nKXTsAcmbT\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://github.com/badlogic/pi-mono/actions/workflows/ci.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/b...",
       "readme_summary_ja": "<p align=\"center\"> <a href=\"https://shittycodingagent.ai\"> <img src=\"https://shittycodingagent.ai/logo.svg\" alt=\"pi logo\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/nKXTsAcmbT\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://github.com/badlogic/pi-mono/actions/workflows/ci.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/b...",
       "language": "TypeScript",
-      "stars": 396
+      "stars": 285
     },
     {
       "rank": 8,
@@ -80,7 +80,7 @@
       "readme_summary": null,
       "readme_summary_ja": null,
       "language": "JavaScript",
-      "stars": 11
+      "stars": 79
     },
     {
       "rank": 9,
@@ -90,7 +90,7 @@
       "readme_summary": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
       "readme_summary_ja": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
       "language": "C++",
-      "stars": 87
+      "stars": 66
     },
     {
       "rank": 10,
@@ -100,7 +100,7 @@
       "readme_summary": "<div align=\"center\"> <br /> <p> <a href=\"https://wwebjs.dev\"><img src=\"https://github.com/wwebjs/assets/blob/main/Collection/GitHub/wwebjs.png?raw=true\" title=\"whatsapp-web.js\" alt=\"WWebJS Website\" width=\"500\" /></a> </p> <br /> <p> <a href=\"https://www.npmjs.com/package/whatsapp-web.js\"><img src=\"https://img.shields.io/npm/v/whatsapp-web.js.svg\" alt=\"npm\" /></a> <a href=\"https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765\"><img src=\"https://badges.depfu.com/badges/4a65a0de96ece...",
       "readme_summary_ja": "<div align=\"center\"> <br /> <p> <a href=\"https://wwebjs.dev\"><img src=\"https://github.com/wwebjs/assets/blob/main/Collection/GitHub/wwebjs.png?raw=true\" title=\"whatsapp-web.js\" alt=\"WWebJS Website\" width=\"500\" /></a> </p> <br /> <p> <a href=\"https://www.npmjs.com/package/whatsapp-web.js\"><img src=\"https://img.shields.io/npm/v/whatsapp-web.js.svg\" alt=\"npm\" /></a> <a href=\"https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765\"><img src=\"https://badges.depfu.com/badges/4a65a0de96ece...",
       "language": "JavaScript",
-      "stars": 16
+      "stars": 113
     },
     {
       "rank": 11,
@@ -110,7 +110,7 @@
       "readme_summary": "<h3 align=\"center\">We are <i>rewriting</i> large chunks of the codebase, to bring about <a href=\"https://newpipe.net/blog/pinned/announcement/newpipe-0.27.6-rewrite-team-states/#the-refactor\">a modern and stable NewPipe</a>! You can download nightly builds <a href=\"https://github.com/TeamNewPipe/NewPipe-refactor-nightly/releases\">here</a>.</h3> <h4 align=\"center\">Please work on the <code>refactor</code> branch if you want to contribute <i>new features</i>. The current codebase is in maintenance ...",
       "readme_summary_ja": "<h3 align=\"center\">We are <i>rewriting</i> large chunks of the codebase, to bring about <a href=\"https://newpipe.net/blog/pinned/announcement/newpipe-0.27.6-rewrite-team-states/#the-refactor\">a modern and stable NewPipe</a>! You can download nightly builds <a href=\"https://github.com/TeamNewPipe/NewPipe-refactor-nightly/releases\">here</a>.</h3> <h4 align=\"center\">Please work on the <code>refactor</code> branch if you want to contribute <i>new features</i>. The current codebase is in maintenance ...",
       "language": "Java",
-      "stars": 63
+      "stars": 122
     },
     {
       "rank": 12,
@@ -120,7 +120,7 @@
       "readme_summary": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
       "readme_summary_ja": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
       "language": "Python",
-      "stars": 208
+      "stars": 365
     },
     {
       "rank": 13,
@@ -130,7 +130,7 @@
       "readme_summary": "playwright-cli Playwright CLI with SKILLS Playwright CLI vs Playwright MCP This package provides CLI interface into Playwright. If you are using **coding agents**, that is the best fit. - **CLI**: Modern **coding agents** increasingly favor CLI–based workflows exposed as SKILLs over MCP because CLI invocations are more token-efficient: they avoid loading large tool schemas and verbose accessibility trees into the model context, allowing agents to act through concise, purpose-built commands",
       "readme_summary_ja": "playwright-cli Playwright CLI with SKILLS Playwright CLI vs Playwright MCP This package provides CLI interface into Playwright. If you are using **coding agents**, that is the best fit. - **CLI**: Modern **coding agents** increasingly favor CLI–based workflows exposed as SKILLs over MCP because CLI invocations are more token-efficient: they avoid loading large tool schemas and verbose accessibility trees into the model context, allowing agents to act through concise, purpose-built commands",
       "language": "",
-      "stars": 64
+      "stars": 207
     },
     {
       "rank": 14,
@@ -140,7 +140,7 @@
       "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-banner]][vercel-link] LobeHub LobeHub is the ultimate space for work and life: <br/> to find, build, and collaborate with agent teammates that grow with you.<br/> We’re building the world’s largest human–agent co-evolving network. **English** · 简体中文 · [Official Site][official-site] · [Changelog][changelog] · [Documents][docs] · [Blog][blog] · [Feedback][github-issues-link] <!-- SHIELD GROUP --> [![][github-release-shield]][github-release-l...",
       "readme_summary_ja": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-banner]][vercel-link] LobeHub LobeHub is the ultimate space for work and life: <br/> to find, build, and collaborate with agent teammates that grow with you.<br/> We’re building the world’s largest human–agent co-evolving network. **English** · 简体中文 · [Official Site][official-site] · [Changelog][changelog] · [Documents][docs] · [Blog][blog] · [Feedback][github-issues-link] <!-- SHIELD GROUP --> [![][github-release-shield]][github-release-l...",
       "language": "TypeScript",
-      "stars": 364
+      "stars": 376
     }
   ]
 }
