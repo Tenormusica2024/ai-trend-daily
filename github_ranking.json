@@ -1,146 +1,126 @@
 {
-  "updated_at": "2026-01-31 09:00:44",
-  "total_repos": 14,
+  "updated_at": "2026-02-01 09:00:38",
+  "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
+      "repo_name": "ThePrimeagen/99",
+      "description": "Neovim AI agent done right",
+      "description_ja": "Neovim AI agent done right",
+      "readme_summary": "IF YOU ARE HERE FROM THE YT VIDEO a few things changed. completion is a bit different for skills. i now require @ to begin with ..",
+      "readme_summary_ja": "IF YOU ARE HERE FROM THE YT VIDEO a few things changed. completion is a bit different for skills. i now require @ to begin with ..",
+      "language": "Lua",
+      "stars": 542
+    },
+    {
+      "rank": 2,
+      "repo_name": "microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "description_ja": "Official inference framework for 1-bit LLMs",
+      "readme_summary": "bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) !version <img src=\"./assets/header_model_release.png\" alt=\"BitNet Model on Hugging Face\" width=\"800\"/> Try it out via this demo, or build and run it on your own CPU or GPU. bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU and GPU (NPU support will coming next)",
+      "readme_summary_ja": "bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) !version <img src=\"./assets/header_model_release.png\" alt=\"BitNet Model on Hugging Face\" width=\"800\"/> Try it out via this demo, or build and run it on your own CPU or GPU. bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU and GPU (NPU support will coming next)",
+      "language": "Python",
+      "stars": 137
+    },
+    {
+      "rank": 3,
+      "repo_name": "microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "description_ja": "The absolute trainer to light up AI agents.",
+      "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
+      "language": "Python",
+      "stars": 516
+    },
+    {
+      "rank": 4,
+      "repo_name": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "description_ja": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "readme_summary": "<div align=\"center\"> <p> <img width=\"100%\" src=\"./docs/images/Banner.png\" alt=\"PaddleOCR Banner\"> </p> English | 简体中文 | 繁體中文 | 日本語 | 한국어 | Français | Русский | Español | العربية <!-- icon --> ![stars](https://github.com/PaddlePaddle/PaddleOCR) ![forks](https://github.com/PaddlePaddle/PaddleOCR) ![arXiv](https://arxiv.org/pdf/2507.05595) ![arXiv](https://arxiv.org/abs/2510.14528) ![PyPI Downloads](https://pepy.tech/projectsproject/paddleocr) ![PyPI Downloads](https://pepy.tech/projects/paddleocr)...",
+      "readme_summary_ja": "<div align=\"center\"> <p> <img width=\"100%\" src=\"./docs/images/Banner.png\" alt=\"PaddleOCR Banner\"> </p> English | 简体中文 | 繁體中文 | 日本語 | 한국어 | Français | Русский | Español | العربية <!-- icon --> ![stars](https://github.com/PaddlePaddle/PaddleOCR) ![forks](https://github.com/PaddlePaddle/PaddleOCR) ![arXiv](https://arxiv.org/pdf/2507.05595) ![arXiv](https://arxiv.org/abs/2510.14528) ![PyPI Downloads](https://pepy.tech/projectsproject/paddleocr) ![PyPI Downloads](https://pepy.tech/projects/paddleocr)...",
+      "language": "Python",
+      "stars": 171
+    },
+    {
+      "rank": 5,
+      "repo_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description_ja": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "readme_summary": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
+      "readme_summary_ja": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
+      "language": "Shell",
+      "stars": 237
+    },
+    {
+      "rank": 6,
+      "repo_name": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+      "description_ja": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
+      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
+      "language": "C#",
+      "stars": 46
+    },
+    {
+      "rank": 7,
+      "repo_name": "termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "description_ja": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "readme_summary": "Termux application ![Build status](https://github.com/termux/termux-app/actions) ![Testing status](https://github.com/termux/termux-app/actions) ![Join the chat at https://gitter.im/termux/termux](https://gitter.im/termux/termux) ![Join the Termux discord server](https://discord.gg/HXpF69X) ![Termux library releases at Jitpack](https://jitpack.io/#termux/termux-app) Termux is an Android terminal application and Linux environment. Note that this repository is for the app itself (the user interfac...",
+      "readme_summary_ja": "Termux application ![Build status](https://github.com/termux/termux-app/actions) ![Testing status](https://github.com/termux/termux-app/actions) ![Join the chat at https://gitter.im/termux/termux](https://gitter.im/termux/termux) ![Join the Termux discord server](https://discord.gg/HXpF69X) ![Termux library releases at Jitpack](https://jitpack.io/#termux/termux-app) Termux is an Android terminal application and Linux environment. Note that this repository is for the app itself (the user interfac...",
+      "language": "Java",
+      "stars": 41
+    },
+    {
+      "rank": 8,
       "repo_name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
       "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
       "language": "TypeScript",
-      "stars": 14228
-    },
-    {
-      "rank": 2,
-      "repo_name": "asgeirtj/system_prompts_leaks",
-      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
-      "description_ja": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
-      "readme_summary": "<a href=\"https://trendshift.io/repositories/14577\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14577\" alt=\"asgeirtj%2Fsystem_prompts_leaks | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> !CleanShot 2025-09-03 at 02 37 49 System Prompts Leaks Collection of system prompts/system messages/developer messages. Feel free to do Pull Requests Star History ![Star History Chart](https://www.star-history.com/#asgeirtj/system_prompts_leaks&Date)",
-      "readme_summary_ja": "<a href=\"https://trendshift.io/repositories/14577\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14577\" alt=\"asgeirtj%2Fsystem_prompts_leaks | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> !CleanShot 2025-09-03 at 02 37 49 System Prompts Leaks Collection of system prompts/system messages/developer messages. Feel free to do Pull Requests Star History ![Star History Chart](https://www.star-history.com/#asgeirtj/system_prompts_leaks&Date)",
-      "language": "JavaScript",
-      "stars": 1083
-    },
-    {
-      "rank": 3,
-      "repo_name": "MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "description_ja": "Kimi Code CLI is your next CLI agent.",
-      "readme_summary": "Kimi Code CLI ![Commit Activity](https://github.com/MoonshotAI/kimi-cli/graphs/commit-activity) ![Checks](https://github.com/MoonshotAI/kimi-cli/actions) ![Version](https://pypi.org/project/kimi-cli/) ![Downloads](https://pypistats.org/packages/kimi-cli) ![Ask DeepWiki](https://deepwiki.com/MoonshotAI/kimi-cli) Kimi Code | Documentation | 文档 Kimi Code CLI is an AI agent that runs in the terminal, helping you complete software development tasks and terminal operations. It can read and edit code, ...",
-      "readme_summary_ja": "Kimi Code CLI ![Commit Activity](https://github.com/MoonshotAI/kimi-cli/graphs/commit-activity) ![Checks](https://github.com/MoonshotAI/kimi-cli/actions) ![Version](https://pypi.org/project/kimi-cli/) ![Downloads](https://pypistats.org/packages/kimi-cli) ![Ask DeepWiki](https://deepwiki.com/MoonshotAI/kimi-cli) Kimi Code | Documentation | 文档 Kimi Code CLI is an AI agent that runs in the terminal, helping you complete software development tasks and terminal operations. It can read and edit code, ...",
-      "language": "Python",
-      "stars": 377
-    },
-    {
-      "rank": 4,
-      "repo_name": "modelcontextprotocol/ext-apps",
-      "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
-      "description_ja": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
-      "readme_summary": "@modelcontextprotocol/ext-apps ![npm version](https://www.npmjs.com/package/@modelcontextprotocol/ext-apps) ![API Documentation](https://modelcontextprotocol.github.io/ext-apps/api/) This repo contains the SDK and specification for MCP Apps Extension (SEP-1865). Specification | Version | Status | Link | | -------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------- | | **2026-01-26** | Stable | sp...",
-      "readme_summary_ja": "@modelcontextprotocol/ext-apps ![npm version](https://www.npmjs.com/package/@modelcontextprotocol/ext-apps) ![API Documentation](https://modelcontextprotocol.github.io/ext-apps/api/) This repo contains the SDK and specification for MCP Apps Extension (SEP-1865). Specification | Version | Status | Link | | -------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------- | | **2026-01-26** | Stable | sp...",
-      "language": "TypeScript",
-      "stars": 195
-    },
-    {
-      "rank": 5,
-      "repo_name": "NevaMind-AI/memU",
-      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
-      "description_ja": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
-      "readme_summary": "!MemU Banner <div align=\"center\"> memU 24/7 Always-On Proactive Memory for AI Agents ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"wid...",
-      "readme_summary_ja": "!MemU Banner <div align=\"center\"> memU 24/7 Always-On Proactive Memory for AI Agents ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"wid...",
-      "language": "Python",
-      "stars": 465
-    },
-    {
-      "rank": 6,
-      "repo_name": "hashicorp/vault",
-      "description": "A tool for secrets management, encryption as a service, and privileged access management",
-      "description_ja": "A tool for secrets management, encryption as a service, and privileged access management",
-      "readme_summary": "Vault ![build](https://github.com/hashicorp/vault/actions/workflows/build.yml) ![ci](https://github.com/hashicorp/vault/actions/workflows/ci.yml) ![vault enterprise](https://www.hashicorp.com/products/vault/?utm_source=github&utm_medium=banner&utm_campaign=github-vault-enterprise) ---- **Please note**: We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in Vault, _please responsibly disclose_ by contacting us at security@hashicorp.com. ---...",
-      "readme_summary_ja": "Vault ![build](https://github.com/hashicorp/vault/actions/workflows/build.yml) ![ci](https://github.com/hashicorp/vault/actions/workflows/ci.yml) ![vault enterprise](https://www.hashicorp.com/products/vault/?utm_source=github&utm_medium=banner&utm_campaign=github-vault-enterprise) ---- **Please note**: We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in Vault, _please responsibly disclose_ by contacting us at security@hashicorp.com. ---...",
-      "language": "Go",
-      "stars": 227
-    },
-    {
-      "rank": 7,
-      "repo_name": "badlogic/pi-mono",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "description_ja": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://shittycodingagent.ai\"> <img src=\"https://shittycodingagent.ai/logo.svg\" alt=\"pi logo\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/nKXTsAcmbT\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://github.com/badlogic/pi-mono/actions/workflows/ci.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/b...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://shittycodingagent.ai\"> <img src=\"https://shittycodingagent.ai/logo.svg\" alt=\"pi logo\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/nKXTsAcmbT\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://github.com/badlogic/pi-mono/actions/workflows/ci.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/b...",
-      "language": "TypeScript",
-      "stars": 285
-    },
-    {
-      "rank": 8,
-      "repo_name": "anomalyco/opencode-anthropic-auth",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "JavaScript",
-      "stars": 79
+      "stars": 14780
     },
     {
       "rank": 9,
-      "repo_name": "protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "description_ja": "Protocol Buffers - Google's data interchange format",
-      "readme_summary": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
-      "readme_summary_ja": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
-      "language": "C++",
-      "stars": 66
-    },
-    {
-      "rank": 10,
       "repo_name": "pedroslopez/whatsapp-web.js",
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
       "description_ja": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
       "readme_summary": "<div align=\"center\"> <br /> <p> <a href=\"https://wwebjs.dev\"><img src=\"https://github.com/wwebjs/assets/blob/main/Collection/GitHub/wwebjs.png?raw=true\" title=\"whatsapp-web.js\" alt=\"WWebJS Website\" width=\"500\" /></a> </p> <br /> <p> <a href=\"https://www.npmjs.com/package/whatsapp-web.js\"><img src=\"https://img.shields.io/npm/v/whatsapp-web.js.svg\" alt=\"npm\" /></a> <a href=\"https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765\"><img src=\"https://badges.depfu.com/badges/4a65a0de96ece...",
       "readme_summary_ja": "<div align=\"center\"> <br /> <p> <a href=\"https://wwebjs.dev\"><img src=\"https://github.com/wwebjs/assets/blob/main/Collection/GitHub/wwebjs.png?raw=true\" title=\"whatsapp-web.js\" alt=\"WWebJS Website\" width=\"500\" /></a> </p> <br /> <p> <a href=\"https://www.npmjs.com/package/whatsapp-web.js\"><img src=\"https://img.shields.io/npm/v/whatsapp-web.js.svg\" alt=\"npm\" /></a> <a href=\"https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765\"><img src=\"https://badges.depfu.com/badges/4a65a0de96ece...",
       "language": "JavaScript",
-      "stars": 113
+      "stars": 137
+    },
+    {
+      "rank": 10,
+      "repo_name": "AlexanderGrooff/mermaid-ascii",
+      "description": "Render Mermaid graphs inside your terminal",
+      "description_ja": "Render Mermaid graphs inside your terminal",
+      "readme_summary": "Mermaid ASCII Render mermaid diagrams in your terminal: Installation You can download the binary from Github releases: You can also build it yourself: Or using Nix: Usage You can render graphs directly from the command line or start a web interface to render them interactively. Sequence Diagrams Sequence diagrams are also fully supported! They visualize message flows between participants over time. Colored output is also supported (given that your terminal supports it) using the classDef syntax:...",
+      "readme_summary_ja": "Mermaid ASCII Render mermaid diagrams in your terminal: Installation You can download the binary from Github releases: You can also build it yourself: Or using Nix: Usage You can render graphs directly from the command line or start a web interface to render them interactively. Sequence Diagrams Sequence diagrams are also fully supported! They visualize message flows between participants over time. Colored output is also supported (given that your terminal supports it) using the classDef syntax:...",
+      "language": "Go",
+      "stars": 74
     },
     {
       "rank": 11,
-      "repo_name": "TeamNewPipe/NewPipe",
-      "description": "A libre lightweight streaming front-end for Android.",
-      "description_ja": "A libre lightweight streaming front-end for Android.",
-      "readme_summary": "<h3 align=\"center\">We are <i>rewriting</i> large chunks of the codebase, to bring about <a href=\"https://newpipe.net/blog/pinned/announcement/newpipe-0.27.6-rewrite-team-states/#the-refactor\">a modern and stable NewPipe</a>! You can download nightly builds <a href=\"https://github.com/TeamNewPipe/NewPipe-refactor-nightly/releases\">here</a>.</h3> <h4 align=\"center\">Please work on the <code>refactor</code> branch if you want to contribute <i>new features</i>. The current codebase is in maintenance ...",
-      "readme_summary_ja": "<h3 align=\"center\">We are <i>rewriting</i> large chunks of the codebase, to bring about <a href=\"https://newpipe.net/blog/pinned/announcement/newpipe-0.27.6-rewrite-team-states/#the-refactor\">a modern and stable NewPipe</a>! You can download nightly builds <a href=\"https://github.com/TeamNewPipe/NewPipe-refactor-nightly/releases\">here</a>.</h3> <h4 align=\"center\">Please work on the <code>refactor</code> branch if you want to contribute <i>new features</i>. The current codebase is in maintenance ...",
-      "language": "Java",
-      "stars": 122
+      "repo_name": "reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "description_ja": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "readme_summary": "Flowsint ![License: Apache-2.0](./LICENSE) ![Ethical Software](./ETHICS.md) Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. **Ethics:** Please read ETHICS.md for responsible use guidelines. <img width=\"1439\" height=\"899\" alt=\"hero-dark\" src=\"https://github.com/user-attachments/assets/01eb128e-bef4-486e-9276-c4da58f829ae\" /> <img width=\"1511\" height=\"946\" alt=\"Capture d’écran 2026-01-13 à 09 15 58\" src=\"https://github.c...",
+      "readme_summary_ja": "Flowsint ![License: Apache-2.0](./LICENSE) ![Ethical Software](./ETHICS.md) Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. **Ethics:** Please read ETHICS.md for responsible use guidelines. <img width=\"1439\" height=\"899\" alt=\"hero-dark\" src=\"https://github.com/user-attachments/assets/01eb128e-bef4-486e-9276-c4da58f829ae\" /> <img width=\"1511\" height=\"946\" alt=\"Capture d’écran 2026-01-13 à 09 15 58\" src=\"https://github.c...",
+      "language": "TypeScript",
+      "stars": 120
     },
     {
       "rank": 12,
-      "repo_name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "description_ja": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "readme_summary": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
-      "language": "Python",
-      "stars": 365
-    },
-    {
-      "rank": 13,
-      "repo_name": "microsoft/playwright-cli",
-      "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
-      "description_ja": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
-      "readme_summary": "playwright-cli Playwright CLI with SKILLS Playwright CLI vs Playwright MCP This package provides CLI interface into Playwright. If you are using **coding agents**, that is the best fit. - **CLI**: Modern **coding agents** increasingly favor CLI–based workflows exposed as SKILLs over MCP because CLI invocations are more token-efficient: they avoid loading large tool schemas and verbose accessibility trees into the model context, allowing agents to act through concise, purpose-built commands",
-      "readme_summary_ja": "playwright-cli Playwright CLI with SKILLS Playwright CLI vs Playwright MCP This package provides CLI interface into Playwright. If you are using **coding agents**, that is the best fit. - **CLI**: Modern **coding agents** increasingly favor CLI–based workflows exposed as SKILLs over MCP because CLI invocations are more token-efficient: they avoid loading large tool schemas and verbose accessibility trees into the model context, allowing agents to act through concise, purpose-built commands",
-      "language": "",
-      "stars": 207
-    },
-    {
-      "rank": 14,
-      "repo_name": "lobehub/lobehub",
-      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-      "description_ja": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-      "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-banner]][vercel-link] LobeHub LobeHub is the ultimate space for work and life: <br/> to find, build, and collaborate with agent teammates that grow with you.<br/> We’re building the world’s largest human–agent co-evolving network. **English** · 简体中文 · [Official Site][official-site] · [Changelog][changelog] · [Documents][docs] · [Blog][blog] · [Feedback][github-issues-link] <!-- SHIELD GROUP --> [![][github-release-shield]][github-release-l...",
-      "readme_summary_ja": "<div align=\"center\"><a name=\"readme-top\"></a> [![][image-banner]][vercel-link] LobeHub LobeHub is the ultimate space for work and life: <br/> to find, build, and collaborate with agent teammates that grow with you.<br/> We’re building the world’s largest human–agent co-evolving network. **English** · 简体中文 · [Official Site][official-site] · [Changelog][changelog] · [Documents][docs] · [Blog][blog] · [Feedback][github-issues-link] <!-- SHIELD GROUP --> [![][github-release-shield]][github-release-l...",
+      "repo_name": "cline/cline",
+      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+      "description_ja": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+      "readme_summary": "<div align=\"center\"><sub> English | <a href=\"https://github.com/cline/cline/blob/main/locales/es/README.md\" target=\"_blank\">Español</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/de/README.md\" target=\"_blank\">Deutsch</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/ja/README.md\" target=\"_blank\">日本語</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/zh-cn/README.md\" target=\"_blank\">简体中文</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/zh...",
+      "readme_summary_ja": "<div align=\"center\"><sub> English | <a href=\"https://github.com/cline/cline/blob/main/locales/es/README.md\" target=\"_blank\">Español</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/de/README.md\" target=\"_blank\">Deutsch</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/ja/README.md\" target=\"_blank\">日本語</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/zh-cn/README.md\" target=\"_blank\">简体中文</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/zh...",
       "language": "TypeScript",
-      "stars": 376
+      "stars": 44
     }
   ]
 }
