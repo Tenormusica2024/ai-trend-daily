@@ -1,126 +1,116 @@
 {
-  "updated_at": "2026-02-01 03:53:06",
-  "total_repos": 12,
+  "updated_at": "2026-02-02 03:45:27",
+  "total_repos": 11,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "ThePrimeagen/99",
-      "description": "Neovim AI agent done right",
-      "description_ja": "Neovim AI agent done right",
-      "readme_summary": "IF YOU ARE HERE FROM THE YT VIDEO a few things changed. completion is a bit different for skills. i now require @ to begin with ..",
-      "readme_summary_ja": "IF YOU ARE HERE FROM THE YT VIDEO a few things changed. completion is a bit different for skills. i now require @ to begin with ..",
-      "language": "Lua",
-      "stars": 542
-    },
-    {
-      "rank": 2,
-      "repo_name": "microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "description_ja": "Official inference framework for 1-bit LLMs",
-      "readme_summary": "bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) !version <img src=\"./assets/header_model_release.png\" alt=\"BitNet Model on Hugging Face\" width=\"800\"/> Try it out via this demo, or build and run it on your own CPU or GPU. bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU and GPU (NPU support will coming next)",
-      "readme_summary_ja": "bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) !version <img src=\"./assets/header_model_release.png\" alt=\"BitNet Model on Hugging Face\" width=\"800\"/> Try it out via this demo, or build and run it on your own CPU or GPU. bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU and GPU (NPU support will coming next)",
-      "language": "Python",
-      "stars": 137
-    },
-    {
-      "rank": 3,
-      "repo_name": "microsoft/agent-lightning",
-      "description": "The absolute trainer to light up AI agents.",
-      "description_ja": "The absolute trainer to light up AI agents.",
-      "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
-      "language": "Python",
-      "stars": 516
-    },
-    {
-      "rank": 4,
-      "repo_name": "PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "description_ja": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "readme_summary": "<div align=\"center\"> <p> <img width=\"100%\" src=\"./docs/images/Banner.png\" alt=\"PaddleOCR Banner\"> </p> English | 简体中文 | 繁體中文 | 日本語 | 한국어 | Français | Русский | Español | العربية <!-- icon --> ![stars](https://github.com/PaddlePaddle/PaddleOCR) ![forks](https://github.com/PaddlePaddle/PaddleOCR) ![arXiv](https://arxiv.org/pdf/2507.05595) ![arXiv](https://arxiv.org/abs/2510.14528) ![PyPI Downloads](https://pepy.tech/projectsproject/paddleocr) ![PyPI Downloads](https://pepy.tech/projects/paddleocr)...",
-      "readme_summary_ja": "<div align=\"center\"> <p> <img width=\"100%\" src=\"./docs/images/Banner.png\" alt=\"PaddleOCR Banner\"> </p> English | 简体中文 | 繁體中文 | 日本語 | 한국어 | Français | Русский | Español | العربية <!-- icon --> ![stars](https://github.com/PaddlePaddle/PaddleOCR) ![forks](https://github.com/PaddlePaddle/PaddleOCR) ![arXiv](https://arxiv.org/pdf/2507.05595) ![arXiv](https://arxiv.org/abs/2510.14528) ![PyPI Downloads](https://pepy.tech/projectsproject/paddleocr) ![PyPI Downloads](https://pepy.tech/projects/paddleocr)...",
-      "language": "Python",
-      "stars": 171
-    },
-    {
-      "rank": 5,
-      "repo_name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "description_ja": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "readme_summary": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
-      "readme_summary_ja": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
-      "language": "Shell",
-      "stars": 237
-    },
-    {
-      "rank": 6,
-      "repo_name": "microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
-      "description_ja": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
-      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
-      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
-      "language": "C#",
-      "stars": 46
-    },
-    {
-      "rank": 7,
-      "repo_name": "termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "description_ja": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "readme_summary": "Termux application ![Build status](https://github.com/termux/termux-app/actions) ![Testing status](https://github.com/termux/termux-app/actions) ![Join the chat at https://gitter.im/termux/termux](https://gitter.im/termux/termux) ![Join the Termux discord server](https://discord.gg/HXpF69X) ![Termux library releases at Jitpack](https://jitpack.io/#termux/termux-app) Termux is an Android terminal application and Linux environment. Note that this repository is for the app itself (the user interfac...",
-      "readme_summary_ja": "Termux application ![Build status](https://github.com/termux/termux-app/actions) ![Testing status](https://github.com/termux/termux-app/actions) ![Join the chat at https://gitter.im/termux/termux](https://gitter.im/termux/termux) ![Join the Termux discord server](https://discord.gg/HXpF69X) ![Termux library releases at Jitpack](https://jitpack.io/#termux/termux-app) Termux is an Android terminal application and Linux environment. Note that this repository is for the app itself (the user interfac...",
-      "language": "Java",
-      "stars": 41
-    },
-    {
-      "rank": 8,
       "repo_name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
       "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
       "language": "TypeScript",
-      "stars": 14780
+      "stars": 10794
+    },
+    {
+      "rank": 2,
+      "repo_name": "ThePrimeagen/99",
+      "description": "Neovim AI agent done right",
+      "description_ja": "Neovim AI agent done right",
+      "readme_summary": "IF YOU ARE HERE FROM THE YT VIDEO a few things changed. completion is a bit different for skills. i now require @ to begin with ..",
+      "readme_summary_ja": "IF YOU ARE HERE FROM THE YT VIDEO a few things changed. completion is a bit different for skills. i now require @ to begin with ..",
+      "language": "Lua",
+      "stars": 781
+    },
+    {
+      "rank": 3,
+      "repo_name": "pedramamini/Maestro",
+      "description": "Agent Orchestration Command Center",
+      "description_ja": "Agent Orchestration Command Center",
+      "readme_summary": "Maestro ![Made with Maestro](https://github.com/pedramamini/Maestro) ![Discord](https://runmaestro.ai/discord) ![User Docs](https://docs.runmaestro.ai/) > Maestro hones fractured attention into focused intent. Maestro is a cross-platform desktop app for orchestrating your fleet of AI agents and projects. It's a high-velocity solution for hackers who are juggling multiple projects in parallel",
+      "readme_summary_ja": "Maestro ![Made with Maestro](https://github.com/pedramamini/Maestro) ![Discord](https://runmaestro.ai/discord) ![User Docs](https://docs.runmaestro.ai/) > Maestro hones fractured attention into focused intent. Maestro is a cross-platform desktop app for orchestrating your fleet of AI agents and projects. It's a high-velocity solution for hackers who are juggling multiple projects in parallel",
+      "language": "TypeScript",
+      "stars": 49
+    },
+    {
+      "rank": 4,
+      "repo_name": "kovidgoyal/calibre",
+      "description": "The official source code repository for the calibre ebook manager",
+      "description_ja": "The official source code repository for the calibre ebook manager",
+      "readme_summary": "calibre <img align=\"left\" src=\"https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png\" height=\"200\" width=\"200\"/> calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices",
+      "readme_summary_ja": "calibre <img align=\"left\" src=\"https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png\" height=\"200\" width=\"200\"/> calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices",
+      "language": "Python",
+      "stars": 37
+    },
+    {
+      "rank": 5,
+      "repo_name": "badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "description_ja": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://shittycodingagent.ai\"> <img src=\"https://shittycodingagent.ai/logo.svg\" alt=\"pi logo\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/3cU7Bz4UPx\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://github.com/badlogic/pi-mono/actions/workflows/ci.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/b...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://shittycodingagent.ai\"> <img src=\"https://shittycodingagent.ai/logo.svg\" alt=\"pi logo\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/3cU7Bz4UPx\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://github.com/badlogic/pi-mono/actions/workflows/ci.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/b...",
+      "language": "TypeScript",
+      "stars": 613
+    },
+    {
+      "rank": 6,
+      "repo_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "readme_summary": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
+      "readme_summary_ja": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
+      "language": "TypeScript",
+      "stars": 196
+    },
+    {
+      "rank": 7,
+      "repo_name": "microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "description_ja": "The absolute trainer to light up AI agents.",
+      "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
+      "language": "Python",
+      "stars": 406
+    },
+    {
+      "rank": 8,
+      "repo_name": "amantus-ai/vibetunnel",
+      "description": "Turn any browser into your terminal & command your agents on the go.",
+      "description_ja": "Turn any browser into your terminal & command your agents on the go.",
+      "readme_summary": "VibeTunnel 🚇 - Turn any browser into your terminal; command agents from the road (vt.sh) <!-- Generated: 2025-07-28 12:35:00 UTC --> <p align=\"center\"> <img src=\"assets/banner.png\" alt=\"VibeTunnel Banner\" /> </p> <p align=\"center\"> <strong>Turn any browser into your Mac terminal.</strong><br> VibeTunnel proxies your terminals right into the browser, so you can vibe-code anywhere. </p> <p align=\"center\"> <a href=\"https://github.com/amantus-ai/vibetunnel/releases/latest\"><img src=\"https://img.shie...",
+      "readme_summary_ja": "VibeTunnel 🚇 - Turn any browser into your terminal; command agents from the road (vt.sh) <!-- Generated: 2025-07-28 12:35:00 UTC --> <p align=\"center\"> <img src=\"assets/banner.png\" alt=\"VibeTunnel Banner\" /> </p> <p align=\"center\"> <strong>Turn any browser into your Mac terminal.</strong><br> VibeTunnel proxies your terminals right into the browser, so you can vibe-code anywhere. </p> <p align=\"center\"> <a href=\"https://github.com/amantus-ai/vibetunnel/releases/latest\"><img src=\"https://img.shie...",
+      "language": "TypeScript",
+      "stars": 43
     },
     {
       "rank": 9,
-      "repo_name": "pedroslopez/whatsapp-web.js",
-      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-      "description_ja": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-      "readme_summary": "<div align=\"center\"> <br /> <p> <a href=\"https://wwebjs.dev\"><img src=\"https://github.com/wwebjs/assets/blob/main/Collection/GitHub/wwebjs.png?raw=true\" title=\"whatsapp-web.js\" alt=\"WWebJS Website\" width=\"500\" /></a> </p> <br /> <p> <a href=\"https://www.npmjs.com/package/whatsapp-web.js\"><img src=\"https://img.shields.io/npm/v/whatsapp-web.js.svg\" alt=\"npm\" /></a> <a href=\"https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765\"><img src=\"https://badges.depfu.com/badges/4a65a0de96ece...",
-      "readme_summary_ja": "<div align=\"center\"> <br /> <p> <a href=\"https://wwebjs.dev\"><img src=\"https://github.com/wwebjs/assets/blob/main/Collection/GitHub/wwebjs.png?raw=true\" title=\"whatsapp-web.js\" alt=\"WWebJS Website\" width=\"500\" /></a> </p> <br /> <p> <a href=\"https://www.npmjs.com/package/whatsapp-web.js\"><img src=\"https://img.shields.io/npm/v/whatsapp-web.js.svg\" alt=\"npm\" /></a> <a href=\"https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765\"><img src=\"https://badges.depfu.com/badges/4a65a0de96ece...",
-      "language": "JavaScript",
-      "stars": 137
+      "repo_name": "steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "description_ja": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "readme_summary": "CodexBar 🎚️ - May your tokens never run out. Tiny macOS 14+ menu bar app that keeps your Codex, Claude, Cursor, Gemini, Antigravity, Droid (Factory), Copilot, z.ai, Kiro, Vertex AI, Augment, Amp, and JetBrains AI limits visible (session + weekly where available) and shows when each window resets. One status item per provider (or Merge Icons mode); enable what you use from Settings",
+      "readme_summary_ja": "CodexBar 🎚️ - May your tokens never run out. Tiny macOS 14+ menu bar app that keeps your Codex, Claude, Cursor, Gemini, Antigravity, Droid (Factory), Copilot, z.ai, Kiro, Vertex AI, Augment, Amp, and JetBrains AI limits visible (session + weekly where available) and shows when each window resets. One status item per provider (or Merge Icons mode); enable what you use from Settings",
+      "language": "Swift",
+      "stars": 99
     },
     {
       "rank": 10,
-      "repo_name": "AlexanderGrooff/mermaid-ascii",
-      "description": "Render Mermaid graphs inside your terminal",
-      "description_ja": "Render Mermaid graphs inside your terminal",
-      "readme_summary": "Mermaid ASCII Render mermaid diagrams in your terminal: Installation You can download the binary from Github releases: You can also build it yourself: Or using Nix: Usage You can render graphs directly from the command line or start a web interface to render them interactively. Sequence Diagrams Sequence diagrams are also fully supported! They visualize message flows between participants over time. Colored output is also supported (given that your terminal supports it) using the classDef syntax:...",
-      "readme_summary_ja": "Mermaid ASCII Render mermaid diagrams in your terminal: Installation You can download the binary from Github releases: You can also build it yourself: Or using Nix: Usage You can render graphs directly from the command line or start a web interface to render them interactively. Sequence Diagrams Sequence diagrams are also fully supported! They visualize message flows between participants over time. Colored output is also supported (given that your terminal supports it) using the classDef syntax:...",
-      "language": "Go",
-      "stars": 74
+      "repo_name": "j178/prek",
+      "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+      "description_ja": "⚡ Better `pre-commit`, re-engineered in Rust",
+      "readme_summary": "<div align=\"center\"> <h1> <img width=\"180\" alt=\"prek\" src=\"https://raw.githubusercontent.com/j178/prek/master/docs/assets/logo.webp\" /> <br/>prek </h1> ![prek](https://github.com/j178/prek) ![codecov](https://codecov.io/github/j178/prek) ![GitHub Downloads](https://github.com/j178/prek/releases) ![PyPI Downloads](https://pepy.tech/projects/prek) ![Discord](https://discord.gg/3NRJUqJz86) </div> <!-- --8<-- [start: description] --> pre-commit is a framework to run hooks written in many languages, ...",
+      "readme_summary_ja": "<div align=\"center\"> <h1> <img width=\"180\" alt=\"prek\" src=\"https://raw.githubusercontent.com/j178/prek/master/docs/assets/logo.webp\" /> <br/>prek </h1> ![prek](https://github.com/j178/prek) ![codecov](https://codecov.io/github/j178/prek) ![GitHub Downloads](https://github.com/j178/prek/releases) ![PyPI Downloads](https://pepy.tech/projects/prek) ![Discord](https://discord.gg/3NRJUqJz86) </div> <!-- --8<-- [start: description] --> pre-commit is a framework to run hooks written in many languages, ...",
+      "language": "Rust",
+      "stars": 61
     },
     {
       "rank": 11,
-      "repo_name": "reconurge/flowsint",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "description_ja": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "readme_summary": "Flowsint ![License: Apache-2.0](./LICENSE) ![Ethical Software](./ETHICS.md) Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. **Ethics:** Please read ETHICS.md for responsible use guidelines. <img width=\"1439\" height=\"899\" alt=\"hero-dark\" src=\"https://github.com/user-attachments/assets/01eb128e-bef4-486e-9276-c4da58f829ae\" /> <img width=\"1511\" height=\"946\" alt=\"Capture d’écran 2026-01-13 à 09 15 58\" src=\"https://github.c...",
-      "readme_summary_ja": "Flowsint ![License: Apache-2.0](./LICENSE) ![Ethical Software](./ETHICS.md) Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. **Ethics:** Please read ETHICS.md for responsible use guidelines. <img width=\"1439\" height=\"899\" alt=\"hero-dark\" src=\"https://github.com/user-attachments/assets/01eb128e-bef4-486e-9276-c4da58f829ae\" /> <img width=\"1511\" height=\"946\" alt=\"Capture d’écran 2026-01-13 à 09 15 58\" src=\"https://github.c...",
-      "language": "TypeScript",
-      "stars": 120
-    },
-    {
-      "rank": 12,
-      "repo_name": "cline/cline",
-      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
-      "description_ja": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
-      "readme_summary": "<div align=\"center\"><sub> English | <a href=\"https://github.com/cline/cline/blob/main/locales/es/README.md\" target=\"_blank\">Español</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/de/README.md\" target=\"_blank\">Deutsch</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/ja/README.md\" target=\"_blank\">日本語</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/zh-cn/README.md\" target=\"_blank\">简体中文</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/zh...",
-      "readme_summary_ja": "<div align=\"center\"><sub> English | <a href=\"https://github.com/cline/cline/blob/main/locales/es/README.md\" target=\"_blank\">Español</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/de/README.md\" target=\"_blank\">Deutsch</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/ja/README.md\" target=\"_blank\">日本語</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/zh-cn/README.md\" target=\"_blank\">简体中文</a> | <a href=\"https://github.com/cline/cline/blob/main/locales/zh...",
-      "language": "TypeScript",
-      "stars": 44
+      "repo_name": "vita-epfl/Stable-Video-Infinity",
+      "description": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
+      "description_ja": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
+      "readme_summary": "<div align=\"center\"> <p align=\"center\"> <img src=\"assets/logo.png\" alt=\"SVI\" width=\"400\"/> </p> <h1>Stable Video Infinity: Infinite-Length Video Generation with Error Recycling</h1> Wuyang Li · Wentao Pan · Po-Chien Luan · Yang Gao · Alexandre Alahi VITA@EPFL <a href='https://stable-video-infinity.github.io/homepage/'><img src='https://img.shields.io/badge/Project-Page-green'></a> <a href='https://arxiv.org/abs/2510.09212'><img src='https://img.shields.io/badge/Technique-Report-red'></a> <a href...",
+      "readme_summary_ja": "<div align=\"center\"> <p align=\"center\"> <img src=\"assets/logo.png\" alt=\"SVI\" width=\"400\"/> </p> <h1>Stable Video Infinity: Infinite-Length Video Generation with Error Recycling</h1> Wuyang Li · Wentao Pan · Po-Chien Luan · Yang Gao · Alexandre Alahi VITA@EPFL <a href='https://stable-video-infinity.github.io/homepage/'><img src='https://img.shields.io/badge/Project-Page-green'></a> <a href='https://arxiv.org/abs/2510.09212'><img src='https://img.shields.io/badge/Technique-Report-red'></a> <a href...",
+      "language": "Python",
+      "stars": 45
     }
   ]
 }
