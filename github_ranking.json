@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-02-02 03:45:27",
-  "total_repos": 11,
+  "updated_at": "2026-02-03 03:38:41",
+  "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
-      "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
+      "repo_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "readme_summary": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
+      "readme_summary_ja": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
       "language": "TypeScript",
-      "stars": 10794
+      "stars": 1474
     },
     {
       "rank": 2,
@@ -20,97 +20,107 @@
       "readme_summary": "IF YOU ARE HERE FROM THE YT VIDEO a few things changed. completion is a bit different for skills. i now require @ to begin with ..",
       "readme_summary_ja": "IF YOU ARE HERE FROM THE YT VIDEO a few things changed. completion is a bit different for skills. i now require @ to begin with ..",
       "language": "Lua",
-      "stars": 781
+      "stars": 300
     },
     {
       "rank": 3,
+      "repo_name": "termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "description_ja": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "readme_summary": "Termux application ![Build status](https://github.com/termux/termux-app/actions) ![Testing status](https://github.com/termux/termux-app/actions) ![Join the chat at https://gitter.im/termux/termux](https://gitter.im/termux/termux) ![Join the Termux discord server](https://discord.gg/HXpF69X) ![Termux library releases at Jitpack](https://jitpack.io/#termux/termux-app) Termux is an Android terminal application and Linux environment. Note that this repository is for the app itself (the user interfac...",
+      "readme_summary_ja": "Termux application ![Build status](https://github.com/termux/termux-app/actions) ![Testing status](https://github.com/termux/termux-app/actions) ![Join the chat at https://gitter.im/termux/termux](https://gitter.im/termux/termux) ![Join the Termux discord server](https://discord.gg/HXpF69X) ![Termux library releases at Jitpack](https://jitpack.io/#termux/termux-app) Termux is an Android terminal application and Linux environment. Note that this repository is for the app itself (the user interfac...",
+      "language": "Java",
+      "stars": 80
+    },
+    {
+      "rank": 4,
       "repo_name": "pedramamini/Maestro",
       "description": "Agent Orchestration Command Center",
       "description_ja": "Agent Orchestration Command Center",
       "readme_summary": "Maestro ![Made with Maestro](https://github.com/pedramamini/Maestro) ![Discord](https://runmaestro.ai/discord) ![User Docs](https://docs.runmaestro.ai/) > Maestro hones fractured attention into focused intent. Maestro is a cross-platform desktop app for orchestrating your fleet of AI agents and projects. It's a high-velocity solution for hackers who are juggling multiple projects in parallel",
       "readme_summary_ja": "Maestro ![Made with Maestro](https://github.com/pedramamini/Maestro) ![Discord](https://runmaestro.ai/discord) ![User Docs](https://docs.runmaestro.ai/) > Maestro hones fractured attention into focused intent. Maestro is a cross-platform desktop app for orchestrating your fleet of AI agents and projects. It's a high-velocity solution for hackers who are juggling multiple projects in parallel",
       "language": "TypeScript",
-      "stars": 49
-    },
-    {
-      "rank": 4,
-      "repo_name": "kovidgoyal/calibre",
-      "description": "The official source code repository for the calibre ebook manager",
-      "description_ja": "The official source code repository for the calibre ebook manager",
-      "readme_summary": "calibre <img align=\"left\" src=\"https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png\" height=\"200\" width=\"200\"/> calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices",
-      "readme_summary_ja": "calibre <img align=\"left\" src=\"https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png\" height=\"200\" width=\"200\"/> calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices",
-      "language": "Python",
-      "stars": 37
+      "stars": 336
     },
     {
       "rank": 5,
+      "repo_name": "netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "description_ja": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "readme_summary": "<div align=\"center\"> <br/> <br/> <p align=\"center\"> <img width=\"234\" src=\"docs/media/logo-full.png\"/> </p> <p> <a href=\"https://img.shields.io/badge/license-BSD--3-blue)\"> <img src=\"https://sonarcloud.io/api/project_badges/measure?project=netbirdio_netbird&metric=alert_status\" /> </a> <a href=\"https://github.com/netbirdio/netbird/blob/main/LICENSE\"> <img src=\"https://img.shields.io/badge/license-BSD--3-blue\" /> </a> <br> <a href=\"https://docs.netbird.io/slack-url\"> <img src=\"https://img.shields....",
+      "readme_summary_ja": "<div align=\"center\"> <br/> <br/> <p align=\"center\"> <img width=\"234\" src=\"docs/media/logo-full.png\"/> </p> <p> <a href=\"https://img.shields.io/badge/license-BSD--3-blue)\"> <img src=\"https://sonarcloud.io/api/project_badges/measure?project=netbirdio_netbird&metric=alert_status\" /> </a> <a href=\"https://github.com/netbirdio/netbird/blob/main/LICENSE\"> <img src=\"https://img.shields.io/badge/license-BSD--3-blue\" /> </a> <br> <a href=\"https://docs.netbird.io/slack-url\"> <img src=\"https://img.shields....",
+      "language": "Go",
+      "stars": 347
+    },
+    {
+      "rank": 6,
+      "repo_name": "OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "description_ja": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "readme_summary": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
+      "readme_summary_ja": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
+      "language": "Python",
+      "stars": 93
+    },
+    {
+      "rank": 7,
+      "repo_name": "autobrr/qui",
+      "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+      "description_ja": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+      "readme_summary": "qui A fast, modern web interface for qBittorrent. Supports managing multiple qBittorrent instances from a single, lightweight application. <div align=\"center\"> <img src=\".github/assets/qui.png\" alt=\"qui\" width=\"100%\" /> </div> Documentation Full documentation available at **getqui.com** Quick Start Linux x86_64 The web interface will be available at http://localhost:7476 Docker Features - **Single Binary**: No dependencies, just download and run - **Multi-Instance Support**: Manage all your qBit...",
+      "readme_summary_ja": "qui A fast, modern web interface for qBittorrent. Supports managing multiple qBittorrent instances from a single, lightweight application. <div align=\"center\"> <img src=\".github/assets/qui.png\" alt=\"qui\" width=\"100%\" /> </div> Documentation Full documentation available at **getqui.com** Quick Start Linux x86_64 The web interface will be available at http://localhost:7476 Docker Features - **Single Binary**: No dependencies, just download and run - **Multi-Instance Support**: Manage all your qBit...",
+      "language": "Go",
+      "stars": 77
+    },
+    {
+      "rank": 8,
       "repo_name": "badlogic/pi-mono",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "description_ja": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "readme_summary": "<p align=\"center\"> <a href=\"https://shittycodingagent.ai\"> <img src=\"https://shittycodingagent.ai/logo.svg\" alt=\"pi logo\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/3cU7Bz4UPx\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://github.com/badlogic/pi-mono/actions/workflows/ci.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/b...",
       "readme_summary_ja": "<p align=\"center\"> <a href=\"https://shittycodingagent.ai\"> <img src=\"https://shittycodingagent.ai/logo.svg\" alt=\"pi logo\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/3cU7Bz4UPx\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://github.com/badlogic/pi-mono/actions/workflows/ci.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/b...",
       "language": "TypeScript",
-      "stars": 613
-    },
-    {
-      "rank": 6,
-      "repo_name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "readme_summary": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
-      "readme_summary_ja": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
-      "language": "TypeScript",
-      "stars": 196
-    },
-    {
-      "rank": 7,
-      "repo_name": "microsoft/agent-lightning",
-      "description": "The absolute trainer to light up AI agents.",
-      "description_ja": "The absolute trainer to light up AI agents.",
-      "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
-      "language": "Python",
-      "stars": 406
-    },
-    {
-      "rank": 8,
-      "repo_name": "amantus-ai/vibetunnel",
-      "description": "Turn any browser into your terminal & command your agents on the go.",
-      "description_ja": "Turn any browser into your terminal & command your agents on the go.",
-      "readme_summary": "VibeTunnel 🚇 - Turn any browser into your terminal; command agents from the road (vt.sh) <!-- Generated: 2025-07-28 12:35:00 UTC --> <p align=\"center\"> <img src=\"assets/banner.png\" alt=\"VibeTunnel Banner\" /> </p> <p align=\"center\"> <strong>Turn any browser into your Mac terminal.</strong><br> VibeTunnel proxies your terminals right into the browser, so you can vibe-code anywhere. </p> <p align=\"center\"> <a href=\"https://github.com/amantus-ai/vibetunnel/releases/latest\"><img src=\"https://img.shie...",
-      "readme_summary_ja": "VibeTunnel 🚇 - Turn any browser into your terminal; command agents from the road (vt.sh) <!-- Generated: 2025-07-28 12:35:00 UTC --> <p align=\"center\"> <img src=\"assets/banner.png\" alt=\"VibeTunnel Banner\" /> </p> <p align=\"center\"> <strong>Turn any browser into your Mac terminal.</strong><br> VibeTunnel proxies your terminals right into the browser, so you can vibe-code anywhere. </p> <p align=\"center\"> <a href=\"https://github.com/amantus-ai/vibetunnel/releases/latest\"><img src=\"https://img.shie...",
-      "language": "TypeScript",
-      "stars": 43
+      "stars": 878
     },
     {
       "rank": 9,
-      "repo_name": "steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "description_ja": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "readme_summary": "CodexBar 🎚️ - May your tokens never run out. Tiny macOS 14+ menu bar app that keeps your Codex, Claude, Cursor, Gemini, Antigravity, Droid (Factory), Copilot, z.ai, Kiro, Vertex AI, Augment, Amp, and JetBrains AI limits visible (session + weekly where available) and shows when each window resets. One status item per provider (or Merge Icons mode); enable what you use from Settings",
-      "readme_summary_ja": "CodexBar 🎚️ - May your tokens never run out. Tiny macOS 14+ menu bar app that keeps your Codex, Claude, Cursor, Gemini, Antigravity, Droid (Factory), Copilot, z.ai, Kiro, Vertex AI, Augment, Amp, and JetBrains AI limits visible (session + weekly where available) and shows when each window resets. One status item per provider (or Merge Icons mode); enable what you use from Settings",
-      "language": "Swift",
-      "stars": 99
+      "repo_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "description_ja": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> PageIndex: Vectorless, Reason...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> PageIndex: Vectorless, Reason...",
+      "language": "Python",
+      "stars": 793
     },
     {
       "rank": 10,
-      "repo_name": "j178/prek",
-      "description": "⚡ Better `pre-commit`, re-engineered in Rust",
-      "description_ja": "⚡ Better `pre-commit`, re-engineered in Rust",
-      "readme_summary": "<div align=\"center\"> <h1> <img width=\"180\" alt=\"prek\" src=\"https://raw.githubusercontent.com/j178/prek/master/docs/assets/logo.webp\" /> <br/>prek </h1> ![prek](https://github.com/j178/prek) ![codecov](https://codecov.io/github/j178/prek) ![GitHub Downloads](https://github.com/j178/prek/releases) ![PyPI Downloads](https://pepy.tech/projects/prek) ![Discord](https://discord.gg/3NRJUqJz86) </div> <!-- --8<-- [start: description] --> pre-commit is a framework to run hooks written in many languages, ...",
-      "readme_summary_ja": "<div align=\"center\"> <h1> <img width=\"180\" alt=\"prek\" src=\"https://raw.githubusercontent.com/j178/prek/master/docs/assets/logo.webp\" /> <br/>prek </h1> ![prek](https://github.com/j178/prek) ![codecov](https://codecov.io/github/j178/prek) ![GitHub Downloads](https://github.com/j178/prek/releases) ![PyPI Downloads](https://pepy.tech/projects/prek) ![Discord](https://discord.gg/3NRJUqJz86) </div> <!-- --8<-- [start: description] --> pre-commit is a framework to run hooks written in many languages, ...",
-      "language": "Rust",
-      "stars": 61
+      "repo_name": "karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "description_ja": "The best ChatGPT that $100 can buy.",
+      "readme_summary": "nanochat !nanochat logo !scaling laws nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$50,000 to train in 2019) for only $73 (3 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI",
+      "readme_summary_ja": "nanochat !nanochat logo !scaling laws nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$50,000 to train in 2019) for only $73 (3 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI",
+      "language": "Python",
+      "stars": 254
     },
     {
       "rank": 11,
-      "repo_name": "vita-epfl/Stable-Video-Infinity",
-      "description": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
-      "description_ja": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
-      "readme_summary": "<div align=\"center\"> <p align=\"center\"> <img src=\"assets/logo.png\" alt=\"SVI\" width=\"400\"/> </p> <h1>Stable Video Infinity: Infinite-Length Video Generation with Error Recycling</h1> Wuyang Li · Wentao Pan · Po-Chien Luan · Yang Gao · Alexandre Alahi VITA@EPFL <a href='https://stable-video-infinity.github.io/homepage/'><img src='https://img.shields.io/badge/Project-Page-green'></a> <a href='https://arxiv.org/abs/2510.09212'><img src='https://img.shields.io/badge/Technique-Report-red'></a> <a href...",
-      "readme_summary_ja": "<div align=\"center\"> <p align=\"center\"> <img src=\"assets/logo.png\" alt=\"SVI\" width=\"400\"/> </p> <h1>Stable Video Infinity: Infinite-Length Video Generation with Error Recycling</h1> Wuyang Li · Wentao Pan · Po-Chien Luan · Yang Gao · Alexandre Alahi VITA@EPFL <a href='https://stable-video-infinity.github.io/homepage/'><img src='https://img.shields.io/badge/Project-Page-green'></a> <a href='https://arxiv.org/abs/2510.09212'><img src='https://img.shields.io/badge/Technique-Report-red'></a> <a href...",
+      "repo_name": "kovidgoyal/calibre",
+      "description": "The official source code repository for the calibre ebook manager",
+      "description_ja": "The official source code repository for the calibre ebook manager",
+      "readme_summary": "calibre <img align=\"left\" src=\"https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png\" height=\"200\" width=\"200\"/> calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices",
+      "readme_summary_ja": "calibre <img align=\"left\" src=\"https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png\" height=\"200\" width=\"200\"/> calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices",
       "language": "Python",
-      "stars": 45
+      "stars": 183
+    },
+    {
+      "rank": 12,
+      "repo_name": "langchain-ai/rag-from-scratch",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "RAG From Scratch LLMs are trained on a large but fixed corpus of data, limiting their ability to reason about private or recent information. Fine-tuning is one way to mitigate this, but is often not well-suited for factual recall and can be costly. Retrieval augmented generation (RAG) has emerged as a popular and powerful mechanism to expand an LLM's knowledge base, using documents retrieved from an external data source to ground the LLM generation via in-context learning",
+      "readme_summary_ja": "RAG From Scratch LLMs are trained on a large but fixed corpus of data, limiting their ability to reason about private or recent information. Fine-tuning is one way to mitigate this, but is often not well-suited for factual recall and can be costly. Retrieval augmented generation (RAG) has emerged as a popular and powerful mechanism to expand an LLM's knowledge base, using documents retrieved from an external data source to ground the LLM generation via in-context learning",
+      "language": "Jupyter Notebook",
+      "stars": 105
     }
   ]
 }
