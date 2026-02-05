@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-05 02:48:56",
+  "updated_at": "2026-02-05 03:08:55",
   "total_repos": 12,
   "ranking": [
     {
@@ -67,8 +67,8 @@
       "repo_name": "Canner/WrenAI",
       "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
       "description_ja": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
-      "readme_summary": null,
-      "readme_summary_ja": null,
+      "readme_summary": "<p align=\"center\" id=\"top\"> <a href=\"https://getwren.ai/?utm_source=github&utm_medium=title&utm_campaign=readme\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./misc/wrenai_logo.png\"> <img src=\"./misc/wrenai_logo_white.png\" width=\"300px\"> </picture> <h1 align=\"center\">Wren AI - Open-Source GenBI Agent</h1> </a> </p> <p align=\"center\"> <a aria-label=\"Follow us on X\" href=\"https://x.com/getwrenai\"> <img alt=\"\" src=\"https://img.shields.io/badge/-@getwrenai-blue?style=for-the-badg...",
+      "readme_summary_ja": "<p align=\"center\" id=\"top\"> <a href=\"https://getwren.ai/?utm_source=github&utm_medium=title&utm_campaign=readme\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./misc/wrenai_logo.png\"> <img src=\"./misc/wrenai_logo_white.png\" width=\"300px\"> </picture> <h1 align=\"center\">Wren AI - Open-Source GenBI Agent</h1> </a> </p> <p align=\"center\"> <a aria-label=\"Follow us on X\" href=\"https://x.com/getwrenai\"> <img alt=\"\" src=\"https://img.shields.io/badge/-@getwrenai-blue?style=for-the-badg...",
       "language": "TypeScript",
       "stars": 89
     },
@@ -77,8 +77,8 @@
       "repo_name": "pedramamini/Maestro",
       "description": "Agent Orchestration Command Center",
       "description_ja": "Agent Orchestration Command Center",
-      "readme_summary": null,
-      "readme_summary_ja": null,
+      "readme_summary": "Maestro ![Made with Maestro](https://github.com/pedramamini/Maestro) ![Discord](https://runmaestro.ai/discord) ![User Docs](https://docs.runmaestro.ai/) > Maestro hones fractured attention into focused intent. Maestro is a cross-platform desktop app for orchestrating your fleet of AI agents and projects. It's a high-velocity solution for hackers who are juggling multiple projects in parallel",
+      "readme_summary_ja": "Maestro ![Made with Maestro](https://github.com/pedramamini/Maestro) ![Discord](https://runmaestro.ai/discord) ![User Docs](https://docs.runmaestro.ai/) > Maestro hones fractured attention into focused intent. Maestro is a cross-platform desktop app for orchestrating your fleet of AI agents and projects. It's a high-velocity solution for hackers who are juggling multiple projects in parallel",
       "language": "TypeScript",
       "stars": 187
     },
@@ -107,8 +107,8 @@
       "repo_name": "LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "description_ja": "Truly independent web browser",
-      "readme_summary": null,
-      "readme_summary_ja": null,
+      "readme_summary": "Ladybird Ladybird is a truly independent web browser, using a novel engine based on web standards. > [!IMPORTANT] > Ladybird is in a pre-alpha state, and only suitable for use by developers > Features We aim to build a complete, usable browser for the modern web. Ladybird uses a multi-process architecture with a main UI process, several WebContent renderer processes, an ImageDecoder process, and a RequestServer process",
+      "readme_summary_ja": "Ladybird Ladybird is a truly independent web browser, using a novel engine based on web standards. > [!IMPORTANT] > Ladybird is in a pre-alpha state, and only suitable for use by developers > Features We aim to build a complete, usable browser for the modern web. Ladybird uses a multi-process architecture with a main UI process, several WebContent renderer processes, an ImageDecoder process, and a RequestServer process",
       "language": "C++",
       "stars": 68
     },
@@ -117,8 +117,8 @@
       "repo_name": "likec4/likec4",
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "description_ja": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "readme_summary": null,
-      "readme_summary_ja": null,
+      "readme_summary": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
+      "readme_summary_ja": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
       "language": "TypeScript",
       "stars": 29
     }
