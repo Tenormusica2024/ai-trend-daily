@@ -115,6 +115,47 @@ schtasks /run /tn "\GitHub_Trend_Ranking_Daily_Update"
 
 ---
 
+## 🔧 Task Scheduler定期実行のトラブルシューティング（Claude Code用）
+
+### エラーコード詳細
+| エラー | 原因 | 解決策 |
+|--------|------|--------|
+| 結果コード9009 | コマンドが見つからない | claude.exeフルパス指定 `C:\Users\Tenormusica\.bun\bin\claude.exe` |
+| 結果コード9009(継続) | Task Scheduler実行環境問題 | PowerShell wrapper方式に変更 |
+| 結果コード255 | ツール承認待ち | `--dangerously-skip-permissions` 追加 |
+| 結果コード267009 | PS引数エスケープ問題 | wrapper.ps1ファイルに分離 |
+| ログファイル未生成 | bash→cmd呼び出し問題 | `Start-Process -Wait -NoNewWindow` |
+| 日本語文字化け | バッチ内日本語 | `chcp 65001` + 英語プロンプト |
+| 結果コード3221225786 | ユーザーがclaude.exeウィンドウを手動で閉じた | 完了まで待機（3-10分） |
+
+### ✅ 正しい構成（PowerShell wrapper方式）
+```
+Task Scheduler → powershell.exe -File wrapper.ps1 → cmd.exe /c batch.bat → claude.exe -p
+```
+
+**wrapper.ps1:**
+```powershell
+Start-Process -FilePath "cmd.exe" -ArgumentList "/c [batch.bat]" -Wait -NoNewWindow
+```
+
+**batch.bat:**
+```batch
+set ANTHROPIC_API_KEY=
+claude.exe -p "..." --dangerously-skip-permissions
+```
+
+### ⏰ 定期実行確認時の必須確認事項
+- 定期実行の確認を指示された時は、必ず現在の日本時間（JST）を確認する
+- `<env>` タグの "Today's date" は UTC のため、日本時間に +9時間する必要がある
+- ログファイルのタイムスタンプと現在時刻を比較して、直近の実行が正常に完了しているか判定
+
+### 📅 時間表現リサーチ時の日付確認プロトコル
+- **WebSearchクエリに必ず現在の年号を含める**（hook出力またはenv情報から取得）
+- 「最近」「直近」等の時間表現を含む検索時に発火
+- 年号不一致（例: 2026年なのに2024で検索）は絶対禁止
+
+---
+
 ## 🔗 関連リソース
 
 ### Obsidian Vault（AI情報ソース）
