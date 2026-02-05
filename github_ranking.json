@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-04 09:00:35",
-  "total_repos": 11,
+  "updated_at": "2026-02-05 09:00:39",
+  "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
@@ -10,107 +10,117 @@
       "readme_summary": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
       "readme_summary_ja": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
       "language": "TypeScript",
-      "stars": 1730
+      "stars": 2638
     },
     {
       "rank": 2,
-      "repo_name": "masoncl/review-prompts",
-      "description": "AI review prompts",
-      "description_ja": "AI review prompts",
-      "readme_summary": "Review Prompts for AI-Assisted Code Review AI-assisted code review prompts for Linux kernel and systemd development. Works with Claude Code and other AI tools. Quick Start Install Kernel Prompts Only Install systemd Prompts Only Install Both Available Commands | Project | Review | Debug | Verify | |---------|--------|-------|--------| | Kernel | /kreview | /kdebug | /kverify | | systemd | /systemd-review | /systemd-debug | /systemd-verify | Project Documentation - Kernel Review Prompts - Linux k...",
-      "readme_summary_ja": "Review Prompts for AI-Assisted Code Review AI-assisted code review prompts for Linux kernel and systemd development. Works with Claude Code and other AI tools. Quick Start Install Kernel Prompts Only Install systemd Prompts Only Install Both Available Commands | Project | Review | Debug | Verify | |---------|--------|-------|--------| | Kernel | /kreview | /kdebug | /kverify | | systemd | /systemd-review | /systemd-debug | /systemd-verify | Project Documentation - Kernel Review Prompts - Linux k...",
-      "language": "Python",
-      "stars": 54
-    },
-    {
-      "rank": 3,
       "repo_name": "openai/skills",
       "description": "Skills Catalog for Codex",
       "description_ja": "Skills Catalog for Codex",
       "readme_summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
       "readme_summary_ja": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
       "language": "Python",
-      "stars": 377
+      "stars": 746
+    },
+    {
+      "rank": 3,
+      "repo_name": "disler/claude-code-hooks-mastery",
+      "description": "Master Claude Code Hooks",
+      "description_ja": "Master Claude Code Hooks",
+      "readme_summary": "Claude Code Hooks Mastery Claude Code Hooks - Quickly master how to use Claude Code hooks to add deterministic (or non-deterministic) control over Claude Code's behavior. Plus learn about Claude Code Sub-Agents, the powerful Meta-Agent, and Team-Based Validation with agent orchestration. <img src=\"images/hooked.png\" alt=\"Claude Code Hooks\" style=\"max-width: 800px; width: 100%;\" /> Table of Contents - Prerequisites - Hook Lifecycle & Payloads - What This Shows - UV Single-File Scripts Architectur...",
+      "readme_summary_ja": "Claude Code Hooks Mastery Claude Code Hooks - Quickly master how to use Claude Code hooks to add deterministic (or non-deterministic) control over Claude Code's behavior. Plus learn about Claude Code Sub-Agents, the powerful Meta-Agent, and Team-Based Validation with agent orchestration. <img src=\"images/hooked.png\" alt=\"Claude Code Hooks\" style=\"max-width: 800px; width: 100%;\" /> Table of Contents - Prerequisites - Hook Lifecycle & Payloads - What This Shows - UV Single-File Scripts Architectur...",
+      "language": "Python",
+      "stars": 47
     },
     {
       "rank": 4,
-      "repo_name": "automazeio/ccpm",
-      "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
-      "description_ja": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
-      "readme_summary": "Claude Code PM ![Automaze](https://automaze.io) &nbsp; ![Claude Code](https://github.com/automazeio/ccpm/blob/main/README.md) ![GitHub Issues](https://github.com/automazeio/ccpm) &nbsp; ![Mentioned in Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code?tab=readme-ov-file#general-) &nbsp; ![MIT License](https://github.com/automazeio/ccpm/blob/main/LICENSE) &nbsp; ![Follow on 𝕏](http://x.com/intent/follow?screen_name=aroussi) &nbsp; ![Star this repo](https://github.com/automaz...",
-      "readme_summary_ja": "Claude Code PM ![Automaze](https://automaze.io) &nbsp; ![Claude Code](https://github.com/automazeio/ccpm/blob/main/README.md) ![GitHub Issues](https://github.com/automazeio/ccpm) &nbsp; ![Mentioned in Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code?tab=readme-ov-file#general-) &nbsp; ![MIT License](https://github.com/automazeio/ccpm/blob/main/LICENSE) &nbsp; ![Follow on 𝕏](http://x.com/intent/follow?screen_name=aroussi) &nbsp; ![Star this repo](https://github.com/automaz...",
-      "language": "Shell",
-      "stars": 123
-    },
-    {
-      "rank": 5,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 817
-    },
-    {
-      "rank": 6,
-      "repo_name": "virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
-      "description_ja": "An autonomous agent for deep financial research",
-      "readme_summary": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
-      "readme_summary_ja": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
-      "language": "TypeScript",
-      "stars": 222
-    },
-    {
-      "rank": 7,
-      "repo_name": "karpathy/nanochat",
-      "description": "The best ChatGPT that $100 can buy.",
-      "description_ja": "The best ChatGPT that $100 can buy.",
-      "readme_summary": "nanochat !nanochat logo !scaling laws nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$50,000 to train in 2019) for only $73 (3 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI",
-      "readme_summary_ja": "nanochat !nanochat logo !scaling laws nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$50,000 to train in 2019) for only $73 (3 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI",
-      "language": "Python",
-      "stars": 447
-    },
-    {
-      "rank": 8,
-      "repo_name": "kovidgoyal/calibre",
-      "description": "The official source code repository for the calibre ebook manager",
-      "description_ja": "The official source code repository for the calibre ebook manager",
-      "readme_summary": "calibre <img align=\"left\" src=\"https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png\" height=\"200\" width=\"200\"/> calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices",
-      "readme_summary_ja": "calibre <img align=\"left\" src=\"https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png\" height=\"200\" width=\"200\"/> calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices",
-      "language": "Python",
-      "stars": 141
-    },
-    {
-      "rank": 9,
       "repo_name": "OpenBMB/ChatDev",
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "description_ja": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "readme_summary": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
       "readme_summary_ja": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
       "language": "Python",
-      "stars": 476
+      "stars": 227
     },
     {
-      "rank": 10,
+      "rank": 5,
+      "repo_name": "ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "description_ja": "Anki is a smart spaced repetition flashcard program",
+      "readme_summary": "Anki® ![Build status](https://buildkite.com/ankitects/anki-ci) This repo contains the source code for the computer version of Anki. About Anki is a spaced repetition program. Please see the website to learn more",
+      "readme_summary_ja": "Anki® ![Build status](https://buildkite.com/ankitects/anki-ci) This repo contains the source code for the computer version of Anki. About Anki is a spaced repetition program. Please see the website to learn more",
+      "language": "Rust",
+      "stars": 28
+    },
+    {
+      "rank": 6,
+      "repo_name": "open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "description_ja": "Contrib repository for the OpenTelemetry Collector",
+      "readme_summary": "--- <p align=\"center\"> <strong> <a href=\"https://opentelemetry.io/docs/collector/getting-started/\">Getting Started</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href=\"https://github.com/open-telemetry/opentelemetry-collector/blob/main/CONTRIBUTING.md\">Getting Involved</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href=\"https://cloud-native.slack.com/archives/C01N6P7KR6W\">Getting In Touch</a> </strong> </p> <p align=\"center\"> <a href=\"https://github.com/open-telemetry/opentelemetry-collector-contrib/actions/work...",
+      "readme_summary_ja": "--- <p align=\"center\"> <strong> <a href=\"https://opentelemetry.io/docs/collector/getting-started/\">Getting Started</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href=\"https://github.com/open-telemetry/opentelemetry-collector/blob/main/CONTRIBUTING.md\">Getting Involved</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href=\"https://cloud-native.slack.com/archives/C01N6P7KR6W\">Getting In Touch</a> </strong> </p> <p align=\"center\"> <a href=\"https://github.com/open-telemetry/opentelemetry-collector-contrib/actions/work...",
+      "language": "Go",
+      "stars": 3
+    },
+    {
+      "rank": 7,
+      "repo_name": "Canner/WrenAI",
+      "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
+      "description_ja": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
+      "readme_summary": "<p align=\"center\" id=\"top\"> <a href=\"https://getwren.ai/?utm_source=github&utm_medium=title&utm_campaign=readme\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./misc/wrenai_logo.png\"> <img src=\"./misc/wrenai_logo_white.png\" width=\"300px\"> </picture> <h1 align=\"center\">Wren AI - Open-Source GenBI Agent</h1> </a> </p> <p align=\"center\"> <a aria-label=\"Follow us on X\" href=\"https://x.com/getwrenai\"> <img alt=\"\" src=\"https://img.shields.io/badge/-@getwrenai-blue?style=for-the-badg...",
+      "readme_summary_ja": "<p align=\"center\" id=\"top\"> <a href=\"https://getwren.ai/?utm_source=github&utm_medium=title&utm_campaign=readme\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./misc/wrenai_logo.png\"> <img src=\"./misc/wrenai_logo_white.png\" width=\"300px\"> </picture> <h1 align=\"center\">Wren AI - Open-Source GenBI Agent</h1> </a> </p> <p align=\"center\"> <a aria-label=\"Follow us on X\" href=\"https://x.com/getwrenai\"> <img alt=\"\" src=\"https://img.shields.io/badge/-@getwrenai-blue?style=for-the-badg...",
+      "language": "TypeScript",
+      "stars": 89
+    },
+    {
+      "rank": 8,
       "repo_name": "pedramamini/Maestro",
       "description": "Agent Orchestration Command Center",
       "description_ja": "Agent Orchestration Command Center",
       "readme_summary": "Maestro ![Made with Maestro](https://github.com/pedramamini/Maestro) ![Discord](https://runmaestro.ai/discord) ![User Docs](https://docs.runmaestro.ai/) > Maestro hones fractured attention into focused intent. Maestro is a cross-platform desktop app for orchestrating your fleet of AI agents and projects. It's a high-velocity solution for hackers who are juggling multiple projects in parallel",
       "readme_summary_ja": "Maestro ![Made with Maestro](https://github.com/pedramamini/Maestro) ![Discord](https://runmaestro.ai/discord) ![User Docs](https://docs.runmaestro.ai/) > Maestro hones fractured attention into focused intent. Maestro is a cross-platform desktop app for orchestrating your fleet of AI agents and projects. It's a high-velocity solution for hackers who are juggling multiple projects in parallel",
       "language": "TypeScript",
-      "stars": 269
+      "stars": 187
+    },
+    {
+      "rank": 9,
+      "repo_name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "description_ja": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "readme_summary": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> Node Version Manager ![Tests][3] ![nvm version][4] ![CII Best Practices](https://bestpractices.dev/projects/684) <!-- To update this table of contents, ensure you have run npm install...",
+      "readme_summary_ja": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> Node Version Manager ![Tests][3] ![nvm version][4] ![CII Best Practices](https://bestpractices.dev/projects/684) <!-- To update this table of contents, ensure you have run npm install...",
+      "language": "Shell",
+      "stars": 35
+    },
+    {
+      "rank": 10,
+      "repo_name": "microsoft/qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+      "description_ja": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+      "readme_summary": "![Python Versions](https://pypi.org/project/pyqlib/#files) ![Platform](https://pypi.org/project/pyqlib/#files) ![PypI Versions](https://pypi.org/project/pyqlib/#history) ![Upload Python Package](https://pypi.org/project/pyqlib/) ![Github Actions Test Status](https://github.com/microsoft/qlib/actions) ![Documentation Status](https://qlib.readthedocs.io/en/latest/?badge=latest) ![License](LICENSE) ![Join the chat at https://gitter.im/Microsoft/qlib](https://gitter.im/Microsoft/qlib?utm_source=badg...",
+      "readme_summary_ja": "![Python Versions](https://pypi.org/project/pyqlib/#files) ![Platform](https://pypi.org/project/pyqlib/#files) ![PypI Versions](https://pypi.org/project/pyqlib/#history) ![Upload Python Package](https://pypi.org/project/pyqlib/) ![Github Actions Test Status](https://github.com/microsoft/qlib/actions) ![Documentation Status](https://qlib.readthedocs.io/en/latest/?badge=latest) ![License](LICENSE) ![Join the chat at https://gitter.im/Microsoft/qlib](https://gitter.im/Microsoft/qlib?utm_source=badg...",
+      "language": "Python",
+      "stars": 83
     },
     {
       "rank": 11,
-      "repo_name": "vm0-ai/vm0",
-      "description": "the easiest way to run natural language-described workflows automatically",
-      "description_ja": "the easiest way to run natural language-described workflows automatically",
-      "readme_summary": "<h2 align=\"center\"> <a href=\"https://vm0.ai\"><img src=\"https://github.com/vm0-ai/vm0/blob/main/turbo/apps/web/public/assets/Logo_VM0_combo_black_bg.svg\" alt=\"VM0 Logo\" width=\"500\"></a> <br> <br> Natural language Agent, 24/7 in cloud sandbox <br> <br> <p> <a href=\"https://deepwiki.com/vm0-ai/vm0\"><img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /></a> <img src=\"https://img.shields.io/npm/types/@vm0/cli\" alt=\"NPM Type Definitions\" /> <img src=\"https://img.shields.io/npm/v/@vm0/cli\" alt...",
-      "readme_summary_ja": "<h2 align=\"center\"> <a href=\"https://vm0.ai\"><img src=\"https://github.com/vm0-ai/vm0/blob/main/turbo/apps/web/public/assets/Logo_VM0_combo_black_bg.svg\" alt=\"VM0 Logo\" width=\"500\"></a> <br> <br> Natural language Agent, 24/7 in cloud sandbox <br> <br> <p> <a href=\"https://deepwiki.com/vm0-ai/vm0\"><img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /></a> <img src=\"https://img.shields.io/npm/types/@vm0/cli\" alt=\"NPM Type Definitions\" /> <img src=\"https://img.shields.io/npm/v/@vm0/cli\" alt...",
+      "repo_name": "LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "description_ja": "Truly independent web browser",
+      "readme_summary": "Ladybird Ladybird is a truly independent web browser, using a novel engine based on web standards. > [!IMPORTANT] > Ladybird is in a pre-alpha state, and only suitable for use by developers > Features We aim to build a complete, usable browser for the modern web. Ladybird uses a multi-process architecture with a main UI process, several WebContent renderer processes, an ImageDecoder process, and a RequestServer process",
+      "readme_summary_ja": "Ladybird Ladybird is a truly independent web browser, using a novel engine based on web standards. > [!IMPORTANT] > Ladybird is in a pre-alpha state, and only suitable for use by developers > Features We aim to build a complete, usable browser for the modern web. Ladybird uses a multi-process architecture with a main UI process, several WebContent renderer processes, an ImageDecoder process, and a RequestServer process",
+      "language": "C++",
+      "stars": 68
+    },
+    {
+      "rank": 12,
+      "repo_name": "likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "description_ja": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "readme_summary": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
+      "readme_summary_ja": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
       "language": "TypeScript",
-      "stars": 62
+      "stars": 29
     }
   ]
 }
