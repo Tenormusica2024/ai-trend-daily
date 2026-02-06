@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-02-05 03:37:19",
-  "total_repos": 12,
+  "updated_at": "2026-02-06 03:36:07",
+  "total_repos": 11,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "readme_summary": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
-      "readme_summary_ja": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
+      "repo_name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "description_ja": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "readme_summary": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
+      "readme_summary_ja": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
       "language": "TypeScript",
-      "stars": 2638
+      "stars": 566
     },
     {
       "rank": 2,
@@ -20,67 +20,67 @@
       "readme_summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
       "readme_summary_ja": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
       "language": "Python",
-      "stars": 746
+      "stars": 621
     },
     {
       "rank": 3,
-      "repo_name": "disler/claude-code-hooks-mastery",
-      "description": "Master Claude Code Hooks",
-      "description_ja": "Master Claude Code Hooks",
-      "readme_summary": "Claude Code Hooks Mastery Claude Code Hooks - Quickly master how to use Claude Code hooks to add deterministic (or non-deterministic) control over Claude Code's behavior. Plus learn about Claude Code Sub-Agents, the powerful Meta-Agent, and Team-Based Validation with agent orchestration. <img src=\"images/hooked.png\" alt=\"Claude Code Hooks\" style=\"max-width: 800px; width: 100%;\" /> Table of Contents - Prerequisites - Hook Lifecycle & Payloads - What This Shows - UV Single-File Scripts Architectur...",
-      "readme_summary_ja": "Claude Code Hooks Mastery Claude Code Hooks - Quickly master how to use Claude Code hooks to add deterministic (or non-deterministic) control over Claude Code's behavior. Plus learn about Claude Code Sub-Agents, the powerful Meta-Agent, and Team-Based Validation with agent orchestration. <img src=\"images/hooked.png\" alt=\"Claude Code Hooks\" style=\"max-width: 800px; width: 100%;\" /> Table of Contents - Prerequisites - Hook Lifecycle & Payloads - What This Shows - UV Single-File Scripts Architectur...",
-      "language": "Python",
-      "stars": 47
+      "repo_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "readme_summary": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
+      "readme_summary_ja": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
+      "language": "TypeScript",
+      "stars": 1930
     },
     {
       "rank": 4,
-      "repo_name": "OpenBMB/ChatDev",
-      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "description_ja": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "readme_summary": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
-      "readme_summary_ja": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
-      "language": "Python",
-      "stars": 227
+      "repo_name": "j178/prek",
+      "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+      "description_ja": "⚡ Better `pre-commit`, re-engineered in Rust",
+      "readme_summary": "<div align=\"center\"> <h1> <img width=\"180\" alt=\"prek\" src=\"https://raw.githubusercontent.com/j178/prek/master/docs/assets/logo.webp\" /> <br/>prek </h1> ![prek](https://github.com/j178/prek) ![codecov](https://codecov.io/github/j178/prek) ![GitHub Downloads](https://github.com/j178/prek/releases) ![PyPI Downloads](https://pepy.tech/projects/prek) ![Discord](https://discord.gg/3NRJUqJz86) </div> <!-- --8<-- [start: description] --> pre-commit is a framework to run hooks written in many languages, ...",
+      "readme_summary_ja": "<div align=\"center\"> <h1> <img width=\"180\" alt=\"prek\" src=\"https://raw.githubusercontent.com/j178/prek/master/docs/assets/logo.webp\" /> <br/>prek </h1> ![prek](https://github.com/j178/prek) ![codecov](https://codecov.io/github/j178/prek) ![GitHub Downloads](https://github.com/j178/prek/releases) ![PyPI Downloads](https://pepy.tech/projects/prek) ![Discord](https://discord.gg/3NRJUqJz86) </div> <!-- --8<-- [start: description] --> pre-commit is a framework to run hooks written in many languages, ...",
+      "language": "Rust",
+      "stars": 258
     },
     {
       "rank": 5,
-      "repo_name": "ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
-      "description_ja": "Anki is a smart spaced repetition flashcard program",
-      "readme_summary": "Anki® ![Build status](https://buildkite.com/ankitects/anki-ci) This repo contains the source code for the computer version of Anki. About Anki is a spaced repetition program. Please see the website to learn more",
-      "readme_summary_ja": "Anki® ![Build status](https://buildkite.com/ankitects/anki-ci) This repo contains the source code for the computer version of Anki. About Anki is a spaced repetition program. Please see the website to learn more",
-      "language": "Rust",
-      "stars": 28
+      "repo_name": "topoteretes/cognee",
+      "description": "Memory for AI Agents in 6 lines of code",
+      "description_ja": "Memory for AI Agents in 6 lines of code",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/topoteretes/cognee\"> <img src=\"https://raw.githubusercontent.com/topoteretes/cognee/refs/heads/dev/assets/cognee-logo-transparent.png\" alt=\"Cognee Logo\" height=\"60\"> </a> <br /> Cognee - Accurate and Persistent AI Memory <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=1bezuvLwJmw&t=2s\">Demo</a> . <a href=\"https://docs.cognee.ai/\">Docs</a> . <a href=\"https://cognee.ai\">Learn More</a> · <a href=\"https://discord.gg/NQPKmU5CCg\">Join Discor...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/topoteretes/cognee\"> <img src=\"https://raw.githubusercontent.com/topoteretes/cognee/refs/heads/dev/assets/cognee-logo-transparent.png\" alt=\"Cognee Logo\" height=\"60\"> </a> <br /> Cognee - Accurate and Persistent AI Memory <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=1bezuvLwJmw&t=2s\">Demo</a> . <a href=\"https://docs.cognee.ai/\">Docs</a> . <a href=\"https://cognee.ai\">Learn More</a> · <a href=\"https://discord.gg/NQPKmU5CCg\">Join Discor...",
+      "language": "Python",
+      "stars": 74
     },
     {
       "rank": 6,
-      "repo_name": "open-telemetry/opentelemetry-collector-contrib",
-      "description": "Contrib repository for the OpenTelemetry Collector",
-      "description_ja": "Contrib repository for the OpenTelemetry Collector",
-      "readme_summary": "--- <p align=\"center\"> <strong> <a href=\"https://opentelemetry.io/docs/collector/getting-started/\">Getting Started</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href=\"https://github.com/open-telemetry/opentelemetry-collector/blob/main/CONTRIBUTING.md\">Getting Involved</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href=\"https://cloud-native.slack.com/archives/C01N6P7KR6W\">Getting In Touch</a> </strong> </p> <p align=\"center\"> <a href=\"https://github.com/open-telemetry/opentelemetry-collector-contrib/actions/work...",
-      "readme_summary_ja": "--- <p align=\"center\"> <strong> <a href=\"https://opentelemetry.io/docs/collector/getting-started/\">Getting Started</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href=\"https://github.com/open-telemetry/opentelemetry-collector/blob/main/CONTRIBUTING.md\">Getting Involved</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href=\"https://cloud-native.slack.com/archives/C01N6P7KR6W\">Getting In Touch</a> </strong> </p> <p align=\"center\"> <a href=\"https://github.com/open-telemetry/opentelemetry-collector-contrib/actions/work...",
-      "language": "Go",
-      "stars": 3
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 887
     },
     {
       "rank": 7,
-      "repo_name": "Canner/WrenAI",
-      "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
-      "description_ja": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
-      "readme_summary": "<p align=\"center\" id=\"top\"> <a href=\"https://getwren.ai/?utm_source=github&utm_medium=title&utm_campaign=readme\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./misc/wrenai_logo.png\"> <img src=\"./misc/wrenai_logo_white.png\" width=\"300px\"> </picture> <h1 align=\"center\">Wren AI - Open-Source GenBI Agent</h1> </a> </p> <p align=\"center\"> <a aria-label=\"Follow us on X\" href=\"https://x.com/getwrenai\"> <img alt=\"\" src=\"https://img.shields.io/badge/-@getwrenai-blue?style=for-the-badg...",
-      "readme_summary_ja": "<p align=\"center\" id=\"top\"> <a href=\"https://getwren.ai/?utm_source=github&utm_medium=title&utm_campaign=readme\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./misc/wrenai_logo.png\"> <img src=\"./misc/wrenai_logo_white.png\" width=\"300px\"> </picture> <h1 align=\"center\">Wren AI - Open-Source GenBI Agent</h1> </a> </p> <p align=\"center\"> <a aria-label=\"Follow us on X\" href=\"https://x.com/getwrenai\"> <img alt=\"\" src=\"https://img.shields.io/badge/-@getwrenai-blue?style=for-the-badg...",
-      "language": "TypeScript",
-      "stars": 89
+      "repo_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "language": "Go",
+      "stars": 25
     },
     {
       "rank": 8,
-      "repo_name": "pedramamini/Maestro",
-      "description": "Agent Orchestration Command Center",
-      "description_ja": "Agent Orchestration Command Center",
-      "readme_summary": "Maestro ![Made with Maestro](https://github.com/pedramamini/Maestro) ![Discord](https://runmaestro.ai/discord) ![User Docs](https://docs.runmaestro.ai/) > Maestro hones fractured attention into focused intent. Maestro is a cross-platform desktop app for orchestrating your fleet of AI agents and projects. It's a high-velocity solution for hackers who are juggling multiple projects in parallel",
-      "readme_summary_ja": "Maestro ![Made with Maestro](https://github.com/pedramamini/Maestro) ![Discord](https://runmaestro.ai/discord) ![User Docs](https://docs.runmaestro.ai/) > Maestro hones fractured attention into focused intent. Maestro is a cross-platform desktop app for orchestrating your fleet of AI agents and projects. It's a high-velocity solution for hackers who are juggling multiple projects in parallel",
-      "language": "TypeScript",
-      "stars": 187
+      "repo_name": "fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "description_ja": "The user-friendly command line shell.",
+      "readme_summary": ".. |Cirrus CI| image:: https://api.cirrus-ci.com/github/fish-shell/fish-shell.svg?branch=master :target: https://cirrus-ci.com/github/fish-shell/fish-shell :alt: Cirrus CI Build Status fish <https://fishshell.com/>__ - the friendly interactive shell |Build Status| |Cirrus CI| ============================================================================================= fish is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family. fish includes features like sy...",
+      "readme_summary_ja": ".. |Cirrus CI| image:: https://api.cirrus-ci.com/github/fish-shell/fish-shell.svg?branch=master :target: https://cirrus-ci.com/github/fish-shell/fish-shell :alt: Cirrus CI Build Status fish <https://fishshell.com/>__ - the friendly interactive shell |Build Status| |Cirrus CI| ============================================================================================= fish is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family. fish includes features like sy...",
+      "language": "Rust",
+      "stars": 28
     },
     {
       "rank": 9,
@@ -90,37 +90,27 @@
       "readme_summary": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> Node Version Manager ![Tests][3] ![nvm version][4] ![CII Best Practices](https://bestpractices.dev/projects/684) <!-- To update this table of contents, ensure you have run npm install...",
       "readme_summary_ja": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> Node Version Manager ![Tests][3] ![nvm version][4] ![CII Best Practices](https://bestpractices.dev/projects/684) <!-- To update this table of contents, ensure you have run npm install...",
       "language": "Shell",
-      "stars": 35
+      "stars": 101
     },
     {
       "rank": 10,
-      "repo_name": "microsoft/qlib",
-      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
-      "description_ja": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
-      "readme_summary": "![Python Versions](https://pypi.org/project/pyqlib/#files) ![Platform](https://pypi.org/project/pyqlib/#files) ![PypI Versions](https://pypi.org/project/pyqlib/#history) ![Upload Python Package](https://pypi.org/project/pyqlib/) ![Github Actions Test Status](https://github.com/microsoft/qlib/actions) ![Documentation Status](https://qlib.readthedocs.io/en/latest/?badge=latest) ![License](LICENSE) ![Join the chat at https://gitter.im/Microsoft/qlib](https://gitter.im/Microsoft/qlib?utm_source=badg...",
-      "readme_summary_ja": "![Python Versions](https://pypi.org/project/pyqlib/#files) ![Platform](https://pypi.org/project/pyqlib/#files) ![PypI Versions](https://pypi.org/project/pyqlib/#history) ![Upload Python Package](https://pypi.org/project/pyqlib/) ![Github Actions Test Status](https://github.com/microsoft/qlib/actions) ![Documentation Status](https://qlib.readthedocs.io/en/latest/?badge=latest) ![License](LICENSE) ![Join the chat at https://gitter.im/Microsoft/qlib](https://gitter.im/Microsoft/qlib?utm_source=badg...",
-      "language": "Python",
-      "stars": 83
+      "repo_name": "linshenkx/prompt-optimizer",
+      "description": "一款提示词优化器，助力于编写高质量的提示词",
+      "description_ja": "一款提示词优化器，助力于编写高质量的提示词",
+      "readme_summary": "Prompt Optimizer (提示词优化器) 🚀 <div align=\"center\"> English | 中文 ![GitHub stars](https://github.com/linshenkx/prompt-optimizer/stargazers) !Chrome Web Store Users <a href=\"https://trendshift.io/repositories/13813\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13813\" alt=\"linshenkx%2Fprompt-optimizer | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![License](LICENSE) ![Docker Pulls](https://hub.docker.com/r/linshen/prompt-optimizer) !GitHub fo...",
+      "readme_summary_ja": "Prompt Optimizer (提示词优化器) 🚀 <div align=\"center\"> English | 中文 ![GitHub stars](https://github.com/linshenkx/prompt-optimizer/stargazers) !Chrome Web Store Users <a href=\"https://trendshift.io/repositories/13813\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13813\" alt=\"linshenkx%2Fprompt-optimizer | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![License](LICENSE) ![Docker Pulls](https://hub.docker.com/r/linshen/prompt-optimizer) !GitHub fo...",
+      "language": "TypeScript",
+      "stars": 51
     },
     {
       "rank": 11,
-      "repo_name": "LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
-      "description_ja": "Truly independent web browser",
-      "readme_summary": "Ladybird Ladybird is a truly independent web browser, using a novel engine based on web standards. > [!IMPORTANT] > Ladybird is in a pre-alpha state, and only suitable for use by developers > Features We aim to build a complete, usable browser for the modern web. Ladybird uses a multi-process architecture with a main UI process, several WebContent renderer processes, an ImageDecoder process, and a RequestServer process",
-      "readme_summary_ja": "Ladybird Ladybird is a truly independent web browser, using a novel engine based on web standards. > [!IMPORTANT] > Ladybird is in a pre-alpha state, and only suitable for use by developers > Features We aim to build a complete, usable browser for the modern web. Ladybird uses a multi-process architecture with a main UI process, several WebContent renderer processes, an ImageDecoder process, and a RequestServer process",
-      "language": "C++",
-      "stars": 68
-    },
-    {
-      "rank": 12,
-      "repo_name": "likec4/likec4",
-      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "description_ja": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "readme_summary": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
-      "readme_summary_ja": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
-      "language": "TypeScript",
-      "stars": 29
+      "repo_name": "ZeroTworu/anet",
+      "description": "Simple Rust VPN Client / Server",
+      "description_ja": "Simple Rust VPN Client / Server",
+      "readme_summary": "ANet: Сеть Друзей !Build Status !Language !Protocol **ANet** — это инструмент для организации приватного, защищенного информационного пространства между близкими людьми. Мы строим цифровые мосты там, где обычные пути недоступны. Это не сервис",
+      "readme_summary_ja": "ANet: Сеть Друзей !Build Status !Language !Protocol **ANet** — это инструмент для организации приватного, защищенного информационного пространства между близкими людьми. Мы строим цифровые мосты там, где обычные пути недоступны. Это не сервис",
+      "language": "Rust",
+      "stars": 81
     }
   ]
 }
