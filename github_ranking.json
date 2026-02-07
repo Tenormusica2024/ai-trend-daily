@@ -1,116 +1,86 @@
 {
-  "updated_at": "2026-02-06 03:36:07",
-  "total_repos": 11,
+  "updated_at": "2026-02-07 03:28:20",
+  "total_repos": 8,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "description_ja": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "readme_summary": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
-      "readme_summary_ja": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
-      "language": "TypeScript",
-      "stars": 566
-    },
-    {
-      "rank": 2,
       "repo_name": "openai/skills",
       "description": "Skills Catalog for Codex",
       "description_ja": "Skills Catalog for Codex",
       "readme_summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
       "readme_summary_ja": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
       "language": "Python",
-      "stars": 621
+      "stars": 583
+    },
+    {
+      "rank": 2,
+      "repo_name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "description_ja": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "readme_summary": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
+      "readme_summary_ja": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
+      "language": "TypeScript",
+      "stars": 573
     },
     {
       "rank": 3,
-      "repo_name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "readme_summary": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
-      "readme_summary_ja": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
-      "language": "TypeScript",
-      "stars": 1930
-    },
-    {
-      "rank": 4,
-      "repo_name": "j178/prek",
-      "description": "⚡ Better `pre-commit`, re-engineered in Rust",
-      "description_ja": "⚡ Better `pre-commit`, re-engineered in Rust",
-      "readme_summary": "<div align=\"center\"> <h1> <img width=\"180\" alt=\"prek\" src=\"https://raw.githubusercontent.com/j178/prek/master/docs/assets/logo.webp\" /> <br/>prek </h1> ![prek](https://github.com/j178/prek) ![codecov](https://codecov.io/github/j178/prek) ![GitHub Downloads](https://github.com/j178/prek/releases) ![PyPI Downloads](https://pepy.tech/projects/prek) ![Discord](https://discord.gg/3NRJUqJz86) </div> <!-- --8<-- [start: description] --> pre-commit is a framework to run hooks written in many languages, ...",
-      "readme_summary_ja": "<div align=\"center\"> <h1> <img width=\"180\" alt=\"prek\" src=\"https://raw.githubusercontent.com/j178/prek/master/docs/assets/logo.webp\" /> <br/>prek </h1> ![prek](https://github.com/j178/prek) ![codecov](https://codecov.io/github/j178/prek) ![GitHub Downloads](https://github.com/j178/prek/releases) ![PyPI Downloads](https://pepy.tech/projects/prek) ![Discord](https://discord.gg/3NRJUqJz86) </div> <!-- --8<-- [start: description] --> pre-commit is a framework to run hooks written in many languages, ...",
-      "language": "Rust",
-      "stars": 258
-    },
-    {
-      "rank": 5,
-      "repo_name": "topoteretes/cognee",
-      "description": "Memory for AI Agents in 6 lines of code",
-      "description_ja": "Memory for AI Agents in 6 lines of code",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/topoteretes/cognee\"> <img src=\"https://raw.githubusercontent.com/topoteretes/cognee/refs/heads/dev/assets/cognee-logo-transparent.png\" alt=\"Cognee Logo\" height=\"60\"> </a> <br /> Cognee - Accurate and Persistent AI Memory <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=1bezuvLwJmw&t=2s\">Demo</a> . <a href=\"https://docs.cognee.ai/\">Docs</a> . <a href=\"https://cognee.ai\">Learn More</a> · <a href=\"https://discord.gg/NQPKmU5CCg\">Join Discor...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/topoteretes/cognee\"> <img src=\"https://raw.githubusercontent.com/topoteretes/cognee/refs/heads/dev/assets/cognee-logo-transparent.png\" alt=\"Cognee Logo\" height=\"60\"> </a> <br /> Cognee - Accurate and Persistent AI Memory <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=1bezuvLwJmw&t=2s\">Demo</a> . <a href=\"https://docs.cognee.ai/\">Docs</a> . <a href=\"https://cognee.ai\">Learn More</a> · <a href=\"https://discord.gg/NQPKmU5CCg\">Join Discor...",
-      "language": "Python",
-      "stars": 74
-    },
-    {
-      "rank": 6,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 887
-    },
-    {
-      "rank": 7,
-      "repo_name": "aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
-      "language": "Go",
-      "stars": 25
-    },
-    {
-      "rank": 8,
-      "repo_name": "fish-shell/fish-shell",
-      "description": "The user-friendly command line shell.",
-      "description_ja": "The user-friendly command line shell.",
-      "readme_summary": ".. |Cirrus CI| image:: https://api.cirrus-ci.com/github/fish-shell/fish-shell.svg?branch=master :target: https://cirrus-ci.com/github/fish-shell/fish-shell :alt: Cirrus CI Build Status fish <https://fishshell.com/>__ - the friendly interactive shell |Build Status| |Cirrus CI| ============================================================================================= fish is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family. fish includes features like sy...",
-      "readme_summary_ja": ".. |Cirrus CI| image:: https://api.cirrus-ci.com/github/fish-shell/fish-shell.svg?branch=master :target: https://cirrus-ci.com/github/fish-shell/fish-shell :alt: Cirrus CI Build Status fish <https://fishshell.com/>__ - the friendly interactive shell |Build Status| |Cirrus CI| ============================================================================================= fish is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family. fish includes features like sy...",
-      "language": "Rust",
-      "stars": 28
-    },
-    {
-      "rank": 9,
       "repo_name": "nvm-sh/nvm",
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "description_ja": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "readme_summary": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> Node Version Manager ![Tests][3] ![nvm version][4] ![CII Best Practices](https://bestpractices.dev/projects/684) <!-- To update this table of contents, ensure you have run npm install...",
       "readme_summary_ja": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> Node Version Manager ![Tests][3] ![nvm version][4] ![CII Best Practices](https://bestpractices.dev/projects/684) <!-- To update this table of contents, ensure you have run npm install...",
       "language": "Shell",
-      "stars": 101
+      "stars": 131
     },
     {
-      "rank": 10,
-      "repo_name": "linshenkx/prompt-optimizer",
-      "description": "一款提示词优化器，助力于编写高质量的提示词",
-      "description_ja": "一款提示词优化器，助力于编写高质量的提示词",
-      "readme_summary": "Prompt Optimizer (提示词优化器) 🚀 <div align=\"center\"> English | 中文 ![GitHub stars](https://github.com/linshenkx/prompt-optimizer/stargazers) !Chrome Web Store Users <a href=\"https://trendshift.io/repositories/13813\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13813\" alt=\"linshenkx%2Fprompt-optimizer | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![License](LICENSE) ![Docker Pulls](https://hub.docker.com/r/linshen/prompt-optimizer) !GitHub fo...",
-      "readme_summary_ja": "Prompt Optimizer (提示词优化器) 🚀 <div align=\"center\"> English | 中文 ![GitHub stars](https://github.com/linshenkx/prompt-optimizer/stargazers) !Chrome Web Store Users <a href=\"https://trendshift.io/repositories/13813\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13813\" alt=\"linshenkx%2Fprompt-optimizer | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![License](LICENSE) ![Docker Pulls](https://hub.docker.com/r/linshen/prompt-optimizer) !GitHub fo...",
+      "rank": 4,
+      "repo_name": "likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "description_ja": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "readme_summary": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
+      "readme_summary_ja": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
       "language": "TypeScript",
-      "stars": 51
+      "stars": 40
     },
     {
-      "rank": 11,
+      "rank": 5,
+      "repo_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "language": "Go",
+      "stars": 165
+    },
+    {
+      "rank": 6,
       "repo_name": "ZeroTworu/anet",
       "description": "Simple Rust VPN Client / Server",
       "description_ja": "Simple Rust VPN Client / Server",
       "readme_summary": "ANet: Сеть Друзей !Build Status !Language !Protocol **ANet** — это инструмент для организации приватного, защищенного информационного пространства между близкими людьми. Мы строим цифровые мосты там, где обычные пути недоступны. Это не сервис",
       "readme_summary_ja": "ANet: Сеть Друзей !Build Status !Language !Protocol **ANet** — это инструмент для организации приватного, защищенного информационного пространства между близкими людьми. Мы строим цифровые мосты там, где обычные пути недоступны. Это не сервис",
       "language": "Rust",
-      "stars": 81
+      "stars": 193
+    },
+    {
+      "rank": 7,
+      "repo_name": "Flowseal/zapret-discord-youtube",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального разработчика zapret тут </div> > [!CAUTION] > > ФЕЙКИ > Я не веду ни...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального разработчика zapret тут </div> > [!CAUTION] > > ФЕЙКИ > Я не веду ни...",
+      "language": "Batchfile",
+      "stars": 70
+    },
+    {
+      "rank": 8,
+      "repo_name": "DataExpert-io/data-engineer-handbook",
+      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+      "description_ja": "This is a repo with links to everything you'd ever want to learn about data engineering",
+      "readme_summary": "The Data Engineering Handbook <a href=\"https://trendshift.io/repositories/8755\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/8755\" alt=\"DataExpert-io%2Fdata-engineer-handbook | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> This repo has all the resources you need to become an amazing data engineer! Getting started If you are new to data engineering, start by following this 2024 breaking into data engineering roadmap If you are here for th...",
+      "readme_summary_ja": "The Data Engineering Handbook <a href=\"https://trendshift.io/repositories/8755\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/8755\" alt=\"DataExpert-io%2Fdata-engineer-handbook | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> This repo has all the resources you need to become an amazing data engineer! Getting started If you are new to data engineering, start by following this 2024 breaking into data engineering roadmap If you are here for th...",
+      "language": "Jupyter Notebook",
+      "stars": 71
     }
   ]
 }
