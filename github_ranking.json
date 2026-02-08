@@ -1,86 +1,126 @@
 {
-  "updated_at": "2026-02-07 03:28:20",
-  "total_repos": 8,
+  "updated_at": "2026-02-08 03:57:32",
+  "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
+      "repo_name": "KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "description_ja": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "readme_summary": "> [!NOTE] > **Shannon Lite achieves a 96.15% success rate on a hint-free, source-aware XBOW benchmark. &rarr;** <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <img src=\"./assets/shannon-screen.png?v=2\" alt=\"Shannon Screen\" width=\"100%\"> Shannon is your fully autonomous AI pentester. Shannon...",
+      "readme_summary_ja": "> [!NOTE] > **Shannon Lite achieves a 96.15% success rate on a hint-free, source-aware XBOW benchmark. &rarr;** <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <img src=\"./assets/shannon-screen.png?v=2\" alt=\"Shannon Screen\" width=\"100%\"> Shannon is your fully autonomous AI pentester. Shannon...",
+      "language": "TypeScript",
+      "stars": 3139
+    },
+    {
+      "rank": 2,
       "repo_name": "openai/skills",
       "description": "Skills Catalog for Codex",
       "description_ja": "Skills Catalog for Codex",
       "readme_summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
       "readme_summary_ja": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
       "language": "Python",
-      "stars": 583
-    },
-    {
-      "rank": 2,
-      "repo_name": "bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "description_ja": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "readme_summary": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
-      "readme_summary_ja": "<picture> <img alt=\"Agent TARS Banner\" src=\"./images/tars.png\"> </picture> <br/> Introduction English | 简体中文 ![](https://trendshift.io/repositories/13584) <b>TARS<sup>\\*</sup></b> is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop: <table> <thead> <tr> <th width=\"50%\" align=\"center\"><a href=\"#agent-tars\">Agent TARS</a></th> <th width=\"50%\" align=\"center\"><a href=\"#ui-tars-desktop\">UI-TARS-desktop</a></th> </tr> </thead> <tbody> <tr> <td align=\"center\"...",
-      "language": "TypeScript",
-      "stars": 573
+      "stars": 592
     },
     {
       "rank": 3,
-      "repo_name": "nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "description_ja": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "readme_summary": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> Node Version Manager ![Tests][3] ![nvm version][4] ![CII Best Practices](https://bestpractices.dev/projects/684) <!-- To update this table of contents, ensure you have run npm install...",
-      "readme_summary_ja": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> Node Version Manager ![Tests][3] ![nvm version][4] ![CII Best Practices](https://bestpractices.dev/projects/684) <!-- To update this table of contents, ensure you have run npm install...",
-      "language": "Shell",
-      "stars": 131
+      "repo_name": "microsoft/litebox",
+      "description": "A security-focused library OS supporting kernel- and user-mode execution",
+      "description_ja": "A security-focused library OS supporting kernel- and user-mode execution",
+      "readme_summary": "LiteBox > A security-focused library OS > [!NOTE] > This project is currently actively evolving and improving. While we are > working toward a stable release, some APIs and interfaces may change as the > design continues to mature. You are welcome to explore and experiment, but if > you need long-term stability, it may be best to wait for a stable release, or > be prepared to adapt to updates along the way",
+      "readme_summary_ja": "LiteBox > A security-focused library OS > [!NOTE] > This project is currently actively evolving and improving. While we are > working toward a stable release, some APIs and interfaces may change as the > design continues to mature. You are welcome to explore and experiment, but if > you need long-term stability, it may be best to wait for a stable release, or > be prepared to adapt to updates along the way",
+      "language": "Rust",
+      "stars": 584
     },
     {
       "rank": 4,
-      "repo_name": "likec4/likec4",
-      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "description_ja": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "readme_summary": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
-      "readme_summary_ja": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
-      "language": "TypeScript",
-      "stars": 40
+      "repo_name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "description_ja": "Fully automatic censorship removal for language models",
+      "readme_summary": "Heretic: Fully automatic censorship removal for language models ![Discord](https://discord.gg/gdXc48gSyT) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation of directional ablation, also known as \"abliteration\" (Arditi et al. 2024), with a TPE-based parameter optimizer powered by Optuna",
+      "readme_summary_ja": "Heretic: Fully automatic censorship removal for language models ![Discord](https://discord.gg/gdXc48gSyT) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation of directional ablation, also known as \"abliteration\" (Arditi et al. 2024), with a TPE-based parameter optimizer powered by Optuna",
+      "language": "Python",
+      "stars": 69
     },
     {
       "rank": 5,
-      "repo_name": "aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
-      "language": "Go",
-      "stars": 165
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Shell",
+      "stars": 686
     },
     {
       "rank": 6,
-      "repo_name": "ZeroTworu/anet",
-      "description": "Simple Rust VPN Client / Server",
-      "description_ja": "Simple Rust VPN Client / Server",
-      "readme_summary": "ANet: Сеть Друзей !Build Status !Language !Protocol **ANet** — это инструмент для организации приватного, защищенного информационного пространства между близкими людьми. Мы строим цифровые мосты там, где обычные пути недоступны. Это не сервис",
-      "readme_summary_ja": "ANet: Сеть Друзей !Build Status !Language !Protocol **ANet** — это инструмент для организации приватного, защищенного информационного пространства между близкими людьми. Мы строим цифровые мосты там, где обычные пути недоступны. Это не сервис",
-      "language": "Rust",
-      "stars": 193
+      "repo_name": "OpenBMB/MiniCPM-o",
+      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+      "description_ja": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Python",
+      "stars": 44
     },
     {
       "rank": 7,
-      "repo_name": "Flowseal/zapret-discord-youtube",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального разработчика zapret тут </div> > [!CAUTION] > > ФЕЙКИ > Я не веду ни...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://cdn-icons-png.flaticon.com/128/5968/5968756.png\" height=28 /> <a href=\"https://github.com/Flowseal/\">Flowseal</a><a href=\"https://github.com/Flowseal/zapret-discord-youtube\">/zapret-discord-youtube</a> <img src=\"https://cdn-icons-png.flaticon.com/128/1384/1384060.png\" height=28 /> Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального разработчика zapret тут </div> > [!CAUTION] > > ФЕЙКИ > Я не веду ни...",
-      "language": "Batchfile",
-      "stars": 70
+      "repo_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Go",
+      "stars": 168
     },
     {
       "rank": 8,
-      "repo_name": "DataExpert-io/data-engineer-handbook",
-      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
-      "description_ja": "This is a repo with links to everything you'd ever want to learn about data engineering",
-      "readme_summary": "The Data Engineering Handbook <a href=\"https://trendshift.io/repositories/8755\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/8755\" alt=\"DataExpert-io%2Fdata-engineer-handbook | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> This repo has all the resources you need to become an amazing data engineer! Getting started If you are new to data engineering, start by following this 2024 breaking into data engineering roadmap If you are here for th...",
-      "readme_summary_ja": "The Data Engineering Handbook <a href=\"https://trendshift.io/repositories/8755\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/8755\" alt=\"DataExpert-io%2Fdata-engineer-handbook | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> This repo has all the resources you need to become an amazing data engineer! Getting started If you are new to data engineering, start by following this 2024 breaking into data engineering roadmap If you are here for th...",
-      "language": "Jupyter Notebook",
-      "stars": 71
+      "repo_name": "wavetermdev/waveterm",
+      "description": "An open-source, cross-platform terminal for seamless workflows",
+      "description_ja": "An open-source, cross-platform terminal for seamless workflows",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Go",
+      "stars": 25
+    },
+    {
+      "rank": 9,
+      "repo_name": "viarotel-org/escrcpy",
+      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "description_ja": "📱 Display and control your Android device graphically with scrcpy.",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "JavaScript",
+      "stars": 27
+    },
+    {
+      "rank": 10,
+      "repo_name": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "description_ja": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Python",
+      "stars": 443
+    },
+    {
+      "rank": 11,
+      "repo_name": "likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "description_ja": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "TypeScript",
+      "stars": 274
+    },
+    {
+      "rank": 12,
+      "repo_name": "gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "description_ja": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "readme_summary": "<div align=\"center\"> <img align=\"center\" width=\"100%\" src=\"./readme-preview.webp\" /> <br /> <br /> <p align=\"center\" > Version Control tool built from the ground up for modern, AI-powered workflows. <br /> <br /> <a href=\"https://gitbutler.com\">Website</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://blog.gitbutler.com/\">Blog</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://docs.gitbutler.com/\">Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://gitbutler.com/d...",
+      "readme_summary_ja": "<div align=\"center\"> <img align=\"center\" width=\"100%\" src=\"./readme-preview.webp\" /> <br /> <br /> <p align=\"center\" > Version Control tool built from the ground up for modern, AI-powered workflows. <br /> <br /> <a href=\"https://gitbutler.com\">Website</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://blog.gitbutler.com/\">Blog</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://docs.gitbutler.com/\">Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://gitbutler.com/d...",
+      "language": "Rust",
+      "stars": 85
     }
   ]
 }
