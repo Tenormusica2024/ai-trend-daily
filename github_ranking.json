@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-08 03:57:32",
+  "updated_at": "2026-02-09 03:47:40",
   "total_repos": 12,
   "ranking": [
     {
@@ -10,117 +10,117 @@
       "readme_summary": "> [!NOTE] > **Shannon Lite achieves a 96.15% success rate on a hint-free, source-aware XBOW benchmark. &rarr;** <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <img src=\"./assets/shannon-screen.png?v=2\" alt=\"Shannon Screen\" width=\"100%\"> Shannon is your fully autonomous AI pentester. Shannon...",
       "readme_summary_ja": "> [!NOTE] > **Shannon Lite achieves a 96.15% success rate on a hint-free, source-aware XBOW benchmark. &rarr;** <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <img src=\"./assets/shannon-screen.png?v=2\" alt=\"Shannon Screen\" width=\"100%\"> Shannon is your fully autonomous AI pentester. Shannon...",
       "language": "TypeScript",
-      "stars": 3139
+      "stars": 3479
     },
     {
       "rank": 2,
+      "repo_name": "pydantic/monty",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+      "description_ja": "A minimal, secure Python interpreter written in Rust for use by AI",
+      "readme_summary": "<div align=\"center\"> <h1>Monty</h1> </div> <div align=\"center\"> <h3>A minimal, secure Python interpreter written in Rust for use by AI.</h3> </div> <div align=\"center\"> <a href=\"https://github.com/pydantic/monty/actions/workflows/ci.yml?query=branch%3Amain\"><img src=\"https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg\" alt=\"CI\"></a> <a href=\"https://codspeed.io/pydantic/monty?utm_source=badge\"><img src=\"https://img.shields.io/badge/CodSpeed-Performance%20Tracked-blue?logo=data:i...",
+      "readme_summary_ja": "<div align=\"center\"> <h1>Monty</h1> </div> <div align=\"center\"> <h3>A minimal, secure Python interpreter written in Rust for use by AI.</h3> </div> <div align=\"center\"> <a href=\"https://github.com/pydantic/monty/actions/workflows/ci.yml?query=branch%3Amain\"><img src=\"https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg\" alt=\"CI\"></a> <a href=\"https://codspeed.io/pydantic/monty?utm_source=badge\"><img src=\"https://img.shields.io/badge/CodSpeed-Performance%20Tracked-blue?logo=data:i...",
+      "language": "Rust",
+      "stars": 456
+    },
+    {
+      "rank": 3,
       "repo_name": "openai/skills",
       "description": "Skills Catalog for Codex",
       "description_ja": "Skills Catalog for Codex",
       "readme_summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
       "readme_summary_ja": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
       "language": "Python",
-      "stars": 592
+      "stars": 1425
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "repo_name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "description_ja": "An autonomous agent for deep financial research",
+      "readme_summary": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
+      "readme_summary_ja": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
+      "language": "TypeScript",
+      "stars": 1039
+    },
+    {
+      "rank": 5,
       "repo_name": "microsoft/litebox",
       "description": "A security-focused library OS supporting kernel- and user-mode execution",
       "description_ja": "A security-focused library OS supporting kernel- and user-mode execution",
       "readme_summary": "LiteBox > A security-focused library OS > [!NOTE] > This project is currently actively evolving and improving. While we are > working toward a stable release, some APIs and interfaces may change as the > design continues to mature. You are welcome to explore and experiment, but if > you need long-term stability, it may be best to wait for a stable release, or > be prepared to adapt to updates along the way",
       "readme_summary_ja": "LiteBox > A security-focused library OS > [!NOTE] > This project is currently actively evolving and improving. While we are > working toward a stable release, some APIs and interfaces may change as the > design continues to mature. You are welcome to explore and experiment, but if > you need long-term stability, it may be best to wait for a stable release, or > be prepared to adapt to updates along the way",
       "language": "Rust",
-      "stars": 584
-    },
-    {
-      "rank": 4,
-      "repo_name": "p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "description_ja": "Fully automatic censorship removal for language models",
-      "readme_summary": "Heretic: Fully automatic censorship removal for language models ![Discord](https://discord.gg/gdXc48gSyT) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation of directional ablation, also known as \"abliteration\" (Arditi et al. 2024), with a TPE-based parameter optimizer powered by Optuna",
-      "readme_summary_ja": "Heretic: Fully automatic censorship removal for language models ![Discord](https://discord.gg/gdXc48gSyT) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation of directional ablation, also known as \"abliteration\" (Arditi et al. 2024), with a TPE-based parameter optimizer powered by Optuna",
-      "language": "Python",
-      "stars": 69
-    },
-    {
-      "rank": 5,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "Shell",
-      "stars": 686
+      "stars": 359
     },
     {
       "rank": 6,
-      "repo_name": "OpenBMB/MiniCPM-o",
-      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
-      "description_ja": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
-      "readme_summary": null,
-      "readme_summary_ja": null,
+      "repo_name": "google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "description_ja": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
       "language": "Python",
-      "stars": 44
+      "stars": 438
     },
     {
       "rank": 7,
-      "repo_name": "aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "Go",
-      "stars": 168
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 813
     },
     {
       "rank": 8,
-      "repo_name": "wavetermdev/waveterm",
-      "description": "An open-source, cross-platform terminal for seamless workflows",
-      "description_ja": "An open-source, cross-platform terminal for seamless workflows",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "Go",
-      "stars": 25
+      "repo_name": "OpenBMB/MiniCPM-o",
+      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+      "description_ja": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+      "readme_summary": "<div align=\"center\"> <img src=\"./assets/minicpm_v_and_minicpm_o_title.png\" width=\"500em\" ></img> **A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone** <strong>中文 | English</strong> <span style=\"display: inline-flex; align-items: center; margin-right: 2px;\"> <img src=\"./assets/wechat.png\" alt=\"WeChat\" style=\"margin-right: 4px;\"> <a href=\"docs/wechat.md\" target=\"_blank\"> WeChat</a> &nbsp;| </span> &nbsp; <span style=\"display: inline-flex; ali...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"./assets/minicpm_v_and_minicpm_o_title.png\" width=\"500em\" ></img> **A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone** <strong>中文 | English</strong> <span style=\"display: inline-flex; align-items: center; margin-right: 2px;\"> <img src=\"./assets/wechat.png\" alt=\"WeChat\" style=\"margin-right: 4px;\"> <a href=\"docs/wechat.md\" target=\"_blank\"> WeChat</a> &nbsp;| </span> &nbsp; <span style=\"display: inline-flex; ali...",
+      "language": "Python",
+      "stars": 212
     },
     {
       "rank": 9,
-      "repo_name": "viarotel-org/escrcpy",
-      "description": "📱 Display and control your Android device graphically with scrcpy.",
-      "description_ja": "📱 Display and control your Android device graphically with scrcpy.",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "JavaScript",
-      "stars": 27
-    },
-    {
-      "rank": 10,
-      "repo_name": "ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "description_ja": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "Python",
-      "stars": 443
-    },
-    {
-      "rank": 11,
       "repo_name": "likec4/likec4",
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "description_ja": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "readme_summary": null,
-      "readme_summary_ja": null,
+      "readme_summary": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
+      "readme_summary_ja": "Architecture as a code Visualize, collaborate on, and evolve your software architecture with always up-to-date, live diagrams generated from your code. docs - playground - demo <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\"> !NPM Version </a> <a href=\"https://www.npmjs.com/package/likec4\" target=\"_blank\">!NPM Downloads</a> <a href=\"https://marketplace.visualstudio.com/items?itemName=likec4.likec4-vscode\" target=\"_blank\">!VSCode Installs</a> <a href=\"https://open-vsx.org/extension...",
       "language": "TypeScript",
-      "stars": 274
+      "stars": 271
+    },
+    {
+      "rank": 10,
+      "repo_name": "iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "description_ja": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "readme_summary": "﻿<p align=\"center\"> <img src=\"./resources/aionui-banner-1.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?style=f...",
+      "readme_summary_ja": "﻿<p align=\"center\"> <img src=\"./resources/aionui-banner-1.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?style=f...",
+      "language": "TypeScript",
+      "stars": 335
+    },
+    {
+      "rank": 11,
+      "repo_name": "home-assistant/addons",
+      "description": "➕ Docker add-ons for Home Assistant",
+      "description_ja": "➕ Docker add-ons for Home Assistant",
+      "readme_summary": "Home Assistant Apps: The official repository Apps (formerly known as add-ons) for Home Assistant allow you to extend the functionality around your Home Assistant setup. These apps can consist of an application that Home Assistant can integrate with (e.g., a MQTT broker or database server) or allow access to your Home Assistant configuration (e.g., via Samba or using the File Editor). Apps can be installed and configured via the Home Assistant frontend on systems that have installed Home Assistan...",
+      "readme_summary_ja": "Home Assistant Apps: The official repository Apps (formerly known as add-ons) for Home Assistant allow you to extend the functionality around your Home Assistant setup. These apps can consist of an application that Home Assistant can integrate with (e.g., a MQTT broker or database server) or allow access to your Home Assistant configuration (e.g., via Samba or using the File Editor). Apps can be installed and configured via the Home Assistant frontend on systems that have installed Home Assistan...",
+      "language": "Shell",
+      "stars": 11
     },
     {
       "rank": 12,
       "repo_name": "gitbutlerapp/gitbutler",
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "description_ja": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-      "readme_summary": "<div align=\"center\"> <img align=\"center\" width=\"100%\" src=\"./readme-preview.webp\" /> <br /> <br /> <p align=\"center\" > Version Control tool built from the ground up for modern, AI-powered workflows. <br /> <br /> <a href=\"https://gitbutler.com\">Website</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://blog.gitbutler.com/\">Blog</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://docs.gitbutler.com/\">Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://gitbutler.com/d...",
-      "readme_summary_ja": "<div align=\"center\"> <img align=\"center\" width=\"100%\" src=\"./readme-preview.webp\" /> <br /> <br /> <p align=\"center\" > Version Control tool built from the ground up for modern, AI-powered workflows. <br /> <br /> <a href=\"https://gitbutler.com\">Website</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://blog.gitbutler.com/\">Blog</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://docs.gitbutler.com/\">Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://gitbutler.com/d...",
+      "readme_summary": "<div align=\"center\"> <img align=\"center\" width=\"100%\" src=\"./readme-preview.webp\" /> <p align=\"center\"><i>Our beautiful GUI</i></p> <br /> <img align=\"center\" width=\"100%\" src=\"https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/CleanShot%202026-02-08%20at%2012.46.35%402x.png\" /> <p align=\"center\"><i>Our amazing <code>but</code> CLI</i></p> <br /> <br /> <p align=\"center\" > <b>Git, <i>but</i> better</b>. GitButler is a modern Git-based version control interface with both a GUI and CL...",
+      "readme_summary_ja": "<div align=\"center\"> <img align=\"center\" width=\"100%\" src=\"./readme-preview.webp\" /> <p align=\"center\"><i>Our beautiful GUI</i></p> <br /> <img align=\"center\" width=\"100%\" src=\"https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/CleanShot%202026-02-08%20at%2012.46.35%402x.png\" /> <p align=\"center\"><i>Our amazing <code>but</code> CLI</i></p> <br /> <br /> <p align=\"center\" > <b>Git, <i>but</i> better</b>. GitButler is a modern Git-based version control interface with both a GUI and CL...",
       "language": "Rust",
-      "stars": 85
+      "stars": 414
     }
   ]
 }
