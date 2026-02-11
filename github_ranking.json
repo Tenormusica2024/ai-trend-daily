@@ -1,136 +1,146 @@
 {
-  "updated_at": "2026-02-10 03:55:21",
-  "total_repos": 13,
+  "updated_at": "2026-02-11 03:52:37",
+  "total_repos": 14,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "KeygraphHQ/shannon",
-      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-      "description_ja": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-      "readme_summary": "> [!NOTE] > **Shannon Lite achieves a 96.15% success rate on a hint-free, source-aware XBOW benchmark. &rarr;** <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <img src=\"./assets/shannon-screen.png?v=2\" alt=\"Shannon Screen\" width=\"100%\"> Shannon is your fully autonomous AI pentester. Shannon...",
-      "readme_summary_ja": "> [!NOTE] > **Shannon Lite achieves a 96.15% success rate on a hint-free, source-aware XBOW benchmark. &rarr;** <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <img src=\"./assets/shannon-screen.png?v=2\" alt=\"Shannon Screen\" width=\"100%\"> Shannon is your fully autonomous AI pentester. Shannon...",
-      "language": "TypeScript",
-      "stars": 4144
+      "repo_name": "google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "description_ja": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
+      "language": "Python",
+      "stars": 1654
     },
     {
       "rank": 2,
-      "repo_name": "virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
-      "description_ja": "An autonomous agent for deep financial research",
-      "readme_summary": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
-      "readme_summary_ja": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
-      "language": "TypeScript",
-      "stars": 1115
-    },
-    {
-      "rank": 3,
-      "repo_name": "pydantic/monty",
-      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
-      "description_ja": "A minimal, secure Python interpreter written in Rust for use by AI",
-      "readme_summary": "<div align=\"center\"> <h1>Monty</h1> </div> <div align=\"center\"> <h3>A minimal, secure Python interpreter written in Rust for use by AI.</h3> </div> <div align=\"center\"> <a href=\"https://github.com/pydantic/monty/actions/workflows/ci.yml?query=branch%3Amain\"><img src=\"https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg\" alt=\"CI\"></a> <a href=\"https://codspeed.io/pydantic/monty?utm_source=badge\"><img src=\"https://img.shields.io/badge/CodSpeed-Performance%20Tracked-blue?logo=data:i...",
-      "readme_summary_ja": "<div align=\"center\"> <h1>Monty</h1> </div> <div align=\"center\"> <h3>A minimal, secure Python interpreter written in Rust for use by AI.</h3> </div> <div align=\"center\"> <a href=\"https://github.com/pydantic/monty/actions/workflows/ci.yml?query=branch%3Amain\"><img src=\"https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg\" alt=\"CI\"></a> <a href=\"https://codspeed.io/pydantic/monty?utm_source=badge\"><img src=\"https://img.shields.io/badge/CodSpeed-Performance%20Tracked-blue?logo=data:i...",
-      "language": "Rust",
-      "stars": 1291
-    },
-    {
-      "rank": 4,
-      "repo_name": "hsliuping/TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "description_ja": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "readme_summary": "TradingAgents 中文增强版 ![License](https://opensource.org/licenses/Apache-2.0) ![Python](https://www.python.org/) ![Version](./VERSION) ![Documentation](./docs/) ![Original](https://github.com/TauricResearch/TradingAgents) --- ⚠️ 重要版权声明与授权说明 🚨 版权侵权警告 **我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。** **⚠️ 重要提醒**： - ❌ **我们项目组目前没有给任何组织或个人进行过商业授权** - ❌ **该网站未经授权使用我们的代码，属于侵权行为** - ⚠️ **请大家注意识别，避免上当受骗** **✅ 官方唯一渠道**： - 📦 GitHub 仓库：https://github.com/hsliuping/TradingAgents-CN - 📧 官方邮箱：hsliup@16...",
-      "readme_summary_ja": "TradingAgents 中文增强版 ![License](https://opensource.org/licenses/Apache-2.0) ![Python](https://www.python.org/) ![Version](./VERSION) ![Documentation](./docs/) ![Original](https://github.com/TauricResearch/TradingAgents) --- ⚠️ 重要版权声明与授权说明 🚨 版权侵权警告 **我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。** **⚠️ 重要提醒**： - ❌ **我们项目组目前没有给任何组织或个人进行过商业授权** - ❌ **该网站未经授权使用我们的代码，属于侵权行为** - ⚠️ **请大家注意识别，避免上当受骗** **✅ 官方唯一渠道**： - 📦 GitHub 仓库：https://github.com/hsliuping/TradingAgents-CN - 📧 官方邮箱：hsliup@16...",
-      "language": "Python",
-      "stars": 149
-    },
-    {
-      "rank": 5,
       "repo_name": "iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "description_ja": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "readme_summary": "﻿<p align=\"center\"> <img src=\"./resources/aionui-banner-1.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?style=f...",
       "readme_summary_ja": "﻿<p align=\"center\"> <img src=\"./resources/aionui-banner-1.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?style=f...",
       "language": "TypeScript",
-      "stars": 673
+      "stars": 629
     },
     {
-      "rank": 6,
-      "repo_name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "description_ja": "A collective list of free APIs",
-      "readme_summary": "Try Public APIs for free The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years",
-      "readme_summary_ja": "Try Public APIs for free The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years",
-      "language": "Python",
-      "stars": 410
+      "rank": 3,
+      "repo_name": "KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "description_ja": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "readme_summary": "> [!NOTE] > **Shannon Lite achieves a 96.15% success rate on a hint-free, source-aware XBOW benchmark. &rarr;** <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <img src=\"./assets/shannon-screen.png?v=2\" alt=\"Shannon Screen\" width=\"100%\"> Shannon is your fully autonomous AI pentester. Shannon...",
+      "readme_summary_ja": "> [!NOTE] > **Shannon Lite achieves a 96.15% success rate on a hint-free, source-aware XBOW benchmark. &rarr;** <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <img src=\"./assets/shannon-screen.png?v=2\" alt=\"Shannon Screen\" width=\"100%\"> Shannon is your fully autonomous AI pentester. Shannon...",
+      "language": "TypeScript",
+      "stars": 3619
     },
     {
-      "rank": 7,
+      "rank": 4,
       "repo_name": "github/gh-aw",
       "description": "GitHub Agentic Workflows",
       "description_ja": "GitHub Agentic Workflows",
       "readme_summary": "<!-- Hello fellow agent! Welcome to GitHub Agentic Workflows = Actions + Agent + Safety. Here are some pointers to get you started in using this tool. - Create a new workflow: https://raw.githubusercontent.com/github/gh-aw/main/create.md - Install: https://raw.githubusercontent.com/github/gh-aw/main/install.md - Reference: https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/github-agentic-workflows.md --> GitHub Agentic Workflows Write agentic workflows in natural language markdown, a...",
       "readme_summary_ja": "<!-- Hello fellow agent! Welcome to GitHub Agentic Workflows = Actions + Agent + Safety. Here are some pointers to get you started in using this tool. - Create a new workflow: https://raw.githubusercontent.com/github/gh-aw/main/create.md - Install: https://raw.githubusercontent.com/github/gh-aw/main/install.md - Reference: https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/github-agentic-workflows.md --> GitHub Agentic Workflows Write agentic workflows in natural language markdown, a...",
       "language": "Go",
-      "stars": 260
+      "stars": 496
     },
     {
-      "rank": 8,
-      "repo_name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "description_ja": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "readme_summary": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
-      "language": "Python",
-      "stars": 227
-    },
-    {
-      "rank": 9,
-      "repo_name": "gitbutlerapp/gitbutler",
-      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-      "description_ja": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-      "readme_summary": "<div align=\"center\"> <img align=\"center\" width=\"100%\" src=\"./readme-preview.webp\" /> <p align=\"center\"><i>Our beautiful GUI</i></p> <br /> <img align=\"center\" width=\"100%\" src=\"https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/CleanShot%202026-02-08%20at%2012.46.35%402x.png\" /> <p align=\"center\"><i>Our amazing <code>but</code> CLI</i></p> <br /> <br /> <p align=\"center\" > <b>Git, <i>but</i> better</b>. GitButler is a modern Git-based version control interface with both a GUI and CL...",
-      "readme_summary_ja": "<div align=\"center\"> <img align=\"center\" width=\"100%\" src=\"./readme-preview.webp\" /> <p align=\"center\"><i>Our beautiful GUI</i></p> <br /> <img align=\"center\" width=\"100%\" src=\"https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/CleanShot%202026-02-08%20at%2012.46.35%402x.png\" /> <p align=\"center\"><i>Our amazing <code>but</code> CLI</i></p> <br /> <br /> <p align=\"center\" > <b>Git, <i>but</i> better</b>. GitButler is a modern Git-based version control interface with both a GUI and CL...",
-      "language": "Rust",
-      "stars": 376
-    },
-    {
-      "rank": 10,
-      "repo_name": "microsoft/litebox",
-      "description": "A security-focused library OS supporting kernel- and user-mode execution",
-      "description_ja": "A security-focused library OS supporting kernel- and user-mode execution",
-      "readme_summary": "LiteBox > A security-focused library OS > [!NOTE] > This project is currently actively evolving and improving. While we are > working toward a stable release, some APIs and interfaces may change as the > design continues to mature. You are welcome to explore and experiment, but if > you need long-term stability, it may be best to wait for a stable release, or > be prepared to adapt to updates along the way",
-      "readme_summary_ja": "LiteBox > A security-focused library OS > [!NOTE] > This project is currently actively evolving and improving. While we are > working toward a stable release, some APIs and interfaces may change as the > design continues to mature. You are welcome to explore and experiment, but if > you need long-term stability, it may be best to wait for a stable release, or > be prepared to adapt to updates along the way",
-      "language": "Rust",
-      "stars": 354
-    },
-    {
-      "rank": 11,
-      "repo_name": "openai/skills",
-      "description": "Skills Catalog for Codex",
-      "description_ja": "Skills Catalog for Codex",
-      "readme_summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
-      "readme_summary_ja": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
-      "language": "Python",
-      "stars": 707
-    },
-    {
-      "rank": 12,
+      "rank": 5,
       "repo_name": "EveryInc/compound-engineering-plugin",
       "description": "Official Claude Code compound engineering plugin",
       "description_ja": "Official Claude Code compound engineering plugin",
       "readme_summary": "Compound Marketplace ![Build Status](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml) ![npm](https://www.npmjs.com/package/@every-env/compound-plugin) A Claude Code plugin marketplace featuring the **Compound Engineering Plugin** — tools that make each unit of engineering work easier than the last. Claude Code Install OpenCode + Codex (experimental) Install This repo includes a Bun/TypeScript CLI that converts Claude Code plugins to OpenCode and Codex. Local dev:...",
       "readme_summary_ja": "Compound Marketplace ![Build Status](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml) ![npm](https://www.npmjs.com/package/@every-env/compound-plugin) A Claude Code plugin marketplace featuring the **Compound Engineering Plugin** — tools that make each unit of engineering work easier than the last. Claude Code Install OpenCode + Codex (experimental) Install This repo includes a Bun/TypeScript CLI that converts Claude Code plugins to OpenCode and Codex. Local dev:...",
       "language": "TypeScript",
-      "stars": 185
+      "stars": 406
+    },
+    {
+      "rank": 6,
+      "repo_name": "hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "description_ja": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "readme_summary": "TradingAgents 中文增强版 ![License](https://opensource.org/licenses/Apache-2.0) ![Python](https://www.python.org/) ![Version](./VERSION) ![Documentation](./docs/) ![Original](https://github.com/TauricResearch/TradingAgents) --- ⚠️ 重要版权声明与授权说明 🚨 版权侵权警告 **我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。** **⚠️ 重要提醒**： - ❌ **我们项目组目前没有给任何组织或个人进行过商业授权** - ❌ **该网站未经授权使用我们的代码，属于侵权行为** - ⚠️ **请大家注意识别，避免上当受骗** **✅ 官方唯一渠道**： - 📦 GitHub 仓库：https://github.com/hsliuping/TradingAgents-CN - 📧 官方邮箱：hsliup@16...",
+      "readme_summary_ja": "TradingAgents 中文增强版 ![License](https://opensource.org/licenses/Apache-2.0) ![Python](https://www.python.org/) ![Version](./VERSION) ![Documentation](./docs/) ![Original](https://github.com/TauricResearch/TradingAgents) --- ⚠️ 重要版权声明与授权说明 🚨 版权侵权警告 **我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。** **⚠️ 重要提醒**： - ❌ **我们项目组目前没有给任何组织或个人进行过商业授权** - ❌ **该网站未经授权使用我们的代码，属于侵权行为** - ⚠️ **请大家注意识别，避免上当受骗** **✅ 官方唯一渠道**： - 📦 GitHub 仓库：https://github.com/hsliuping/TradingAgents-CN - 📧 官方邮箱：hsliup@16...",
+      "language": "Python",
+      "stars": 498
+    },
+    {
+      "rank": 7,
+      "repo_name": "gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "description_ja": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "readme_summary": "<div align=\"center\"> <img align=\"center\" width=\"100%\" src=\"./readme-preview.webp\" /> <p align=\"center\"><i>Our beautiful GUI</i></p> <br /> <img align=\"center\" width=\"100%\" src=\"https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/CleanShot%202026-02-08%20at%2012.46.35%402x.png\" /> <p align=\"center\"><i>Our amazing <code>but</code> CLI</i></p> <br /> <br /> <p align=\"center\" > <b>Git, <i>but</i> better</b>. GitButler is a modern Git-based version control interface with both a GUI and CL...",
+      "readme_summary_ja": "<div align=\"center\"> <img align=\"center\" width=\"100%\" src=\"./readme-preview.webp\" /> <p align=\"center\"><i>Our beautiful GUI</i></p> <br /> <img align=\"center\" width=\"100%\" src=\"https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/CleanShot%202026-02-08%20at%2012.46.35%402x.png\" /> <p align=\"center\"><i>Our amazing <code>but</code> CLI</i></p> <br /> <br /> <p align=\"center\" > <b>Git, <i>but</i> better</b>. GitButler is a modern Git-based version control interface with both a GUI and CL...",
+      "language": "Rust",
+      "stars": 260
+    },
+    {
+      "rank": 8,
+      "repo_name": "carlvellotti/claude-code-pm-course",
+      "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
+      "description_ja": "Interactive course teaching Product Managers how to use Claude Code effectively",
+      "readme_summary": "Claude Code PM Course An interactive course teaching Product Managers how to use Claude Code effectively for their daily work. Course Structure Module 0: Getting Started - **0.0 Introduction** - Course overview and what you'll learn - **0.1 Installation** - Install Claude Code and prerequisites - **0.2 Start & Clone** - Launch Claude Code and clone this course Module 1: Claude Code Fundamentals - **1.1 Welcome** - Introduction to TaskFlow and the course project - **1.2 Visualizing Files** - Set ...",
+      "readme_summary_ja": "Claude Code PM Course An interactive course teaching Product Managers how to use Claude Code effectively for their daily work. Course Structure Module 0: Getting Started - **0.0 Introduction** - Course overview and what you'll learn - **0.1 Installation** - Install Claude Code and prerequisites - **0.2 Start & Clone** - Launch Claude Code and clone this course Module 1: Claude Code Fundamentals - **1.1 Welcome** - Introduction to TaskFlow and the course project - **1.2 Visualizing Files** - Set ...",
+      "language": "MDX",
+      "stars": 24
+    },
+    {
+      "rank": 9,
+      "repo_name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "description_ja": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "readme_summary": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
+      "language": "Python",
+      "stars": 443
+    },
+    {
+      "rank": 10,
+      "repo_name": "drawdb-io/drawdb",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "description_ja": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "readme_summary": "<div align=\"center\"> <sup>Special thanks to:</sup> <br> <a href=\"https://www.warp.dev/drawdb/\" target=\"_blank\"> <img alt=\"Warp sponsorship\" width=\"280\" src=\"https://github.com/user-attachments/assets/c7f141e7-9751-407d-bb0e-d6f2c487b34f\"> <br> <b>Next-gen AI-powered intelligent terminal for all platforms</b> </a> </div> <br/> <br/> <div align=\"center\"> <img width=\"64\" alt=\"drawdb logo\" src=\"./src/assets/icon-dark.png\"> <h1>drawDB</h1> </div> <h3 align=\"center\">Free, simple, and intuitive databas...",
+      "readme_summary_ja": "<div align=\"center\"> <sup>Special thanks to:</sup> <br> <a href=\"https://www.warp.dev/drawdb/\" target=\"_blank\"> <img alt=\"Warp sponsorship\" width=\"280\" src=\"https://github.com/user-attachments/assets/c7f141e7-9751-407d-bb0e-d6f2c487b34f\"> <br> <b>Next-gen AI-powered intelligent terminal for all platforms</b> </a> </div> <br/> <br/> <div align=\"center\"> <img width=\"64\" alt=\"drawdb logo\" src=\"./src/assets/icon-dark.png\"> <h1>drawDB</h1> </div> <h3 align=\"center\">Free, simple, and intuitive databas...",
+      "language": "JavaScript",
+      "stars": 95
+    },
+    {
+      "rank": 11,
+      "repo_name": "pydantic/monty",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+      "description_ja": "A minimal, secure Python interpreter written in Rust for use by AI",
+      "readme_summary": "<div align=\"center\"> <h1>Monty</h1> </div> <div align=\"center\"> <h3>A minimal, secure Python interpreter written in Rust for use by AI.</h3> </div> <div align=\"center\"> <a href=\"https://github.com/pydantic/monty/actions/workflows/ci.yml?query=branch%3Amain\"><img src=\"https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg\" alt=\"CI\"></a> <a href=\"https://codspeed.io/pydantic/monty?utm_source=badge\"><img src=\"https://img.shields.io/badge/CodSpeed-Performance%20Tracked-blue?logo=data:i...",
+      "readme_summary_ja": "<div align=\"center\"> <h1>Monty</h1> </div> <div align=\"center\"> <h3>A minimal, secure Python interpreter written in Rust for use by AI.</h3> </div> <div align=\"center\"> <a href=\"https://github.com/pydantic/monty/actions/workflows/ci.yml?query=branch%3Amain\"><img src=\"https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg\" alt=\"CI\"></a> <a href=\"https://codspeed.io/pydantic/monty?utm_source=badge\"><img src=\"https://img.shields.io/badge/CodSpeed-Performance%20Tracked-blue?logo=data:i...",
+      "language": "Rust",
+      "stars": 858
+    },
+    {
+      "rank": 12,
+      "repo_name": "cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "description_ja": "A list of free LLM inference resources accessible via API.",
+      "readme_summary": "<!--- WARNING: DO NOT EDIT THIS FILE DIRECTLY. IT IS GENERATED BY src/pull_available_models.py ---> Free LLM API resources This lists various services that provide free access or credits towards API-based LLM usage. > [!NOTE] > Please don't abuse these services, else we might lose them",
+      "readme_summary_ja": "<!--- WARNING: DO NOT EDIT THIS FILE DIRECTLY. IT IS GENERATED BY src/pull_available_models.py ---> Free LLM API resources This lists various services that provide free access or credits towards API-based LLM usage. > [!NOTE] > Please don't abuse these services, else we might lose them",
+      "language": "Python",
+      "stars": 115
     },
     {
       "rank": 13,
-      "repo_name": "DrewThomasson/ebook2audiobook",
-      "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
-      "description_ja": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
-      "readme_summary": "📚 ebook2audiobook CPU/GPU Converter from E-Book to audiobook with chapters and metadata<br/> using XTTSv2, Piper-TTS, Vits, Fairseq, Tacotron2, YourTTS and much more.<br/> Supports voice cloning and 1158 languages! > [!IMPORTANT] **This tool is intended for use with non-DRM, legally acquired eBooks only.** <br> The authors are not responsible for any misuse of this software or any resulting legal consequences. <br> Use this tool responsibly and in accordance with all applicable laws. ![Discord](...",
-      "readme_summary_ja": "📚 ebook2audiobook CPU/GPU Converter from E-Book to audiobook with chapters and metadata<br/> using XTTSv2, Piper-TTS, Vits, Fairseq, Tacotron2, YourTTS and much more.<br/> Supports voice cloning and 1158 languages! > [!IMPORTANT] **This tool is intended for use with non-DRM, legally acquired eBooks only.** <br> The authors are not responsible for any misuse of this software or any resulting legal consequences. <br> Use this tool responsibly and in accordance with all applicable laws. ![Discord](...",
+      "repo_name": "Jeffallan/claude-skills",
+      "description": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "description_ja": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "readme_summary": "<p align=\"center\"> <img src=\"https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Claude%20Skills&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=65%20Skills%20%E2%80%A2%209%20Workflows%20%E2%80%A2%20Built%20for%20Full-Stack%20Devs&descSize=20&descAlignY=55\" width=\"100%\"/> </p> <p align=\"center\"> <a href=\"https://github.com/jeffallan/claude-skills\"><img src=\"https://img.shields.io/badge/version-0.4.7-blue.svg...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Claude%20Skills&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=65%20Skills%20%E2%80%A2%209%20Workflows%20%E2%80%A2%20Built%20for%20Full-Stack%20Devs&descSize=20&descAlignY=55\" width=\"100%\"/> </p> <p align=\"center\"> <a href=\"https://github.com/jeffallan/claude-skills\"><img src=\"https://img.shields.io/badge/version-0.4.7-blue.svg...",
       "language": "Python",
-      "stars": 147
+      "stars": 45
+    },
+    {
+      "rank": 14,
+      "repo_name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "description_ja": "An autonomous agent for deep financial research",
+      "readme_summary": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
+      "readme_summary_ja": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
+      "language": "TypeScript",
+      "stars": 757
     }
   ]
 }
