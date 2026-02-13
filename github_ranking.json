@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-02-12 03:46:43",
-  "total_repos": 7,
+  "updated_at": "2026-02-13 03:44:50",
+  "total_repos": 13,
   "ranking": [
     {
       "rank": 1,
+      "repo_name": "tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "description_ja": "Generative UI SDK for React",
+      "readme_summary": "<div align=\"center\"> <img src=\"assets/octo-white-background-rounded.png\" width=\"150\"> <h1>Tambo AI</h1> <h3>Build agents that speak your UI</h3> <p>The open-source generative UI toolkit for React. Connect your components—Tambo handles streaming, state management, and MCP.</p> </div> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@tambo-ai/react\"><img src=\"https://img.shields.io/npm/v/%40tambo-ai%2Freact?logo=npm\" alt=\"npm version\" /></a> <a href=\"https://github.com/tambo-ai/tambo/blob...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/octo-white-background-rounded.png\" width=\"150\"> <h1>Tambo AI</h1> <h3>Build agents that speak your UI</h3> <p>The open-source generative UI toolkit for React. Connect your components—Tambo handles streaming, state management, and MCP.</p> </div> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@tambo-ai/react\"><img src=\"https://img.shields.io/npm/v/%40tambo-ai%2Freact?logo=npm\" alt=\"npm version\" /></a> <a href=\"https://github.com/tambo-ai/tambo/blob...",
+      "language": "TypeScript",
+      "stars": 300
+    },
+    {
+      "rank": 2,
+      "repo_name": "danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "description_ja": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "readme_summary": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./images/pai-logo-v7.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./images/pai-logo-v7.png\"> <img alt=\"PAI Logo\" src=\"./images/pai-logo-v7.png\" width=\"300\"> </picture> <br/> <br/> Personal AI Infrastructure ![Typing SVG](https://github.com/danielmiessler/PAI) <br/> <!-- Social Proof --> !Stars !Forks !Watchers <!-- Project Health --> !Release !Last Commit !Open Issues !Open PRs !License <!-- Metric...",
+      "readme_summary_ja": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./images/pai-logo-v7.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./images/pai-logo-v7.png\"> <img alt=\"PAI Logo\" src=\"./images/pai-logo-v7.png\" width=\"300\"> </picture> <br/> <br/> Personal AI Infrastructure ![Typing SVG](https://github.com/danielmiessler/PAI) <br/> <!-- Social Proof --> !Stars !Forks !Watchers <!-- Project Health --> !Release !Last Commit !Open Issues !Open PRs !License <!-- Metric...",
+      "language": "TypeScript",
+      "stars": 351
+    },
+    {
+      "rank": 3,
       "repo_name": "google/langextract",
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "description_ja": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "readme_summary": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
       "readme_summary_ja": "<p align=\"center\"> <a href=\"https://github.com/google/langextract\"> <img src=\"https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg\" alt=\"LangExtract Logo\" width=\"128\" /> </a> </p> LangExtract ![PyPI version](https://pypi.org/project/langextract/) ![GitHub stars](https://github.com/google/langextract) !Tests ![DOI](https://doi.org/10.5281/zenodo.17015089) Table of Contents - Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - ...",
       "language": "Python",
-      "stars": 3186
-    },
-    {
-      "rank": 2,
-      "repo_name": "github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "description_ja": "GitHub Agentic Workflows",
-      "readme_summary": "<!-- Hello fellow agent! Welcome to GitHub Agentic Workflows = Actions + Agent + Safety. Here are some pointers to get you started in using this tool. - Create a new workflow: https://raw.githubusercontent.com/github/gh-aw/main/create.md - Install: https://raw.githubusercontent.com/github/gh-aw/main/install.md - Reference: https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/github-agentic-workflows.md --> GitHub Agentic Workflows Write agentic workflows in natural language markdown, a...",
-      "readme_summary_ja": "<!-- Hello fellow agent! Welcome to GitHub Agentic Workflows = Actions + Agent + Safety. Here are some pointers to get you started in using this tool. - Create a new workflow: https://raw.githubusercontent.com/github/gh-aw/main/create.md - Install: https://raw.githubusercontent.com/github/gh-aw/main/install.md - Reference: https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/github-agentic-workflows.md --> GitHub Agentic Workflows Write agentic workflows in natural language markdown, a...",
-      "language": "Go",
-      "stars": 390
-    },
-    {
-      "rank": 3,
-      "repo_name": "microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "description_ja": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
-      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
-      "language": "C#",
-      "stars": 67
+      "stars": 1122
     },
     {
       "rank": 4,
@@ -40,37 +40,97 @@
       "readme_summary": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
       "readme_summary_ja": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
       "language": "TypeScript",
-      "stars": 120
+      "stars": 436
     },
     {
       "rank": 5,
-      "repo_name": "EveryInc/compound-engineering-plugin",
-      "description": "Official Claude Code compound engineering plugin",
-      "description_ja": "Official Claude Code compound engineering plugin",
-      "readme_summary": "Compound Marketplace ![Build Status](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml) ![npm](https://www.npmjs.com/package/@every-env/compound-plugin) A Claude Code plugin marketplace featuring the **Compound Engineering Plugin** — tools that make each unit of engineering work easier than the last. Claude Code Install OpenCode, Codex & Droid (experimental) Install This repo includes a Bun/TypeScript CLI that converts Claude Code plugins to OpenCode, Codex, and Fa...",
-      "readme_summary_ja": "Compound Marketplace ![Build Status](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml) ![npm](https://www.npmjs.com/package/@every-env/compound-plugin) A Claude Code plugin marketplace featuring the **Compound Engineering Plugin** — tools that make each unit of engineering work easier than the last. Claude Code Install OpenCode, Codex & Droid (experimental) Install This repo includes a Bun/TypeScript CLI that converts Claude Code plugins to OpenCode, Codex, and Fa...",
-      "language": "TypeScript",
-      "stars": 272
+      "repo_name": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "description_ja": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
+      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> · </span> <a hre...",
+      "language": "C#",
+      "stars": 316
     },
     {
       "rank": 6,
-      "repo_name": "patchy631/ai-engineering-hub",
-      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "description_ja": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"Trending Badge\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AI Engineering Hub Banner\"> </p> --- AI Engineering Hub 🚀 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefron...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://trendshift.io/repositories/12800\"> <img src=\"assets/TRENDING-BADGE.png\" alt=\"Trending Badge\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </p> <p align=\"center\"> <img src=\"assets/ai-eng-hub.gif\" alt=\"AI Engineering Hub Banner\"> </p> --- AI Engineering Hub 🚀 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI! 🌟 Why This Repo? AI Engineering is advancing rapidly, and staying at the forefron...",
-      "language": "Jupyter Notebook",
-      "stars": 154
+      "repo_name": "iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "description_ja": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "readme_summary": "<p align=\"center\"> <img src=\"./resources/aionui-banner-1.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?style=fl...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"./resources/aionui-banner-1.png\" alt=\"AionUi - Cowork with Your CLI AI Agent\" width=\"100%\"> </p> <p align=\"center\"> <img src=\"https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32\" alt=\"Version\"> &nbsp; <img src=\"https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white\" alt=\"License\"> &nbsp; <img src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?style=fl...",
+      "language": "TypeScript",
+      "stars": 271
     },
     {
       "rank": 7,
-      "repo_name": "cheahjs/free-llm-api-resources",
-      "description": "A list of free LLM inference resources accessible via API.",
-      "description_ja": "A list of free LLM inference resources accessible via API.",
-      "readme_summary": "<!--- WARNING: DO NOT EDIT THIS FILE DIRECTLY. IT IS GENERATED BY src/pull_available_models.py ---> Free LLM API resources This lists various services that provide free access or credits towards API-based LLM usage. > [!NOTE] > Please don't abuse these services, else we might lose them",
-      "readme_summary_ja": "<!--- WARNING: DO NOT EDIT THIS FILE DIRECTLY. IT IS GENERATED BY src/pull_available_models.py ---> Free LLM API resources This lists various services that provide free access or credits towards API-based LLM usage. > [!NOTE] > Please don't abuse these services, else we might lose them",
+      "repo_name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "description_ja": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "readme_summary": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
       "language": "Python",
-      "stars": 440
+      "stars": 287
+    },
+    {
+      "rank": 8,
+      "repo_name": "rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "description_ja": "Open-source AI coworker, with memory",
+      "readme_summary": "<a href=\"https://www.youtube.com/watch?v=5AWoGo-L16I\" target=\"_blank\" rel=\"noopener noreferrer\"> <img width=\"1339\" height=\"607\" alt=\"rowboat-github-2\" src=\"https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901\" /> </a> <h5 align=\"center\"> <p align=\"center\" style=\"display: flex; justify-content: center; gap: 20px; align-items: center;\"> <a href=\"https://trendshift.io/repositories/13609\" target=\"blank\"> <img src=\"https://trendshift.io/api/badge/repositories/13609\" alt=\"ro...",
+      "readme_summary_ja": "<a href=\"https://www.youtube.com/watch?v=5AWoGo-L16I\" target=\"_blank\" rel=\"noopener noreferrer\"> <img width=\"1339\" height=\"607\" alt=\"rowboat-github-2\" src=\"https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901\" /> </a> <h5 align=\"center\"> <p align=\"center\" style=\"display: flex; justify-content: center; gap: 20px; align-items: center;\"> <a href=\"https://trendshift.io/repositories/13609\" target=\"blank\"> <img src=\"https://trendshift.io/api/badge/repositories/13609\" alt=\"ro...",
+      "language": "TypeScript",
+      "stars": 191
+    },
+    {
+      "rank": 9,
+      "repo_name": "github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "description_ja": "GitHub Agentic Workflows",
+      "readme_summary": "<!-- Hello fellow agent! Welcome to GitHub Agentic Workflows = Actions + Agent + Safety. Here are some pointers to get you started in using this tool. - Create a new workflow: https://raw.githubusercontent.com/github/gh-aw/main/create.md - Install: https://raw.githubusercontent.com/github/gh-aw/main/install.md - Reference: https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/github-agentic-workflows.md --> GitHub Agentic Workflows Write agentic workflows in natural language markdown, a...",
+      "readme_summary_ja": "<!-- Hello fellow agent! Welcome to GitHub Agentic Workflows = Actions + Agent + Safety. Here are some pointers to get you started in using this tool. - Create a new workflow: https://raw.githubusercontent.com/github/gh-aw/main/create.md - Install: https://raw.githubusercontent.com/github/gh-aw/main/install.md - Reference: https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/github-agentic-workflows.md --> GitHub Agentic Workflows Write agentic workflows in natural language markdown, a...",
+      "language": "Go",
+      "stars": 405
+    },
+    {
+      "rank": 10,
+      "repo_name": "unslothai/unsloth",
+      "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+      "description_ja": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://unsloth.ai/docs\"><picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png\"> <img alt=\"unsloth logo\" src=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png\" ...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://unsloth.ai/docs\"><picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png\"> <img alt=\"unsloth logo\" src=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png\" ...",
+      "language": "Python",
+      "stars": 81
+    },
+    {
+      "rank": 11,
+      "repo_name": "cinnyapp/cinny",
+      "description": "Yet another matrix client",
+      "description_ja": "Yet another matrix client",
+      "readme_summary": "Cinny <p> <a href=\"https://github.com/ajbura/cinny/releases\"> <img alt=\"GitHub release downloads\" src=\"https://img.shields.io/github/downloads/ajbura/cinny/total?logo=github&style=social\"></a> <a href=\"https://hub.docker.com/r/ajbura/cinny\"> <img alt=\"DockerHub downloads\" src=\"https://img.shields.io/docker/pulls/ajbura/cinny?logo=docker&style=social\"></a> <a href=\"https://fosstodon.org/@cinnyapp\"> <img alt=\"Follow on Mastodon\" src=\"https://img.shields.io/mastodon/follow/106845779685925461?domain...",
+      "readme_summary_ja": "Cinny <p> <a href=\"https://github.com/ajbura/cinny/releases\"> <img alt=\"GitHub release downloads\" src=\"https://img.shields.io/github/downloads/ajbura/cinny/total?logo=github&style=social\"></a> <a href=\"https://hub.docker.com/r/ajbura/cinny\"> <img alt=\"DockerHub downloads\" src=\"https://img.shields.io/docker/pulls/ajbura/cinny?logo=docker&style=social\"></a> <a href=\"https://fosstodon.org/@cinnyapp\"> <img alt=\"Follow on Mastodon\" src=\"https://img.shields.io/mastodon/follow/106845779685925461?domain...",
+      "language": "TypeScript",
+      "stars": 38
+    },
+    {
+      "rank": 12,
+      "repo_name": "Jeffallan/claude-skills",
+      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "description_ja": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "readme_summary": "<p align=\"center\"> <img src=\"https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Claude%20Skills&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=66%20Skills%20%E2%80%A2%209%20Workflows%20%E2%80%A2%20Built%20for%20Full-Stack%20Devs&descSize=20&descAlignY=55\" width=\"100%\"/> </p> <p align=\"center\"> <a href=\"https://github.com/jeffallan/claude-skills\"><img src=\"https://img.shields.io/badge/version-0.4.7-blue.svg...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Claude%20Skills&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=66%20Skills%20%E2%80%A2%209%20Workflows%20%E2%80%A2%20Built%20for%20Full-Stack%20Devs&descSize=20&descAlignY=55\" width=\"100%\"/> </p> <p align=\"center\"> <a href=\"https://github.com/jeffallan/claude-skills\"><img src=\"https://img.shields.io/badge/version-0.4.7-blue.svg...",
+      "language": "Python",
+      "stars": 278
+    },
+    {
+      "rank": 13,
+      "repo_name": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+      "description_ja": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+      "readme_summary": "﻿Hands-On Large Language Models <a href=\"https://www.linkedin.com/in/jalammar/\"><img src=\"https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin\"></a> <a href=\"https://www.linkedin.com/in/mgrootendorst/\"><img src=\"https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin\"></a> <a href=\"https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner\"><img src=\"https://img.shields.io/badge/DeepLearning.AI%20Course-NEW!-&la...",
+      "readme_summary_ja": "﻿Hands-On Large Language Models <a href=\"https://www.linkedin.com/in/jalammar/\"><img src=\"https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin\"></a> <a href=\"https://www.linkedin.com/in/mgrootendorst/\"><img src=\"https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin\"></a> <a href=\"https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner\"><img src=\"https://img.shields.io/badge/DeepLearning.AI%20Course-NEW!-&la...",
+      "language": "Jupyter Notebook",
+      "stars": 361
     }
   ]
 }
