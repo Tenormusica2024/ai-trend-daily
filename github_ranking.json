@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-02-15 03:45:56",
+  "updated_at": "2026-02-16 03:45:56",
   "total_repos": 11,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "tambo-ai/tambo",
-      "description": "Generative UI SDK for React",
-      "description_ja": "Generative UI SDK for React",
-      "readme_summary": "<div align=\"center\"> <img src=\"assets/octo-white-background-rounded.png\" width=\"150\"> <h1>Tambo AI</h1> <h3>Build agents that speak your UI</h3> <p>The open-source generative UI toolkit for React. Connect your components—Tambo handles streaming, state management, and MCP.</p> </div> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@tambo-ai/react\"><img src=\"https://img.shields.io/npm/v/%40tambo-ai%2Freact?logo=npm\" alt=\"npm version\" /></a> <a href=\"https://github.com/tambo-ai/tambo/blob...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/octo-white-background-rounded.png\" width=\"150\"> <h1>Tambo AI</h1> <h3>Build agents that speak your UI</h3> <p>The open-source generative UI toolkit for React. Connect your components—Tambo handles streaming, state management, and MCP.</p> </div> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/@tambo-ai/react\"><img src=\"https://img.shields.io/npm/v/%40tambo-ai%2Freact?logo=npm\" alt=\"npm version\" /></a> <a href=\"https://github.com/tambo-ai/tambo/blob...",
-      "language": "TypeScript",
-      "stars": 127
+      "repo_name": "nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "description_ja": "A high-performance algorithmic trading platform and event-driven backtester",
+      "readme_summary": "<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\"> ![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader) ![codspeed](https://codspeed.io/nautechsystems/nautilus_trader) !pythons !pypi-version !pypi-format ![Downloads](https://pepy.tech/project/nautilus-trader) ![Discord](https://discord.gg/NautilusTrader) | Branch | Version | Status | | :-------- | :----------------------------------------------------------------------...",
+      "readme_summary_ja": "<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\"> ![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader) ![codspeed](https://codspeed.io/nautechsystems/nautilus_trader) !pythons !pypi-version !pypi-format ![Downloads](https://pepy.tech/project/nautilus-trader) ![Discord](https://discord.gg/NautilusTrader) | Branch | Version | Status | | :-------- | :----------------------------------------------------------------------...",
+      "language": "Rust",
+      "stars": 68
     },
     {
       "rank": 2,
-      "repo_name": "SynkraAI/aios-core",
-      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "description_ja": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "readme_summary": "Synkra AIOS: Framework Universal de Agentes IA 🚀 ![Versão NPM](https://www.npmjs.com/package/aios-core) ![Licença: MIT](LICENSE) ![Versão Node.js](https://nodejs.org/) ![CI](https://github.com/SynkraAI/aios-core/actions/workflows/ci.yml) ![codecov](https://codecov.io/gh/SynkraAI/aios-core) ![Documentação](https://synkra.ai) ![Open Source](LICENSE) ![Contributions Welcome](CONTRIBUTING.md) ![Code of Conduct](CODE_OF_CONDUCT.md) Framework de Desenvolvimento Auto-Modificável Alimentado por IA. Fund...",
-      "readme_summary_ja": "Synkra AIOS: Framework Universal de Agentes IA 🚀 ![Versão NPM](https://www.npmjs.com/package/aios-core) ![Licença: MIT](LICENSE) ![Versão Node.js](https://nodejs.org/) ![CI](https://github.com/SynkraAI/aios-core/actions/workflows/ci.yml) ![codecov](https://codecov.io/gh/SynkraAI/aios-core) ![Documentação](https://synkra.ai) ![Open Source](LICENSE) ![Contributions Welcome](CONTRIBUTING.md) ![Code of Conduct](CODE_OF_CONDUCT.md) Framework de Desenvolvimento Auto-Modificável Alimentado por IA. Fund...",
-      "language": "JavaScript",
-      "stars": 209
+      "repo_name": "steipete/gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "description_ja": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "readme_summary": "🧭 gogcli — Google in your terminal. !GitHub Repo Banner <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build --> Fast, script-friendly CLI for Gmail, Calendar, Chat, Classroom, Drive, Docs, Slides, Sheets, Forms, Apps Script, Contacts, Tasks, People, Groups (Workspace), and Keep (Workspace-only). JSON-first output, multiple accounts, and least-privilege auth built in",
+      "readme_summary_ja": "🧭 gogcli — Google in your terminal. !GitHub Repo Banner <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build --> Fast, script-friendly CLI for Gmail, Calendar, Chat, Classroom, Drive, Docs, Slides, Sheets, Forms, Apps Script, Contacts, Tasks, People, Groups (Workspace), and Keep (Workspace-only). JSON-first output, multiple accounts, and least-privilege auth built in",
+      "language": "Go",
+      "stars": 630
     },
     {
       "rank": 3,
@@ -30,17 +30,17 @@
       "readme_summary": "<a href=\"https://www.youtube.com/watch?v=5AWoGo-L16I\" target=\"_blank\" rel=\"noopener noreferrer\"> <img width=\"1339\" height=\"607\" alt=\"rowboat-github-2\" src=\"https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901\" /> </a> <h5 align=\"center\"> <p align=\"center\" style=\"display: flex; justify-content: center; gap: 20px; align-items: center;\"> <a href=\"https://trendshift.io/repositories/13609\" target=\"blank\"> <img src=\"https://trendshift.io/api/badge/repositories/13609\" alt=\"ro...",
       "readme_summary_ja": "<a href=\"https://www.youtube.com/watch?v=5AWoGo-L16I\" target=\"_blank\" rel=\"noopener noreferrer\"> <img width=\"1339\" height=\"607\" alt=\"rowboat-github-2\" src=\"https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901\" /> </a> <h5 align=\"center\"> <p align=\"center\" style=\"display: flex; justify-content: center; gap: 20px; align-items: center;\"> <a href=\"https://trendshift.io/repositories/13609\" target=\"blank\"> <img src=\"https://trendshift.io/api/badge/repositories/13609\" alt=\"ro...",
       "language": "TypeScript",
-      "stars": 217
+      "stars": 803
     },
     {
       "rank": 4,
-      "repo_name": "minio/minio",
-      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
-      "description_ja": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
-      "readme_summary": "> [!NOTE] > **THIS REPOSITORY IS NO LONGER MAINTAINED.** > > **Alternatives:** > - **AIStor Free** — Full-featured, standalone edition for community use (free license) > - **AIStor Enterprise** — Distributed edition with commercial support --- MinIO Quickstart Guide ![Slack](https://slack.min.io) ![Docker Pulls](https://hub.docker.com/r/minio/minio/) ![license](https://github.com/minio/minio/blob/master/LICENSE) ![MinIO](https://min.io) MinIO is a high-performance, S3-compatible object storage s...",
-      "readme_summary_ja": "> [!NOTE] > **THIS REPOSITORY IS NO LONGER MAINTAINED.** > > **Alternatives:** > - **AIStor Free** — Full-featured, standalone edition for community use (free license) > - **AIStor Enterprise** — Distributed edition with commercial support --- MinIO Quickstart Guide ![Slack](https://slack.min.io) ![Docker Pulls](https://hub.docker.com/r/minio/minio/) ![license](https://github.com/minio/minio/blob/master/LICENSE) ![MinIO](https://min.io) MinIO is a high-performance, S3-compatible object storage s...",
+      "repo_name": "github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "description_ja": "GitHub Agentic Workflows",
+      "readme_summary": "<!-- Hello fellow agent! Welcome to GitHub Agentic Workflows = Actions + Agent + Safety. Here are some pointers to get you started in using this tool. - Create a new workflow: https://raw.githubusercontent.com/github/gh-aw/main/create.md - Install: https://raw.githubusercontent.com/github/gh-aw/main/install.md - Reference: https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/github-agentic-workflows.md --> GitHub Agentic Workflows Write agentic workflows in natural language markdown, a...",
+      "readme_summary_ja": "<!-- Hello fellow agent! Welcome to GitHub Agentic Workflows = Actions + Agent + Safety. Here are some pointers to get you started in using this tool. - Create a new workflow: https://raw.githubusercontent.com/github/gh-aw/main/create.md - Install: https://raw.githubusercontent.com/github/gh-aw/main/install.md - Reference: https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/github-agentic-workflows.md --> GitHub Agentic Workflows Write agentic workflows in natural language markdown, a...",
       "language": "Go",
-      "stars": 29
+      "stars": 213
     },
     {
       "rank": 5,
@@ -50,7 +50,7 @@
       "readme_summary": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
       "readme_summary_ja": "Chrome DevTools MCP ![npm chrome-devtools-mcp package](https://npmjs.org/package/chrome-devtools-mcp) chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. Tool reference | Changelog | Contributing | Troubleshooting | Design Pr...",
       "language": "TypeScript",
-      "stars": 331
+      "stars": 357
     },
     {
       "rank": 6,
@@ -60,57 +60,57 @@
       "readme_summary": "<div align=\" center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg\" /> <img src=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_logo_1.svg\" width=\"400\" alt=\"zvec logo\" /> </picture> </div> <p align=\"center\"> <a href=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml\"><img src=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml/badge.svg?branch=main\" alt=\"Linux x...",
       "readme_summary_ja": "<div align=\" center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg\" /> <img src=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_logo_1.svg\" width=\"400\" alt=\"zvec logo\" /> </picture> </div> <p align=\"center\"> <a href=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml\"><img src=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml/badge.svg?branch=main\" alt=\"Linux x...",
       "language": "C++",
-      "stars": 172
+      "stars": 673
     },
     {
       "rank": 7,
+      "repo_name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
+      "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
+      "language": "TypeScript",
+      "stars": 2380
+    },
+    {
+      "rank": 8,
+      "repo_name": "moonshine-ai/moonshine",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "description_ja": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "readme_summary": "!Moonshine Voice Logo Moonshine Voice **Voice Interfaces for Everyone** - Quickstart - When should you choose Moonshine over Whisper? - Using the Library - Models - API Reference - Support - Roadmap - Acknowledgements - License Moonshine Voice is an open source AI toolkit for developers building real-time voice applications. - Everything runs on-device, so it's fast, private, and you don't need an account, credit card, or API keys. - The framework and models are optimized for live streaming appl...",
+      "readme_summary_ja": "!Moonshine Voice Logo Moonshine Voice **Voice Interfaces for Everyone** - Quickstart - When should you choose Moonshine over Whisper? - Using the Library - Models - API Reference - Support - Roadmap - Acknowledgements - License Moonshine Voice is an open source AI toolkit for developers building real-time voice applications. - Everything runs on-device, so it's fast, private, and you don't need an account, credit card, or API keys. - The framework and models are optimized for live streaming appl...",
+      "language": "C",
+      "stars": 157
+    },
+    {
+      "rank": 9,
+      "repo_name": "brave/brave-browser",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+      "description_ja": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+      "readme_summary": "!Brave Browser Overview This repository holds the build tools needed to build the Brave desktop browser for macOS, Windows, and Linux. In particular, it fetches and syncs code from the projects defined in package.json and src/brave/DEPS: - Chromium - Fetches code via depot_tools. - Sets the branch for Chromium (ex: 65.0.3325.181)",
+      "readme_summary_ja": "!Brave Browser Overview This repository holds the build tools needed to build the Brave desktop browser for macOS, Windows, and Linux. In particular, it fetches and syncs code from the projects defined in package.json and src/brave/DEPS: - Chromium - Fetches code via depot_tools. - Sets the branch for Chromium (ex: 65.0.3325.181)",
+      "language": "",
+      "stars": 27
+    },
+    {
+      "rank": 10,
+      "repo_name": "SynkraAI/aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "description_ja": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "readme_summary": "Synkra AIOS: Framework Universal de Agentes IA 🚀 ![Versão NPM](https://www.npmjs.com/package/aios-core) ![Licença: MIT](LICENSE) ![Versão Node.js](https://nodejs.org/) ![CI](https://github.com/SynkraAI/aios-core/actions/workflows/ci.yml) ![codecov](https://codecov.io/gh/SynkraAI/aios-core) ![Documentação](https://synkra.ai) ![Open Source](LICENSE) ![Contributions Welcome](CONTRIBUTING.md) ![Code of Conduct](CODE_OF_CONDUCT.md) Framework de Desenvolvimento Auto-Modificável Alimentado por IA. Fund...",
+      "readme_summary_ja": "Synkra AIOS: Framework Universal de Agentes IA 🚀 ![Versão NPM](https://www.npmjs.com/package/aios-core) ![Licença: MIT](LICENSE) ![Versão Node.js](https://nodejs.org/) ![CI](https://github.com/SynkraAI/aios-core/actions/workflows/ci.yml) ![codecov](https://codecov.io/gh/SynkraAI/aios-core) ![Documentação](https://synkra.ai) ![Open Source](LICENSE) ![Contributions Welcome](CONTRIBUTING.md) ![Code of Conduct](CODE_OF_CONDUCT.md) Framework de Desenvolvimento Auto-Modificável Alimentado por IA. Fund...",
+      "language": "JavaScript",
+      "stars": 163
+    },
+    {
+      "rank": 11,
       "repo_name": "ruvnet/wifi-densepose",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "description_ja": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "readme_summary": "WiFi DensePose ![Python 3.8+](https://www.python.org/downloads/) ![FastAPI](https://fastapi.tiangolo.com/) ![License: MIT](https://opensource.org/licenses/MIT) ![PyPI version](https://pypi.org/project/wifi-densepose/) ![PyPI downloads](https://pypi.org/project/wifi-densepose/) ![Test Coverage](https://github.com/ruvnet/wifi-densepose) ![Docker](https://hub.docker.com/r/ruvnet/wifi-densepose) A cutting-edge WiFi-based human pose estimation system that leverages Channel State Information (CSI) dat...",
       "readme_summary_ja": "WiFi DensePose ![Python 3.8+](https://www.python.org/downloads/) ![FastAPI](https://fastapi.tiangolo.com/) ![License: MIT](https://opensource.org/licenses/MIT) ![PyPI version](https://pypi.org/project/wifi-densepose/) ![PyPI downloads](https://pypi.org/project/wifi-densepose/) ![Test Coverage](https://github.com/ruvnet/wifi-densepose) ![Docker](https://hub.docker.com/r/ruvnet/wifi-densepose) A cutting-edge WiFi-based human pose estimation system that leverages Channel State Information (CSI) dat...",
       "language": "Python",
-      "stars": 98
-    },
-    {
-      "rank": 8,
-      "repo_name": "Zipstack/unstract",
-      "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
-      "description_ja": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
-      "readme_summary": "<div align=\"center\"> <img src=\"docs/assets/unstract_u_logo.png\" style=\"height: 120px\"> Unstract The Data Layer for your Agentic Workflows—Automate Document-based workflows with close to 100% accuracy! !Python Version from PEP 621 TOML ![uv](https://github.com/astral-sh/uv) !GitHub License !Docker Pulls ![CLA assistant](https://cla-assistant.io/Zipstack/unstract) ![pre-commit.ci status](https://results.pre-commit.ci/latest/github/Zipstack/unstract/main) ![Quality Gate Status](https://sonarcloud.i...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/assets/unstract_u_logo.png\" style=\"height: 120px\"> Unstract The Data Layer for your Agentic Workflows—Automate Document-based workflows with close to 100% accuracy! !Python Version from PEP 621 TOML ![uv](https://github.com/astral-sh/uv) !GitHub License !Docker Pulls ![CLA assistant](https://cla-assistant.io/Zipstack/unstract) ![pre-commit.ci status](https://results.pre-commit.ci/latest/github/Zipstack/unstract/main) ![Quality Gate Status](https://sonarcloud.i...",
-      "language": "Python",
-      "stars": 40
-    },
-    {
-      "rank": 9,
-      "repo_name": "letta-ai/letta-code",
-      "description": "The memory-first coding agent",
-      "description_ja": "The memory-first coding agent",
-      "readme_summary": "Letta Code ![npm](https://www.npmjs.com/package/@letta-ai/letta-code) ![Discord](https://discord.gg/letta) Letta Code is a memory-first coding harness, built on top of the Letta API. Instead of working in independent sessions, you work with a persisted agent that learns over time and is portable across models (Claude Sonnet/Opus 4.5, GPT-5.2-Codex, Gemini 3 Pro, GLM-4.7, and more). **Read more about how to use Letta Code on the official docs page.** ![](https://github.com/letta-ai/letta-code/blo...",
-      "readme_summary_ja": "Letta Code ![npm](https://www.npmjs.com/package/@letta-ai/letta-code) ![Discord](https://discord.gg/letta) Letta Code is a memory-first coding harness, built on top of the Letta API. Instead of working in independent sessions, you work with a persisted agent that learns over time and is portable across models (Claude Sonnet/Opus 4.5, GPT-5.2-Codex, Gemini 3 Pro, GLM-4.7, and more). **Read more about how to use Letta Code on the official docs page.** ![](https://github.com/letta-ai/letta-code/blo...",
-      "language": "TypeScript",
-      "stars": 55
-    },
-    {
-      "rank": 10,
-      "repo_name": "ruby/ruby",
-      "description": "The Ruby Programming Language",
-      "description_ja": "The Ruby Programming Language",
-      "readme_summary": "![Actions Status: MinGW](https://github.com/ruby/ruby/actions?query=workflow%3A\"MinGW\") ![Actions Status: Ubuntu](https://github.com/ruby/ruby/actions?query=workflow%3A\"Ubuntu\") ![Actions Status: Windows](https://github.com/ruby/ruby/actions?query=workflow%3A\"Windows\") ![Travis Status](https://app.travis-ci.com/ruby/ruby) 日本語 What is Ruby? Ruby is an interpreted object-oriented programming language often used for web development. It also offers many scripting features to process plain text and s...",
-      "readme_summary_ja": "![Actions Status: MinGW](https://github.com/ruby/ruby/actions?query=workflow%3A\"MinGW\") ![Actions Status: Ubuntu](https://github.com/ruby/ruby/actions?query=workflow%3A\"Ubuntu\") ![Actions Status: Windows](https://github.com/ruby/ruby/actions?query=workflow%3A\"Windows\") ![Travis Status](https://app.travis-ci.com/ruby/ruby) 日本語 What is Ruby? Ruby is an interpreted object-oriented programming language often used for web development. It also offers many scripting features to process plain text and s...",
-      "language": "Ruby",
-      "stars": 15
-    },
-    {
-      "rank": 11,
-      "repo_name": "cinnyapp/cinny",
-      "description": "Yet another matrix client",
-      "description_ja": "Yet another matrix client",
-      "readme_summary": "Cinny <p> <a href=\"https://github.com/ajbura/cinny/releases\"> <img alt=\"GitHub release downloads\" src=\"https://img.shields.io/github/downloads/ajbura/cinny/total?logo=github&style=social\"></a> <a href=\"https://hub.docker.com/r/ajbura/cinny\"> <img alt=\"DockerHub downloads\" src=\"https://img.shields.io/docker/pulls/ajbura/cinny?logo=docker&style=social\"></a> <a href=\"https://fosstodon.org/@cinnyapp\"> <img alt=\"Follow on Mastodon\" src=\"https://img.shields.io/mastodon/follow/106845779685925461?domain...",
-      "readme_summary_ja": "Cinny <p> <a href=\"https://github.com/ajbura/cinny/releases\"> <img alt=\"GitHub release downloads\" src=\"https://img.shields.io/github/downloads/ajbura/cinny/total?logo=github&style=social\"></a> <a href=\"https://hub.docker.com/r/ajbura/cinny\"> <img alt=\"DockerHub downloads\" src=\"https://img.shields.io/docker/pulls/ajbura/cinny?logo=docker&style=social\"></a> <a href=\"https://fosstodon.org/@cinnyapp\"> <img alt=\"Follow on Mastodon\" src=\"https://img.shields.io/mastodon/follow/106845779685925461?domain...",
-      "language": "TypeScript",
-      "stars": 41
+      "stars": 352
     }
   ]
 }
