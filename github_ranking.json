@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-02-17 03:40:33",
-  "total_repos": 10,
+  "updated_at": "2026-02-18 03:43:32",
+  "total_repos": 13,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "description_ja": "A lightweight, lightning-fast, in-process vector database",
-      "readme_summary": "<div align=\" center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg\" /> <img src=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_logo_1.svg\" width=\"400\" alt=\"zvec logo\" /> </picture> </div> <p align=\"center\"> <a href=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml\"><img src=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml/badge.svg?branch=main\" alt=\"Linux x...",
-      "readme_summary_ja": "<div align=\" center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg\" /> <img src=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_logo_1.svg\" width=\"400\" alt=\"zvec logo\" /> </picture> </div> <p align=\"center\"> <a href=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml\"><img src=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml/badge.svg?branch=main\" alt=\"Linux x...",
-      "language": "C++",
-      "stars": 1094
+      "repo_name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "description_ja": "Fully automatic censorship removal for language models",
+      "readme_summary": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation ...",
+      "readme_summary_ja": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation ...",
+      "language": "Python",
+      "stars": 656
     },
     {
       "rank": 2,
-      "repo_name": "nautechsystems/nautilus_trader",
-      "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "description_ja": "A high-performance algorithmic trading platform and event-driven backtester",
-      "readme_summary": "<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\"> ![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader) ![codspeed](https://codspeed.io/nautechsystems/nautilus_trader) !pythons !pypi-version !pypi-format ![Downloads](https://pepy.tech/project/nautilus-trader) ![Discord](https://discord.gg/NautilusTrader) | Branch | Version | Status | | :-------- | :----------------------------------------------------------------------...",
-      "readme_summary_ja": "<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\"> ![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader) ![codspeed](https://codspeed.io/nautechsystems/nautilus_trader) !pythons !pypi-version !pypi-format ![Downloads](https://pepy.tech/project/nautilus-trader) ![Discord](https://discord.gg/NautilusTrader) | Branch | Version | Status | | :-------- | :----------------------------------------------------------------------...",
-      "language": "Rust",
-      "stars": 546
+      "repo_name": "seerr-team/seerr",
+      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+      "description_ja": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+      "readme_summary": "<p align=\"center\"> <img src=\"./public/logo_full.svg\" alt=\"Seerr\" style=\"margin: 20px 0;\"> </p> <p align=\"center\"> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/release.yml/badge.svg\" alt=\"Seerr Release\" /> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/ci.yml/badge.svg\" alt=\"Seerr CI\"> </p> <p align=\"center\"> <a href=\"https://discord.gg/seerr\"><img src=\"https://img.shields.io/discord/783137440809746482\" alt=\"Discord\"></a> <a href=\"https://hub.docker.com/r/seerr...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"./public/logo_full.svg\" alt=\"Seerr\" style=\"margin: 20px 0;\"> </p> <p align=\"center\"> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/release.yml/badge.svg\" alt=\"Seerr Release\" /> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/ci.yml/badge.svg\" alt=\"Seerr CI\"> </p> <p align=\"center\"> <a href=\"https://discord.gg/seerr\"><img src=\"https://img.shields.io/discord/783137440809746482\" alt=\"Discord\"></a> <a href=\"https://hub.docker.com/r/seerr...",
+      "language": "TypeScript",
+      "stars": 282
     },
     {
       "rank": 3,
-      "repo_name": "rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "description_ja": "Open-source AI coworker, with memory",
-      "readme_summary": "<a href=\"https://www.youtube.com/watch?v=5AWoGo-L16I\" target=\"_blank\" rel=\"noopener noreferrer\"> <img width=\"1339\" height=\"607\" alt=\"rowboat-github-2\" src=\"https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901\" /> </a> <h5 align=\"center\"> <p align=\"center\" style=\"display: flex; justify-content: center; gap: 20px; align-items: center;\"> <a href=\"https://trendshift.io/repositories/13609\" target=\"blank\"> <img src=\"https://trendshift.io/api/badge/repositories/13609\" alt=\"ro...",
-      "readme_summary_ja": "<a href=\"https://www.youtube.com/watch?v=5AWoGo-L16I\" target=\"_blank\" rel=\"noopener noreferrer\"> <img width=\"1339\" height=\"607\" alt=\"rowboat-github-2\" src=\"https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901\" /> </a> <h5 align=\"center\"> <p align=\"center\" style=\"display: flex; justify-content: center; gap: 20px; align-items: center;\"> <a href=\"https://trendshift.io/repositories/13609\" target=\"blank\"> <img src=\"https://trendshift.io/api/badge/repositories/13609\" alt=\"ro...",
-      "language": "TypeScript",
-      "stars": 700
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 569
     },
     {
       "rank": 4,
@@ -40,57 +40,57 @@
       "readme_summary": "🧭 gogcli — Google in your terminal. !GitHub Repo Banner <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build --> Fast, script-friendly CLI for Gmail, Calendar, Chat, Classroom, Drive, Docs, Slides, Sheets, Forms, Apps Script, Contacts, Tasks, People, Groups (Workspace), and Keep (Workspace-only). JSON-first output, multiple accounts, and least-privilege auth built in",
       "readme_summary_ja": "🧭 gogcli — Google in your terminal. !GitHub Repo Banner <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build --> Fast, script-friendly CLI for Gmail, Calendar, Chat, Classroom, Drive, Docs, Slides, Sheets, Forms, Apps Script, Contacts, Tasks, People, Groups (Workspace), and Keep (Workspace-only). JSON-first output, multiple accounts, and least-privilege auth built in",
       "language": "Go",
-      "stars": 637
+      "stars": 469
     },
     {
       "rank": 5,
+      "repo_name": "alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "description_ja": "A lightweight, lightning-fast, in-process vector database",
+      "readme_summary": "<div align=\" center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg\" /> <img src=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_logo_1.svg\" width=\"400\" alt=\"zvec logo\" /> </picture> </div> <p align=\"center\"> <a href=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml\"><img src=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml/badge.svg?branch=main\" alt=\"Linux x...",
+      "readme_summary_ja": "<div align=\" center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg\" /> <img src=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_logo_1.svg\" width=\"400\" alt=\"zvec logo\" /> </picture> </div> <p align=\"center\"> <a href=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml\"><img src=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml/badge.svg?branch=main\" alt=\"Linux x...",
+      "language": "C++",
+      "stars": 1473
+    },
+    {
+      "rank": 6,
       "repo_name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
       "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
       "language": "TypeScript",
-      "stars": 3873
+      "stars": 4201
     },
     {
-      "rank": 6,
+      "rank": 7,
       "repo_name": "SynkraAI/aios-core",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "description_ja": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "readme_summary": "Synkra AIOS: Framework Universal de Agentes IA 🚀 ![Versão NPM](https://www.npmjs.com/package/aios-core) ![Licença: MIT](LICENSE) ![Versão Node.js](https://nodejs.org/) ![CI](https://github.com/SynkraAI/aios-core/actions/workflows/ci.yml) ![codecov](https://codecov.io/gh/SynkraAI/aios-core) ![Documentação](https://synkra.ai) ![Open Source](LICENSE) ![Contributions Welcome](CONTRIBUTING.md) ![Code of Conduct](CODE_OF_CONDUCT.md) Framework de Desenvolvimento Auto-Modificável Alimentado por IA. Fund...",
       "readme_summary_ja": "Synkra AIOS: Framework Universal de Agentes IA 🚀 ![Versão NPM](https://www.npmjs.com/package/aios-core) ![Licença: MIT](LICENSE) ![Versão Node.js](https://nodejs.org/) ![CI](https://github.com/SynkraAI/aios-core/actions/workflows/ci.yml) ![codecov](https://codecov.io/gh/SynkraAI/aios-core) ![Documentação](https://synkra.ai) ![Open Source](LICENSE) ![Contributions Welcome](CONTRIBUTING.md) ![Code of Conduct](CODE_OF_CONDUCT.md) Framework de Desenvolvimento Auto-Modificável Alimentado por IA. Fund...",
       "language": "JavaScript",
-      "stars": 205
-    },
-    {
-      "rank": 7,
-      "repo_name": "letta-ai/letta-code",
-      "description": "The memory-first coding agent",
-      "description_ja": "The memory-first coding agent",
-      "readme_summary": "Letta Code ![npm](https://www.npmjs.com/package/@letta-ai/letta-code) ![Discord](https://discord.gg/letta) Letta Code is a memory-first coding harness, built on top of the Letta API. Instead of working in independent sessions, you work with a persisted agent that learns over time and is portable across models (Claude Sonnet/Opus 4.5, GPT-5.2-Codex, Gemini 3 Pro, GLM-4.7, and more). **Read more about how to use Letta Code on the official docs page.** ![](https://github.com/letta-ai/letta-code/blo...",
-      "readme_summary_ja": "Letta Code ![npm](https://www.npmjs.com/package/@letta-ai/letta-code) ![Discord](https://discord.gg/letta) Letta Code is a memory-first coding harness, built on top of the Letta API. Instead of working in independent sessions, you work with a persisted agent that learns over time and is portable across models (Claude Sonnet/Opus 4.5, GPT-5.2-Codex, Gemini 3 Pro, GLM-4.7, and more). **Read more about how to use Letta Code on the official docs page.** ![](https://github.com/letta-ai/letta-code/blo...",
-      "language": "TypeScript",
-      "stars": 22
+      "stars": 194
     },
     {
       "rank": 8,
-      "repo_name": "ruvnet/wifi-densepose",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "description_ja": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "readme_summary": "WiFi DensePose ![Python 3.8+](https://www.python.org/downloads/) ![FastAPI](https://fastapi.tiangolo.com/) ![License: MIT](https://opensource.org/licenses/MIT) ![PyPI version](https://pypi.org/project/wifi-densepose/) ![PyPI downloads](https://pypi.org/project/wifi-densepose/) ![Test Coverage](https://github.com/ruvnet/wifi-densepose) ![Docker](https://hub.docker.com/r/ruvnet/wifi-densepose) A cutting-edge WiFi-based human pose estimation system that leverages Channel State Information (CSI) dat...",
-      "readme_summary_ja": "WiFi DensePose ![Python 3.8+](https://www.python.org/downloads/) ![FastAPI](https://fastapi.tiangolo.com/) ![License: MIT](https://opensource.org/licenses/MIT) ![PyPI version](https://pypi.org/project/wifi-densepose/) ![PyPI downloads](https://pypi.org/project/wifi-densepose/) ![Test Coverage](https://github.com/ruvnet/wifi-densepose) ![Docker](https://hub.docker.com/r/ruvnet/wifi-densepose) A cutting-edge WiFi-based human pose estimation system that leverages Channel State Information (CSI) dat...",
-      "language": "Python",
-      "stars": 344
+      "repo_name": "ashishps1/awesome-system-design-resources",
+      "description": "Learn System Design concepts and prepare for interviews using free resources.",
+      "description_ja": "Learn System Design concepts and prepare for interviews using free resources.",
+      "readme_summary": "Awesome System Design Resources <p align=\"center\"> <img src=\"diagrams/system-design-github.png\" width=\"400\" height=\"250\"> </p> This repository contains free resources to learn System Design concepts and prepare for interviews. 👉 Subscribe to my AlgoMaster Newsletter and get a **FREE System Design Interview Handbook** in your inbox. ✅ If you are new to System Design, start here: System Design was HARD until I Learned these 30 Concepts ⚙️ Core Concepts - Scalability - Availability - Reliability - ...",
+      "readme_summary_ja": "Awesome System Design Resources <p align=\"center\"> <img src=\"diagrams/system-design-github.png\" width=\"400\" height=\"250\"> </p> This repository contains free resources to learn System Design concepts and prepare for interviews. 👉 Subscribe to my AlgoMaster Newsletter and get a **FREE System Design Interview Handbook** in your inbox. ✅ If you are new to System Design, start here: System Design was HARD until I Learned these 30 Concepts ⚙️ Core Concepts - Scalability - Availability - Reliability - ...",
+      "language": "Java",
+      "stars": 510
     },
     {
       "rank": 9,
-      "repo_name": "seerr-team/seerr",
-      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "description_ja": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "readme_summary": "<p align=\"center\"> <img src=\"./public/logo_full.svg\" alt=\"Seerr\" style=\"margin: 20px 0;\"> </p> <p align=\"center\"> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/release.yml/badge.svg\" alt=\"Seerr Release\" /> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/ci.yml/badge.svg\" alt=\"Seerr CI\"> </p> <p align=\"center\"> <a href=\"https://discord.gg/seerr\"><img src=\"https://img.shields.io/discord/783137440809746482\" alt=\"Discord\"></a> <a href=\"https://hub.docker.com/r/seerr...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"./public/logo_full.svg\" alt=\"Seerr\" style=\"margin: 20px 0;\"> </p> <p align=\"center\"> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/release.yml/badge.svg\" alt=\"Seerr Release\" /> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/ci.yml/badge.svg\" alt=\"Seerr CI\"> </p> <p align=\"center\"> <a href=\"https://discord.gg/seerr\"><img src=\"https://img.shields.io/discord/783137440809746482\" alt=\"Discord\"></a> <a href=\"https://hub.docker.com/r/seerr...",
+      "repo_name": "steipete/summarize",
+      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+      "description_ja": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+      "readme_summary": "Summarize 📝 — Chrome Side Panel + CLI !GitHub Repo Banner <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build --> Fast summaries from URLs, files, and media. Works in the terminal, a Chrome Side Panel and Firefox Sidebar. **0.11.0 preview (unreleased):** this README reflects the upcoming release",
+      "readme_summary_ja": "Summarize 📝 — Chrome Side Panel + CLI !GitHub Repo Banner <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build --> Fast summaries from URLs, files, and media. Works in the terminal, a Chrome Side Panel and Firefox Sidebar. **0.11.0 preview (unreleased):** this README reflects the upcoming release",
       "language": "TypeScript",
-      "stars": 182
+      "stars": 119
     },
     {
       "rank": 10,
@@ -100,7 +100,37 @@
       "readme_summary": "!Hummingbot ---- ![License](https://github.com/hummingbot/hummingbot/blob/master/LICENSE) ![Twitter](https://twitter.com/_hummingbot) ![Youtube](https://www.youtube.com/@hummingbot) ![Discord](https://discord.gg/hummingbot) Hummingbot is an open-source framework that helps you design and deploy automated trading strategies, or **bots**, that can run on many centralized or decentralized exchanges. Over the past year, Hummingbot users have generated over $34 billion in trading volume across 140+ u...",
       "readme_summary_ja": "!Hummingbot ---- ![License](https://github.com/hummingbot/hummingbot/blob/master/LICENSE) ![Twitter](https://twitter.com/_hummingbot) ![Youtube](https://www.youtube.com/@hummingbot) ![Discord](https://discord.gg/hummingbot) Hummingbot is an open-source framework that helps you design and deploy automated trading strategies, or **bots**, that can run on many centralized or decentralized exchanges. Over the past year, Hummingbot users have generated over $34 billion in trading volume across 140+ u...",
       "language": "Python",
-      "stars": 339
+      "stars": 568
+    },
+    {
+      "rank": 11,
+      "repo_name": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "description_ja": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "readme_summary": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started To use these quickstarts, you'll need an Claude API key",
+      "readme_summary_ja": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started To use these quickstarts, you'll need an Claude API key",
+      "language": "Python",
+      "stars": 87
+    },
+    {
+      "rank": 12,
+      "repo_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "description_ja": "CLI tool for configuring and monitoring Claude Code",
+      "readme_summary": "![npm version](https://www.npmjs.com/package/claude-code-templates) ![npm downloads](https://www.npmjs.com/package/claude-code-templates) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](CONTRIBUTING.md) ![Sponsored by Z.AI](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=github&utm_medium=badge&utm_campaign=readme) ![Neon Open Source Program](https://get.neon.com/4eCjZDz) ![Buy Me A Coffee](https://buymeacoffee.com/daniavila) ![GitHub stars](https://github.com/davila7/claude-...",
+      "readme_summary_ja": "![npm version](https://www.npmjs.com/package/claude-code-templates) ![npm downloads](https://www.npmjs.com/package/claude-code-templates) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](CONTRIBUTING.md) ![Sponsored by Z.AI](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=github&utm_medium=badge&utm_campaign=readme) ![Neon Open Source Program](https://get.neon.com/4eCjZDz) ![Buy Me A Coffee](https://buymeacoffee.com/daniavila) ![GitHub stars](https://github.com/davila7/claude-...",
+      "language": "Python",
+      "stars": 111
+    },
+    {
+      "rank": 13,
+      "repo_name": "OpenCTI-Platform/opencti",
+      "description": "Open Cyber Threat Intelligence Platform",
+      "description_ja": "Open Cyber Threat Intelligence Platform",
+      "readme_summary": "<h1 align=\"center\"> <a href=\"https://opencti.io\"><img src=\"./.github/img/logo_opencti.png\" alt=\"OpenCTI\"></a> </h1> <p align=\"center\"> <a href=\"https://opencti.io\" alt=\"Website\"><img src=\"https://img.shields.io/badge/website-opencti.io-blue.svg\" /></a> <a href=\"https://docs.opencti.io\" alt=\"Documentation\"><img src=\"https://img.shields.io/badge/documentation-latest-orange.svg\" /></a> <a href=\"https://community.filigran.io\" alt=\"Slack\"><img src=\"https://img.shields.io/badge/slack-3K%2B%20members-4...",
+      "readme_summary_ja": "<h1 align=\"center\"> <a href=\"https://opencti.io\"><img src=\"./.github/img/logo_opencti.png\" alt=\"OpenCTI\"></a> </h1> <p align=\"center\"> <a href=\"https://opencti.io\" alt=\"Website\"><img src=\"https://img.shields.io/badge/website-opencti.io-blue.svg\" /></a> <a href=\"https://docs.opencti.io\" alt=\"Documentation\"><img src=\"https://img.shields.io/badge/documentation-latest-orange.svg\" /></a> <a href=\"https://community.filigran.io\" alt=\"Slack\"><img src=\"https://img.shields.io/badge/slack-3K%2B%20members-4...",
+      "language": "TypeScript",
+      "stars": 16
     }
   ]
 }
