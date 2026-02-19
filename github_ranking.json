@@ -1,136 +1,116 @@
 {
-  "updated_at": "2026-02-18 03:43:32",
-  "total_repos": 13,
+  "updated_at": "2026-02-19 03:41:57",
+  "total_repos": 11,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "description_ja": "Fully automatic censorship removal for language models",
-      "readme_summary": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation ...",
-      "readme_summary_ja": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation ...",
-      "language": "Python",
-      "stars": 656
-    },
-    {
-      "rank": 2,
-      "repo_name": "seerr-team/seerr",
-      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "description_ja": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "readme_summary": "<p align=\"center\"> <img src=\"./public/logo_full.svg\" alt=\"Seerr\" style=\"margin: 20px 0;\"> </p> <p align=\"center\"> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/release.yml/badge.svg\" alt=\"Seerr Release\" /> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/ci.yml/badge.svg\" alt=\"Seerr CI\"> </p> <p align=\"center\"> <a href=\"https://discord.gg/seerr\"><img src=\"https://img.shields.io/discord/783137440809746482\" alt=\"Discord\"></a> <a href=\"https://hub.docker.com/r/seerr...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"./public/logo_full.svg\" alt=\"Seerr\" style=\"margin: 20px 0;\"> </p> <p align=\"center\"> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/release.yml/badge.svg\" alt=\"Seerr Release\" /> <img src=\"https://github.com/seerr-team/seerr/actions/workflows/ci.yml/badge.svg\" alt=\"Seerr CI\"> </p> <p align=\"center\"> <a href=\"https://discord.gg/seerr\"><img src=\"https://img.shields.io/discord/783137440809746482\" alt=\"Discord\"></a> <a href=\"https://hub.docker.com/r/seerr...",
-      "language": "TypeScript",
-      "stars": 282
-    },
-    {
-      "rank": 3,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 569
-    },
-    {
-      "rank": 4,
-      "repo_name": "steipete/gogcli",
-      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "description_ja": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "readme_summary": "🧭 gogcli — Google in your terminal. !GitHub Repo Banner <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build --> Fast, script-friendly CLI for Gmail, Calendar, Chat, Classroom, Drive, Docs, Slides, Sheets, Forms, Apps Script, Contacts, Tasks, People, Groups (Workspace), and Keep (Workspace-only). JSON-first output, multiple accounts, and least-privilege auth built in",
-      "readme_summary_ja": "🧭 gogcli — Google in your terminal. !GitHub Repo Banner <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build --> Fast, script-friendly CLI for Gmail, Calendar, Chat, Classroom, Drive, Docs, Slides, Sheets, Forms, Apps Script, Contacts, Tasks, People, Groups (Workspace), and Keep (Workspace-only). JSON-first output, multiple accounts, and least-privilege auth built in",
-      "language": "Go",
-      "stars": 469
-    },
-    {
-      "rank": 5,
       "repo_name": "alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "description_ja": "A lightweight, lightning-fast, in-process vector database",
       "readme_summary": "<div align=\" center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg\" /> <img src=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_logo_1.svg\" width=\"400\" alt=\"zvec logo\" /> </picture> </div> <p align=\"center\"> <a href=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml\"><img src=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml/badge.svg?branch=main\" alt=\"Linux x...",
       "readme_summary_ja": "<div align=\" center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg\" /> <img src=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_logo_1.svg\" width=\"400\" alt=\"zvec logo\" /> </picture> </div> <p align=\"center\"> <a href=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml\"><img src=\"https://github.com/alibaba/zvec/actions/workflows/linux_x64_docker_ci.yml/badge.svg?branch=main\" alt=\"Linux x...",
       "language": "C++",
-      "stars": 1473
+      "stars": 502
     },
     {
-      "rank": 6,
-      "repo_name": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
-      "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
-      "language": "TypeScript",
-      "stars": 4201
-    },
-    {
-      "rank": 7,
-      "repo_name": "SynkraAI/aios-core",
-      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "description_ja": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "readme_summary": "Synkra AIOS: Framework Universal de Agentes IA 🚀 ![Versão NPM](https://www.npmjs.com/package/aios-core) ![Licença: MIT](LICENSE) ![Versão Node.js](https://nodejs.org/) ![CI](https://github.com/SynkraAI/aios-core/actions/workflows/ci.yml) ![codecov](https://codecov.io/gh/SynkraAI/aios-core) ![Documentação](https://synkra.ai) ![Open Source](LICENSE) ![Contributions Welcome](CONTRIBUTING.md) ![Code of Conduct](CODE_OF_CONDUCT.md) Framework de Desenvolvimento Auto-Modificável Alimentado por IA. Fund...",
-      "readme_summary_ja": "Synkra AIOS: Framework Universal de Agentes IA 🚀 ![Versão NPM](https://www.npmjs.com/package/aios-core) ![Licença: MIT](LICENSE) ![Versão Node.js](https://nodejs.org/) ![CI](https://github.com/SynkraAI/aios-core/actions/workflows/ci.yml) ![codecov](https://codecov.io/gh/SynkraAI/aios-core) ![Documentação](https://synkra.ai) ![Open Source](LICENSE) ![Contributions Welcome](CONTRIBUTING.md) ![Code of Conduct](CODE_OF_CONDUCT.md) Framework de Desenvolvimento Auto-Modificável Alimentado por IA. Fund...",
-      "language": "JavaScript",
-      "stars": 194
-    },
-    {
-      "rank": 8,
-      "repo_name": "ashishps1/awesome-system-design-resources",
-      "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "description_ja": "Learn System Design concepts and prepare for interviews using free resources.",
-      "readme_summary": "Awesome System Design Resources <p align=\"center\"> <img src=\"diagrams/system-design-github.png\" width=\"400\" height=\"250\"> </p> This repository contains free resources to learn System Design concepts and prepare for interviews. 👉 Subscribe to my AlgoMaster Newsletter and get a **FREE System Design Interview Handbook** in your inbox. ✅ If you are new to System Design, start here: System Design was HARD until I Learned these 30 Concepts ⚙️ Core Concepts - Scalability - Availability - Reliability - ...",
-      "readme_summary_ja": "Awesome System Design Resources <p align=\"center\"> <img src=\"diagrams/system-design-github.png\" width=\"400\" height=\"250\"> </p> This repository contains free resources to learn System Design concepts and prepare for interviews. 👉 Subscribe to my AlgoMaster Newsletter and get a **FREE System Design Interview Handbook** in your inbox. ✅ If you are new to System Design, start here: System Design was HARD until I Learned these 30 Concepts ⚙️ Core Concepts - Scalability - Availability - Reliability - ...",
-      "language": "Java",
-      "stars": 510
-    },
-    {
-      "rank": 9,
-      "repo_name": "steipete/summarize",
-      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "description_ja": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "readme_summary": "Summarize 📝 — Chrome Side Panel + CLI !GitHub Repo Banner <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build --> Fast summaries from URLs, files, and media. Works in the terminal, a Chrome Side Panel and Firefox Sidebar. **0.11.0 preview (unreleased):** this README reflects the upcoming release",
-      "readme_summary_ja": "Summarize 📝 — Chrome Side Panel + CLI !GitHub Repo Banner <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build --> Fast summaries from URLs, files, and media. Works in the terminal, a Chrome Side Panel and Firefox Sidebar. **0.11.0 preview (unreleased):** this README reflects the upcoming release",
-      "language": "TypeScript",
-      "stars": 119
-    },
-    {
-      "rank": 10,
-      "repo_name": "hummingbot/hummingbot",
-      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "description_ja": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "readme_summary": "!Hummingbot ---- ![License](https://github.com/hummingbot/hummingbot/blob/master/LICENSE) ![Twitter](https://twitter.com/_hummingbot) ![Youtube](https://www.youtube.com/@hummingbot) ![Discord](https://discord.gg/hummingbot) Hummingbot is an open-source framework that helps you design and deploy automated trading strategies, or **bots**, that can run on many centralized or decentralized exchanges. Over the past year, Hummingbot users have generated over $34 billion in trading volume across 140+ u...",
-      "readme_summary_ja": "!Hummingbot ---- ![License](https://github.com/hummingbot/hummingbot/blob/master/LICENSE) ![Twitter](https://twitter.com/_hummingbot) ![Youtube](https://www.youtube.com/@hummingbot) ![Discord](https://discord.gg/hummingbot) Hummingbot is an open-source framework that helps you design and deploy automated trading strategies, or **bots**, that can run on many centralized or decentralized exchanges. Over the past year, Hummingbot users have generated over $34 billion in trading volume across 140+ u...",
+      "rank": 2,
+      "repo_name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "description_ja": "Fully automatic censorship removal for language models",
+      "readme_summary": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation ...",
+      "readme_summary_ja": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation ...",
       "language": "Python",
-      "stars": 568
+      "stars": 946
     },
     {
-      "rank": 11,
-      "repo_name": "anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "description_ja": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "readme_summary": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started To use these quickstarts, you'll need an Claude API key",
-      "readme_summary_ja": "Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started To use these quickstarts, you'll need an Claude API key",
-      "language": "Python",
-      "stars": 87
-    },
-    {
-      "rank": 12,
-      "repo_name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "description_ja": "CLI tool for configuring and monitoring Claude Code",
-      "readme_summary": "![npm version](https://www.npmjs.com/package/claude-code-templates) ![npm downloads](https://www.npmjs.com/package/claude-code-templates) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](CONTRIBUTING.md) ![Sponsored by Z.AI](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=github&utm_medium=badge&utm_campaign=readme) ![Neon Open Source Program](https://get.neon.com/4eCjZDz) ![Buy Me A Coffee](https://buymeacoffee.com/daniavila) ![GitHub stars](https://github.com/davila7/claude-...",
-      "readme_summary_ja": "![npm version](https://www.npmjs.com/package/claude-code-templates) ![npm downloads](https://www.npmjs.com/package/claude-code-templates) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](CONTRIBUTING.md) ![Sponsored by Z.AI](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=github&utm_medium=badge&utm_campaign=readme) ![Neon Open Source Program](https://get.neon.com/4eCjZDz) ![Buy Me A Coffee](https://buymeacoffee.com/daniavila) ![GitHub stars](https://github.com/davila7/claude-...",
-      "language": "Python",
-      "stars": 111
-    },
-    {
-      "rank": 13,
+      "rank": 3,
       "repo_name": "OpenCTI-Platform/opencti",
       "description": "Open Cyber Threat Intelligence Platform",
       "description_ja": "Open Cyber Threat Intelligence Platform",
       "readme_summary": "<h1 align=\"center\"> <a href=\"https://opencti.io\"><img src=\"./.github/img/logo_opencti.png\" alt=\"OpenCTI\"></a> </h1> <p align=\"center\"> <a href=\"https://opencti.io\" alt=\"Website\"><img src=\"https://img.shields.io/badge/website-opencti.io-blue.svg\" /></a> <a href=\"https://docs.opencti.io\" alt=\"Documentation\"><img src=\"https://img.shields.io/badge/documentation-latest-orange.svg\" /></a> <a href=\"https://community.filigran.io\" alt=\"Slack\"><img src=\"https://img.shields.io/badge/slack-3K%2B%20members-4...",
       "readme_summary_ja": "<h1 align=\"center\"> <a href=\"https://opencti.io\"><img src=\"./.github/img/logo_opencti.png\" alt=\"OpenCTI\"></a> </h1> <p align=\"center\"> <a href=\"https://opencti.io\" alt=\"Website\"><img src=\"https://img.shields.io/badge/website-opencti.io-blue.svg\" /></a> <a href=\"https://docs.opencti.io\" alt=\"Documentation\"><img src=\"https://img.shields.io/badge/documentation-latest-orange.svg\" /></a> <a href=\"https://community.filigran.io\" alt=\"Slack\"><img src=\"https://img.shields.io/badge/slack-3K%2B%20members-4...",
       "language": "TypeScript",
-      "stars": 16
+      "stars": 281
+    },
+    {
+      "rank": 4,
+      "repo_name": "QwenLM/qwen-code",
+      "description": "An open-source AI agent that lives in your terminal.",
+      "description_ja": "An open-source AI agent that lives in your terminal.",
+      "readme_summary": "<div align=\"center\"> ![npm version](https://www.npmjs.com/package/@qwen-code/qwen-code) ![License](./LICENSE) ![Node.js Version](https://nodejs.org/) ![Downloads](https://www.npmjs.com/package/@qwen-code/qwen-code) <a href=\"https://trendshift.io/repositories/15287\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15287\" alt=\"QwenLM%2Fqwen-code | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> **An open-source AI agent that lives in your termina...",
+      "readme_summary_ja": "<div align=\"center\"> ![npm version](https://www.npmjs.com/package/@qwen-code/qwen-code) ![License](./LICENSE) ![Node.js Version](https://nodejs.org/) ![Downloads](https://www.npmjs.com/package/@qwen-code/qwen-code) <a href=\"https://trendshift.io/repositories/15287\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15287\" alt=\"QwenLM%2Fqwen-code | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> **An open-source AI agent that lives in your termina...",
+      "language": "TypeScript",
+      "stars": 95
+    },
+    {
+      "rank": 5,
+      "repo_name": "NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+      "description_ja": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+      "readme_summary": "![PRs Welcome](http://makeapullrequest.com) ![LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/) ![Twitter](https://twitter.com/NirDiamantAI) ![Reddit](https://www.reddit.com/r/EducationalAI/) ![Discord](https://discord.gg/cA6Aa4uyDX) ![Sponsor](https://github.com/sponsors/NirDiamant) > 🌟 **Support This Project:** Your sponsorship fuels innovation in RAG technologies. **Become a sponsor** to help maintain and expand this valuable resource! Sponsors ❤️ We gratefully acknowledge the org...",
+      "readme_summary_ja": "![PRs Welcome](http://makeapullrequest.com) ![LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/) ![Twitter](https://twitter.com/NirDiamantAI) ![Reddit](https://www.reddit.com/r/EducationalAI/) ![Discord](https://discord.gg/cA6Aa4uyDX) ![Sponsor](https://github.com/sponsors/NirDiamant) > 🌟 **Support This Project:** Your sponsorship fuels innovation in RAG technologies. **Become a sponsor** to help maintain and expand this valuable resource! Sponsors ❤️ We gratefully acknowledge the org...",
+      "language": "Jupyter Notebook",
+      "stars": 292
+    },
+    {
+      "rank": 6,
+      "repo_name": "harvard-edge/cs249r_book",
+      "description": "Introduction to Machine Learning Systems",
+      "description_ja": "Introduction to Machine Learning Systems",
+      "readme_summary": "Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <p align=\"center\"> <a href=\"README.md\">English</a> • <a href=\"README/README_zh.md\">中文</a> • <a href=\"README/README_ja.md\">日本語</a> • <a href=\"README/README_ko.md\">한국어</a> </p> <div align=\"center\"> <p align=\"center\"> ![Book](https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml) ![TinyTorch](https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-validat...",
+      "readme_summary_ja": "Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <p align=\"center\"> <a href=\"README.md\">English</a> • <a href=\"README/README_zh.md\">中文</a> • <a href=\"README/README_ja.md\">日本語</a> • <a href=\"README/README_ko.md\">한국어</a> </p> <div align=\"center\"> <p align=\"center\"> ![Book](https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml) ![TinyTorch](https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-validat...",
+      "language": "JavaScript",
+      "stars": 690
+    },
+    {
+      "rank": 7,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 868
+    },
+    {
+      "rank": 8,
+      "repo_name": "HailToDodongo/pyrite64",
+      "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+      "description_ja": "N64 Game-Engine and Editor using libdragon & tiny3d",
+      "readme_summary": "Pyrite64 <p align=\"center\"> <img src=\"./data/img/titleLogo.png\" width=\"400\"> </p> <p align=\"center\"> N64 game-engine and editor using <a href=\"https://github.com/DragonMinded/libdragon\">Libdragon</a> and <a href=\"https://github.com/HailToDodongo/tiny3d\">tiny3d</a>. </p> <br/> <p align=\"center\"> <img src=\"./docs/img/editor00.png\" width=\"350\">&nbsp;&nbsp;&nbsp;&nbsp; <img src=\"./docs/img/editor02.png\" width=\"350\"> </p> <p align=\"center\"> <img src=\"./docs/img/editor01.png\" width=\"350\">&nbsp;&nbsp;&...",
+      "readme_summary_ja": "Pyrite64 <p align=\"center\"> <img src=\"./data/img/titleLogo.png\" width=\"400\"> </p> <p align=\"center\"> N64 game-engine and editor using <a href=\"https://github.com/DragonMinded/libdragon\">Libdragon</a> and <a href=\"https://github.com/HailToDodongo/tiny3d\">tiny3d</a>. </p> <br/> <p align=\"center\"> <img src=\"./docs/img/editor00.png\" width=\"350\">&nbsp;&nbsp;&nbsp;&nbsp; <img src=\"./docs/img/editor02.png\" width=\"350\"> </p> <p align=\"center\"> <img src=\"./docs/img/editor01.png\" width=\"350\">&nbsp;&nbsp;&...",
+      "language": "C++",
+      "stars": 419
+    },
+    {
+      "rank": 9,
+      "repo_name": "ComposioHQ/composio",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "description_ja": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "readme_summary": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/ComposioHQ/composio/next/public/cover.png\" alt=\"Composio Logo\" width=\"auto\" height=\"auto\" style=\"margin-bottom: 20px;\"/> Composio SDK Skills that evolve for your Agents 🌐 Website • 📚 Documentation ![GitHub Stars](https://github.com/ComposioHQ/composio/stargazers) ![PyPI Downloads](https://pypi.org/project/composio/) ![NPM Downloads](https://www.npmjs.com/package/@composio/core) ![Discord](https://discord.gg/composio) </div> This re...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/ComposioHQ/composio/next/public/cover.png\" alt=\"Composio Logo\" width=\"auto\" height=\"auto\" style=\"margin-bottom: 20px;\"/> Composio SDK Skills that evolve for your Agents 🌐 Website • 📚 Documentation ![GitHub Stars](https://github.com/ComposioHQ/composio/stargazers) ![PyPI Downloads](https://pypi.org/project/composio/) ![NPM Downloads](https://www.npmjs.com/package/@composio/core) ![Discord](https://discord.gg/composio) </div> This re...",
+      "language": "TypeScript",
+      "stars": 17
+    },
+    {
+      "rank": 10,
+      "repo_name": "p2r3/convert",
+      "description": "Truly universal online file converter",
+      "description_ja": "Truly universal online file converter",
+      "readme_summary": "Convert to it! **Truly universal online file converter.** Many online file conversion tools are **boring** and **insecure**. They only allow conversion between two formats in the same medium (images to images, videos to videos, etc.), and they require that you _upload your files to some server_. This is not just terrible for privacy, it's also incredibly lame",
+      "readme_summary_ja": "Convert to it! **Truly universal online file converter.** Many online file conversion tools are **boring** and **insecure**. They only allow conversion between two formats in the same medium (images to images, videos to videos, etc.), and they require that you _upload your files to some server_. This is not just terrible for privacy, it's also incredibly lame",
+      "language": "TypeScript",
+      "stars": 391
+    },
+    {
+      "rank": 11,
+      "repo_name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
+      "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
+      "language": "TypeScript",
+      "stars": 3805
     }
   ]
 }
