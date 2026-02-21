@@ -1,86 +1,156 @@
 {
-  "updated_at": "2026-02-20 03:35:41",
-  "total_repos": 8,
+  "updated_at": "2026-02-21 03:28:34",
+  "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 889
+      "repo_name": "vxcontrol/pentagi",
+      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "description_ja": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "readme_summary": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > 🚀 **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy)...",
+      "readme_summary_ja": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > 🚀 **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy)...",
+      "language": "Go",
+      "stars": 875
     },
     {
       "rank": 2,
-      "repo_name": "RichardAtCT/claude-code-telegram",
-      "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
-      "description_ja": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
-      "readme_summary": "Claude Code Telegram Bot ![License: MIT](https://opensource.org/licenses/MIT) ![Python 3.10+](https://www.python.org/downloads/) A Telegram bot that gives you remote access to Claude Code. Chat naturally with Claude about your projects from anywhere -- no terminal commands needed. What is this? This bot connects Telegram to Claude Code, providing a conversational AI interface for your codebase: - **Chat naturally** -- ask Claude to analyze, edit, or explain your code in plain language - **Mainta...",
-      "readme_summary_ja": "Claude Code Telegram Bot ![License: MIT](https://opensource.org/licenses/MIT) ![Python 3.10+](https://www.python.org/downloads/) A Telegram bot that gives you remote access to Claude Code. Chat naturally with Claude about your projects from anywhere -- no terminal commands needed. What is this? This bot connects Telegram to Claude Code, providing a conversational AI interface for your codebase: - **Chat naturally** -- ask Claude to analyze, edit, or explain your code in plain language - **Mainta...",
-      "language": "Python",
-      "stars": 174
+      "repo_name": "blackboardsh/electrobun",
+      "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+      "description_ja": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://electrobun.dev\"><img src=\"https://github.com/blackboardsh/electrobun/assets/75102186/8799b522-0507-45e9-86e3-c3cfded1aa7c\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Electrobun</h1> <div align=\"center\"> Get started with a template <br /> <code><strong>npx electrobun init</strong></code> </div> What is Electrobun? Electrobun aims to be a complete **solution-in-a-box** for building, updating, and shipping ultra fast, tiny, and cross-platform desktop appl...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://electrobun.dev\"><img src=\"https://github.com/blackboardsh/electrobun/assets/75102186/8799b522-0507-45e9-86e3-c3cfded1aa7c\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Electrobun</h1> <div align=\"center\"> Get started with a template <br /> <code><strong>npx electrobun init</strong></code> </div> What is Electrobun? Electrobun aims to be a complete **solution-in-a-box** for building, updating, and shipping ultra fast, tiny, and cross-platform desktop appl...",
+      "language": "C++",
+      "stars": 419
     },
     {
       "rank": 3,
-      "repo_name": "open-mercato/open-mercato",
-      "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
-      "description_ja": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
-      "readme_summary": "<p align=\"center\"> <img src=\"./apps/mercato/public/open-mercato.svg\" alt=\"Open Mercato logo\" width=\"120\" /> </p> Open Mercato ![License: MIT](LICENSE) ![Docs](https://docs.openmercato.com/) ![PRs Welcome](https://github.com/open-mercato/open-mercato/issues) ![Built with Next.js](https://nextjs.org/) Open Mercato is a new‑era, AI‑supportive platform for shipping enterprise‑grade CRMs, ERPs, and commerce backends. It’s modular, extensible, and designed so teams can mix their own modules, entities,...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"./apps/mercato/public/open-mercato.svg\" alt=\"Open Mercato logo\" width=\"120\" /> </p> Open Mercato ![License: MIT](LICENSE) ![Docs](https://docs.openmercato.com/) ![PRs Welcome](https://github.com/open-mercato/open-mercato/issues) ![Built with Next.js](https://nextjs.org/) Open Mercato is a new‑era, AI‑supportive platform for shipping enterprise‑grade CRMs, ERPs, and commerce backends. It’s modular, extensible, and designed so teams can mix their own modules, entities,...",
-      "language": "TypeScript",
-      "stars": 56
-    },
-    {
-      "rank": 4,
-      "repo_name": "harvard-edge/cs249r_book",
-      "description": "Introduction to Machine Learning Systems",
-      "description_ja": "Introduction to Machine Learning Systems",
-      "readme_summary": "Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <p align=\"center\"> <a href=\"README.md\">English</a> • <a href=\"README/README_zh.md\">中文</a> • <a href=\"README/README_ja.md\">日本語</a> • <a href=\"README/README_ko.md\">한국어</a> </p> <div align=\"center\"> <p align=\"center\"> ![Book](https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml) ![TinyTorch](https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-validat...",
-      "readme_summary_ja": "Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <p align=\"center\"> <a href=\"README.md\">English</a> • <a href=\"README/README_zh.md\">中文</a> • <a href=\"README/README_ja.md\">日本語</a> • <a href=\"README/README_ko.md\">한국어</a> </p> <div align=\"center\"> <p align=\"center\"> ![Book](https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml) ![TinyTorch](https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-validat...",
-      "language": "JavaScript",
-      "stars": 663
-    },
-    {
-      "rank": 5,
       "repo_name": "HailToDodongo/pyrite64",
       "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
       "description_ja": "N64 Game-Engine and Editor using libdragon & tiny3d",
       "readme_summary": "Pyrite64 <p align=\"center\"> <img src=\"./data/img/titleLogo.png\" width=\"400\"> </p> <p align=\"center\"> N64 game-engine and editor using <a href=\"https://github.com/DragonMinded/libdragon\">Libdragon</a> and <a href=\"https://github.com/HailToDodongo/tiny3d\">tiny3d</a>. </p> <br/> <p align=\"center\"> <img src=\"./docs/img/editor00.png\" width=\"350\">&nbsp;&nbsp;&nbsp;&nbsp; <img src=\"./docs/img/editor02.png\" width=\"350\"> </p> <p align=\"center\"> <img src=\"./docs/img/editor01.png\" width=\"350\">&nbsp;&nbsp;&...",
       "readme_summary_ja": "Pyrite64 <p align=\"center\"> <img src=\"./data/img/titleLogo.png\" width=\"400\"> </p> <p align=\"center\"> N64 game-engine and editor using <a href=\"https://github.com/DragonMinded/libdragon\">Libdragon</a> and <a href=\"https://github.com/HailToDodongo/tiny3d\">tiny3d</a>. </p> <br/> <p align=\"center\"> <img src=\"./docs/img/editor00.png\" width=\"350\">&nbsp;&nbsp;&nbsp;&nbsp; <img src=\"./docs/img/editor02.png\" width=\"350\"> </p> <p align=\"center\"> <img src=\"./docs/img/editor01.png\" width=\"350\">&nbsp;&nbsp;&...",
       "language": "C++",
-      "stars": 608
+      "stars": 425
+    },
+    {
+      "rank": 4,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 980
+    },
+    {
+      "rank": 5,
+      "repo_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "language": "Go",
+      "stars": 31
     },
     {
       "rank": 6,
-      "repo_name": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
-      "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
-      "language": "TypeScript",
-      "stars": 3390
+      "repo_name": "PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "description_ja": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "readme_summary": "<p align=\"center\"> <img alt=\"posthoglogo\" src=\"https://user-images.githubusercontent.com/65415371/205059737-c8a4f836-4889-4654-902e-f302b187b6a0.png\"> </p> <p align=\"center\"> <a href='https://posthog.com/contributors'><img alt=\"GitHub contributors\" src=\"https://img.shields.io/github/contributors/posthog/posthog\"/></a> <a href='http://makeapullrequest.com'><img alt='PRs Welcome' src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields'/></a> <img alt=\"Docker Pulls\" src=\"https:/...",
+      "readme_summary_ja": "<p align=\"center\"> <img alt=\"posthoglogo\" src=\"https://user-images.githubusercontent.com/65415371/205059737-c8a4f836-4889-4654-902e-f302b187b6a0.png\"> </p> <p align=\"center\"> <a href='https://posthog.com/contributors'><img alt=\"GitHub contributors\" src=\"https://img.shields.io/github/contributors/posthog/posthog\"/></a> <a href='http://makeapullrequest.com'><img alt='PRs Welcome' src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields'/></a> <img alt=\"Docker Pulls\" src=\"https:/...",
+      "language": "Python",
+      "stars": 46
     },
     {
       "rank": 7,
+      "repo_name": "eslint/eslint",
+      "description": "Find and fix problems in your JavaScript code.",
+      "description_ja": "Find and fix problems in your JavaScript code.",
+      "readme_summary": "![npm version](https://www.npmjs.com/package/eslint) ![Downloads](https://www.npmjs.com/package/eslint) ![Build Status](https://github.com/eslint/eslint/actions) <br> ![Open Collective Backers](https://opencollective.com/eslint) ![Open Collective Sponsors](https://opencollective.com/eslint) ESLint Website | Configure ESLint | Rules | Contribute to ESLint | Report Bugs | Code of Conduct | X | Discord | Mastodon | Bluesky ESLint is a tool for identifying and reporting on patterns found in ECMAScri...",
+      "readme_summary_ja": "![npm version](https://www.npmjs.com/package/eslint) ![Downloads](https://www.npmjs.com/package/eslint) ![Build Status](https://github.com/eslint/eslint/actions) <br> ![Open Collective Backers](https://opencollective.com/eslint) ![Open Collective Sponsors](https://opencollective.com/eslint) ESLint Website | Configure ESLint | Rules | Contribute to ESLint | Report Bugs | Code of Conduct | X | Discord | Mastodon | Bluesky ESLint is a tool for identifying and reporting on patterns found in ECMAScri...",
+      "language": "JavaScript",
+      "stars": 30
+    },
+    {
+      "rank": 8,
+      "repo_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description_ja": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "readme_summary": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
+      "readme_summary_ja": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
+      "language": "Python",
+      "stars": 75
+    },
+    {
+      "rank": 9,
+      "repo_name": "Effect-TS/effect-smol",
+      "description": "Core libraries and experimental work for Effect v4",
+      "description_ja": "Core libraries and experimental work for Effect v4",
+      "readme_summary": "<!-- shields.io badge used because pkg.pr.new/badge returns HTTP 404 status despite valid SVG content, causing GitHub's image proxy to fail --> ![pkg.pr.new](https://pkg.pr.new/~/Effect-TS/effect-smol)",
+      "readme_summary_ja": "<!-- shields.io badge used because pkg.pr.new/badge returns HTTP 404 status despite valid SVG content, causing GitHub's image proxy to fail --> ![pkg.pr.new](https://pkg.pr.new/~/Effect-TS/effect-smol)",
+      "language": "TypeScript",
+      "stars": 14
+    },
+    {
+      "rank": 10,
+      "repo_name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "description_ja": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "readme_summary": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. * Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. * All checkpoints: TimesFM Hugging Face Collection",
+      "readme_summary_ja": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. * Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. * All checkpoints: TimesFM Hugging Face Collection",
+      "language": "Python",
+      "stars": 404
+    },
+    {
+      "rank": 11,
+      "repo_name": "roboflow/trackers",
+      "description": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
+      "description_ja": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
+      "readme_summary": "<div align=\"center\"> <img width=\"200\" src=\"https://raw.githubusercontent.com/roboflow/trackers/refs/heads/release/stable/docs/assets/logo-trackers-violet.svg\" alt=\"trackers logo\"> <h1>trackers</h1> <p>Plug-and-play multi-object tracking for any detection model.</p> ![version](https://badge.fury.io/py/trackers) ![downloads](https://pypistats.org/packages/trackers) ![license](https://github.com/roboflow/trackers/blob/release/stable/LICENSE.md) ![python-version](https://badge.fury.io/py/trackers) !...",
+      "readme_summary_ja": "<div align=\"center\"> <img width=\"200\" src=\"https://raw.githubusercontent.com/roboflow/trackers/refs/heads/release/stable/docs/assets/logo-trackers-violet.svg\" alt=\"trackers logo\"> <h1>trackers</h1> <p>Plug-and-play multi-object tracking for any detection model.</p> ![version](https://badge.fury.io/py/trackers) ![downloads](https://pypistats.org/packages/trackers) ![license](https://github.com/roboflow/trackers/blob/release/stable/LICENSE.md) ![python-version](https://badge.fury.io/py/trackers) !...",
+      "language": "Python",
+      "stars": 133
+    },
+    {
+      "rank": 12,
+      "repo_name": "huggingface/skills",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "Hugging Face Skills Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claude Code, Google DeepMind's Gemini CLI, and Cursor. The Skills in this repository follow the standardized format Agent Skill format",
+      "readme_summary_ja": "Hugging Face Skills Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claude Code, Google DeepMind's Gemini CLI, and Cursor. The Skills in this repository follow the standardized format Agent Skill format",
+      "language": "Python",
+      "stars": 33
+    },
+    {
+      "rank": 13,
+      "repo_name": "databricks-solutions/ai-dev-kit",
+      "description": "Databricks Toolkit for Coding Agents provided by Field Engineering",
+      "description_ja": "Databricks Toolkit for Coding Agents provided by Field Engineering",
+      "readme_summary": "Databricks AI Dev Kit <p align=\"center\"> <img src=\"https://img.shields.io/badge/Databricks-Certified%20Gold%20Project-FFD700?style=for-the-badge&logo=databricks&logoColor=black\" alt=\"Databricks Certified Gold Project\"> </p> --- Overview AI-Driven Development (vibe coding) on Databricks just got a whole lot better. The **AI Dev Kit** gives your AI coding assistant (Claude Code, Cursor, Windsurf, etc.) the trusted sources it needs to build faster and smarter on Databricks. <p align=\"center\"> <img ...",
+      "readme_summary_ja": "Databricks AI Dev Kit <p align=\"center\"> <img src=\"https://img.shields.io/badge/Databricks-Certified%20Gold%20Project-FFD700?style=for-the-badge&logo=databricks&logoColor=black\" alt=\"Databricks Certified Gold Project\"> </p> --- Overview AI-Driven Development (vibe coding) on Databricks just got a whole lot better. The **AI Dev Kit** gives your AI coding assistant (Claude Code, Cursor, Windsurf, etc.) the trusted sources it needs to build faster and smarter on Databricks. <p align=\"center\"> <img ...",
+      "language": "Python",
+      "stars": 45
+    },
+    {
+      "rank": 14,
       "repo_name": "freemocap/freemocap",
       "description": "Free Motion Capture for Everyone 💀✨",
       "description_ja": "Free Motion Capture for Everyone 💀✨",
       "readme_summary": "<p align=\"center\"> <img src=\"https://github.com/freemocap/freemocap/assets/15314521/da1af7fe-f808-43dc-8f59-c579715d6593\" height=\"240\" alt=\"Project Logo\"> </p> <h3 align=\"center\">The FreeMoCap Project</h3> <h4 align=\"center\"> A free-and-open-source, hardware-and-software-agnostic, minimal-cost, research-grade, motion capture system and platform for decentralized scientific research, education, and training</h2> <p align=\"center\"> <a href=\"https://doi.org/10.5281/zenodo.7233714\"> <img src=\"https:...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"https://github.com/freemocap/freemocap/assets/15314521/da1af7fe-f808-43dc-8f59-c579715d6593\" height=\"240\" alt=\"Project Logo\"> </p> <h3 align=\"center\">The FreeMoCap Project</h3> <h4 align=\"center\"> A free-and-open-source, hardware-and-software-agnostic, minimal-cost, research-grade, motion capture system and platform for decentralized scientific research, education, and training</h2> <p align=\"center\"> <a href=\"https://doi.org/10.5281/zenodo.7233714\"> <img src=\"https:...",
       "language": "Python",
-      "stars": 141
+      "stars": 497
     },
     {
-      "rank": 8,
-      "repo_name": "p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "description_ja": "Fully automatic censorship removal for language models",
-      "readme_summary": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation ...",
-      "readme_summary_ja": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation ...",
-      "language": "Python",
-      "stars": 652
+      "rank": 15,
+      "repo_name": "ComposioHQ/composio",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "description_ja": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "readme_summary": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/ComposioHQ/composio/next/public/cover.png\" alt=\"Composio Logo\" width=\"auto\" height=\"auto\" style=\"margin-bottom: 20px;\"/> Composio SDK Skills that evolve for your Agents 🌐 Website • 📚 Documentation ![GitHub Stars](https://github.com/ComposioHQ/composio/stargazers) ![PyPI Downloads](https://pypi.org/project/composio/) ![NPM Downloads](https://www.npmjs.com/package/@composio/core) ![Discord](https://discord.gg/composio) </div> This re...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/ComposioHQ/composio/next/public/cover.png\" alt=\"Composio Logo\" width=\"auto\" height=\"auto\" style=\"margin-bottom: 20px;\"/> Composio SDK Skills that evolve for your Agents 🌐 Website • 📚 Documentation ![GitHub Stars](https://github.com/ComposioHQ/composio/stargazers) ![PyPI Downloads](https://pypi.org/project/composio/) ![NPM Downloads](https://www.npmjs.com/package/@composio/core) ![Discord](https://discord.gg/composio) </div> This re...",
+      "language": "TypeScript",
+      "stars": 45
     }
   ]
 }
