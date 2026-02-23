@@ -1,136 +1,96 @@
 {
-  "updated_at": "2026-02-22 03:40:57",
-  "total_repos": 13,
+  "updated_at": "2026-02-23 03:44:25",
+  "total_repos": 9,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "vxcontrol/pentagi",
-      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "description_ja": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "readme_summary": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > 🚀 **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy)...",
-      "readme_summary_ja": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > 🚀 **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy)...",
-      "language": "Go",
-      "stars": 2118
-    },
-    {
-      "rank": 2,
-      "repo_name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "description_ja": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "readme_summary": "GitNexus **Building git for agent context.** Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code. ![npm version](https://www.npmjs.com/package/gitnexus) ![License: PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0/) https://github.com/user-attachments/assets/172685ba-8e54-4ea7-9ad1-e31a3398da72 > *Like DeepWiki, but deeper.* DeepWiki helps you *und...",
-      "readme_summary_ja": "GitNexus **Building git for agent context.** Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code. ![npm version](https://www.npmjs.com/package/gitnexus) ![License: PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0/) https://github.com/user-attachments/assets/172685ba-8e54-4ea7-9ad1-e31a3398da72 > *Like DeepWiki, but deeper.* DeepWiki helps you *und...",
-      "language": "TypeScript",
-      "stars": 132
-    },
-    {
-      "rank": 3,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 772
-    },
-    {
-      "rank": 4,
       "repo_name": "huggingface/skills",
       "description": "No description provided",
       "description_ja": "説明なし",
       "readme_summary": "Hugging Face Skills Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claude Code, Google DeepMind's Gemini CLI, and Cursor. The Skills in this repository follow the standardized format Agent Skill format",
       "readme_summary_ja": "Hugging Face Skills Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claude Code, Google DeepMind's Gemini CLI, and Cursor. The Skills in this repository follow the standardized format Agent Skill format",
       "language": "Python",
-      "stars": 247
+      "stars": 364
     },
     {
-      "rank": 5,
-      "repo_name": "PowerShell/PowerShell",
-      "description": "PowerShell for every system!",
-      "description_ja": "PowerShell for every system!",
-      "readme_summary": "![logo][] PowerShell Welcome to the PowerShell GitHub Community! PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets",
-      "readme_summary_ja": "![logo][] PowerShell Welcome to the PowerShell GitHub Community! PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets",
-      "language": "C#",
-      "stars": 13
+      "rank": 2,
+      "repo_name": "vxcontrol/pentagi",
+      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "description_ja": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "readme_summary": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > 🚀 **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy)...",
+      "readme_summary_ja": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > 🚀 **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy)...",
+      "language": "Go",
+      "stars": 1579
     },
     {
-      "rank": 6,
+      "rank": 3,
       "repo_name": "anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "description_ja": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
       "readme_summary_ja": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
       "language": "Shell",
-      "stars": 222
+      "stars": 503
     },
     {
-      "rank": 7,
-      "repo_name": "stan-smith/FossFLOW",
-      "description": "Make beautiful isometric infrastructure diagrams",
-      "description_ja": "Make beautiful isometric infrastructure diagrams",
-      "readme_summary": "FossFLOW - Isometric Diagramming Tool <img width=\"30\" height=\"30\" alt=\"fossflow\" src=\"https://github.com/user-attachments/assets/56d78887-601c-4336-ab87-76f8ee4cde96\" /> <p align=\"center\"> <a href=\"README.md\">English</a> | <a href=\"docs/README.cn.md\">简体中文</a> | <a href=\"docs/README.es.md\">Español</a> | <a href=\"docs/README.pt.md\">Português</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.hi.md\">हिन्दी</a> | <a href=\"docs/README.bn.md\">বাংলা</a> | <a href=\"docs/README.ru.md\">...",
-      "readme_summary_ja": "FossFLOW - Isometric Diagramming Tool <img width=\"30\" height=\"30\" alt=\"fossflow\" src=\"https://github.com/user-attachments/assets/56d78887-601c-4336-ab87-76f8ee4cde96\" /> <p align=\"center\"> <a href=\"README.md\">English</a> | <a href=\"docs/README.cn.md\">简体中文</a> | <a href=\"docs/README.es.md\">Español</a> | <a href=\"docs/README.pt.md\">Português</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.hi.md\">हिन्दी</a> | <a href=\"docs/README.bn.md\">বাংলা</a> | <a href=\"docs/README.ru.md\">...",
-      "language": "TypeScript",
-      "stars": 74
+      "rank": 4,
+      "repo_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "description_ja": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "readme_summary": "<p align=\"center\"> Support my work here: <a href=\"https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=\">Photon</a> • <a href=\"https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5\">DEXScreener</a> </p> <p align=\"center\">Official CA: DEffWzJyaFRNyA4ogUox631hfHuv3KLeC...",
+      "readme_summary_ja": "<p align=\"center\"> Support my work here: <a href=\"https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=\">Photon</a> • <a href=\"https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5\">DEXScreener</a> </p> <p align=\"center\">Official CA: DEffWzJyaFRNyA4ogUox631hfHuv3KLeC...",
+      "language": "",
+      "stars": 1134
     },
     {
-      "rank": 8,
-      "repo_name": "ggml-org/ggml",
-      "description": "Tensor library for machine learning",
-      "description_ja": "Tensor library for machine learning",
-      "readme_summary": "ggml Roadmap / Manifesto Tensor library for machine learning ***Note that this project is under active development. \\ Some of the development is currently happening in the llama.cpp and whisper.cpp repos*** Features - Low-level cross-platform implementation - Integer quantization support - Broad hardware support - Automatic differentiation - ADAM and L-BFGS optimizers - No third-party dependencies - Zero memory allocations during runtime Build GPT inference (example) For more information, checko...",
-      "readme_summary_ja": "ggml Roadmap / Manifesto Tensor library for machine learning ***Note that this project is under active development. \\ Some of the development is currently happening in the llama.cpp and whisper.cpp repos*** Features - Low-level cross-platform implementation - Integer quantization support - Broad hardware support - Automatic differentiation - ADAM and L-BFGS optimizers - No third-party dependencies - Zero memory allocations during runtime Build GPT inference (example) For more information, checko...",
-      "language": "C++",
-      "stars": 47
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "repo_name": "Stremio/stremio-web",
       "description": "Stremio - Freedom to Stream",
       "description_ja": "Stremio - Freedom to Stream",
       "readme_summary": "Stremio - Freedom to Stream ![Build](https://github.com/Stremio/stremio-web/actions/workflows/build.yml) ![Github Page](https://stremio.github.io/stremio-web/development) Stremio is a modern media center that's a one-stop solution for your video entertainment. You discover, watch and organize video content from easy to install addons. Build Prerequisites * Node.js 12 or higher * pnpm 10 or higher Install dependencies Start development server Production build Run with Docker Screenshots Board !Bo...",
       "readme_summary_ja": "Stremio - Freedom to Stream ![Build](https://github.com/Stremio/stremio-web/actions/workflows/build.yml) ![Github Page](https://stremio.github.io/stremio-web/development) Stremio is a modern media center that's a one-stop solution for your video entertainment. You discover, watch and organize video content from easy to install addons. Build Prerequisites * Node.js 12 or higher * pnpm 10 or higher Install dependencies Start development server Production build Run with Docker Screenshots Board !Bo...",
       "language": "JavaScript",
-      "stars": 301
+      "stars": 247
     },
     {
-      "rank": 10,
-      "repo_name": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-      "description_ja": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-      "readme_summary": "﻿Hands-On Large Language Models <a href=\"https://www.linkedin.com/in/jalammar/\"><img src=\"https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin\"></a> <a href=\"https://www.linkedin.com/in/mgrootendorst/\"><img src=\"https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin\"></a> <a href=\"https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner\"><img src=\"https://img.shields.io/badge/DeepLearning.AI%20Course-NEW!-&la...",
-      "readme_summary_ja": "﻿Hands-On Large Language Models <a href=\"https://www.linkedin.com/in/jalammar/\"><img src=\"https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin\"></a> <a href=\"https://www.linkedin.com/in/mgrootendorst/\"><img src=\"https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin\"></a> <a href=\"https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner\"><img src=\"https://img.shields.io/badge/DeepLearning.AI%20Course-NEW!-&la...",
-      "language": "Jupyter Notebook",
-      "stars": 355
-    },
-    {
-      "rank": 11,
-      "repo_name": "RichardAtCT/claude-code-telegram",
-      "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
-      "description_ja": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
-      "readme_summary": "Claude Code Telegram Bot ![License: MIT](https://opensource.org/licenses/MIT) ![Python 3.11+](https://www.python.org/downloads/) A Telegram bot that gives you remote access to Claude Code. Chat naturally with Claude about your projects from anywhere -- no terminal commands needed. What is this? This bot connects Telegram to Claude Code, providing a conversational AI interface for your codebase: - **Chat naturally** -- ask Claude to analyze, edit, or explain your code in plain language - **Mainta...",
-      "readme_summary_ja": "Claude Code Telegram Bot ![License: MIT](https://opensource.org/licenses/MIT) ![Python 3.11+](https://www.python.org/downloads/) A Telegram bot that gives you remote access to Claude Code. Chat naturally with Claude about your projects from anywhere -- no terminal commands needed. What is this? This bot connects Telegram to Claude Code, providing a conversational AI interface for your codebase: - **Chat naturally** -- ask Claude to analyze, edit, or explain your code in plain language - **Mainta...",
+      "rank": 6,
+      "repo_name": "OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "description_ja": "Financial data platform for analysts, quants and AI agents.",
+      "readme_summary": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
+      "readme_summary_ja": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
       "language": "Python",
-      "stars": 109
+      "stars": 188
     },
     {
-      "rank": 12,
+      "rank": 7,
       "repo_name": "cloudflare/agents",
       "description": "Build and deploy AI Agents on Cloudflare",
       "description_ja": "Build and deploy AI Agents on Cloudflare",
       "readme_summary": "Cloudflare Agents ![npm version](https://www.npmjs.com/package/agents) ![npm downloads](https://www.npmjs.com/package/agents) !npm install agents Agents are persistent, stateful execution environments for agentic workloads, powered by Cloudflare Durable Objects. Each agent has its own state, storage, and lifecycle — with built-in support for real-time communication, scheduling, AI model calls, MCP, workflows, and more. Agents hibernate when idle and wake on demand",
       "readme_summary_ja": "Cloudflare Agents ![npm version](https://www.npmjs.com/package/agents) ![npm downloads](https://www.npmjs.com/package/agents) !npm install agents Agents are persistent, stateful execution environments for agentic workloads, powered by Cloudflare Durable Objects. Each agent has its own state, storage, and lifecycle — with built-in support for real-time communication, scheduling, AI model calls, MCP, workflows, and more. Agents hibernate when idle and wake on demand",
       "language": "TypeScript",
-      "stars": 65
+      "stars": 257
     },
     {
-      "rank": 13,
-      "repo_name": "hiddify/hiddify-app",
-      "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
-      "description_ja": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
-      "readme_summary": "<div dir=\"ltr\" align=center> **![Lang_farsi فارسی**](README_fa.md) / **Русский 🇷🇺** / **简体中文 🇨🇳** / **日本語 🇯🇵** / **Portugês-BR 🇧🇷** </div> <br> <p align=\"center\"><img src=\"https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg\" width=56% /></p> <br> <div align=\"center\"> <!-- !Hiddify logo + text --> ![GP-Intalls](https://play.google.com/store/apps/details?id=app.hiddify.com) ![Downloads](https://github.com/hiddify/hiddify-app/releases/)![Last Version](https://github.co...",
-      "readme_summary_ja": "<div dir=\"ltr\" align=center> **![Lang_farsi فارسی**](README_fa.md) / **Русский 🇷🇺** / **简体中文 🇨🇳** / **日本語 🇯🇵** / **Portugês-BR 🇧🇷** </div> <br> <p align=\"center\"><img src=\"https://github.com/hiddify/hiddify.com/blob/main/docs/assets/hiddify-app-logo.svg\" width=56% /></p> <br> <div align=\"center\"> <!-- !Hiddify logo + text --> ![GP-Intalls](https://play.google.com/store/apps/details?id=app.hiddify.com) ![Downloads](https://github.com/hiddify/hiddify-app/releases/)![Last Version](https://github.co...",
-      "language": "Dart",
-      "stars": 132
+      "rank": 8,
+      "repo_name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "description_ja": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "readme_summary": "GitNexus <a href=\"https://trendshift.io/repositories/19809\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/19809\" alt=\"abhigyanpatwari%2FGitNexus | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> **Building git for agent context.** Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code. ![npm version](https://www.npmjs.com/packa...",
+      "readme_summary_ja": "GitNexus <a href=\"https://trendshift.io/repositories/19809\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/19809\" alt=\"abhigyanpatwari%2FGitNexus | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> **Building git for agent context.** Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code. ![npm version](https://www.npmjs.com/packa...",
+      "language": "TypeScript",
+      "stars": 424
+    },
+    {
+      "rank": 9,
+      "repo_name": "stan-smith/FossFLOW",
+      "description": "Make beautiful isometric infrastructure diagrams",
+      "description_ja": "Make beautiful isometric infrastructure diagrams",
+      "readme_summary": "FossFLOW - Isometric Diagramming Tool <img width=\"30\" height=\"30\" alt=\"fossflow\" src=\"https://github.com/user-attachments/assets/56d78887-601c-4336-ab87-76f8ee4cde96\" /> <p align=\"center\"> <a href=\"README.md\">English</a> | <a href=\"docs/README.cn.md\">简体中文</a> | <a href=\"docs/README.es.md\">Español</a> | <a href=\"docs/README.pt.md\">Português</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.hi.md\">हिन्दी</a> | <a href=\"docs/README.bn.md\">বাংলা</a> | <a href=\"docs/README.ru.md\">...",
+      "readme_summary_ja": "FossFLOW - Isometric Diagramming Tool <img width=\"30\" height=\"30\" alt=\"fossflow\" src=\"https://github.com/user-attachments/assets/56d78887-601c-4336-ab87-76f8ee4cde96\" /> <p align=\"center\"> <a href=\"README.md\">English</a> | <a href=\"docs/README.cn.md\">简体中文</a> | <a href=\"docs/README.es.md\">Español</a> | <a href=\"docs/README.pt.md\">Português</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.hi.md\">हिन्दी</a> | <a href=\"docs/README.bn.md\">বাংলা</a> | <a href=\"docs/README.ru.md\">...",
+      "language": "TypeScript",
+      "stars": 340
     }
   ]
 }
