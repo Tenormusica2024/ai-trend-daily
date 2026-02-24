@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-02-23 03:44:25",
-  "total_repos": 9,
+  "updated_at": "2026-02-24 03:41:00",
+  "total_repos": 14,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "huggingface/skills",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "Hugging Face Skills Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claude Code, Google DeepMind's Gemini CLI, and Cursor. The Skills in this repository follow the standardized format Agent Skill format",
-      "readme_summary_ja": "Hugging Face Skills Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claude Code, Google DeepMind's Gemini CLI, and Cursor. The Skills in this repository follow the standardized format Agent Skill format",
-      "language": "Python",
-      "stars": 364
-    },
-    {
-      "rank": 2,
-      "repo_name": "vxcontrol/pentagi",
-      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "description_ja": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "readme_summary": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > 🚀 **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy)...",
-      "readme_summary_ja": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > 🚀 **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy)...",
-      "language": "Go",
-      "stars": 1579
-    },
-    {
-      "rank": 3,
-      "repo_name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "description_ja": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "readme_summary_ja": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "language": "Shell",
-      "stars": 503
-    },
-    {
-      "rank": 4,
       "repo_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "description_ja": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "readme_summary": "<p align=\"center\"> Support my work here: <a href=\"https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=\">Photon</a> • <a href=\"https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5\">DEXScreener</a> </p> <p align=\"center\">Official CA: DEffWzJyaFRNyA4ogUox631hfHuv3KLeC...",
       "readme_summary_ja": "<p align=\"center\"> Support my work here: <a href=\"https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=\">Photon</a> • <a href=\"https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5\">DEXScreener</a> </p> <p align=\"center\">Official CA: DEffWzJyaFRNyA4ogUox631hfHuv3KLeC...",
       "language": "",
-      "stars": 1134
+      "stars": 2454
     },
     {
-      "rank": 5,
-      "repo_name": "Stremio/stremio-web",
-      "description": "Stremio - Freedom to Stream",
-      "description_ja": "Stremio - Freedom to Stream",
-      "readme_summary": "Stremio - Freedom to Stream ![Build](https://github.com/Stremio/stremio-web/actions/workflows/build.yml) ![Github Page](https://stremio.github.io/stremio-web/development) Stremio is a modern media center that's a one-stop solution for your video entertainment. You discover, watch and organize video content from easy to install addons. Build Prerequisites * Node.js 12 or higher * pnpm 10 or higher Install dependencies Start development server Production build Run with Docker Screenshots Board !Bo...",
-      "readme_summary_ja": "Stremio - Freedom to Stream ![Build](https://github.com/Stremio/stremio-web/actions/workflows/build.yml) ![Github Page](https://stremio.github.io/stremio-web/development) Stremio is a modern media center that's a one-stop solution for your video entertainment. You discover, watch and organize video content from easy to install addons. Build Prerequisites * Node.js 12 or higher * pnpm 10 or higher Install dependencies Start development server Production build Run with Docker Screenshots Board !Bo...",
-      "language": "JavaScript",
-      "stars": 247
+      "rank": 2,
+      "repo_name": "huggingface/skills",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "Hugging Face Skills Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claude Code, Google DeepMind's Gemini CLI, and Cursor. The Skills in this repository follow the standardized format Agent Skill format",
+      "readme_summary_ja": "Hugging Face Skills Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claude Code, Google DeepMind's Gemini CLI, and Cursor. The Skills in this repository follow the standardized format Agent Skill format",
+      "language": "Python",
+      "stars": 1451
     },
     {
-      "rank": 6,
+      "rank": 3,
       "repo_name": "OpenBB-finance/OpenBB",
       "description": "Financial data platform for analysts, quants and AI agents.",
       "description_ja": "Financial data platform for analysts, quants and AI agents.",
       "readme_summary": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
       "readme_summary_ja": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
       "language": "Python",
-      "stars": 188
+      "stars": 470
+    },
+    {
+      "rank": 4,
+      "repo_name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+      "description_ja": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+      "readme_summary": "Agent Skills for Context Engineering A comprehensive, open collection of Agent Skills focused on context engineering principles for building production-grade AI agent systems. These skills teach the art and science of curating context to maximize agent effectiveness across any agent platform. What is Context Engineering? Context engineering is the discipline of managing the language model's context window",
+      "readme_summary_ja": "Agent Skills for Context Engineering A comprehensive, open collection of Agent Skills focused on context engineering principles for building production-grade AI agent systems. These skills teach the art and science of curating context to maximize agent effectiveness across any agent platform. What is Context Engineering? Context engineering is the discipline of managing the language model's context window",
+      "language": "Python",
+      "stars": 178
+    },
+    {
+      "rank": 5,
+      "repo_name": "f/prompts.chat",
+      "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "description_ja": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "readme_summary": "<h1 align=\"center\"> <a href=\"https://prompts.chat\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\"> <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\"> </picture> <br> prompts.chat </a> </h1> <p align=\"center\"> <strong>The world's largest open-source prompt library for AI</strong><br> <sub>Works with ChatGPT, Claude, Gemini, Llama, Mistral...",
+      "readme_summary_ja": "<h1 align=\"center\"> <a href=\"https://prompts.chat\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\"> <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\"> </picture> <br> prompts.chat </a> </h1> <p align=\"center\"> <strong>The world's largest open-source prompt library for AI</strong><br> <sub>Works with ChatGPT, Claude, Gemini, Llama, Mistral...",
+      "language": "HTML",
+      "stars": 295
+    },
+    {
+      "rank": 6,
+      "repo_name": "CompVis/stable-diffusion",
+      "description": "A latent text-to-image diffusion model",
+      "description_ja": "A latent text-to-image diffusion model",
+      "readme_summary": "Stable Diffusion *Stable Diffusion was made possible thanks to a collaboration with Stability AI and Runway and builds upon our previous work:* **High-Resolution Image Synthesis with Latent Diffusion Models**<br/> Robin Rombach\\*, Andreas Blattmann\\*, Dominik Lorenz\\, Patrick Esser, Björn Ommer<br/> _CVPR '22 Oral | GitHub | arXiv | Project page_ !txt2img-stable2 Stable Diffusion is a latent text-to-image diffusion model. Thanks to a generous compute donation from Stability AI and support from L...",
+      "readme_summary_ja": "Stable Diffusion *Stable Diffusion was made possible thanks to a collaboration with Stability AI and Runway and builds upon our previous work:* **High-Resolution Image Synthesis with Latent Diffusion Models**<br/> Robin Rombach\\*, Andreas Blattmann\\*, Dominik Lorenz\\, Patrick Esser, Björn Ommer<br/> _CVPR '22 Oral | GitHub | arXiv | Project page_ !txt2img-stable2 Stable Diffusion is a latent text-to-image diffusion model. Thanks to a generous compute donation from Stability AI and support from L...",
+      "language": "Jupyter Notebook",
+      "stars": 36
     },
     {
       "rank": 7,
-      "repo_name": "cloudflare/agents",
-      "description": "Build and deploy AI Agents on Cloudflare",
-      "description_ja": "Build and deploy AI Agents on Cloudflare",
-      "readme_summary": "Cloudflare Agents ![npm version](https://www.npmjs.com/package/agents) ![npm downloads](https://www.npmjs.com/package/agents) !npm install agents Agents are persistent, stateful execution environments for agentic workloads, powered by Cloudflare Durable Objects. Each agent has its own state, storage, and lifecycle — with built-in support for real-time communication, scheduling, AI model calls, MCP, workflows, and more. Agents hibernate when idle and wake on demand",
-      "readme_summary_ja": "Cloudflare Agents ![npm version](https://www.npmjs.com/package/agents) ![npm downloads](https://www.npmjs.com/package/agents) !npm install agents Agents are persistent, stateful execution environments for agentic workloads, powered by Cloudflare Durable Objects. Each agent has its own state, storage, and lifecycle — with built-in support for real-time communication, scheduling, AI model calls, MCP, workflows, and more. Agents hibernate when idle and wake on demand",
-      "language": "TypeScript",
-      "stars": 257
-    },
-    {
-      "rank": 8,
       "repo_name": "abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "description_ja": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "readme_summary": "GitNexus <a href=\"https://trendshift.io/repositories/19809\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/19809\" alt=\"abhigyanpatwari%2FGitNexus | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> **Building git for agent context.** Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code. ![npm version](https://www.npmjs.com/packa...",
       "readme_summary_ja": "GitNexus <a href=\"https://trendshift.io/repositories/19809\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/19809\" alt=\"abhigyanpatwari%2FGitNexus | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> **Building git for agent context.** Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code. ![npm version](https://www.npmjs.com/packa...",
       "language": "TypeScript",
-      "stars": 424
+      "stars": 467
+    },
+    {
+      "rank": 8,
+      "repo_name": "Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "description_ja": "Stremio - Freedom to Stream",
+      "readme_summary": "Stremio - Freedom to Stream ![Build](https://github.com/Stremio/stremio-web/actions/workflows/build.yml) ![Github Page](https://stremio.github.io/stremio-web/development) Stremio is a modern media center that's a one-stop solution for your video entertainment. You discover, watch and organize video content from easy to install addons. Build Prerequisites * Node.js 12 or higher * pnpm 10 or higher Install dependencies Start development server Production build Run with Docker Screenshots Board !Bo...",
+      "readme_summary_ja": "Stremio - Freedom to Stream ![Build](https://github.com/Stremio/stremio-web/actions/workflows/build.yml) ![Github Page](https://stremio.github.io/stremio-web/development) Stremio is a modern media center that's a one-stop solution for your video entertainment. You discover, watch and organize video content from easy to install addons. Build Prerequisites * Node.js 12 or higher * pnpm 10 or higher Install dependencies Start development server Production build Run with Docker Screenshots Board !Bo...",
+      "language": "JavaScript",
+      "stars": 272
     },
     {
       "rank": 9,
@@ -90,7 +90,57 @@
       "readme_summary": "FossFLOW - Isometric Diagramming Tool <img width=\"30\" height=\"30\" alt=\"fossflow\" src=\"https://github.com/user-attachments/assets/56d78887-601c-4336-ab87-76f8ee4cde96\" /> <p align=\"center\"> <a href=\"README.md\">English</a> | <a href=\"docs/README.cn.md\">简体中文</a> | <a href=\"docs/README.es.md\">Español</a> | <a href=\"docs/README.pt.md\">Português</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.hi.md\">हिन्दी</a> | <a href=\"docs/README.bn.md\">বাংলা</a> | <a href=\"docs/README.ru.md\">...",
       "readme_summary_ja": "FossFLOW - Isometric Diagramming Tool <img width=\"30\" height=\"30\" alt=\"fossflow\" src=\"https://github.com/user-attachments/assets/56d78887-601c-4336-ab87-76f8ee4cde96\" /> <p align=\"center\"> <a href=\"README.md\">English</a> | <a href=\"docs/README.cn.md\">简体中文</a> | <a href=\"docs/README.es.md\">Español</a> | <a href=\"docs/README.pt.md\">Português</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.hi.md\">हिन्दी</a> | <a href=\"docs/README.bn.md\">বাংলা</a> | <a href=\"docs/README.ru.md\">...",
       "language": "TypeScript",
-      "stars": 340
+      "stars": 430
+    },
+    {
+      "rank": 10,
+      "repo_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "description_ja": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> PageIndex: Vectorless, Reason...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://vectify.ai/pageindex\" target=\"_blank\"> <img src=\"https://github.com/user-attachments/assets/46201e72-675b-43bc-bfbd-081cc6b65a1d\" alt=\"PageIndex Banner\" /> </a> <br/> <br/> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/14736\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14736\" alt=\"VectifyAI%2FPageIndex | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> PageIndex: Vectorless, Reason...",
+      "language": "Python",
+      "stars": 624
+    },
+    {
+      "rank": 11,
+      "repo_name": "cloudflare/agents",
+      "description": "Build and deploy AI Agents on Cloudflare",
+      "description_ja": "Build and deploy AI Agents on Cloudflare",
+      "readme_summary": "Cloudflare Agents ![npm version](https://www.npmjs.com/package/agents) ![npm downloads](https://www.npmjs.com/package/agents) !npm install agents Agents are persistent, stateful execution environments for agentic workloads, powered by Cloudflare Durable Objects. Each agent has its own state, storage, and lifecycle — with built-in support for real-time communication, scheduling, AI model calls, MCP, workflows, and more. Agents hibernate when idle and wake on demand",
+      "readme_summary_ja": "Cloudflare Agents ![npm version](https://www.npmjs.com/package/agents) ![npm downloads](https://www.npmjs.com/package/agents) !npm install agents Agents are persistent, stateful execution environments for agentic workloads, powered by Cloudflare Durable Objects. Each agent has its own state, storage, and lifecycle — with built-in support for real-time communication, scheduling, AI model calls, MCP, workflows, and more. Agents hibernate when idle and wake on demand",
+      "language": "TypeScript",
+      "stars": 318
+    },
+    {
+      "rank": 12,
+      "repo_name": "siteboon/claudecodeui",
+      "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
+      "description_ja": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
+      "readme_summary": "<div align=\"center\"> <img src=\"public/logo.svg\" alt=\"Claude Code UI\" width=\"64\" height=\"64\"> <h1>Cloud CLI (aka Claude Code UI)</h1> </div> A desktop and mobile UI for Claude Code, Cursor CLI and Codex. You can use it locally or remotely to view your active projects and sessions in Claude Code, Cursor, or Codex and make changes to them from everywhere (mobile or desktop). This gives you a proper interface that works everywhere",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"public/logo.svg\" alt=\"Claude Code UI\" width=\"64\" height=\"64\"> <h1>Cloud CLI (aka Claude Code UI)</h1> </div> A desktop and mobile UI for Claude Code, Cursor CLI and Codex. You can use it locally or remotely to view your active projects and sessions in Claude Code, Cursor, or Codex and make changes to them from everywhere (mobile or desktop). This gives you a proper interface that works everywhere",
+      "language": "JavaScript",
+      "stars": 62
+    },
+    {
+      "rank": 13,
+      "repo_name": "NevaMind-AI/memU",
+      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+      "description_ja": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+      "readme_summary": "!MemU Banner <div align=\"center\"> memU 24/7 Always-On Proactive Memory for AI Agents ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"wid...",
+      "readme_summary_ja": "!MemU Banner <div align=\"center\"> memU 24/7 Always-On Proactive Memory for AI Agents ![PyPI version](https://badge.fury.io/py/memu-py) ![License: Apache 2.0](https://opensource.org/licenses/Apache-2.0) ![Python 3.13+](https://www.python.org/downloads/) ![Discord](https://discord.gg/memu) ![Twitter](https://x.com/memU_ai) <a href=\"https://trendshift.io/repositories/17374\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17374\" alt=\"NevaMind-AI%2FmemU | Trendshift\" style=\"wid...",
+      "language": "Python",
+      "stars": 163
+    },
+    {
+      "rank": 14,
+      "repo_name": "clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "description_ja": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "readme_summary": "<h1 align=\"center\"> <img src=\"./src-tauri/icons/icon.png\" alt=\"Clash\" width=\"128\" /> <br> Continuation of <a href=\"https://github.com/zzzgydi/clash-verge\">Clash Verge</a> <br> </h1> <h3 align=\"center\"> A Clash Meta GUI based on <a href=\"https://github.com/tauri-apps/tauri\">Tauri</a>. </h3> <p align=\"center\"> Languages: <a href=\"./README.md\">简体中文</a> · <a href=\"./docs/README_en.md\">English</a> · <a href=\"./docs/README_es.md\">Español</a> · <a href=\"./docs/README_ru.md\">Русский</a> · <a href=\"./doc...",
+      "readme_summary_ja": "<h1 align=\"center\"> <img src=\"./src-tauri/icons/icon.png\" alt=\"Clash\" width=\"128\" /> <br> Continuation of <a href=\"https://github.com/zzzgydi/clash-verge\">Clash Verge</a> <br> </h1> <h3 align=\"center\"> A Clash Meta GUI based on <a href=\"https://github.com/tauri-apps/tauri\">Tauri</a>. </h3> <p align=\"center\"> Languages: <a href=\"./README.md\">简体中文</a> · <a href=\"./docs/README_en.md\">English</a> · <a href=\"./docs/README_es.md\">Español</a> · <a href=\"./docs/README_ru.md\">Русский</a> · <a href=\"./doc...",
+      "language": "TypeScript",
+      "stars": 142
     }
   ]
 }
