@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Trend Ranking - Daily Update</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0f0f0f 100%);
+            min-height: 100vh;
+            padding: 2rem 1rem;
+            color: #ffffff;
+            position: relative;
+        }
+        
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 20% 30%, rgba(74, 158, 255, 0.08) 0%, transparent 50%),
+                radial-gradient(circle at 80% 70%, rgba(138, 43, 226, 0.06) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: 0;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: linear-gradient(135deg, 
+                rgba(15, 15, 15, 0.95) 0%, 
+                rgba(30, 30, 30, 0.95) 30%,
+                rgba(50, 50, 50, 0.95) 70%,
+                rgba(35, 35, 35, 0.95) 100%);
+            border-radius: 16px;
+            padding: 3rem 2rem;
+            box-shadow: 
+                0 20px 60px rgba(0, 0, 0, 0.8),
+                inset 0 1px 0 rgba(255, 255, 255, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            position: relative;
+            z-index: 1;
+        }
+        
+        .header {
+            position: relative;
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid #333;
+        }
+        
+        .lang-switch {
+            position: absolute;
+            top: 0;
+            right: 0;
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.1), rgba(138, 43, 226, 0.1));
+            color: #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        
+        .lang-switch:hover {
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.2), rgba(138, 43, 226, 0.2));
+            border-color: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(74, 158, 255, 0.2);
+        }
+        
+        h1 {
+            background: linear-gradient(90deg, 
+                #b8b8b8 0%, 
+                #ffffff 20%,
+                #e0e0e0 40%,
+                #ffffff 60%,
+                #d0d0d0 80%,
+                #a0a0a0 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-size: 2.5rem;
+            margin-bottom: 0.8rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            cursor: default;
+        }
+        
+        .subtitle {
+            color: #999;
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+            font-weight: 400;
+        }
+        
+        .updated-time {
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 1rem;
+            font-weight: 400;
+        }
+        
+        .description {
+            background: rgba(255, 255, 255, 0.03);
+            border-left: 3px solid #4a9eff;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+        }
+        
+        .description:hover {
+            background: rgba(255, 255, 255, 0.05);
+            border-left-color: #66b3ff;
+            box-shadow: 0 4px 12px rgba(74, 158, 255, 0.15);
+            transform: translateX(4px);
+        }
+        
+        .description h2 {
+            color: #ffffff;
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+        
+        .description p {
+            color: #aaa;
+            line-height: 1.8;
+            margin-bottom: 0.5rem;
+            font-size: 0.95rem;
+        }
+        
+        .ranking {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+        
+        .rank-item {
+            display: flex;
+            flex-direction: column;
+            padding: 1.2rem;
+            background: linear-gradient(135deg, 
+                rgba(20, 20, 20, 0.8) 0%, 
+                rgba(35, 35, 35, 0.8) 100%);
+            border-radius: 12px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            cursor: pointer;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .rank-item:hover {
+            transform: translateY(-2px);
+            background: linear-gradient(135deg, 
+                rgba(28, 28, 28, 0.92) 0%, 
+                rgba(38, 38, 38, 0.92) 50%,
+                rgba(32, 32, 32, 0.92) 100%);
+            border-color: rgba(255, 255, 255, 0.18);
+            box-shadow: 
+                0 8px 24px rgba(0, 0, 0, 0.6),
+                inset 0 1px 0 rgba(255, 255, 255, 0.12);
+        }
+        
+        .rank-item.expanded {
+            border-color: rgba(74, 158, 255, 0.3);
+        }
+        
+        .rank-item-header {
+            display: grid;
+            grid-template-columns: 60px 1fr 120px;
+            align-items: center;
+            width: 100%;
+        }
+        
+        .detail-panel {
+            max-height: 0;
+            opacity: 0;
+            overflow: hidden;
+            transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+                        opacity 0.3s ease,
+                        padding 0.3s ease,
+                        margin 0.3s ease;
+            padding: 0 1rem;
+            margin-top: 0;
+            width: 100%;
+        }
+        
+        .detail-panel.active {
+            max-height: 800px;
+            opacity: 1;
+            padding: 1.5rem 1rem 0.5rem;
+            margin-top: 1rem;
+            border-top: 1px solid rgba(74, 158, 255, 0.2);
+        }
+        
+        .detail-content h3 {
+            color: #4a9eff;
+            font-size: 1rem;
+            margin-bottom: 0.8rem;
+            font-weight: 600;
+        }
+        
+        .detail-content p {
+            color: #ccc;
+            line-height: 1.7;
+            margin-bottom: 1rem;
+            font-size: 0.95rem;
+        }
+        
+        .detail-meta {
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.08);
+        }
+        
+        .detail-meta-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.9rem;
+            color: #999;
+        }
+        
+        .detail-meta-item strong {
+            color: #fff;
+            font-weight: 600;
+        }
+        
+        .detail-link {
+            display: inline-block;
+            margin-top: 1rem;
+            padding: 0.6rem 1.2rem;
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.15), rgba(138, 43, 226, 0.15));
+            border: 1px solid rgba(74, 158, 255, 0.3);
+            border-radius: 6px;
+            color: #4a9eff;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.2s ease;
+            font-size: 0.9rem;
+        }
+        
+        .detail-link:hover {
+            background: linear-gradient(135deg, rgba(74, 158, 255, 0.25), rgba(138, 43, 226, 0.25));
+            border-color: rgba(74, 158, 255, 0.5);
+            transform: translateX(4px);
+        }
+        
+        .expand-icon {
+            display: inline-block;
+            margin-left: 0.5rem;
+            transition: transform 0.3s ease;
+            color: #4a9eff;
+            font-size: 0.8rem;
+        }
+        
+        .rank-item.expanded .expand-icon {
+            transform: rotate(180deg);
+        }
+        
+        .rank-number {
+            font-size: 1.44rem;
+            font-weight: 700;
+            color: #4a9eff;
+            text-align: center;
+            font-variant-numeric: tabular-nums;
+        }
+        
+        .repo-info {
+            padding: 0 1.5rem;
+        }
+        
+        .repo-name {
+            font-size: 1.15rem;
+            color: #ffffff;
+            font-weight: 500;
+            margin-bottom: 0.3rem;
+        }
+        
+        .repo-name a {
+            color: inherit;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        
+        .repo-name a:hover {
+            color: #4a9eff;
+        }
+        
+        .repo-desc {
+            font-size: 0.9rem;
+            color: #aaa;
+            line-height: 1.5;
+            margin-top: 0.5rem;
+        }
+        
+        .repo-lang {
+            display: inline-block;
+            font-size: 0.85rem;
+            color: #666;
+            margin-top: 0.5rem;
+            padding: 0.2rem 0.6rem;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 4px;
+        }
+        
+        .stars {
+            color: #ffa726;
+            font-size: 1rem;
+            text-align: right;
+            font-weight: 600;
+            font-variant-numeric: tabular-nums;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: #666;
+            font-size: 1.2rem;
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid #333;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        .footer a {
+            color: #4a9eff;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+        
+        .footer a:hover {
+            color: #66b3ff;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem 0.5rem;
+            }
+            
+            .container {
+                padding: 2rem 1rem;
+                border-radius: 12px;
+            }
+            
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            .rank-item {
+                padding: 1rem;
+            }
+            
+            .rank-item-header {
+                grid-template-columns: 50px 1fr;
+                gap: 0.5rem;
+            }
+            
+            .repo-info {
+                padding: 0.5rem 0;
+            }
+            
+            .stars {
+                grid-column: 1 / -1;
+                text-align: left;
+                padding-left: 50px;
+                margin-top: 0.5rem;
+            }
+            
+            .detail-meta {
+                flex-direction: column;
+                gap: 0.8rem;
+            }
+            
+            .detail-link {
+                width: 100%;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <button class="lang-switch" data-i18n="lang_button">EN</button>
+            <h1 style="display: flex; align-items: center; justify-content: center; gap: 0.8rem;">
+                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="trendGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#4a9eff;stop-opacity:1" />
+                            <stop offset="50%" style="stop-color:#66b3ff;stop-opacity:1" />
+                            <stop offset="100%" style="stop-color:#8a2be2;stop-opacity:1" />
+                        </linearGradient>
+                    </defs>
+                    <path d="M5 30 L12 25 L18 28 L25 18 L32 22 L38 12" stroke="url(#trendGradient)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <circle cx="5" cy="30" r="2.5" fill="url(#trendGradient)"/>
+                    <circle cx="12" cy="25" r="2.5" fill="url(#trendGradient)"/>
+                    <circle cx="18" cy="28" r="2.5" fill="url(#trendGradient)"/>
+                    <circle cx="25" cy="18" r="2.5" fill="url(#trendGradient)"/>
+                    <circle cx="32" cy="22" r="2.5" fill="url(#trendGradient)"/>
+                    <circle cx="38" cy="12" r="3" fill="url(#trendGradient)">
+                        <animate attributeName="r" values="3;4;3" dur="2s" repeatCount="indefinite"/>
+                    </circle>
+                    <path d="M34 10 L38 6 L42 10" stroke="url(#trendGradient)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.8"/>
+                </svg>
+                <span data-i18n="main_title">GitHub Trend Ranking</span>
+            </h1>
+            <p class="subtitle" data-i18n="main_subtitle">Daily Trending Repositories</p>
+            <p class="updated-time" id="updated-time">Loading...</p>
+        </div>
+        
+        <div class="description">
+            <h2 data-i18n="about_title">About This Ranking</h2>
+            <p data-i18n="about_desc1">GitHubのトレンドリポジトリを毎日自動収集してランキング化しています。</p>
+            <p data-i18n="about_desc2">各リポジトリの説明、使用言語、スター数、プロジェクトの概要を表示しています。</p>
+            <p data-i18n="about_desc3">データは1日1回、午前9時に自動更新されます。</p>
+        </div>
+        
+        <div id="ranking" class="ranking">
+            <div class="loading">Loading data...</div>
+        </div>
+        
+        <div class="footer">
+            <p><a href="home.html" style="display: inline-block; padding: 0.8rem 2rem; background: linear-gradient(135deg, rgba(20, 20, 20, 0.8) 0%, rgba(35, 35, 35, 0.8) 100%); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px; color: #ffffff; text-decoration: none; font-weight: 600; transition: all 0.3s ease; margin-bottom: 1rem;" data-i18n="footer_home">← ホームに戻る</a></p>
+            <p>Data Source: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
+            <p>Project: <a href="https://github.com/Tenormusica2024/ai-trend-daily" target="_blank">ai-trend-daily on GitHub</a></p>
+        </div>
+    </div>
+    
+    <script>
+        const translations = {
+            ja: {
+                lang_button: "EN",
+                main_title: "GitHub Trend Ranking",
+                main_subtitle: "Daily Trending Repositories",
+                about_title: "About This Ranking",
+                about_desc1: "GitHubのトレンドリポジトリを毎日自動収集してランキング化しています。",
+                about_desc2: "各リポジトリの説明、使用言語、スター数、プロジェクトの概要を表示しています。",
+                about_desc3: "データは1日1回、午前9時に自動更新されます。",
+                footer_home: "← ホームに戻る",
+                last_updated: "最終更新:"
+            },
+            en: {
+                lang_button: "日本語",
+                main_title: "GitHub Trend Ranking",
+                main_subtitle: "Daily Trending Repositories",
+                about_title: "About This Ranking",
+                about_desc1: "We automatically collect and rank GitHub trending repositories daily.",
+                about_desc2: "Each repository displays its description, language, star count, and project overview.",
+                about_desc3: "Data is automatically updated once a day at 9:00 AM.",
+                footer_home: "← Back to Home",
+                last_updated: "Last Updated:"
+            }
+        };
+        
+        let currentLang = localStorage.getItem('ai-trend-lang') || 'ja';
+        
+        function updateContent() {
+            document.documentElement.lang = currentLang;
+            const t = translations[currentLang];
+            
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const key = el.getAttribute('data-i18n');
+                if (t[key]) {
+                    el.textContent = t[key];
+                }
+            });
+        }
+        
+        // HTMLタグを除去してプレーンテキストに変換
+        function stripHtmlTags(html) {
+            if (!html) return '';
+            const tmp = document.createElement('div');
+            tmp.innerHTML = html;
+            return tmp.textContent || tmp.innerText || '';
+        }
+        
+        async function loadRanking() {
+            try {
+                const response = await fetch('github_ranking.json');
+                const data = await response.json();
+                
+                const t = translations[currentLang];
+                document.getElementById('updated-time').textContent = 
+                    `${t.last_updated} ${data.updated_at}`;
+                
+                // DOM APIを使用した確実なHTML生成
+                const rankingContainer = document.getElementById('ranking');
+                rankingContainer.innerHTML = ''; // クリア
+                
+                data.ranking.forEach(item => {
+                    const description = currentLang === 'ja' ? (item.description_ja || item.description) : item.description;
+                    // HTMLタグを除去してプレーンテキスト化
+                    const readmeSummary = stripHtmlTags(currentLang === 'ja' ? (item.readme_summary_ja || item.readme_summary) : item.readme_summary);
+                    
+                    // rank-item作成
+                    const rankItem = document.createElement('div');
+                    rankItem.className = 'rank-item';
+                    rankItem.setAttribute('data-rank', item.rank);
+                    
+                    // rank-item-header作成
+                    const header = document.createElement('div');
+                    header.className = 'rank-item-header';
+                    
+                    // rank-number
+                    const rankNumber = document.createElement('div');
+                    rankNumber.className = 'rank-number';
+                    rankNumber.textContent = `#${item.rank}`;
+                    
+                    // repo-info
+                    const repoInfo = document.createElement('div');
+                    repoInfo.className = 'repo-info';
+                    
+                    // repo-name
+                    const repoName = document.createElement('div');
+                    repoName.className = 'repo-name';
+                    const repoLink = document.createElement('a');
+                    repoLink.href = `https://github.com/${item.repo_name}`;
+                    repoLink.target = '_blank';
+                    repoLink.textContent = item.repo_name;
+                    repoLink.onclick = (e) => e.stopPropagation();
+                    const expandIcon = document.createElement('span');
+                    expandIcon.className = 'expand-icon';
+                    expandIcon.textContent = '▼';
+                    repoName.appendChild(repoLink);
+                    repoName.appendChild(expandIcon);
+                    
+                    // repo-desc
+                    const repoDesc = document.createElement('div');
+                    repoDesc.className = 'repo-desc';
+                    repoDesc.textContent = description;
+                    
+                    repoInfo.appendChild(repoName);
+                    repoInfo.appendChild(repoDesc);
+                    
+                    // repo-lang (条件付き)
+                    if (item.language) {
+                        const repoLang = document.createElement('div');
+                        repoLang.className = 'repo-lang';
+                        repoLang.textContent = item.language;
+                        repoInfo.appendChild(repoLang);
+                    }
+                    
+                    // stars
+                    const stars = document.createElement('div');
+                    stars.className = 'stars';
+                    stars.textContent = `${item.stars.toLocaleString()} stars`;
+                    
+                    header.appendChild(rankNumber);
+                    header.appendChild(repoInfo);
+                    header.appendChild(stars);
+                    
+                    // detail-panel作成
+                    const detailPanel = document.createElement('div');
+                    detailPanel.className = 'detail-panel';
+                    
+                    const detailContent = document.createElement('div');
+                    detailContent.className = 'detail-content';
+                    
+                    // プロジェクト概要
+                    const overviewTitle = document.createElement('h3');
+                    overviewTitle.textContent = currentLang === 'ja' ? 'プロジェクト概要' : 'Project Overview';
+                    const overviewText = document.createElement('p');
+                    overviewText.textContent = description;
+                    detailContent.appendChild(overviewTitle);
+                    detailContent.appendChild(overviewText);
+                    
+                    // README詳細 (条件付き)
+                    if (readmeSummary) {
+                        const readmeTitle = document.createElement('h3');
+                        readmeTitle.style.marginTop = '1.5rem';
+                        readmeTitle.textContent = currentLang === 'ja' ? '詳細説明' : 'Detailed Description';
+                        const readmeText = document.createElement('p');
+                        readmeText.textContent = readmeSummary;
+                        detailContent.appendChild(readmeTitle);
+                        detailContent.appendChild(readmeText);
+                    }
+                    
+                    // detail-meta
+                    const detailMeta = document.createElement('div');
+                    detailMeta.className = 'detail-meta';
+                    
+                    // スター数
+                    const starsMetaItem = document.createElement('div');
+                    starsMetaItem.className = 'detail-meta-item';
+                    const starsLabel = document.createElement('strong');
+                    starsLabel.textContent = currentLang === 'ja' ? 'スター数:' : 'Stars:';
+                    starsMetaItem.appendChild(starsLabel);
+                    starsMetaItem.appendChild(document.createTextNode(` ${item.stars.toLocaleString()}`));
+                    detailMeta.appendChild(starsMetaItem);
+                    
+                    // 主要言語 (条件付き)
+                    if (item.language) {
+                        const langMetaItem = document.createElement('div');
+                        langMetaItem.className = 'detail-meta-item';
+                        const langLabel = document.createElement('strong');
+                        langLabel.textContent = currentLang === 'ja' ? '主要言語:' : 'Language:';
+                        langMetaItem.appendChild(langLabel);
+                        langMetaItem.appendChild(document.createTextNode(` ${item.language}`));
+                        detailMeta.appendChild(langMetaItem);
+                    }
+                    
+                    // トレンド順位
+                    const rankMetaItem = document.createElement('div');
+                    rankMetaItem.className = 'detail-meta-item';
+                    const rankLabel = document.createElement('strong');
+                    rankLabel.textContent = currentLang === 'ja' ? 'トレンド順位:' : 'Rank:';
+                    rankMetaItem.appendChild(rankLabel);
+                    rankMetaItem.appendChild(document.createTextNode(` #${item.rank}`));
+                    detailMeta.appendChild(rankMetaItem);
+                    
+                    detailContent.appendChild(detailMeta);
+                    
+                    // GitHubリンク
+                    const detailLink = document.createElement('a');
+                    detailLink.href = `https://github.com/${item.repo_name}`;
+                    detailLink.target = '_blank';
+                    detailLink.className = 'detail-link';
+                    detailLink.textContent = currentLang === 'ja' ? 'GitHubで詳細を見る →' : 'View on GitHub →';
+                    detailLink.onclick = (e) => e.stopPropagation();
+                    detailContent.appendChild(detailLink);
+                    
+                    detailPanel.appendChild(detailContent);
+                    
+                    // 全体を組み立て
+                    rankItem.appendChild(header);
+                    rankItem.appendChild(detailPanel);
+                    
+                    // コンテナに追加
+                    rankingContainer.appendChild(rankItem);
+                });
+                
+                // クリックイベントリスナーを追加
+                document.querySelectorAll('.rank-item').forEach(item => {
+                    item.addEventListener('click', function(e) {
+                        // リンククリックは除外
+                        if (e.target.tagName === 'A') return;
+                        
+                        // 他の展開パネルを閉じる
+                        document.querySelectorAll('.rank-item.expanded').forEach(expandedItem => {
+                            if (expandedItem !== this) {
+                                expandedItem.classList.remove('expanded');
+                                expandedItem.querySelector('.detail-panel').classList.remove('active');
+                            }
+                        });
+                        
+                        // クリックされたパネルをトグル
+                        this.classList.toggle('expanded');
+                        const panel = this.querySelector('.detail-panel');
+                        panel.classList.toggle('active');
+                    });
+                });
+                
+            } catch (error) {
+                console.error('Error loading ranking data:', error);
+                document.getElementById('ranking').innerHTML = 
+                    '<div class="loading">Failed to load data.</div>';
+            }
+        }
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            updateContent();
+            loadRanking();
+            
+            const langSwitch = document.querySelector('.lang-switch');
+            if (langSwitch) {
+                langSwitch.addEventListener('click', function() {
+                    currentLang = currentLang === 'ja' ? 'en' : 'ja';
+                    localStorage.setItem('ai-trend-lang', currentLang);
+                    updateContent();
+                    loadRanking();
+                });
+            }
+        });
+        
+        // 10分ごとにリロード
+        setInterval(loadRanking, 600000);
+    </script>
+</body>
+</html>
