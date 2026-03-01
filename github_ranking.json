@@ -1,56 +1,56 @@
 {
-  "updated_at": "2026-02-28 03:15:35",
-  "total_repos": 16,
+  "updated_at": "2026-03-01 03:47:01",
+  "total_repos": 17,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "ruvnet/wifi-densepose",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "description_ja": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "readme_summary": "WiFi DensePose ![Python 3.8+](https://www.python.org/downloads/) ![FastAPI](https://fastapi.tiangolo.com/) ![License: MIT](https://opensource.org/licenses/MIT) ![PyPI version](https://pypi.org/project/wifi-densepose/) ![PyPI downloads](https://pypi.org/project/wifi-densepose/) ![Test Coverage](https://github.com/ruvnet/wifi-densepose) ![Docker](https://hub.docker.com/r/ruvnet/wifi-densepose) A cutting-edge WiFi-based human pose estimation system that leverages Channel State Information (CSI) dat...",
-      "readme_summary_ja": "WiFi DensePose ![Python 3.8+](https://www.python.org/downloads/) ![FastAPI](https://fastapi.tiangolo.com/) ![License: MIT](https://opensource.org/licenses/MIT) ![PyPI version](https://pypi.org/project/wifi-densepose/) ![PyPI downloads](https://pypi.org/project/wifi-densepose/) ![Test Coverage](https://github.com/ruvnet/wifi-densepose) ![Docker](https://hub.docker.com/r/ruvnet/wifi-densepose) A cutting-edge WiFi-based human pose estimation system that leverages Channel State Information (CSI) dat...",
-      "language": "Python",
-      "stars": 478
+      "readme_summary": "WiFi DensePose > **Hardware Required:** This system processes real WiFi Channel State Information (CSI) data. To capture live CSI you need one of: > > | Option | Hardware | Cost | Capabilities | > |--------|----------|------|-------------| > | **ESP32 Mesh** (recommended) | 3-6x ESP32-S3 boards + consumer WiFi router | ~$54 | Presence, motion, respiration detection | > | **Research NIC** | Intel 5300 or Atheros AR9580 (discontinued) | ~$50-100 | Full CSI with 3x3 MIMO | > | **Commodity WiFi** | ...",
+      "readme_summary_ja": "WiFi DensePose > **Hardware Required:** This system processes real WiFi Channel State Information (CSI) data. To capture live CSI you need one of: > > | Option | Hardware | Cost | Capabilities | > |--------|----------|------|-------------| > | **ESP32 Mesh** (recommended) | 3-6x ESP32-S3 boards + consumer WiFi router | ~$54 | Presence, motion, respiration detection | > | **Research NIC** | Intel 5300 or Atheros AR9580 (discontinued) | ~$50-100 | Full CSI with 3x3 MIMO | > | **Commodity WiFi** | ...",
+      "language": "Rust",
+      "stars": 2152
     },
     {
       "rank": 2,
-      "repo_name": "bytedance/deer-flow",
-      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
-      "description_ja": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
-      "readme_summary": "🦌 DeerFlow - 2.0 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearch **Flow**) is an open-source **super agent harness** that orchestrates **sub-agents**, **memory**, and **sandboxes** to do almost anything — powered by **extensible skills**. https://github.com/user-attachments/assets/a8bcadc4-e040-4cf2-8fda-dd768b999c18 > [!NOTE] > **DeerFlow 2.0 is a ground-up rewrite.** It shares no code with v1. If you're looking for the original Deep Research framework, it's maintained on the ...",
-      "readme_summary_ja": "🦌 DeerFlow - 2.0 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearch **Flow**) is an open-source **super agent harness** that orchestrates **sub-agents**, **memory**, and **sandboxes** to do almost anything — powered by **extensible skills**. https://github.com/user-attachments/assets/a8bcadc4-e040-4cf2-8fda-dd768b999c18 > [!NOTE] > **DeerFlow 2.0 is a ground-up rewrite.** It shares no code with v1. If you're looking for the original Deep Research framework, it's maintained on the ...",
+      "repo_name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description_ja": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "readme_summary": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
+      "readme_summary_ja": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
       "language": "TypeScript",
-      "stars": 696
+      "stars": 1065
     },
     {
       "rank": 3,
-      "repo_name": "moonshine-ai/moonshine",
-      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-      "description_ja": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-      "readme_summary": "!Moonshine Voice Logo Moonshine Voice **Voice Interfaces for Everyone** - Quickstart - When should you choose Moonshine over Whisper? - Using the Library - Models - API Reference - Support - Roadmap - Acknowledgements - License Moonshine Voice is an open source AI toolkit for developers building real-time voice applications. - Everything runs on-device, so it's fast, private, and you don't need an account, credit card, or API keys. - The framework and models are optimized for live streaming appl...",
-      "readme_summary_ja": "!Moonshine Voice Logo Moonshine Voice **Voice Interfaces for Everyone** - Quickstart - When should you choose Moonshine over Whisper? - Using the Library - Models - API Reference - Support - Roadmap - Acknowledgements - License Moonshine Voice is an open source AI toolkit for developers building real-time voice applications. - Everything runs on-device, so it's fast, private, and you don't need an account, credit card, or API keys. - The framework and models are optimized for live streaming appl...",
-      "language": "C",
-      "stars": 593
+      "repo_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "description_ja": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
+      "readme_summary_ja": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
+      "language": "Shell",
+      "stars": 699
     },
     {
       "rank": 4,
-      "repo_name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
-      "description_ja": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
-      "readme_summary": "Agent Skills for Context Engineering A comprehensive, open collection of Agent Skills focused on context engineering principles for building production-grade AI agent systems. These skills teach the art and science of curating context to maximize agent effectiveness across any agent platform. What is Context Engineering? Context engineering is the discipline of managing the language model's context window",
-      "readme_summary_ja": "Agent Skills for Context Engineering A comprehensive, open collection of Agent Skills focused on context engineering principles for building production-grade AI agent systems. These skills teach the art and science of curating context to maximize agent effectiveness across any agent platform. What is Context Engineering? Context engineering is the discipline of managing the language model's context window",
-      "language": "Python",
-      "stars": 803
+      "repo_name": "tukaani-project/xz",
+      "description": "XZ Utils",
+      "description_ja": "XZ Utils",
+      "readme_summary": "XZ Utils ======== 0. Overview 1. Documentation 1.1",
+      "readme_summary_ja": "XZ Utils ======== 0. Overview 1. Documentation 1.1",
+      "language": "C",
+      "stars": 107
     },
     {
       "rank": 5,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 1546
+      "repo_name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "description_ja": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "readme_summary": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter/follow/Shubham_Saboo\" alt=\"Twitter\"> </a> </p> <p align=\"center\"> <!-- Keep the...",
+      "language": "Python",
+      "stars": 635
     },
     {
       "rank": 6,
@@ -60,97 +60,97 @@
       "readme_summary": "🌊 Ruflo v3: Enterprise AI Orchestration Platform <div align=\"center\"> !Ruflo Banner ![GitHub Project of the Day](https://github.com/ruvnet/claude-flow) ![Star on GitHub](https://github.com/ruvnet/claude-flow) ![Monthly Downloads](https://www.npmjs.com/package/claude-flow) ![Total Downloads](https://www.npmjs.com/package/claude-flow) ![ruv.io](https://ruv.io) ![Agentics Foundation](https://discord.com/invite/dfxmpwkG2D) ![Claude Code](https://github.com/ruvnet/claude-flow) ![MIT License](https://...",
       "readme_summary_ja": "🌊 Ruflo v3: Enterprise AI Orchestration Platform <div align=\"center\"> !Ruflo Banner ![GitHub Project of the Day](https://github.com/ruvnet/claude-flow) ![Star on GitHub](https://github.com/ruvnet/claude-flow) ![Monthly Downloads](https://www.npmjs.com/package/claude-flow) ![Total Downloads](https://www.npmjs.com/package/claude-flow) ![ruv.io](https://ruv.io) ![Agentics Foundation](https://discord.com/invite/dfxmpwkG2D) ![Claude Code](https://github.com/ruvnet/claude-flow) ![MIT License](https://...",
       "language": "TypeScript",
-      "stars": 531
+      "stars": 928
     },
     {
       "rank": 7,
-      "repo_name": "datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "description_ja": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "readme_summary": "<div align=\"right\"> <a href=\"./README_EN.md\">English</a> | 中文 </div> <div align='center'> <img src=\"./docs/images/hello-agents.png\" alt=\"alt text\" width=\"100%\"> <h1>Hello-Agents</h1> <h3>🤖 《从零开始构建智能体》</h3> <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15520\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories/15520\" alt=\"datawhalechina%2Fhello-agents | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </div> <p><em>从基础理论到实际应用，全面...",
-      "readme_summary_ja": "<div align=\"right\"> <a href=\"./README_EN.md\">English</a> | 中文 </div> <div align='center'> <img src=\"./docs/images/hello-agents.png\" alt=\"alt text\" width=\"100%\"> <h1>Hello-Agents</h1> <h3>🤖 《从零开始构建智能体》</h3> <div align=\"center\"> <a href=\"https://trendshift.io/repositories/15520\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories/15520\" alt=\"datawhalechina%2Fhello-agents | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </div> <p><em>从基础理论到实际应用，全面...",
+      "repo_name": "bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "description_ja": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "readme_summary": "🦌 DeerFlow - 2.0 <a href=\"https://trendshift.io/repositories/14699\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14699\" alt=\"bytedance%2Fdeer-flow | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> > On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredible community — you made this happen! 💪🔥 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearc...",
+      "readme_summary_ja": "🦌 DeerFlow - 2.0 <a href=\"https://trendshift.io/repositories/14699\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14699\" alt=\"bytedance%2Fdeer-flow | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> > On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredible community — you made this happen! 💪🔥 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearc...",
       "language": "Python",
-      "stars": 324
+      "stars": 899
     },
     {
       "rank": 8,
-      "repo_name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "description_ja": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "readme_summary": "GitNexus <a href=\"https://trendshift.io/repositories/19809\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/19809\" alt=\"abhigyanpatwari%2FGitNexus | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> **Building git for agent context.** Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code. ![npm version](https://www.npmjs.com/packa...",
-      "readme_summary_ja": "GitNexus <a href=\"https://trendshift.io/repositories/19809\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/19809\" alt=\"abhigyanpatwari%2FGitNexus | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> **Building git for agent context.** Indexes any codebase into a knowledge graph — every dependency, call chain, cluster, and execution flow — then exposes it through smart tools so AI agents never miss code. ![npm version](https://www.npmjs.com/packa...",
-      "language": "TypeScript",
-      "stars": 1385
-    },
-    {
-      "rank": 9,
-      "repo_name": "moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "description_ja": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "readme_summary": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
-      "readme_summary_ja": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
-      "language": "TypeScript",
-      "stars": 199
-    },
-    {
-      "rank": 10,
-      "repo_name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "description_ja": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "readme_summary_ja": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "language": "Shell",
-      "stars": 494
-    },
-    {
-      "rank": 11,
-      "repo_name": "ruvnet/ruvector",
-      "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
-      "description_ja": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
-      "readme_summary": "RuVector — A Self-Learning, Agentic Operating System ![CES 2026 Innovation Award](https://cognitum.one) ![GitHub Trending](https://github.com/ruvnet/ruvector) ![Crates.io](https://crates.io/crates/ruvector-core) ![npm](https://www.npmjs.com/package/ruvector) ![Downloads](https://www.npmjs.com/package/ruvector) ![Monthly Downloads](https://www.npmjs.com/package/ruvector) ![ruv.io](https://ruv.io) ![MIT License](https://opensource.org/licenses/MIT) **The self-learning, self-optimizing vector datab...",
-      "readme_summary_ja": "RuVector — A Self-Learning, Agentic Operating System ![CES 2026 Innovation Award](https://cognitum.one) ![GitHub Trending](https://github.com/ruvnet/ruvector) ![Crates.io](https://crates.io/crates/ruvector-core) ![npm](https://www.npmjs.com/package/ruvector) ![Downloads](https://www.npmjs.com/package/ruvector) ![Monthly Downloads](https://www.npmjs.com/package/ruvector) ![ruv.io](https://ruv.io) ![MIT License](https://opensource.org/licenses/MIT) **The self-learning, self-optimizing vector datab...",
-      "language": "Rust",
-      "stars": 410
-    },
-    {
-      "rank": 12,
       "repo_name": "Wei-Shaw/claude-relay-service",
       "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "description_ja": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "readme_summary": "Claude Relay Service > [!CAUTION] > **安全更新通知**：v1.1.248 及以下版本存在严重的管理员认证绕过漏洞，攻击者可未授权访问管理面板。 > > **请立即更新到 v1.1.249+ 版本**，或迁移到新一代项目 **CRS 2.0 (sub2api)** <div align=\"center\"> ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org/) ![Redis](https://redis.io/) ![Docker](https://www.docker.com/) ![Docker Build](https://github.com/Wei-Shaw/claude-relay-service/actions/workflows/auto-release-pipeline.yml) ![Docker Pulls](https://hub.docker.com/r/weishaw/claude-relay-service)...",
       "readme_summary_ja": "Claude Relay Service > [!CAUTION] > **安全更新通知**：v1.1.248 及以下版本存在严重的管理员认证绕过漏洞，攻击者可未授权访问管理面板。 > > **请立即更新到 v1.1.249+ 版本**，或迁移到新一代项目 **CRS 2.0 (sub2api)** <div align=\"center\"> ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org/) ![Redis](https://redis.io/) ![Docker](https://www.docker.com/) ![Docker Build](https://github.com/Wei-Shaw/claude-relay-service/actions/workflows/auto-release-pipeline.yml) ![Docker Pulls](https://hub.docker.com/r/weishaw/claude-relay-service)...",
       "language": "JavaScript",
-      "stars": 53
+      "stars": 171
+    },
+    {
+      "rank": 9,
+      "repo_name": "NousResearch/hermes-agent",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ⚕ <p align=\"center\"> <a href=\"https://x.com/NousResearch\"><img src=\"https://img.shields.io/badge/@NousResearch-black?style=for-the-badge&logo=X&logoColor=white\" alt=\"@NousResearch\"/></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousResearch/hermes-a...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ⚕ <p align=\"center\"> <a href=\"https://x.com/NousResearch\"><img src=\"https://img.shields.io/badge/@NousResearch-black?style=for-the-badge&logo=X&logoColor=white\" alt=\"@NousResearch\"/></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousResearch/hermes-a...",
+      "language": "Python",
+      "stars": 182
+    },
+    {
+      "rank": 10,
+      "repo_name": "superset-sh/superset",
+      "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "description_ja": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "readme_summary": "<div align=\"center\"> <img width=\"full\" alt=\"Superset\" src=\"apps/marketing/public/images/readme-hero.png\" /> The Terminal for Coding Agents ![GitHub stars](https://github.com/superset-sh/superset/stargazers) ![GitHub release](https://github.com/superset-sh/superset/releases) ![License](LICENSE.md) ![Twitter](https://x.com/superset_sh) ![Discord](https://discord.gg/cZeD9WYcV7) <br /> **Download for macOS** &nbsp;&bull;&nbsp; Documentation &nbsp;&bull;&nbsp; Changelog &nbsp;&bull;&nbsp; Discord <br...",
+      "readme_summary_ja": "<div align=\"center\"> <img width=\"full\" alt=\"Superset\" src=\"apps/marketing/public/images/readme-hero.png\" /> The Terminal for Coding Agents ![GitHub stars](https://github.com/superset-sh/superset/stargazers) ![GitHub release](https://github.com/superset-sh/superset/releases) ![License](LICENSE.md) ![Twitter](https://x.com/superset_sh) ![Discord](https://discord.gg/cZeD9WYcV7) <br /> **Download for macOS** &nbsp;&bull;&nbsp; Documentation &nbsp;&bull;&nbsp; Changelog &nbsp;&bull;&nbsp; Discord <br...",
+      "language": "TypeScript",
+      "stars": 181
+    },
+    {
+      "rank": 11,
+      "repo_name": "moonshine-ai/moonshine",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "description_ja": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "readme_summary": "!Moonshine Voice Logo Moonshine Voice **Voice Interfaces for Everyone** - Quickstart - When should you choose Moonshine over Whisper? - Using the Library - Models - API Reference - Support - Roadmap - Acknowledgements - License Moonshine Voice is an open source AI toolkit for developers building real-time voice applications. - Everything runs on-device, so it's fast, private, and you don't need an account, credit card, or API keys. - The framework and models are optimized for live streaming appl...",
+      "readme_summary_ja": "!Moonshine Voice Logo Moonshine Voice **Voice Interfaces for Everyone** - Quickstart - When should you choose Moonshine over Whisper? - Using the Library - Models - API Reference - Support - Roadmap - Acknowledgements - License Moonshine Voice is an open source AI toolkit for developers building real-time voice applications. - Everything runs on-device, so it's fast, private, and you don't need an account, credit card, or API keys. - The framework and models are optimized for live streaming appl...",
+      "language": "C",
+      "stars": 496
+    },
+    {
+      "rank": 12,
+      "repo_name": "PaddlePaddle/Paddle",
+      "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+      "description_ja": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+      "readme_summary": "<p align=\"center\"> <img align=\"center\" src=\"doc/imgs/logo.png\", width=1600> <p> -------------------------------------------------------------------------------- English | 简体中文 | 日本語 ![Documentation Status](https://paddlepaddle.org.cn/documentation/docs/en/guides/index_en.html) ![Documentation Status](https://paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html) ![Release](https://github.com/PaddlePaddle/Paddle/releases) ![License](LICENSE) !X (formerly Twitter) URL Welcome to the Paddl...",
+      "readme_summary_ja": "<p align=\"center\"> <img align=\"center\" src=\"doc/imgs/logo.png\", width=1600> <p> -------------------------------------------------------------------------------- English | 简体中文 | 日本語 ![Documentation Status](https://paddlepaddle.org.cn/documentation/docs/en/guides/index_en.html) ![Documentation Status](https://paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html) ![Release](https://github.com/PaddlePaddle/Paddle/releases) ![License](LICENSE) !X (formerly Twitter) URL Welcome to the Paddl...",
+      "language": "C++",
+      "stars": 10
     },
     {
       "rank": 13,
-      "repo_name": "tukaani-project/xz",
-      "description": "XZ Utils",
-      "description_ja": "XZ Utils",
-      "readme_summary": "XZ Utils ======== 0. Overview 1. Documentation 1.1",
-      "readme_summary_ja": "XZ Utils ======== 0. Overview 1. Documentation 1.1",
-      "language": "C",
-      "stars": 85
+      "repo_name": "datagouv/datagouv-mcp",
+      "description": "Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.",
+      "description_ja": "Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.",
+      "readme_summary": "data.gouv.fr MCP Server <img width=\"1200\" height=\"675\" alt=\"image\" src=\"https://github.com/user-attachments/assets/5d20e992-349a-4b3b-9a0a-ebe308735cc9\" /> ![CircleCI](https://circleci.com/gh/datagouv/datagouv-mcp) ![License: MIT](https://opensource.org/licenses/MIT) Model Context Protocol (MCP) server that allows AI chatbots (Claude, ChatGPT, Gemini, etc.) to search, explore, and analyze datasets from data.gouv.fr, the French national Open Data platform, directly through conversation. Instead o...",
+      "readme_summary_ja": "data.gouv.fr MCP Server <img width=\"1200\" height=\"675\" alt=\"image\" src=\"https://github.com/user-attachments/assets/5d20e992-349a-4b3b-9a0a-ebe308735cc9\" /> ![CircleCI](https://circleci.com/gh/datagouv/datagouv-mcp) ![License: MIT](https://opensource.org/licenses/MIT) Model Context Protocol (MCP) server that allows AI chatbots (Claude, ChatGPT, Gemini, etc.) to search, explore, and analyze datasets from data.gouv.fr, the French national Open Data platform, directly through conversation. Instead o...",
+      "language": "Python",
+      "stars": 115
     },
     {
       "rank": 14,
-      "repo_name": "D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "description_ja": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "readme_summary": "<!-- mcp-name: io.github.D4Vinci/Scrapling --> <h1 align=\"center\"> <a href=\"https://scrapling.readthedocs.io\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover_dark.svg?sanitize=true\"> <img alt=\"Scrapling Poster\" src=\"https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover_light.svg?sanitize=true\"> </picture> </a> <br> <small>Effortless Web Scraping for the Modern Web</small> </h1> <p alig...",
-      "readme_summary_ja": "<!-- mcp-name: io.github.D4Vinci/Scrapling --> <h1 align=\"center\"> <a href=\"https://scrapling.readthedocs.io\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover_dark.svg?sanitize=true\"> <img alt=\"Scrapling Poster\" src=\"https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover_light.svg?sanitize=true\"> </picture> </a> <br> <small>Effortless Web Scraping for the Modern Web</small> </h1> <p alig...",
-      "language": "Python",
-      "stars": 1135
+      "repo_name": "Wei-Shaw/sub2api",
+      "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "description_ja": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "readme_summary": "Sub2API <div align=\"center\"> ![Go](https://golang.org/) ![Vue](https://vuejs.org/) ![PostgreSQL](https://www.postgresql.org/) ![Redis](https://redis.io/) ![Docker](https://www.docker.com/) **AI API Gateway Platform for Subscription Quota Distribution** English | 中文 </div> --- Demo Try Sub2API online: **https://demo.sub2api.org/** Demo credentials (shared demo environment; **not** created automatically for self-hosted installs): | Email | Password | |-------|----------| | admin@sub2api.com | admi...",
+      "readme_summary_ja": "Sub2API <div align=\"center\"> ![Go](https://golang.org/) ![Vue](https://vuejs.org/) ![PostgreSQL](https://www.postgresql.org/) ![Redis](https://redis.io/) ![Docker](https://www.docker.com/) **AI API Gateway Platform for Subscription Quota Distribution** English | 中文 </div> --- Demo Try Sub2API online: **https://demo.sub2api.org/** Demo credentials (shared demo environment; **not** created automatically for self-hosted installs): | Email | Password | |-------|----------| | admin@sub2api.com | admi...",
+      "language": "Go",
+      "stars": 98
     },
     {
       "rank": 15,
-      "repo_name": "steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "description_ja": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "readme_summary": "CodexBar 🎚️ - May your tokens never run out. Tiny macOS 14+ menu bar app that keeps your Codex, Claude, Cursor, Gemini, Antigravity, Droid (Factory), Copilot, z.ai, Kiro, Vertex AI, Augment, Amp, JetBrains AI, and OpenRouter limits visible (session + weekly where available) and shows when each window resets. One status item per provider (or Merge Icons mode with a provider switcher and optional Overview tab); enable what you use from Settings",
-      "readme_summary_ja": "CodexBar 🎚️ - May your tokens never run out. Tiny macOS 14+ menu bar app that keeps your Codex, Claude, Cursor, Gemini, Antigravity, Droid (Factory), Copilot, z.ai, Kiro, Vertex AI, Augment, Amp, JetBrains AI, and OpenRouter limits visible (session + weekly where available) and shows when each window resets. One status item per provider (or Merge Icons mode with a provider switcher and optional Overview tab); enable what you use from Settings",
-      "language": "Swift",
-      "stars": 243
+      "repo_name": "X-PLUG/MobileAgent",
+      "description": "Mobile-Agent: The Powerful GUI Agent Family",
+      "description_ja": "Mobile-Agent: The Powerful GUI Agent Family",
+      "readme_summary": "<div align=\"center\"> <p align=\"center\"> <img src=\"assets/logo.png\"/> </p> </div> <div align=\"center\"> <h2 style=\"font-size: 28px;\"> <img src=\"assets/tongyi.png\" width=\"30px\" style=\"vertical-align: middle; margin-right: 10px;\"> Mobile-Agent: The Powerful GUI Agent Family by Tongyi Lab, Alibaba Group </h2> <div align=\"center\"> <p align=\"center\"> <img src=\"assets/gui_owl_15_logo.png\"/> </p> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/7423\" target=\"_blank\"><img src=\"https:/...",
+      "readme_summary_ja": "<div align=\"center\"> <p align=\"center\"> <img src=\"assets/logo.png\"/> </p> </div> <div align=\"center\"> <h2 style=\"font-size: 28px;\"> <img src=\"assets/tongyi.png\" width=\"30px\" style=\"vertical-align: middle; margin-right: 10px;\"> Mobile-Agent: The Powerful GUI Agent Family by Tongyi Lab, Alibaba Group </h2> <div align=\"center\"> <p align=\"center\"> <img src=\"assets/gui_owl_15_logo.png\"/> </p> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/7423\" target=\"_blank\"><img src=\"https:/...",
+      "language": "Python",
+      "stars": 45
     },
     {
       "rank": 16,
@@ -160,7 +160,17 @@
       "readme_summary": "<div align=\"center\"> <img src=\"docs/assets/logo.svg\" alt=\"OpenSandbox logo\" width=\"150\" /> <h1>OpenSandbox</h1> <p align=\"center\"> <a href=\"https://github.com/alibaba/OpenSandbox\"> <img src=\"https://img.shields.io/github/stars/alibaba/OpenSandbox.svg?style=social\" alt=\"GitHub stars\" /> </a> <a href=\"https://deepwiki.com/alibaba/OpenSandbox\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> <a href=\"https://www.apache.org/licenses/LICENSE-2.0.html\"> <img src=\"https://img.shiel...",
       "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/assets/logo.svg\" alt=\"OpenSandbox logo\" width=\"150\" /> <h1>OpenSandbox</h1> <p align=\"center\"> <a href=\"https://github.com/alibaba/OpenSandbox\"> <img src=\"https://img.shields.io/github/stars/alibaba/OpenSandbox.svg?style=social\" alt=\"GitHub stars\" /> </a> <a href=\"https://deepwiki.com/alibaba/OpenSandbox\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> <a href=\"https://www.apache.org/licenses/LICENSE-2.0.html\"> <img src=\"https://img.shiel...",
       "language": "Python",
-      "stars": 105
+      "stars": 349
+    },
+    {
+      "rank": 17,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 1323
     }
   ]
 }
