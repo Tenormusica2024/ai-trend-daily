@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-03-03 03:37:16",
-  "total_repos": 9,
+  "updated_at": "2026-03-04 03:29:39",
+  "total_repos": 10,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "description_ja": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "readme_summary": "π RuView: WiFi DensePose: **See through walls with WiFi.** No cameras. No wearables. Just radio waves",
-      "readme_summary_ja": "π RuView: WiFi DensePose: **See through walls with WiFi.** No cameras. No wearables. Just radio waves",
+      "readme_summary": "π RuView **See through walls with WiFi.** No cameras. No wearables. No Internet",
+      "readme_summary_ja": "π RuView **See through walls with WiFi.** No cameras. No wearables. No Internet",
       "language": "Rust",
-      "stars": 5096
+      "stars": 4419
     },
     {
       "rank": 2,
+      "repo_name": "K-Dense-AI/claude-scientific-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "description_ja": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "readme_summary": "Claude Scientific Skills ![License: MIT](LICENSE.md) ![Skills](#whats-included) ![Databases](#whats-included) ![Agent Skills](https://agentskills.io/) ![Works with](#getting-started) ![X](https://x.com/k_dense_ai) ![LinkedIn](https://www.linkedin.com/company/k-dense-inc) ![YouTube](https://www.youtube.com/@K-Dense-Inc) A comprehensive collection of **170+ ready-to-use scientific and research skills** (now including cancer genomics, drug-target binding, molecular dynamics, RNA velocity, geospatia...",
+      "readme_summary_ja": "Claude Scientific Skills ![License: MIT](LICENSE.md) ![Skills](#whats-included) ![Databases](#whats-included) ![Agent Skills](https://agentskills.io/) ![Works with](#getting-started) ![X](https://x.com/k_dense_ai) ![LinkedIn](https://www.linkedin.com/company/k-dense-inc) ![YouTube](https://www.youtube.com/@K-Dense-Inc) A comprehensive collection of **170+ ready-to-use scientific and research skills** (now including cancer genomics, drug-target binding, molecular dynamics, RNA velocity, geospatia...",
+      "language": "Python",
+      "stars": 798
+    },
+    {
+      "rank": 3,
       "repo_name": "moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "description_ja": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "readme_summary": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
       "readme_summary_ja": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
       "language": "TypeScript",
-      "stars": 1412
-    },
-    {
-      "rank": 3,
-      "repo_name": "anthropics/prompt-eng-interactive-tutorial",
-      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
-      "description_ja": "Anthropic's Interactive Prompt Engineering Tutorial",
-      "readme_summary": "Welcome to Anthropic's Prompt Engineering Interactive Tutorial Course introduction and goals This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude. **After completing this course, you will be able to**: - Master the basic structure of a good prompt - Recognize common failure modes and learn the '80/20' techniques to address them - Understand Claude's strengths and weaknesses - Build strong prompts from scratch for ...",
-      "readme_summary_ja": "Welcome to Anthropic's Prompt Engineering Interactive Tutorial Course introduction and goals This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude. **After completing this course, you will be able to**: - Master the basic structure of a good prompt - Recognize common failure modes and learn the '80/20' techniques to address them - Understand Claude's strengths and weaknesses - Build strong prompts from scratch for ...",
-      "language": "Jupyter Notebook",
-      "stars": 526
+      "stars": 832
     },
     {
       "rank": 4,
-      "repo_name": "ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "description_ja": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "readme_summary": "🌊 Ruflo v3: Enterprise AI Orchestration Platform <div align=\"center\"> !Ruflo Banner ![GitHub Project of the Day](https://github.com/ruvnet/claude-flow) ![Star on GitHub](https://github.com/ruvnet/claude-flow) ![Monthly Downloads](https://www.npmjs.com/package/claude-flow) ![Total Downloads](https://www.npmjs.com/package/claude-flow) ![ruv.io](https://ruv.io) ![Agentics Foundation](https://discord.com/invite/dfxmpwkG2D) ![Claude Code](https://github.com/ruvnet/claude-flow) ![MIT License](https://...",
-      "readme_summary_ja": "🌊 Ruflo v3: Enterprise AI Orchestration Platform <div align=\"center\"> !Ruflo Banner ![GitHub Project of the Day](https://github.com/ruvnet/claude-flow) ![Star on GitHub](https://github.com/ruvnet/claude-flow) ![Monthly Downloads](https://www.npmjs.com/package/claude-flow) ![Total Downloads](https://www.npmjs.com/package/claude-flow) ![ruv.io](https://ruv.io) ![Agentics Foundation](https://discord.com/invite/dfxmpwkG2D) ![Claude Code](https://github.com/ruvnet/claude-flow) ![MIT License](https://...",
+      "repo_name": "CodebuffAI/codebuff",
+      "description": "Generate code from the terminal!",
+      "description_ja": "Generate code from the terminal!",
+      "readme_summary": "Codebuff Codebuff is an **open-source AI coding assistant** that edits your codebase through natural language instructions. Instead of using one model for everything, it coordinates specialized agents that work together to understand your project and make precise changes. <div align=\"center\"> <img src=\"./assets/codebuff-vs-claude-code.png\" alt=\"Codebuff vs Claude Code\" width=\"400\"> </div> Codebuff beats Claude Code at 61% vs 53% on our evals across 175+ coding tasks over multiple open-source rep...",
+      "readme_summary_ja": "Codebuff Codebuff is an **open-source AI coding assistant** that edits your codebase through natural language instructions. Instead of using one model for everything, it coordinates specialized agents that work together to understand your project and make precise changes. <div align=\"center\"> <img src=\"./assets/codebuff-vs-claude-code.png\" alt=\"Codebuff vs Claude Code\" width=\"400\"> </div> Codebuff beats Claude Code at 61% vs 53% on our evals across 175+ coding tasks over multiple open-source rep...",
       "language": "TypeScript",
-      "stars": 830
+      "stars": 126
     },
     {
       "rank": 5,
-      "repo_name": "alibaba/OpenSandbox",
-      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-      "description_ja": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-      "readme_summary": "<div align=\"center\"> <img src=\"docs/assets/logo.svg\" alt=\"OpenSandbox logo\" width=\"150\" /> <h1>OpenSandbox</h1> <p align=\"center\"> <a href=\"https://github.com/alibaba/OpenSandbox\"> <img src=\"https://img.shields.io/github/stars/alibaba/OpenSandbox.svg?style=social\" alt=\"GitHub stars\" /> </a> <a href=\"https://deepwiki.com/alibaba/OpenSandbox\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> <a href=\"https://www.apache.org/licenses/LICENSE-2.0.html\"> <img src=\"https://img.shiel...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/assets/logo.svg\" alt=\"OpenSandbox logo\" width=\"150\" /> <h1>OpenSandbox</h1> <p align=\"center\"> <a href=\"https://github.com/alibaba/OpenSandbox\"> <img src=\"https://img.shields.io/github/stars/alibaba/OpenSandbox.svg?style=social\" alt=\"GitHub stars\" /> </a> <a href=\"https://deepwiki.com/alibaba/OpenSandbox\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> <a href=\"https://www.apache.org/licenses/LICENSE-2.0.html\"> <img src=\"https://img.shiel...",
+      "repo_name": "agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "description_ja": "Build and run agents you can see, understand and trust.",
+      "readme_summary": "<p align=\"center\"> <img src=\"https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg\" alt=\"AgentScope Logo\" width=\"200\" /> </p> <span align=\"center\"> **中文主页** | **Tutorial** | **Roadmap (Jan 2026 -)** | **FAQ** </span> <p align=\"center\"> <a href=\"https://arxiv.org/abs/2402.14034\"> <img src=\"https://img.shields.io/badge/cs.MA-2402.14034-B31C1C?logo=arxiv&logoColor=B31C1C\" alt=\"arxiv\" /> </a> <a href=\"https://pypi.org/project/agentscope/\"> <img src=\"https://im...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg\" alt=\"AgentScope Logo\" width=\"200\" /> </p> <span align=\"center\"> **中文主页** | **Tutorial** | **Roadmap (Jan 2026 -)** | **FAQ** </span> <p align=\"center\"> <a href=\"https://arxiv.org/abs/2402.14034\"> <img src=\"https://img.shields.io/badge/cs.MA-2402.14034-B31C1C?logo=arxiv&logoColor=B31C1C\" alt=\"arxiv\" /> </a> <a href=\"https://pypi.org/project/agentscope/\"> <img src=\"https://im...",
       "language": "Python",
-      "stars": 1026
+      "stars": 112
     },
     {
       "rank": 6,
-      "repo_name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "description_ja": "Python tool for converting files and office documents to Markdown.",
-      "readme_summary": "MarkItDown ![PyPI](https://pypi.org/project/markitdown/) !PyPI - Downloads ![Built by AutoGen Team](https://github.com/microsoft/autogen) > [!TIP] > MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. > [!IMPORTANT] > Breaking changes between 0.0.1 to 0.1.0: > * Dependencies are now organized into optional feature-groups (further details below)",
-      "readme_summary_ja": "MarkItDown ![PyPI](https://pypi.org/project/markitdown/) !PyPI - Downloads ![Built by AutoGen Team](https://github.com/microsoft/autogen) > [!TIP] > MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. > [!IMPORTANT] > Breaking changes between 0.0.1 to 0.1.0: > * Dependencies are now organized into optional feature-groups (further details below)",
+      "repo_name": "agentscope-ai/ReMe",
+      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "description_ja": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "readme_summary": "<p align=\"center\"> <img src=\"docs/_static/figure/reme_logo.png\" alt=\"ReMe Logo\" width=\"50%\"> </p> <p align=\"center\"> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/badge/python-3.10+-blue\" alt=\"Python Version\"></a> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/v/reme-ai.svg?logo=pypi\" alt=\"PyPI Version\"></a> <a href=\"https://pepy.tech/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/dm/reme-ai\" alt=\"PyPI Downloads\"></a> <a ...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/_static/figure/reme_logo.png\" alt=\"ReMe Logo\" width=\"50%\"> </p> <p align=\"center\"> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/badge/python-3.10+-blue\" alt=\"Python Version\"></a> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/v/reme-ai.svg?logo=pypi\" alt=\"PyPI Version\"></a> <a href=\"https://pepy.tech/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/dm/reme-ai\" alt=\"PyPI Downloads\"></a> <a ...",
       "language": "Python",
-      "stars": 648
+      "stars": 49
     },
     {
       "rank": 7,
-      "repo_name": "K-Dense-AI/claude-scientific-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "description_ja": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "readme_summary": "Claude Scientific Skills ![License: MIT](LICENSE.md) ![Skills](#whats-included) ![Databases](#whats-included) ![Agent Skills](https://agentskills.io/) ![Works with](#getting-started) A comprehensive collection of **148+ ready-to-use scientific and research skills** (now including financial/SEC research, U.S. Treasury fiscal data, OFR Hedge Fund Monitor, and Alpha Vantage market data) for any AI agent that supports the open Agent Skills standard, created by K-Dense. Works with **Cursor, Claude Co...",
-      "readme_summary_ja": "Claude Scientific Skills ![License: MIT](LICENSE.md) ![Skills](#whats-included) ![Databases](#whats-included) ![Agent Skills](https://agentskills.io/) ![Works with](#getting-started) A comprehensive collection of **148+ ready-to-use scientific and research skills** (now including financial/SEC research, U.S. Treasury fiscal data, OFR Hedge Fund Monitor, and Alpha Vantage market data) for any AI agent that supports the open Agent Skills standard, created by K-Dense. Works with **Cursor, Claude Co...",
+      "repo_name": "LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "description_ja": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "readme_summary": "<div align=\"center\"> <p align=\"center\"> <img src=\"https://raw.githubusercontent.com/LMCache/LMCache/dev/asset/logo.png\" width=\"720\" alt=\"lmcache logo\"> </p> ![Docs](https://docs.lmcache.ai/) ![PyPI](https://pypi.org/project/lmcache/) ![PyPI - Python Version](https://pypi.org/project/lmcache/) ![Unit Tests](https://buildkite.com/lmcache/lmcache-unittests) ![Code Quality](https://github.com/LMCache/LMCache/actions/workflows/code_quality_checks.yml) ![Integration Tests](https://buildkite.com/lmcach...",
+      "readme_summary_ja": "<div align=\"center\"> <p align=\"center\"> <img src=\"https://raw.githubusercontent.com/LMCache/LMCache/dev/asset/logo.png\" width=\"720\" alt=\"lmcache logo\"> </p> ![Docs](https://docs.lmcache.ai/) ![PyPI](https://pypi.org/project/lmcache/) ![PyPI - Python Version](https://pypi.org/project/lmcache/) ![Unit Tests](https://buildkite.com/lmcache/lmcache-unittests) ![Code Quality](https://github.com/LMCache/LMCache/actions/workflows/code_quality_checks.yml) ![Integration Tests](https://buildkite.com/lmcach...",
       "language": "Python",
-      "stars": 820
+      "stars": 135
     },
     {
       "rank": 8,
@@ -80,17 +80,27 @@
       "readme_summary": "<div align=\"center\"> <img width=\"full\" alt=\"Superset\" src=\"apps/marketing/public/images/readme-hero.png\" /> The Terminal for Coding Agents ![GitHub stars](https://github.com/superset-sh/superset/stargazers) ![GitHub release](https://github.com/superset-sh/superset/releases) ![License](LICENSE.md) ![Twitter](https://x.com/superset_sh) ![Discord](https://discord.gg/cZeD9WYcV7) <br /> **Download for macOS** &nbsp;&bull;&nbsp; Documentation &nbsp;&bull;&nbsp; Changelog &nbsp;&bull;&nbsp; Discord <br...",
       "readme_summary_ja": "<div align=\"center\"> <img width=\"full\" alt=\"Superset\" src=\"apps/marketing/public/images/readme-hero.png\" /> The Terminal for Coding Agents ![GitHub stars](https://github.com/superset-sh/superset/stargazers) ![GitHub release](https://github.com/superset-sh/superset/releases) ![License](LICENSE.md) ![Twitter](https://x.com/superset_sh) ![Discord](https://discord.gg/cZeD9WYcV7) <br /> **Download for macOS** &nbsp;&bull;&nbsp; Documentation &nbsp;&bull;&nbsp; Changelog &nbsp;&bull;&nbsp; Discord <br...",
       "language": "TypeScript",
-      "stars": 585
+      "stars": 632
     },
     {
       "rank": 9,
-      "repo_name": "servo/servo",
-      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-      "description_ja": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-      "readme_summary": "The Servo Parallel Browser Engine Project Servo is a prototype web browser engine written in the Rust language. It is currently developed on 64-bit macOS, 64-bit Linux, 64-bit Windows, 64-bit OpenHarmony, and Android. Servo welcomes contribution from everyone",
-      "readme_summary_ja": "The Servo Parallel Browser Engine Project Servo is a prototype web browser engine written in the Rust language. It is currently developed on 64-bit macOS, 64-bit Linux, 64-bit Windows, 64-bit OpenHarmony, and Android. Servo welcomes contribution from everyone",
-      "language": "Rust",
-      "stars": 45
+      "repo_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "language": "Go",
+      "stars": 164
+    },
+    {
+      "rank": 10,
+      "repo_name": "alibaba/OpenSandbox",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "description_ja": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "readme_summary": "<div align=\"center\"> <img src=\"docs/assets/logo.svg\" alt=\"OpenSandbox logo\" width=\"150\" /> <h1>OpenSandbox</h1> <p align=\"center\"> <a href=\"https://github.com/alibaba/OpenSandbox\"> <img src=\"https://img.shields.io/github/stars/alibaba/OpenSandbox.svg?style=social\" alt=\"GitHub stars\" /> </a> <a href=\"https://deepwiki.com/alibaba/OpenSandbox\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> <a href=\"https://www.apache.org/licenses/LICENSE-2.0.html\"> <img src=\"https://img.shiel...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/assets/logo.svg\" alt=\"OpenSandbox logo\" width=\"150\" /> <h1>OpenSandbox</h1> <p align=\"center\"> <a href=\"https://github.com/alibaba/OpenSandbox\"> <img src=\"https://img.shields.io/github/stars/alibaba/OpenSandbox.svg?style=social\" alt=\"GitHub stars\" /> </a> <a href=\"https://deepwiki.com/alibaba/OpenSandbox\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> <a href=\"https://www.apache.org/licenses/LICENSE-2.0.html\"> <img src=\"https://img.shiel...",
+      "language": "Python",
+      "stars": 1150
     }
   ]
 }
