@@ -1,106 +1,126 @@
 {
-  "updated_at": "2026-03-04 03:29:39",
-  "total_repos": 10,
+  "updated_at": "2026-03-05 03:33:22",
+  "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "ruvnet/RuView",
-      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "description_ja": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "readme_summary": "π RuView **See through walls with WiFi.** No cameras. No wearables. No Internet",
-      "readme_summary_ja": "π RuView **See through walls with WiFi.** No cameras. No wearables. No Internet",
-      "language": "Rust",
-      "stars": 4419
+      "repo_name": "KeygraphHQ/shannon",
+      "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+      "description_ja": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+      "readme_summary": ">[!NOTE] > **📢 New: Claude models on AWS Bedrock and Google Vertex AI now supported. →** <div align=\"center\"> <img src=\"./assets/github-banner.png\" alt=\"Shannon — AI Pentester for Web Applications and APIs\" width=\"100%\"> Shannon — AI Pentester by Keygraph <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> Shannon i...",
+      "readme_summary_ja": ">[!NOTE] > **📢 New: Claude models on AWS Bedrock and Google Vertex AI now supported. →** <div align=\"center\"> <img src=\"./assets/github-banner.png\" alt=\"Shannon — AI Pentester for Web Applications and APIs\" width=\"100%\"> Shannon — AI Pentester by Keygraph <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> Shannon i...",
+      "language": "TypeScript",
+      "stars": 1854
     },
     {
       "rank": 2,
-      "repo_name": "K-Dense-AI/claude-scientific-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "description_ja": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "readme_summary": "Claude Scientific Skills ![License: MIT](LICENSE.md) ![Skills](#whats-included) ![Databases](#whats-included) ![Agent Skills](https://agentskills.io/) ![Works with](#getting-started) ![X](https://x.com/k_dense_ai) ![LinkedIn](https://www.linkedin.com/company/k-dense-inc) ![YouTube](https://www.youtube.com/@K-Dense-Inc) A comprehensive collection of **170+ ready-to-use scientific and research skills** (now including cancer genomics, drug-target binding, molecular dynamics, RNA velocity, geospatia...",
-      "readme_summary_ja": "Claude Scientific Skills ![License: MIT](LICENSE.md) ![Skills](#whats-included) ![Databases](#whats-included) ![Agent Skills](https://agentskills.io/) ![Works with](#getting-started) ![X](https://x.com/k_dense_ai) ![LinkedIn](https://www.linkedin.com/company/k-dense-inc) ![YouTube](https://www.youtube.com/@K-Dense-Inc) A comprehensive collection of **170+ ready-to-use scientific and research skills** (now including cancer genomics, drug-target binding, molecular dynamics, RNA velocity, geospatia...",
-      "language": "Python",
-      "stars": 798
+      "repo_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_ja": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "readme_summary": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) --- 🚀 What Is This? Born from a Reddit thread a...",
+      "readme_summary_ja": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) --- 🚀 What Is This? Born from a Reddit thread a...",
+      "language": "",
+      "stars": 2209
     },
     {
       "rank": 3,
-      "repo_name": "moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "description_ja": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "readme_summary": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
-      "readme_summary_ja": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
-      "language": "TypeScript",
-      "stars": 832
-    },
-    {
-      "rank": 4,
-      "repo_name": "CodebuffAI/codebuff",
-      "description": "Generate code from the terminal!",
-      "description_ja": "Generate code from the terminal!",
-      "readme_summary": "Codebuff Codebuff is an **open-source AI coding assistant** that edits your codebase through natural language instructions. Instead of using one model for everything, it coordinates specialized agents that work together to understand your project and make precise changes. <div align=\"center\"> <img src=\"./assets/codebuff-vs-claude-code.png\" alt=\"Codebuff vs Claude Code\" width=\"400\"> </div> Codebuff beats Claude Code at 61% vs 53% on our evals across 175+ coding tasks over multiple open-source rep...",
-      "readme_summary_ja": "Codebuff Codebuff is an **open-source AI coding assistant** that edits your codebase through natural language instructions. Instead of using one model for everything, it coordinates specialized agents that work together to understand your project and make precise changes. <div align=\"center\"> <img src=\"./assets/codebuff-vs-claude-code.png\" alt=\"Codebuff vs Claude Code\" width=\"400\"> </div> Codebuff beats Claude Code at 61% vs 53% on our evals across 175+ coding tasks over multiple open-source rep...",
-      "language": "TypeScript",
-      "stars": 126
-    },
-    {
-      "rank": 5,
-      "repo_name": "agentscope-ai/agentscope",
-      "description": "Build and run agents you can see, understand and trust.",
-      "description_ja": "Build and run agents you can see, understand and trust.",
-      "readme_summary": "<p align=\"center\"> <img src=\"https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg\" alt=\"AgentScope Logo\" width=\"200\" /> </p> <span align=\"center\"> **中文主页** | **Tutorial** | **Roadmap (Jan 2026 -)** | **FAQ** </span> <p align=\"center\"> <a href=\"https://arxiv.org/abs/2402.14034\"> <img src=\"https://img.shields.io/badge/cs.MA-2402.14034-B31C1C?logo=arxiv&logoColor=B31C1C\" alt=\"arxiv\" /> </a> <a href=\"https://pypi.org/project/agentscope/\"> <img src=\"https://im...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg\" alt=\"AgentScope Logo\" width=\"200\" /> </p> <span align=\"center\"> **中文主页** | **Tutorial** | **Roadmap (Jan 2026 -)** | **FAQ** </span> <p align=\"center\"> <a href=\"https://arxiv.org/abs/2402.14034\"> <img src=\"https://img.shields.io/badge/cs.MA-2402.14034-B31C1C?logo=arxiv&logoColor=B31C1C\" alt=\"arxiv\" /> </a> <a href=\"https://pypi.org/project/agentscope/\"> <img src=\"https://im...",
-      "language": "Python",
-      "stars": 112
-    },
-    {
-      "rank": 6,
-      "repo_name": "agentscope-ai/ReMe",
-      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "description_ja": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "readme_summary": "<p align=\"center\"> <img src=\"docs/_static/figure/reme_logo.png\" alt=\"ReMe Logo\" width=\"50%\"> </p> <p align=\"center\"> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/badge/python-3.10+-blue\" alt=\"Python Version\"></a> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/v/reme-ai.svg?logo=pypi\" alt=\"PyPI Version\"></a> <a href=\"https://pepy.tech/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/dm/reme-ai\" alt=\"PyPI Downloads\"></a> <a ...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/_static/figure/reme_logo.png\" alt=\"ReMe Logo\" width=\"50%\"> </p> <p align=\"center\"> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/badge/python-3.10+-blue\" alt=\"Python Version\"></a> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/v/reme-ai.svg?logo=pypi\" alt=\"PyPI Version\"></a> <a href=\"https://pepy.tech/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/dm/reme-ai\" alt=\"PyPI Downloads\"></a> <a ...",
-      "language": "Python",
-      "stars": 49
-    },
-    {
-      "rank": 7,
-      "repo_name": "LMCache/LMCache",
-      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
-      "description_ja": "Supercharge Your LLM with the Fastest KV Cache Layer",
-      "readme_summary": "<div align=\"center\"> <p align=\"center\"> <img src=\"https://raw.githubusercontent.com/LMCache/LMCache/dev/asset/logo.png\" width=\"720\" alt=\"lmcache logo\"> </p> ![Docs](https://docs.lmcache.ai/) ![PyPI](https://pypi.org/project/lmcache/) ![PyPI - Python Version](https://pypi.org/project/lmcache/) ![Unit Tests](https://buildkite.com/lmcache/lmcache-unittests) ![Code Quality](https://github.com/LMCache/LMCache/actions/workflows/code_quality_checks.yml) ![Integration Tests](https://buildkite.com/lmcach...",
-      "readme_summary_ja": "<div align=\"center\"> <p align=\"center\"> <img src=\"https://raw.githubusercontent.com/LMCache/LMCache/dev/asset/logo.png\" width=\"720\" alt=\"lmcache logo\"> </p> ![Docs](https://docs.lmcache.ai/) ![PyPI](https://pypi.org/project/lmcache/) ![PyPI - Python Version](https://pypi.org/project/lmcache/) ![Unit Tests](https://buildkite.com/lmcache/lmcache-unittests) ![Code Quality](https://github.com/LMCache/LMCache/actions/workflows/code_quality_checks.yml) ![Integration Tests](https://buildkite.com/lmcach...",
-      "language": "Python",
-      "stars": 135
-    },
-    {
-      "rank": 8,
-      "repo_name": "superset-sh/superset",
-      "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-      "description_ja": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-      "readme_summary": "<div align=\"center\"> <img width=\"full\" alt=\"Superset\" src=\"apps/marketing/public/images/readme-hero.png\" /> The Terminal for Coding Agents ![GitHub stars](https://github.com/superset-sh/superset/stargazers) ![GitHub release](https://github.com/superset-sh/superset/releases) ![License](LICENSE.md) ![Twitter](https://x.com/superset_sh) ![Discord](https://discord.gg/cZeD9WYcV7) <br /> **Download for macOS** &nbsp;&bull;&nbsp; Documentation &nbsp;&bull;&nbsp; Changelog &nbsp;&bull;&nbsp; Discord <br...",
-      "readme_summary_ja": "<div align=\"center\"> <img width=\"full\" alt=\"Superset\" src=\"apps/marketing/public/images/readme-hero.png\" /> The Terminal for Coding Agents ![GitHub stars](https://github.com/superset-sh/superset/stargazers) ![GitHub release](https://github.com/superset-sh/superset/releases) ![License](LICENSE.md) ![Twitter](https://x.com/superset_sh) ![Discord](https://discord.gg/cZeD9WYcV7) <br /> **Download for macOS** &nbsp;&bull;&nbsp; Documentation &nbsp;&bull;&nbsp; Changelog &nbsp;&bull;&nbsp; Discord <br...",
-      "language": "TypeScript",
-      "stars": 632
-    },
-    {
-      "rank": 9,
       "repo_name": "aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
       "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
       "language": "Go",
-      "stars": 164
+      "stars": 380
     },
     {
-      "rank": 10,
+      "rank": 4,
+      "repo_name": "K-Dense-AI/claude-scientific-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "description_ja": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "readme_summary": "Claude Scientific Skills ![License: MIT](LICENSE.md) ![Skills](#whats-included) ![Databases](#whats-included) ![Agent Skills](https://agentskills.io/) ![Works with](#getting-started) ![X](https://x.com/k_dense_ai) ![LinkedIn](https://www.linkedin.com/company/k-dense-inc) ![YouTube](https://www.youtube.com/@K-Dense-Inc) A comprehensive collection of **170+ ready-to-use scientific and research skills** (now including cancer genomics, drug-target binding, molecular dynamics, RNA velocity, geospatia...",
+      "readme_summary_ja": "Claude Scientific Skills ![License: MIT](LICENSE.md) ![Skills](#whats-included) ![Databases](#whats-included) ![Agent Skills](https://agentskills.io/) ![Works with](#getting-started) ![X](https://x.com/k_dense_ai) ![LinkedIn](https://www.linkedin.com/company/k-dense-inc) ![YouTube](https://www.youtube.com/@K-Dense-Inc) A comprehensive collection of **170+ ready-to-use scientific and research skills** (now including cancer genomics, drug-target binding, molecular dynamics, RNA velocity, geospatia...",
+      "language": "Python",
+      "stars": 940
+    },
+    {
+      "rank": 5,
+      "repo_name": "CodebuffAI/codebuff",
+      "description": "Generate code from the terminal!",
+      "description_ja": "Generate code from the terminal!",
+      "readme_summary": "Codebuff Codebuff is an **open-source AI coding assistant** that edits your codebase through natural language instructions. Instead of using one model for everything, it coordinates specialized agents that work together to understand your project and make precise changes. <div align=\"center\"> <img src=\"./assets/codebuff-vs-claude-code.png\" alt=\"Codebuff vs Claude Code\" width=\"400\"> </div> Codebuff beats Claude Code at 61% vs 53% on our evals across 175+ coding tasks over multiple open-source rep...",
+      "readme_summary_ja": "Codebuff Codebuff is an **open-source AI coding assistant** that edits your codebase through natural language instructions. Instead of using one model for everything, it coordinates specialized agents that work together to understand your project and make precise changes. <div align=\"center\"> <img src=\"./assets/codebuff-vs-claude-code.png\" alt=\"Codebuff vs Claude Code\" width=\"400\"> </div> Codebuff beats Claude Code at 61% vs 53% on our evals across 175+ coding tasks over multiple open-source rep...",
+      "language": "TypeScript",
+      "stars": 337
+    },
+    {
+      "rank": 6,
       "repo_name": "alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
       "description_ja": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
       "readme_summary": "<div align=\"center\"> <img src=\"docs/assets/logo.svg\" alt=\"OpenSandbox logo\" width=\"150\" /> <h1>OpenSandbox</h1> <p align=\"center\"> <a href=\"https://github.com/alibaba/OpenSandbox\"> <img src=\"https://img.shields.io/github/stars/alibaba/OpenSandbox.svg?style=social\" alt=\"GitHub stars\" /> </a> <a href=\"https://deepwiki.com/alibaba/OpenSandbox\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> <a href=\"https://www.apache.org/licenses/LICENSE-2.0.html\"> <img src=\"https://img.shiel...",
       "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/assets/logo.svg\" alt=\"OpenSandbox logo\" width=\"150\" /> <h1>OpenSandbox</h1> <p align=\"center\"> <a href=\"https://github.com/alibaba/OpenSandbox\"> <img src=\"https://img.shields.io/github/stars/alibaba/OpenSandbox.svg?style=social\" alt=\"GitHub stars\" /> </a> <a href=\"https://deepwiki.com/alibaba/OpenSandbox\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> <a href=\"https://www.apache.org/licenses/LICENSE-2.0.html\"> <img src=\"https://img.shiel...",
       "language": "Python",
-      "stars": 1150
+      "stars": 788
+    },
+    {
+      "rank": 7,
+      "repo_name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "description_ja": "Automate the process of making money online.",
+      "readme_summary": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers) ![Discord](https://dsc.gg/fuji-com...",
+      "readme_summary_ja": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers) ![Discord](https://dsc.gg/fuji-com...",
+      "language": "Python",
+      "stars": 143
+    },
+    {
+      "rank": 8,
+      "repo_name": "ItzCrazyKns/Perplexica",
+      "description": "Perplexica is an AI-powered answering engine.",
+      "description_ja": "Perplexica is an AI-powered answering engine.",
+      "readme_summary": "Perplexica 🔍 ![GitHub Repo stars](https://github.com/ItzCrazyKns/Perplexica/stargazers) ![GitHub forks](https://github.com/ItzCrazyKns/Perplexica/network/members) ![GitHub watchers](https://github.com/ItzCrazyKns/Perplexica/watchers) ![Docker Pulls](https://hub.docker.com/r/itzcrazykns1337/perplexica) ![License: MIT](https://github.com/ItzCrazyKns/Perplexica/blob/master/LICENSE) ![GitHub last commit](https://github.com/ItzCrazyKns/Perplexica/commits/master) ![Discord](https://discord.gg/26aArMy8...",
+      "readme_summary_ja": "Perplexica 🔍 ![GitHub Repo stars](https://github.com/ItzCrazyKns/Perplexica/stargazers) ![GitHub forks](https://github.com/ItzCrazyKns/Perplexica/network/members) ![GitHub watchers](https://github.com/ItzCrazyKns/Perplexica/watchers) ![Docker Pulls](https://hub.docker.com/r/itzcrazykns1337/perplexica) ![License: MIT](https://github.com/ItzCrazyKns/Perplexica/blob/master/LICENSE) ![GitHub last commit](https://github.com/ItzCrazyKns/Perplexica/commits/master) ![Discord](https://discord.gg/26aArMy8...",
+      "language": "TypeScript",
+      "stars": 1090
+    },
+    {
+      "rank": 9,
+      "repo_name": "agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "description_ja": "Build and run agents you can see, understand and trust.",
+      "readme_summary": "<p align=\"center\"> <img src=\"https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg\" alt=\"AgentScope Logo\" width=\"200\" /> </p> <span align=\"center\"> **中文主页** | **Tutorial** | **Roadmap (Jan 2026 -)** | **FAQ** </span> <p align=\"center\"> <a href=\"https://arxiv.org/abs/2402.14034\"> <img src=\"https://img.shields.io/badge/cs.MA-2402.14034-B31C1C?logo=arxiv&logoColor=B31C1C\" alt=\"arxiv\" /> </a> <a href=\"https://pypi.org/project/agentscope/\"> <img src=\"https://im...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg\" alt=\"AgentScope Logo\" width=\"200\" /> </p> <span align=\"center\"> **中文主页** | **Tutorial** | **Roadmap (Jan 2026 -)** | **FAQ** </span> <p align=\"center\"> <a href=\"https://arxiv.org/abs/2402.14034\"> <img src=\"https://img.shields.io/badge/cs.MA-2402.14034-B31C1C?logo=arxiv&logoColor=B31C1C\" alt=\"arxiv\" /> </a> <a href=\"https://pypi.org/project/agentscope/\"> <img src=\"https://im...",
+      "language": "Python",
+      "stars": 427
+    },
+    {
+      "rank": 10,
+      "repo_name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description_ja": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "readme_summary": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
+      "readme_summary_ja": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
+      "language": "TypeScript",
+      "stars": 1454
+    },
+    {
+      "rank": 11,
+      "repo_name": "nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "description_ja": "A high-performance algorithmic trading platform and event-driven backtester",
+      "readme_summary": "<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\"> ![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader) ![codspeed](https://codspeed.io/nautechsystems/nautilus_trader) !pythons !pypi-version !pypi-format ![Downloads](https://pepy.tech/project/nautilus-trader) ![Discord](https://discord.gg/NautilusTrader) | Branch | Version | Status | | :-------- | :----------------------------------------------------------------------...",
+      "readme_summary_ja": "<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\"> ![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader) ![codspeed](https://codspeed.io/nautechsystems/nautilus_trader) !pythons !pypi-version !pypi-format ![Downloads](https://pepy.tech/project/nautilus-trader) ![Discord](https://discord.gg/NautilusTrader) | Branch | Version | Status | | :-------- | :----------------------------------------------------------------------...",
+      "language": "Rust",
+      "stars": 89
+    },
+    {
+      "rank": 12,
+      "repo_name": "FlowiseAI/Flowise",
+      "description": "Build AI Agents, Visually",
+      "description_ja": "Build AI Agents, Visually",
+      "readme_summary": "<!-- markdownlint-disable MD030 --> <p align=\"center\"> <img src=\"https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_white.svg#gh-light-mode-only\"> <img src=\"https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_dark.svg#gh-dark-mode-only\"> </p> <div align=\"center\"> ![Release Notes](https://github.com/FlowiseAI/Flowise/releases) ![Discord](https://discord.gg/jbaHfsRVBW) ![Twitter Follow](https://twitter.com/FlowiseAI) ![GitHub star chart](https://star-history.com/#FlowiseAI/Flo...",
+      "readme_summary_ja": "<!-- markdownlint-disable MD030 --> <p align=\"center\"> <img src=\"https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_white.svg#gh-light-mode-only\"> <img src=\"https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_dark.svg#gh-dark-mode-only\"> </p> <div align=\"center\"> ![Release Notes](https://github.com/FlowiseAI/Flowise/releases) ![Discord](https://discord.gg/jbaHfsRVBW) ![Twitter Follow](https://twitter.com/FlowiseAI) ![GitHub star chart](https://star-history.com/#FlowiseAI/Flo...",
+      "language": "TypeScript",
+      "stars": 145
     }
   ]
 }
