@@ -1,116 +1,116 @@
 {
-  "updated_at": "2026-03-06 03:31:26",
+  "updated_at": "2026-03-07 03:22:12",
   "total_repos": 11,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "description_ja": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "readme_summary": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
-      "readme_summary_ja": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
-      "language": "",
-      "stars": 1468
-    },
-    {
-      "rank": 2,
-      "repo_name": "TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-      "description_ja": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-      "readme_summary": "SEO Machine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. Overview SEO Machine is built on Claude Code and provides: - **Custom Commands**: /research, /write, /rewrite, /analyze-existing, /optimize, /performance-review, /publish-draft, /article, /priorities, plus specialized research and landing page commands - **Speciali...",
-      "readme_summary_ja": "SEO Machine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. Overview SEO Machine is built on Claude Code and provides: - **Custom Commands**: /research, /write, /rewrite, /analyze-existing, /optimize, /performance-review, /publish-draft, /article, /priorities, plus specialized research and landing page commands - **Speciali...",
-      "language": "Python",
-      "stars": 310
-    },
-    {
-      "rank": 3,
-      "repo_name": "KeygraphHQ/shannon",
-      "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
-      "description_ja": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
-      "readme_summary": ">[!NOTE] > **📢 New: Claude models on AWS Bedrock and Google Vertex AI now supported. →** <div align=\"center\"> <img src=\"./assets/github-banner.png\" alt=\"Shannon — AI Pentester for Web Applications and APIs\" width=\"100%\"> Shannon — AI Pentester by Keygraph <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> Shannon i...",
-      "readme_summary_ja": ">[!NOTE] > **📢 New: Claude models on AWS Bedrock and Google Vertex AI now supported. →** <div align=\"center\"> <img src=\"./assets/github-banner.png\" alt=\"Shannon — AI Pentester for Web Applications and APIs\" width=\"100%\"> Shannon — AI Pentester by Keygraph <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> Shannon i...",
-      "language": "TypeScript",
-      "stars": 2930
-    },
-    {
-      "rank": 4,
-      "repo_name": "aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
-      "language": "Go",
-      "stars": 298
-    },
-    {
-      "rank": 5,
       "repo_name": "moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "description_ja": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "readme_summary": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
       "readme_summary_ja": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
       "language": "TypeScript",
-      "stars": 3006
+      "stars": 2562
     },
     {
-      "rank": 6,
-      "repo_name": "inclusionAI/AReaL",
-      "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
-      "description_ja": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
-      "readme_summary": "<h1 align=\"center\"> <em>AReaL</em>: A Large-Scale Asynchronous Reinforcement Learning System </h1> <p align=\"center\"> | <a href=\"https://arxiv.org/pdf/2505.24298\"><b>Paper</b></a> | <a href=\"https://inclusionai.github.io/AReaL/\"><b>Documentation</b></a> | <a href=\"https://inclusionai.github.io/AReaL/zh/\"><b>中文文档</b></a> | <a href=\"https://deepwiki.com/inclusionAI/AReaL\"><b>Ask DeepWiki</b></a> | <a href=\"https://huggingface.co/collections/inclusionAI/\"><b>🤗 Models & Data</b></a> | <a href=\"./ass...",
-      "readme_summary_ja": "<h1 align=\"center\"> <em>AReaL</em>: A Large-Scale Asynchronous Reinforcement Learning System </h1> <p align=\"center\"> | <a href=\"https://arxiv.org/pdf/2505.24298\"><b>Paper</b></a> | <a href=\"https://inclusionai.github.io/AReaL/\"><b>Documentation</b></a> | <a href=\"https://inclusionai.github.io/AReaL/zh/\"><b>中文文档</b></a> | <a href=\"https://deepwiki.com/inclusionAI/AReaL\"><b>Ask DeepWiki</b></a> | <a href=\"https://huggingface.co/collections/inclusionAI/\"><b>🤗 Models & Data</b></a> | <a href=\"./ass...",
+      "rank": 2,
+      "repo_name": "QwenLM/Qwen-Agent",
+      "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+      "description_ja": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+      "readme_summary": "<!--- Copyright 2023 The Qwen team, Alibaba Group. All rights reserved. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
+      "readme_summary_ja": "<!--- Copyright 2023 The Qwen team, Alibaba Group. All rights reserved. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
       "language": "Python",
-      "stars": 173
+      "stars": 696
     },
     {
-      "rank": 7,
-      "repo_name": "microsoft/mcp-for-beginners",
-      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-      "description_ja": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-      "readme_summary": "!MCP-for-beginners ![GitHub contributors](https://GitHub.com/microsoft/mcp-for-beginners/graphs/contributors) ![GitHub issues](https://GitHub.com/microsoft/mcp-for-beginners/issues) ![GitHub pull-requests](https://GitHub.com/microsoft/mcp-for-beginners/pulls) ![PRs Welcome](http://makeapullrequest.com) ![GitHub watchers](https://GitHub.com/microsoft/mcp-for-beginners/watchers) ![GitHub forks](https://GitHub.com/microsoft/mcp-for-beginners/fork) ![GitHub stars](https://GitHub.com/microsoft/mcp-fo...",
-      "readme_summary_ja": "!MCP-for-beginners ![GitHub contributors](https://GitHub.com/microsoft/mcp-for-beginners/graphs/contributors) ![GitHub issues](https://GitHub.com/microsoft/mcp-for-beginners/issues) ![GitHub pull-requests](https://GitHub.com/microsoft/mcp-for-beginners/pulls) ![PRs Welcome](http://makeapullrequest.com) ![GitHub watchers](https://GitHub.com/microsoft/mcp-for-beginners/watchers) ![GitHub forks](https://GitHub.com/microsoft/mcp-for-beginners/fork) ![GitHub stars](https://GitHub.com/microsoft/mcp-fo...",
-      "language": "Jupyter Notebook",
-      "stars": 137
-    },
-    {
-      "rank": 8,
-      "repo_name": "CodebuffAI/codebuff",
-      "description": "Generate code from the terminal!",
-      "description_ja": "Generate code from the terminal!",
-      "readme_summary": "Codebuff Codebuff is an **open-source AI coding assistant** that edits your codebase through natural language instructions. Instead of using one model for everything, it coordinates specialized agents that work together to understand your project and make precise changes. <div align=\"center\"> <img src=\"./assets/codebuff-vs-claude-code.png\" alt=\"Codebuff vs Claude Code\" width=\"400\"> </div> Codebuff beats Claude Code at 61% vs 53% on our evals across 175+ coding tasks over multiple open-source rep...",
-      "readme_summary_ja": "Codebuff Codebuff is an **open-source AI coding assistant** that edits your codebase through natural language instructions. Instead of using one model for everything, it coordinates specialized agents that work together to understand your project and make precise changes. <div align=\"center\"> <img src=\"./assets/codebuff-vs-claude-code.png\" alt=\"Codebuff vs Claude Code\" width=\"400\"> </div> Codebuff beats Claude Code at 61% vs 53% on our evals across 175+ coding tasks over multiple open-source rep...",
-      "language": "TypeScript",
-      "stars": 275
-    },
-    {
-      "rank": 9,
-      "repo_name": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "Automate the process of making money online.",
-      "description_ja": "Automate the process of making money online.",
-      "readme_summary": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers) ![Discord](https://dsc.gg/fuji-com...",
-      "readme_summary_ja": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers) ![Discord](https://dsc.gg/fuji-com...",
-      "language": "Python",
-      "stars": 511
-    },
-    {
-      "rank": 10,
-      "repo_name": "agentscope-ai/ReMe",
-      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "description_ja": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "readme_summary": "<p align=\"center\"> <img src=\"docs/_static/figure/reme_logo.png\" alt=\"ReMe Logo\" width=\"50%\"> </p> <p align=\"center\"> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/badge/python-3.10+-blue\" alt=\"Python Version\"></a> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/v/reme-ai.svg?logo=pypi\" alt=\"PyPI Version\"></a> <a href=\"https://pepy.tech/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/dm/reme-ai\" alt=\"PyPI Downloads\"></a> <a ...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/_static/figure/reme_logo.png\" alt=\"ReMe Logo\" width=\"50%\"> </p> <p align=\"center\"> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/badge/python-3.10+-blue\" alt=\"Python Version\"></a> <a href=\"https://pypi.org/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/v/reme-ai.svg?logo=pypi\" alt=\"PyPI Version\"></a> <a href=\"https://pepy.tech/project/reme-ai/\"><img src=\"https://img.shields.io/pypi/dm/reme-ai\" alt=\"PyPI Downloads\"></a> <a ...",
-      "language": "Python",
-      "stars": 194
-    },
-    {
-      "rank": 11,
+      "rank": 3,
       "repo_name": "microsoft/hve-core",
       "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
       "description_ja": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
       "readme_summary": "--- title: HVE Core description: Hypervelocity Engineering prompt library for GitHub Copilot with constraint-based AI workflows and validated artifacts author: Microsoft ms.date: 2026-02-18 ms.topic: overview keywords: - hypervelocity engineering - prompt engineering - github copilot - ai workflows - custom agents - copilot instructions - rpi methodology estimated_reading_time: 3 --- <!-- markdownlint-disable MD013 --> ![CI Status](https://github.com/microsoft/hve-core/actions/workflows/release-...",
       "readme_summary_ja": "--- title: HVE Core description: Hypervelocity Engineering prompt library for GitHub Copilot with constraint-based AI workflows and validated artifacts author: Microsoft ms.date: 2026-02-18 ms.topic: overview keywords: - hypervelocity engineering - prompt engineering - github copilot - ai workflows - custom agents - copilot instructions - rpi methodology estimated_reading_time: 3 --- <!-- markdownlint-disable MD013 --> ![CI Status](https://github.com/microsoft/hve-core/actions/workflows/release-...",
       "language": "PowerShell",
-      "stars": 11
+      "stars": 273
+    },
+    {
+      "rank": 4,
+      "repo_name": "Ed1s0nZ/CyberStrikeAI",
+      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "description_ja": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "readme_summary": "<div align=\"center\"> <img src=\"web/static/logo.png\" alt=\"CyberStrikeAI Logo\" width=\"200\"> </div> CyberStrikeAI 中文 | English CyberStrikeAI is an **AI-native security testing platform** built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. Through native MCP protocol and AI agents, it enables end-to-end automation fr...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"web/static/logo.png\" alt=\"CyberStrikeAI Logo\" width=\"200\"> </div> CyberStrikeAI 中文 | English CyberStrikeAI is an **AI-native security testing platform** built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. Through native MCP protocol and AI agents, it enables end-to-end automation fr...",
+      "language": "Go",
+      "stars": 106
+    },
+    {
+      "rank": 5,
+      "repo_name": "inclusionAI/AReaL",
+      "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+      "description_ja": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+      "readme_summary": "<h1 align=\"center\"> <em>AReaL</em>: A Large-Scale Asynchronous Reinforcement Learning System </h1> <p align=\"center\"> | <a href=\"https://arxiv.org/pdf/2505.24298\"><b>Paper</b></a> | <a href=\"https://inclusionai.github.io/AReaL/\"><b>Documentation</b></a> | <a href=\"https://inclusionai.github.io/AReaL/zh/\"><b>中文文档</b></a> | <a href=\"https://deepwiki.com/inclusionAI/AReaL\"><b>Ask DeepWiki</b></a> | <a href=\"https://huggingface.co/collections/inclusionAI/\"><b>🤗 Models & Data</b></a> | <a href=\"./ass...",
+      "readme_summary_ja": "<h1 align=\"center\"> <em>AReaL</em>: A Large-Scale Asynchronous Reinforcement Learning System </h1> <p align=\"center\"> | <a href=\"https://arxiv.org/pdf/2505.24298\"><b>Paper</b></a> | <a href=\"https://inclusionai.github.io/AReaL/\"><b>Documentation</b></a> | <a href=\"https://inclusionai.github.io/AReaL/zh/\"><b>中文文档</b></a> | <a href=\"https://deepwiki.com/inclusionAI/AReaL\"><b>Ask DeepWiki</b></a> | <a href=\"https://huggingface.co/collections/inclusionAI/\"><b>🤗 Models & Data</b></a> | <a href=\"./ass...",
+      "language": "Python",
+      "stars": 347
+    },
+    {
+      "rank": 6,
+      "repo_name": "lingfengQAQ/webnovel-writer",
+      "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+      "description_ja": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+      "readme_summary": "Webnovel Writer ![License](LICENSE) ![Python](https://www.python.org/) ![Claude Code](https://claude.ai/claude-code) 项目简单介绍 Webnovel Writer 是基于 Claude Code 的长篇网文创作系统，目标是降低 AI 写作中的“遗忘”和“幻觉”，支持长周期连载创作。 详细文档已拆分到 docs/： - 架构与模块：docs/architecture.md - 命令详解：docs/commands.md - RAG 与配置：docs/rag-and-config.md - 题材模板：docs/genres.md - 运维与恢复：docs/operations.md - 文档导航：docs/README.md 快速开始 1) 安装插件（官方 Marketplace） > 仅当前项目生效时，将 --scope user 改为 --scope project。 2) 安装 Python 依赖 说明：该入口会同时安装核心写作链路与 Dashboard 依赖。 3) ...",
+      "readme_summary_ja": "Webnovel Writer ![License](LICENSE) ![Python](https://www.python.org/) ![Claude Code](https://claude.ai/claude-code) 项目简单介绍 Webnovel Writer 是基于 Claude Code 的长篇网文创作系统，目标是降低 AI 写作中的“遗忘”和“幻觉”，支持长周期连载创作。 详细文档已拆分到 docs/： - 架构与模块：docs/architecture.md - 命令详解：docs/commands.md - RAG 与配置：docs/rag-and-config.md - 题材模板：docs/genres.md - 运维与恢复：docs/operations.md - 文档导航：docs/README.md 快速开始 1) 安装插件（官方 Marketplace） > 仅当前项目生效时，将 --scope user 改为 --scope project。 2) 安装 Python 依赖 说明：该入口会同时安装核心写作链路与 Dashboard 依赖。 3) ...",
+      "language": "Python",
+      "stars": 90
+    },
+    {
+      "rank": 7,
+      "repo_name": "openai/skills",
+      "description": "Skills Catalog for Codex",
+      "description_ja": "Skills Catalog for Codex",
+      "readme_summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
+      "readme_summary_ja": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
+      "language": "Python",
+      "stars": 595
+    },
+    {
+      "rank": 8,
+      "repo_name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "description_ja": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "readme_summary": "SEO Machine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. Overview SEO Machine is built on Claude Code and provides: - **Custom Commands**: /research, /write, /rewrite, /analyze-existing, /optimize, /performance-review, /publish-draft, /article, /priorities, plus specialized research and landing page commands - **Speciali...",
+      "readme_summary_ja": "SEO Machine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. Overview SEO Machine is built on Claude Code and provides: - **Custom Commands**: /research, /write, /rewrite, /analyze-existing, /optimize, /performance-review, /publish-draft, /article, /priorities, plus specialized research and landing page commands - **Speciali...",
+      "language": "Python",
+      "stars": 690
+    },
+    {
+      "rank": 9,
+      "repo_name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "description_ja": "An AI Hedge Fund Team",
+      "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "readme_summary_ja": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "language": "Python",
+      "stars": 81
+    },
+    {
+      "rank": 10,
+      "repo_name": "aidenybai/react-grab",
+      "description": "Select context for coding agents directly from your website",
+      "description_ja": "Select context for coding agents directly from your website",
+      "readme_summary": "<img src=\"https://github.com/aidenybai/react-grab/blob/main/.github/public/logo.png?raw=true\" width=\"60\" align=\"center\" /> React Grab ![size](https://bundlephobia.com/package/react-grab) ![version](https://npmjs.com/package/react-grab) ![downloads](https://npmjs.com/package/react-grab) Select context for coding agents directly from your website How? Point at any element and press **⌘C** (Mac) or **Ctrl+C** (Windows/Linux) to copy the file name, React component, and HTML source code. It makes too...",
+      "readme_summary_ja": "<img src=\"https://github.com/aidenybai/react-grab/blob/main/.github/public/logo.png?raw=true\" width=\"60\" align=\"center\" /> React Grab ![size](https://bundlephobia.com/package/react-grab) ![version](https://npmjs.com/package/react-grab) ![downloads](https://npmjs.com/package/react-grab) Select context for coding agents directly from your website How? Point at any element and press **⌘C** (Mac) or **Ctrl+C** (Windows/Linux) to copy the file name, React component, and HTML source code. It makes too...",
+      "language": "TypeScript",
+      "stars": 450
+    },
+    {
+      "rank": 11,
+      "repo_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_ja": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "readme_summary": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
+      "readme_summary_ja": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
+      "language": "",
+      "stars": 2846
     }
   ]
 }
