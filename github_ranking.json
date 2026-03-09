@@ -1,116 +1,126 @@
 {
-  "updated_at": "2026-03-08 03:34:43",
-  "total_repos": 11,
+  "updated_at": "2026-03-09 03:39:27",
+  "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "description_ja": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "readme_summary": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
-      "language": "Python",
-      "stars": 399
-    },
-    {
-      "rank": 2,
-      "repo_name": "openai/skills",
-      "description": "Skills Catalog for Codex",
-      "description_ja": "Skills Catalog for Codex",
-      "readme_summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
-      "readme_summary_ja": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
-      "language": "Python",
-      "stars": 948
-    },
-    {
-      "rank": 3,
-      "repo_name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "description_ja": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "readme_summary": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
-      "readme_summary_ja": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
-      "language": "Shell",
-      "stars": 1468
-    },
-    {
-      "rank": 4,
       "repo_name": "GoogleCloudPlatform/generative-ai",
       "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
       "description_ja": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
       "readme_summary": "Generative AI on Google Cloud > **Gemini 3.1 Pro has been released!** > > Here are the latest notebooks and demos using the new model: > > - Intro to Gemini 3.1 Pro > <!-- markdownlint-disable MD033 --> This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using Generative AI on Google Cloud with Vertex AI. Using this repository ![Applied AI Summit: The cloud toolkit for generative AI](https://ww...",
       "readme_summary_ja": "Generative AI on Google Cloud > **Gemini 3.1 Pro has been released!** > > Here are the latest notebooks and demos using the new model: > > - Intro to Gemini 3.1 Pro > <!-- markdownlint-disable MD033 --> This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using Generative AI on Google Cloud with Vertex AI. Using this repository ![Applied AI Summit: The cloud toolkit for generative AI](https://ww...",
       "language": "Jupyter Notebook",
-      "stars": 384
+      "stars": 522
     },
     {
-      "rank": 5,
-      "repo_name": "agentjido/jido",
-      "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
-      "description_ja": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
-      "readme_summary": "Jido ![Hex.pm](https://hex.pm/packages/jido) ![Hex Docs](https://hexdocs.pm/jido/) ![CI](https://github.com/agentjido/jido/actions/workflows/ci.yml) ![License](https://github.com/agentjido/jido/blob/main/LICENSE) ![Coverage Status](https://coveralls.io/github/agentjido/jido?branch=main) > **Pure functional agents and OTP runtime for building autonomous multi-agent workflows in Elixir.** _The name \"Jido\" (自動) comes from the Japanese word meaning \"automatic\" or \"automated\", where 自 (ji) means \"sel...",
-      "readme_summary_ja": "Jido ![Hex.pm](https://hex.pm/packages/jido) ![Hex Docs](https://hexdocs.pm/jido/) ![CI](https://github.com/agentjido/jido/actions/workflows/ci.yml) ![License](https://github.com/agentjido/jido/blob/main/LICENSE) ![Coverage Status](https://coveralls.io/github/agentjido/jido?branch=main) > **Pure functional agents and OTP runtime for building autonomous multi-agent workflows in Elixir.** _The name \"Jido\" (自動) comes from the Japanese word meaning \"automatic\" or \"automated\", where 自 (ji) means \"sel...",
-      "language": "Elixir",
-      "stars": 115
-    },
-    {
-      "rank": 6,
-      "repo_name": "QwenLM/Qwen-Agent",
-      "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
-      "description_ja": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
-      "readme_summary": "<!--- Copyright 2023 The Qwen team, Alibaba Group. All rights reserved. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
-      "readme_summary_ja": "<!--- Copyright 2023 The Qwen team, Alibaba Group. All rights reserved. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
+      "rank": 2,
+      "repo_name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "description_ja": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "readme_summary": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
       "language": "Python",
-      "stars": 586
+      "stars": 1104
     },
     {
-      "rank": 7,
-      "repo_name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "description_ja": "An AI Hedge Fund Team",
-      "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
-      "readme_summary_ja": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
-      "language": "Python",
-      "stars": 248
-    },
-    {
-      "rank": 8,
-      "repo_name": "microsoft/hve-core",
-      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
-      "description_ja": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
-      "readme_summary": "--- title: HVE Core description: Hypervelocity Engineering prompt library for GitHub Copilot with constraint-based AI workflows and validated artifacts author: Microsoft ms.date: 2026-02-18 ms.topic: overview keywords: - hypervelocity engineering - prompt engineering - github copilot - ai workflows - custom agents - copilot instructions - rpi methodology estimated_reading_time: 3 --- <!-- markdownlint-disable MD013 --> ![CI Status](https://github.com/microsoft/hve-core/actions/workflows/release-...",
-      "readme_summary_ja": "--- title: HVE Core description: Hypervelocity Engineering prompt library for GitHub Copilot with constraint-based AI workflows and validated artifacts author: Microsoft ms.date: 2026-02-18 ms.topic: overview keywords: - hypervelocity engineering - prompt engineering - github copilot - ai workflows - custom agents - copilot instructions - rpi methodology estimated_reading_time: 3 --- <!-- markdownlint-disable MD013 --> ![CI Status](https://github.com/microsoft/hve-core/actions/workflows/release-...",
-      "language": "PowerShell",
-      "stars": 217
-    },
-    {
-      "rank": 9,
-      "repo_name": "toeverything/AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "description_ja": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "readme_summary": "<div align=\"center\"> <h1 style=\"border-bottom: none\"> <b><a href=\"https://affine.pro\">AFFiNE.Pro</a></b><br /> Write, Draw and Plan All at Once <br> </h1> <a href=\"https://affine.pro/download\"> <img alt=\"affine logo\" src=\"https://cdn.affine.pro/Github_hero_image2.png\" style=\"width: 100%\"> </a> <br/> <p align=\"center\"> A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. <br /> One hyper-fused platform for wildly creative minds. </p> <br/> <br/> <a href=\"ht...",
-      "readme_summary_ja": "<div align=\"center\"> <h1 style=\"border-bottom: none\"> <b><a href=\"https://affine.pro\">AFFiNE.Pro</a></b><br /> Write, Draw and Plan All at Once <br> </h1> <a href=\"https://affine.pro/download\"> <img alt=\"affine logo\" src=\"https://cdn.affine.pro/Github_hero_image2.png\" style=\"width: 100%\"> </a> <br/> <p align=\"center\"> A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. <br /> One hyper-fused platform for wildly creative minds. </p> <br/> <br/> <a href=\"ht...",
-      "language": "TypeScript",
-      "stars": 281
-    },
-    {
-      "rank": 10,
+      "rank": 3,
       "repo_name": "shadcn-ui/ui",
       "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
       "description_ja": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
       "readme_summary": "shadcn/ui A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source",
       "readme_summary_ja": "shadcn/ui A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source",
       "language": "TypeScript",
-      "stars": 129
+      "stars": 488
+    },
+    {
+      "rank": 4,
+      "repo_name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
+      "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
+      "language": "TypeScript",
+      "stars": 4603
+    },
+    {
+      "rank": 5,
+      "repo_name": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "description_ja": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "readme_summary": "<div align=\"center\"> <h1 style=\"border-bottom: none\"> <b><a href=\"https://affine.pro\">AFFiNE.Pro</a></b><br /> Write, Draw and Plan All at Once <br> </h1> <a href=\"https://affine.pro/download\"> <img alt=\"affine logo\" src=\"https://cdn.affine.pro/Github_hero_image2.png\" style=\"width: 100%\"> </a> <br/> <p align=\"center\"> A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. <br /> One hyper-fused platform for wildly creative minds. </p> <br/> <br/> <a href=\"ht...",
+      "readme_summary_ja": "<div align=\"center\"> <h1 style=\"border-bottom: none\"> <b><a href=\"https://affine.pro\">AFFiNE.Pro</a></b><br /> Write, Draw and Plan All at Once <br> </h1> <a href=\"https://affine.pro/download\"> <img alt=\"affine logo\" src=\"https://cdn.affine.pro/Github_hero_image2.png\" style=\"width: 100%\"> </a> <br/> <p align=\"center\"> A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. <br /> One hyper-fused platform for wildly creative minds. </p> <br/> <br/> <a href=\"ht...",
+      "language": "TypeScript",
+      "stars": 533
+    },
+    {
+      "rank": 6,
+      "repo_name": "Ed1s0nZ/CyberStrikeAI",
+      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "description_ja": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "readme_summary": "<div align=\"center\"> <img src=\"web/static/logo.png\" alt=\"CyberStrikeAI Logo\" width=\"200\"> </div> CyberStrikeAI 中文 | English CyberStrikeAI is an **AI-native security testing platform** built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. Through native MCP protocol and AI agents, it enables end-to-end automation fr...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"web/static/logo.png\" alt=\"CyberStrikeAI Logo\" width=\"200\"> </div> CyberStrikeAI 中文 | English CyberStrikeAI is an **AI-native security testing platform** built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. Through native MCP protocol and AI agents, it enables end-to-end automation fr...",
+      "language": "Go",
+      "stars": 244
+    },
+    {
+      "rank": 7,
+      "repo_name": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "description_ja": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "readme_summary": "English | 中文 | 日本語 Learn Claude Code -- A nano Claude Code-like agent, built from 0 to 1 <img width=\"260\" src=\"https://github.com/user-attachments/assets/fe8b852b-97da-4061-a467-9694906b5edf\" /><br> Scan with Wechat to fellow us, or fellow on X: shareAI-Lab **12 progressive sessions, from a simple loop to isolated autonomous execution.** **Each session adds one mechanism. Each mechanism has one motto.** > **s01** &nbsp; *\"One loop & Bash is all you need\"* &mdash; one tool + one loop = an agent >...",
+      "readme_summary_ja": "English | 中文 | 日本語 Learn Claude Code -- A nano Claude Code-like agent, built from 0 to 1 <img width=\"260\" src=\"https://github.com/user-attachments/assets/fe8b852b-97da-4061-a467-9694906b5edf\" /><br> Scan with Wechat to fellow us, or fellow on X: shareAI-Lab **12 progressive sessions, from a simple loop to isolated autonomous execution.** **Each session adds one mechanism. Each mechanism has one motto.** > **s01** &nbsp; *\"One loop & Bash is all you need\"* &mdash; one tool + one loop = an agent >...",
+      "language": "TypeScript",
+      "stars": 566
+    },
+    {
+      "rank": 8,
+      "repo_name": "openai/skills",
+      "description": "Skills Catalog for Codex",
+      "description_ja": "Skills Catalog for Codex",
+      "readme_summary": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
+      "readme_summary_ja": "Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific tasks. Write once, use everywhere. Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a repeatable way",
+      "language": "Python",
+      "stars": 612
+    },
+    {
+      "rank": 9,
+      "repo_name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "description_ja": "An AI Hedge Fund Team",
+      "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "readme_summary_ja": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "language": "Python",
+      "stars": 275
+    },
+    {
+      "rank": 10,
+      "repo_name": "is-a-dev/register",
+      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "description_ja": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "readme_summary": "<!-- <p align=\"center\"> <img alt=\"is-a.dev Banner\" src=\"https://raw.githubusercontent.com/is-a-dev/register/main/media/banner.png\"> </p> --> <p align=\"center\"> <img height=\"350\" alt=\"is-a.dev Octoverse 2025 Banner\" src=\"https://raw.githubusercontent.com/is-a-dev/register/main/media/octoverse-2025/is-a-dev_register_1200x630.jpg\"> </p> <p align=\"center\"> <img alt=\"Domains\" src=\"https://img.shields.io/github/directory-file-count/is-a-dev/register/domains?color=5c46eb&label=domains&style=for-the-bad...",
+      "readme_summary_ja": "<!-- <p align=\"center\"> <img alt=\"is-a.dev Banner\" src=\"https://raw.githubusercontent.com/is-a-dev/register/main/media/banner.png\"> </p> --> <p align=\"center\"> <img height=\"350\" alt=\"is-a.dev Octoverse 2025 Banner\" src=\"https://raw.githubusercontent.com/is-a-dev/register/main/media/octoverse-2025/is-a-dev_register_1200x630.jpg\"> </p> <p align=\"center\"> <img alt=\"Domains\" src=\"https://img.shields.io/github/directory-file-count/is-a-dev/register/domains?color=5c46eb&label=domains&style=for-the-bad...",
+      "language": "JavaScript",
+      "stars": 10
     },
     {
       "rank": 11,
-      "repo_name": "alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "description_ja": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "readme_summary": "Page Agent <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://img.alicdn.com/imgextra/i4/O1CN01qKig1P1FnhpFKNdi6_!!6000000000532-2-tps-1280-256.png\"> <img alt=\"Page Agent Banner\" src=\"https://img.alicdn.com/imgextra/i1/O1CN01NCMKXj1Gn4tkFTsxf_!!6000000000666-2-tps-1280-256.png\"> </picture> ![License: MIT](https://opensource.org/licenses/MIT) ![TypeScript](http://www.typescriptlang.org/) ![Downloads](https://www.npmjs.com/package/page-agent) ![Bundle Size](https://bundlephobia...",
-      "readme_summary_ja": "Page Agent <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://img.alicdn.com/imgextra/i4/O1CN01qKig1P1FnhpFKNdi6_!!6000000000532-2-tps-1280-256.png\"> <img alt=\"Page Agent Banner\" src=\"https://img.alicdn.com/imgextra/i1/O1CN01NCMKXj1Gn4tkFTsxf_!!6000000000666-2-tps-1280-256.png\"> </picture> ![License: MIT](https://opensource.org/licenses/MIT) ![TypeScript](http://www.typescriptlang.org/) ![Downloads](https://www.npmjs.com/package/page-agent) ![Bundle Size](https://bundlephobia...",
-      "language": "TypeScript",
-      "stars": 137
+      "repo_name": "teng-lin/notebooklm-py",
+      "description": "Unofficial Python API for Google NotebookLM",
+      "description_ja": "Unofficial Python API for Google NotebookLM",
+      "readme_summary": "notebooklm-py <p align=\"left\"> <img src=\"https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/notebooklm-py.png\" alt=\"notebooklm-py logo\" width=\"128\"> </p> **Comprehensive Python API for Google NotebookLM.** Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—from Python or the command line. ![PyPI version](https://pypi.org/project/notebooklm-py/) ![Python Version](https://pypi.org/project/notebooklm-py/) ![License: MIT](https://opensource....",
+      "readme_summary_ja": "notebooklm-py <p align=\"left\"> <img src=\"https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/notebooklm-py.png\" alt=\"notebooklm-py logo\" width=\"128\"> </p> **Comprehensive Python API for Google NotebookLM.** Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—from Python or the command line. ![PyPI version](https://pypi.org/project/notebooklm-py/) ![Python Version](https://pypi.org/project/notebooklm-py/) ![License: MIT](https://opensource....",
+      "language": "Python",
+      "stars": 196
+    },
+    {
+      "rank": 12,
+      "repo_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "description_ja": "The design language that makes your AI harness better at design.",
+      "readme_summary": "Impeccable The vocabulary you didn't know you needed. 1 skill, 17 commands, and curated anti-patterns for impeccable frontend design. > **Quick start:** Visit impeccable.style to download ready-to-use bundles",
+      "readme_summary_ja": "Impeccable The vocabulary you didn't know you needed. 1 skill, 17 commands, and curated anti-patterns for impeccable frontend design. > **Quick start:** Visit impeccable.style to download ready-to-use bundles",
+      "language": "JavaScript",
+      "stars": 443
     }
   ]
 }
