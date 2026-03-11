@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-03-10 03:30:42",
-  "total_repos": 12,
+  "updated_at": "2026-03-11 03:30:47",
+  "total_repos": 13,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "GoogleCloudPlatform/generative-ai",
-      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-      "description_ja": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-      "readme_summary": "Generative AI on Google Cloud > **Gemini 3.1 Pro has been released!** > > Here are the latest notebooks and demos using the new model: > > - Intro to Gemini 3.1 Pro > <!-- markdownlint-disable MD033 --> This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using Generative AI on Google Cloud with Vertex AI. Using this repository ![Applied AI Summit: The cloud toolkit for generative AI](https://ww...",
-      "readme_summary_ja": "Generative AI on Google Cloud > **Gemini 3.1 Pro has been released!** > > Here are the latest notebooks and demos using the new model: > > - Intro to Gemini 3.1 Pro > <!-- markdownlint-disable MD033 --> This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using Generative AI on Google Cloud with Vertex AI. Using this repository ![Applied AI Summit: The cloud toolkit for generative AI](https://ww...",
-      "language": "Jupyter Notebook",
-      "stars": 1282
-    },
-    {
-      "rank": 2,
-      "repo_name": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
-      "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
-      "language": "TypeScript",
-      "stars": 9164
-    },
-    {
-      "rank": 3,
-      "repo_name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "description_ja": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "readme_summary": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
-      "language": "Python",
-      "stars": 2294
-    },
-    {
-      "rank": 4,
-      "repo_name": "karpathy/nanochat",
-      "description": "The best ChatGPT that $100 can buy.",
-      "description_ja": "The best ChatGPT that $100 can buy.",
-      "readme_summary": "nanochat !nanochat logo !scaling laws nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$43,000 to train in 2019) for only $48 (~2 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI",
-      "readme_summary_ja": "nanochat !nanochat logo !scaling laws nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$43,000 to train in 2019) for only $48 (~2 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI",
-      "language": "Python",
-      "stars": 355
-    },
-    {
-      "rank": 5,
-      "repo_name": "666ghj/BettaFish",
-      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-      "description_ja": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-      "readme_summary": "<div align=\"center\"> <img src=\"static/image/logo_compressed.png\" alt=\"BettaFish Logo\" width=\"100%\"> <a href=\"https://trendshift.io/repositories/15286\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15286\" alt=\"666ghj%2FBettaFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href=\"https://aihubmix.com/?aff=8Ds9\" target=\"_blank\"><img src=\"./static/image/logo_aihubmix.png\" alt=\"666ghj%2FBettaFish | Trendshift\" height=\"40\"/></a>&ensp; <a h...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"static/image/logo_compressed.png\" alt=\"BettaFish Logo\" width=\"100%\"> <a href=\"https://trendshift.io/repositories/15286\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15286\" alt=\"666ghj%2FBettaFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <a href=\"https://aihubmix.com/?aff=8Ds9\" target=\"_blank\"><img src=\"./static/image/logo_aihubmix.png\" alt=\"666ghj%2FBettaFish | Trendshift\" height=\"40\"/></a>&ensp; <a h...",
-      "language": "Python",
-      "stars": 514
-    },
-    {
-      "rank": 6,
-      "repo_name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "description_ja": "The agent that grows with you",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ⚕ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ⚕ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
-      "language": "Python",
-      "stars": 377
-    },
-    {
-      "rank": 7,
-      "repo_name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "description_ja": "The design language that makes your AI harness better at design.",
-      "readme_summary": "Impeccable The vocabulary you didn't know you needed. 1 skill, 17 commands, and curated anti-patterns for impeccable frontend design. > **Quick start:** Visit impeccable.style to download ready-to-use bundles",
-      "readme_summary_ja": "Impeccable The vocabulary you didn't know you needed. 1 skill, 17 commands, and curated anti-patterns for impeccable frontend design. > **Quick start:** Visit impeccable.style to download ready-to-use bundles",
-      "language": "JavaScript",
-      "stars": 1288
-    },
-    {
-      "rank": 8,
       "repo_name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "description_ja": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "readme_summary": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
       "readme_summary_ja": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
       "language": "Shell",
-      "stars": 4415
+      "stars": 6223
+    },
+    {
+      "rank": 2,
+      "repo_name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "description_ja": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "readme_summary": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
+      "language": "Python",
+      "stars": 4504
+    },
+    {
+      "rank": 3,
+      "repo_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "description_ja": "The agent that grows with you",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ⚕ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ⚕ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
+      "language": "Python",
+      "stars": 781
+    },
+    {
+      "rank": 4,
+      "repo_name": "promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "description_ja": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "readme_summary": "Promptfoo: LLM evals & red teaming <p align=\"center\"> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/v/promptfoo\" alt=\"npm\"></a> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/dm/promptfoo\" alt=\"npm\"></a> <a href=\"https://github.com/promptfoo/promptfoo/actions/workflows/main.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/promptfoo/promptfoo/main.yml\" alt=\"GitHub Workflow Status\"></a> <a href=\"https://gi...",
+      "readme_summary_ja": "Promptfoo: LLM evals & red teaming <p align=\"center\"> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/v/promptfoo\" alt=\"npm\"></a> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/dm/promptfoo\" alt=\"npm\"></a> <a href=\"https://github.com/promptfoo/promptfoo/actions/workflows/main.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/promptfoo/promptfoo/main.yml\" alt=\"GitHub Workflow Status\"></a> <a href=\"https://gi...",
+      "language": "TypeScript",
+      "stars": 661
+    },
+    {
+      "rank": 5,
+      "repo_name": "GoogleCloudPlatform/generative-ai",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "description_ja": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "readme_summary": "Generative AI on Google Cloud > **Gemini 3.1 Pro has been released!** > > Here are the latest notebooks and demos using the new model: > > - Intro to Gemini 3.1 Pro > <!-- markdownlint-disable MD033 --> This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using Generative AI on Google Cloud with Vertex AI. Using this repository ![Applied AI Summit: The cloud toolkit for generative AI](https://ww...",
+      "readme_summary_ja": "Generative AI on Google Cloud > **Gemini 3.1 Pro has been released!** > > Here are the latest notebooks and demos using the new model: > > - Intro to Gemini 3.1 Pro > <!-- markdownlint-disable MD033 --> This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using Generative AI on Google Cloud with Vertex AI. Using this repository ![Applied AI Summit: The cloud toolkit for generative AI](https://ww...",
+      "language": "Jupyter Notebook",
+      "stars": 530
+    },
+    {
+      "rank": 6,
+      "repo_name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "description_ja": "An AI Hedge Fund Team",
+      "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "readme_summary_ja": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "language": "Python",
+      "stars": 300
+    },
+    {
+      "rank": 7,
+      "repo_name": "karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "description_ja": "The best ChatGPT that $100 can buy.",
+      "readme_summary": "nanochat !nanochat logo !scaling laws nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$43,000 to train in 2019) for only $48 (~2 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI",
+      "readme_summary_ja": "nanochat !nanochat logo !scaling laws nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$43,000 to train in 2019) for only $48 (~2 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI",
+      "language": "Python",
+      "stars": 705
+    },
+    {
+      "rank": 8,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 1387
     },
     {
       "rank": 9,
@@ -90,37 +90,47 @@
       "readme_summary": "Page Agent <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://img.alicdn.com/imgextra/i4/O1CN01qKig1P1FnhpFKNdi6_!!6000000000532-2-tps-1280-256.png\"> <img alt=\"Page Agent Banner\" src=\"https://img.alicdn.com/imgextra/i1/O1CN01NCMKXj1Gn4tkFTsxf_!!6000000000666-2-tps-1280-256.png\"> </picture> ![License: MIT](https://opensource.org/licenses/MIT) ![TypeScript](http://www.typescriptlang.org/) ![Downloads](https://www.npmjs.com/package/page-agent) ![Bundle Size](https://bundlephobia...",
       "readme_summary_ja": "Page Agent <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://img.alicdn.com/imgextra/i4/O1CN01qKig1P1FnhpFKNdi6_!!6000000000532-2-tps-1280-256.png\"> <img alt=\"Page Agent Banner\" src=\"https://img.alicdn.com/imgextra/i1/O1CN01NCMKXj1Gn4tkFTsxf_!!6000000000666-2-tps-1280-256.png\"> </picture> ![License: MIT](https://opensource.org/licenses/MIT) ![TypeScript](http://www.typescriptlang.org/) ![Downloads](https://www.npmjs.com/package/page-agent) ![Bundle Size](https://bundlephobia...",
       "language": "TypeScript",
-      "stars": 465
+      "stars": 891
     },
     {
       "rank": 10,
-      "repo_name": "alirezarezvani/claude-skills",
-      "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
-      "description_ja": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
-      "readme_summary": "Claude Code Skills & Plugins **170 production-ready skills and plugins for Claude Code, OpenAI Codex, and OpenClaw** — reusable expertise bundles that transform AI coding agents into specialized professionals across engineering, product, marketing, compliance, and more. ![License: MIT](https://opensource.org/licenses/MIT) ![Skills](#skills-overview) ![Agents](#agents) ![Commands](#commands) ![Stars](https://github.com/alirezarezvani/claude-skills/stargazers) ![SkillCheck Validated](https://getsk...",
-      "readme_summary_ja": "Claude Code Skills & Plugins **170 production-ready skills and plugins for Claude Code, OpenAI Codex, and OpenClaw** — reusable expertise bundles that transform AI coding agents into specialized professionals across engineering, product, marketing, compliance, and more. ![License: MIT](https://opensource.org/licenses/MIT) ![Skills](#skills-overview) ![Agents](#agents) ![Commands](#commands) ![Stars](https://github.com/alirezarezvani/claude-skills/stargazers) ![SkillCheck Validated](https://getsk...",
-      "language": "Python",
-      "stars": 259
+      "repo_name": "sepinf-inc/IPED",
+      "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
+      "description_ja": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
+      "readme_summary": "IPED Digital Forensic Tool IPED is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. History IPED - Digital Evidence Processor and Indexer (translated from Portuguese) is a tool implemented in java and originally and still developed by digital forensic experts from Brazilian Federal Police since 2012. Although it was always open source, only in 2019 its code was o...",
+      "readme_summary_ja": "IPED Digital Forensic Tool IPED is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. History IPED - Digital Evidence Processor and Indexer (translated from Portuguese) is a tool implemented in java and originally and still developed by digital forensic experts from Brazilian Federal Police since 2012. Although it was always open source, only in 2019 its code was o...",
+      "language": "Java",
+      "stars": 273
     },
     {
       "rank": 11,
-      "repo_name": "Raphire/Win11Debloat",
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "description_ja": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "readme_summary": "Win11Debloat ![GitHub Release](https://github.com/Raphire/Win11Debloat/releases/latest) ![Join the Discussion](https://github.com/Raphire/Win11Debloat/discussions) ![Static Badge](https://github.com/Raphire/Win11Debloat/wiki/) Win11Debloat is a lightweight, easy to use PowerShell script that allows you to quickly declutter and customize your Windows experience. It can remove pre-installed bloatware apps, disable telemetry, remove intrusive interface elements and much more. No need to painstaking...",
-      "readme_summary_ja": "Win11Debloat ![GitHub Release](https://github.com/Raphire/Win11Debloat/releases/latest) ![Join the Discussion](https://github.com/Raphire/Win11Debloat/discussions) ![Static Badge](https://github.com/Raphire/Win11Debloat/wiki/) Win11Debloat is a lightweight, easy to use PowerShell script that allows you to quickly declutter and customize your Windows experience. It can remove pre-installed bloatware apps, disable telemetry, remove intrusive interface elements and much more. No need to painstaking...",
-      "language": "PowerShell",
-      "stars": 104
+      "repo_name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
+      "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
+      "language": "TypeScript",
+      "stars": 9080
     },
     {
       "rank": 12,
-      "repo_name": "teng-lin/notebooklm-py",
-      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-      "description_ja": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-      "readme_summary": "notebooklm-py <p align=\"left\"> <img src=\"https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/notebooklm-py.png\" alt=\"notebooklm-py logo\" width=\"128\"> </p> **Unofficial Python API and agentic skill for Google NotebookLM.** Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. ![PyPI version](https://pypi.org/project/notebooklm-py/) ![Python Version](https://pypi.org/project...",
-      "readme_summary_ja": "notebooklm-py <p align=\"left\"> <img src=\"https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/notebooklm-py.png\" alt=\"notebooklm-py logo\" width=\"128\"> </p> **Unofficial Python API and agentic skill for Google NotebookLM.** Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. ![PyPI version](https://pypi.org/project/notebooklm-py/) ![Python Version](https://pypi.org/project...",
+      "repo_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "description_ja": "The design language that makes your AI harness better at design.",
+      "readme_summary": "Impeccable The vocabulary you didn't know you needed. 1 skill, 17 commands, and curated anti-patterns for impeccable frontend design. > **Quick start:** Visit impeccable.style to download ready-to-use bundles",
+      "readme_summary_ja": "Impeccable The vocabulary you didn't know you needed. 1 skill, 17 commands, and curated anti-patterns for impeccable frontend design. > **Quick start:** Visit impeccable.style to download ready-to-use bundles",
+      "language": "JavaScript",
+      "stars": 939
+    },
+    {
+      "rank": 13,
+      "repo_name": "bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "description_ja": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "readme_summary": "🦌 DeerFlow - 2.0 <a href=\"https://trendshift.io/repositories/14699\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14699\" alt=\"bytedance%2Fdeer-flow | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> > On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredible community — you made this happen! 💪🔥 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearc...",
+      "readme_summary_ja": "🦌 DeerFlow - 2.0 <a href=\"https://trendshift.io/repositories/14699\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14699\" alt=\"bytedance%2Fdeer-flow | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> > On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredible community — you made this happen! 💪🔥 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearc...",
       "language": "Python",
-      "stars": 457
+      "stars": 1413
     }
   ]
 }
