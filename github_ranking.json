@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-11 09:00:41",
-  "total_repos": 13,
+  "updated_at": "2026-03-12 09:00:28",
+  "total_repos": 9,
   "ranking": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "readme_summary": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
       "readme_summary_ja": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
       "language": "Shell",
-      "stars": 6223
+      "stars": 6167
     },
     {
       "rank": 2,
@@ -20,37 +20,37 @@
       "readme_summary": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
       "readme_summary_ja": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
       "language": "Python",
-      "stars": 4504
+      "stars": 2907
     },
     {
       "rank": 3,
-      "repo_name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "description_ja": "The agent that grows with you",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ⚕ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ⚕ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
-      "language": "Python",
-      "stars": 781
-    },
-    {
-      "rank": 4,
       "repo_name": "promptfoo/promptfoo",
-      "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-      "description_ja": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "description_ja": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
       "readme_summary": "Promptfoo: LLM evals & red teaming <p align=\"center\"> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/v/promptfoo\" alt=\"npm\"></a> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/dm/promptfoo\" alt=\"npm\"></a> <a href=\"https://github.com/promptfoo/promptfoo/actions/workflows/main.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/promptfoo/promptfoo/main.yml\" alt=\"GitHub Workflow Status\"></a> <a href=\"https://gi...",
       "readme_summary_ja": "Promptfoo: LLM evals & red teaming <p align=\"center\"> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/v/promptfoo\" alt=\"npm\"></a> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/dm/promptfoo\" alt=\"npm\"></a> <a href=\"https://github.com/promptfoo/promptfoo/actions/workflows/main.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/promptfoo/promptfoo/main.yml\" alt=\"GitHub Workflow Status\"></a> <a href=\"https://gi...",
       "language": "TypeScript",
-      "stars": 661
+      "stars": 718
+    },
+    {
+      "rank": 4,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 1483
     },
     {
       "rank": 5,
-      "repo_name": "GoogleCloudPlatform/generative-ai",
-      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-      "description_ja": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-      "readme_summary": "Generative AI on Google Cloud > **Gemini 3.1 Pro has been released!** > > Here are the latest notebooks and demos using the new model: > > - Intro to Gemini 3.1 Pro > <!-- markdownlint-disable MD033 --> This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using Generative AI on Google Cloud with Vertex AI. Using this repository ![Applied AI Summit: The cloud toolkit for generative AI](https://ww...",
-      "readme_summary_ja": "Generative AI on Google Cloud > **Gemini 3.1 Pro has been released!** > > Here are the latest notebooks and demos using the new model: > > - Intro to Gemini 3.1 Pro > <!-- markdownlint-disable MD033 --> This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using Generative AI on Google Cloud with Vertex AI. Using this repository ![Applied AI Summit: The cloud toolkit for generative AI](https://ww...",
-      "language": "Jupyter Notebook",
-      "stars": 530
+      "repo_name": "fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "description_ja": "SOTA Open Source TTS",
+      "readme_summary": "<div align=\"center\"> <h1>Fish Speech</h1> **English** | 简体中文 | Portuguese | 日本語 | 한국어 | العربية <br> <a href=\"https://www.producthunt.com/products/fish-speech?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-fish&#0045;audio&#0045;s1\" target=\"_blank\"><img src=\"https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1023740&theme=light&period=daily&t=1761164814710\" alt=\"Fish&#0032;Audio&#0032;S1 - Expressive&#0032;Voice&#0032;Cloning&#0032;and&#00...",
+      "readme_summary_ja": "<div align=\"center\"> <h1>Fish Speech</h1> **English** | 简体中文 | Portuguese | 日本語 | 한국어 | العربية <br> <a href=\"https://www.producthunt.com/products/fish-speech?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-fish&#0045;audio&#0045;s1\" target=\"_blank\"><img src=\"https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1023740&theme=light&period=daily&t=1761164814710\" alt=\"Fish&#0032;Audio&#0032;S1 - Expressive&#0032;Voice&#0032;Cloning&#0032;and&#00...",
+      "language": "Python",
+      "stars": 313
     },
     {
       "rank": 6,
@@ -60,77 +60,37 @@
       "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
       "readme_summary_ja": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
       "language": "Python",
-      "stars": 300
+      "stars": 636
     },
     {
       "rank": 7,
-      "repo_name": "karpathy/nanochat",
-      "description": "The best ChatGPT that $100 can buy.",
-      "description_ja": "The best ChatGPT that $100 can buy.",
-      "readme_summary": "nanochat !nanochat logo !scaling laws nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$43,000 to train in 2019) for only $48 (~2 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI",
-      "readme_summary_ja": "nanochat !nanochat logo !scaling laws nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, inference, and a chat UI. For example, you can train your own GPT-2 capability LLM (which cost ~$43,000 to train in 2019) for only $48 (~2 hours of 8XH100 GPU node) and then talk to it in a familiar ChatGPT-like web UI",
-      "language": "Python",
-      "stars": 705
-    },
-    {
-      "rank": 8,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 1387
-    },
-    {
-      "rank": 9,
       "repo_name": "alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "description_ja": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "readme_summary": "Page Agent <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://img.alicdn.com/imgextra/i4/O1CN01qKig1P1FnhpFKNdi6_!!6000000000532-2-tps-1280-256.png\"> <img alt=\"Page Agent Banner\" src=\"https://img.alicdn.com/imgextra/i1/O1CN01NCMKXj1Gn4tkFTsxf_!!6000000000666-2-tps-1280-256.png\"> </picture> ![License: MIT](https://opensource.org/licenses/MIT) ![TypeScript](http://www.typescriptlang.org/) ![Downloads](https://www.npmjs.com/package/page-agent) ![Bundle Size](https://bundlephobia...",
       "readme_summary_ja": "Page Agent <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://img.alicdn.com/imgextra/i4/O1CN01qKig1P1FnhpFKNdi6_!!6000000000532-2-tps-1280-256.png\"> <img alt=\"Page Agent Banner\" src=\"https://img.alicdn.com/imgextra/i1/O1CN01NCMKXj1Gn4tkFTsxf_!!6000000000666-2-tps-1280-256.png\"> </picture> ![License: MIT](https://opensource.org/licenses/MIT) ![TypeScript](http://www.typescriptlang.org/) ![Downloads](https://www.npmjs.com/package/page-agent) ![Bundle Size](https://bundlephobia...",
       "language": "TypeScript",
-      "stars": 891
+      "stars": 1215
     },
     {
-      "rank": 10,
-      "repo_name": "sepinf-inc/IPED",
-      "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
-      "description_ja": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
-      "readme_summary": "IPED Digital Forensic Tool IPED is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. History IPED - Digital Evidence Processor and Indexer (translated from Portuguese) is a tool implemented in java and originally and still developed by digital forensic experts from Brazilian Federal Police since 2012. Although it was always open source, only in 2019 its code was o...",
-      "readme_summary_ja": "IPED Digital Forensic Tool IPED is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. History IPED - Digital Evidence Processor and Indexer (translated from Portuguese) is a tool implemented in java and originally and still developed by digital forensic experts from Brazilian Federal Police since 2012. Although it was always open source, only in 2019 its code was o...",
-      "language": "Java",
-      "stars": 273
-    },
-    {
-      "rank": 11,
-      "repo_name": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "description_ja": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "readme_summary": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
-      "readme_summary_ja": "🦞 OpenClaw — Personal AI Assistant <p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"https://github.com/openclaw/openclaw/actions/...",
-      "language": "TypeScript",
-      "stars": 9080
-    },
-    {
-      "rank": 12,
-      "repo_name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "description_ja": "The design language that makes your AI harness better at design.",
-      "readme_summary": "Impeccable The vocabulary you didn't know you needed. 1 skill, 17 commands, and curated anti-patterns for impeccable frontend design. > **Quick start:** Visit impeccable.style to download ready-to-use bundles",
-      "readme_summary_ja": "Impeccable The vocabulary you didn't know you needed. 1 skill, 17 commands, and curated anti-patterns for impeccable frontend design. > **Quick start:** Visit impeccable.style to download ready-to-use bundles",
-      "language": "JavaScript",
-      "stars": 939
-    },
-    {
-      "rank": 13,
-      "repo_name": "bytedance/deer-flow",
-      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
-      "description_ja": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
-      "readme_summary": "🦌 DeerFlow - 2.0 <a href=\"https://trendshift.io/repositories/14699\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14699\" alt=\"bytedance%2Fdeer-flow | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> > On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredible community — you made this happen! 💪🔥 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearc...",
-      "readme_summary_ja": "🦌 DeerFlow - 2.0 <a href=\"https://trendshift.io/repositories/14699\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14699\" alt=\"bytedance%2Fdeer-flow | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> > On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredible community — you made this happen! 💪🔥 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearc...",
+      "rank": 8,
+      "repo_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "description_ja": "The agent that grows with you",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ⚕ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ⚕ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "language": "Python",
-      "stars": 1413
+      "stars": 1234
+    },
+    {
+      "rank": 9,
+      "repo_name": "AstrBotDevs/AstrBot",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "description_ja": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "readme_summary": "!AstrBot-Logo-Simplified <div align=\"center\"> <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh.md\">简体中文</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh-TW.md\">繁體中文</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_ja.md\">日本語</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_fr.md\">Français</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_ru.md\">Русский</a> <br> <div> <a href=\"ht...",
+      "readme_summary_ja": "!AstrBot-Logo-Simplified <div align=\"center\"> <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh.md\">简体中文</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh-TW.md\">繁體中文</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_ja.md\">日本語</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_fr.md\">Français</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_ru.md\">Русский</a> <br> <div> <a href=\"ht...",
+      "language": "Python",
+      "stars": 342
     }
   ]
 }
