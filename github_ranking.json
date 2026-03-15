@@ -1,66 +1,66 @@
 {
-  "updated_at": "2026-03-14 03:32:34",
-  "total_repos": 16,
+  "updated_at": "2026-03-15 03:54:12",
+  "total_repos": 10,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "description_ja": "Official inference framework for 1-bit LLMs",
-      "readme_summary": "bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) !version <img src=\"./assets/header_model_release.png\" alt=\"BitNet Model on Hugging Face\" width=\"800\"/> Try it out via this demo, or build and run it on your own CPU or GPU. bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU and GPU (NPU support will coming next)",
-      "readme_summary_ja": "bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) !version <img src=\"./assets/header_model_release.png\" alt=\"BitNet Model on Hugging Face\" width=\"800\"/> Try it out via this demo, or build and run it on your own CPU or GPU. bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU and GPU (NPU support will coming next)",
+      "repo_name": "volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "description_ja": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "readme_summary": "<div align=\"center\"> <picture> <img alt=\"OpenViking\" src=\"docs/images/banner.jpg\" width=\"100%\" height=\"auto\"> </picture> OpenViking: The Context Database for AI Agents English / 中文 <a href=\"https://www.openviking.ai\">Website</a> · <a href=\"https://github.com/volcengine/OpenViking\">GitHub</a> · <a href=\"https://github.com/volcengine/OpenViking/issues\">Issues</a> · <a href=\"https://www.openviking.ai/docs\">Docs</a> [![][release-shield]][release-link] [![][github-stars-shield]][github-stars-link] [!...",
+      "readme_summary_ja": "<div align=\"center\"> <picture> <img alt=\"OpenViking\" src=\"docs/images/banner.jpg\" width=\"100%\" height=\"auto\"> </picture> OpenViking: The Context Database for AI Agents English / 中文 <a href=\"https://www.openviking.ai\">Website</a> · <a href=\"https://github.com/volcengine/OpenViking\">GitHub</a> · <a href=\"https://github.com/volcengine/OpenViking/issues\">Issues</a> · <a href=\"https://www.openviking.ai/docs\">Docs</a> [![][release-shield]][release-link] [![][github-stars-shield]][github-stars-link] [!...",
       "language": "Python",
-      "stars": 2227
+      "stars": 1610
     },
     {
       "rank": 2,
+      "repo_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description_ja": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "readme_summary": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
+      "readme_summary_ja": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
+      "language": "Python",
+      "stars": 411
+    },
+    {
+      "rank": 3,
+      "repo_name": "dimensionalOS/dimos",
+      "description": "The Dimensional Framework",
+      "description_ja": "The Dimensional Framework",
+      "readme_summary": "<div align=\"center\"> <img width=\"1000\" alt=\"banner_bordered_trimmed\" src=\"https://github.com/user-attachments/assets/64f13b39-da06-4f58-add0-cfc44f04db4e\" /> <h2>The Agentive Operating System for Physical Space</h2> ![Discord](https://discord.gg/dimos) ![Stars](https://github.com/dimensionalOS/dimos/stargazers) ![Forks](https://github.com/dimensionalOS/dimos/fork) ![Contributors](https://github.com/dimensionalOS/dimos/graphs/contributors) !Nix !NixOS !CUDA ![Docker](https://www.docker.com/) <big...",
+      "readme_summary_ja": "<div align=\"center\"> <img width=\"1000\" alt=\"banner_bordered_trimmed\" src=\"https://github.com/user-attachments/assets/64f13b39-da06-4f58-add0-cfc44f04db4e\" /> <h2>The Agentive Operating System for Physical Space</h2> ![Discord](https://discord.gg/dimos) ![Stars](https://github.com/dimensionalOS/dimos/stargazers) ![Forks](https://github.com/dimensionalOS/dimos/fork) ![Contributors](https://github.com/dimensionalOS/dimos/graphs/contributors) !Nix !NixOS !CUDA ![Docker](https://www.docker.com/) <big...",
+      "language": "Python",
+      "stars": 72
+    },
+    {
+      "rank": 4,
+      "repo_name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "description_ja": "Fully automatic censorship removal for language models",
+      "readme_summary": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) ![#1 Repository of the Day](https://trendshift.io/repositories/20538) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models wi...",
+      "readme_summary_ja": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) ![#1 Repository of the Day](https://trendshift.io/repositories/20538) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models wi...",
+      "language": "Python",
+      "stars": 694
+    },
+    {
+      "rank": 5,
       "repo_name": "langflow-ai/openrag",
       "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
       "description_ja": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
       "readme_summary": "<div align=\"center\"> <img src=\"./docs/static/img/openrag-logo-dog.svg\" alt=\"\" width=\"120\"/> OpenRAG <h3> <em>Intelligent Agent-powered document search</em> </h3> <!-- Badges --> ![Langflow](https://github.com/langflow-ai/langflow) ![OpenSearch](https://github.com/opensearch-project/OpenSearch) ![Docling](https://github.com/docling-project/docling) ![YouTube Channel](https://www.youtube.com/@OpenRAG/) ![GitHub stars](https://github.com/langflow-ai/openrag/stargazers) ![GitHub forks](https://githu...",
       "readme_summary_ja": "<div align=\"center\"> <img src=\"./docs/static/img/openrag-logo-dog.svg\" alt=\"\" width=\"120\"/> OpenRAG <h3> <em>Intelligent Agent-powered document search</em> </h3> <!-- Badges --> ![Langflow](https://github.com/langflow-ai/langflow) ![OpenSearch](https://github.com/opensearch-project/OpenSearch) ![Docling](https://github.com/docling-project/docling) ![YouTube Channel](https://www.youtube.com/@OpenRAG/) ![GitHub stars](https://github.com/langflow-ai/openrag/stargazers) ![GitHub forks](https://githu...",
       "language": "Python",
-      "stars": 905
+      "stars": 564
     },
     {
-      "rank": 3,
+      "rank": 6,
       "repo_name": "lightpanda-io/browser",
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "description_ja": "Lightpanda: the headless browser designed for AI and automation",
       "readme_summary": "<p align=\"center\"> <a href=\"https://lightpanda.io\"><img src=\"https://cdn.lightpanda.io/assets/images/logo/lpd-logo.png\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Lightpanda Browser</h1> <p align=\"center\"><a href=\"https://lightpanda.io/\">lightpanda.io</a></p> <div align=\"center\"> ![License](https://github.com/lightpanda-io/browser/blob/main/LICENSE) ![Twitter Follow](https://twitter.com/lightpanda_io) ![GitHub stars](https://github.com/lightpanda-io/browser) </div> Lightpanda is the open...",
       "readme_summary_ja": "<p align=\"center\"> <a href=\"https://lightpanda.io\"><img src=\"https://cdn.lightpanda.io/assets/images/logo/lpd-logo.png\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Lightpanda Browser</h1> <p align=\"center\"><a href=\"https://lightpanda.io/\">lightpanda.io</a></p> <div align=\"center\"> ![License](https://github.com/lightpanda-io/browser/blob/main/LICENSE) ![Twitter Follow](https://twitter.com/lightpanda_io) ![GitHub stars](https://github.com/lightpanda-io/browser) </div> Lightpanda is the open...",
       "language": "Zig",
-      "stars": 2093
-    },
-    {
-      "rank": 4,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 2106
-    },
-    {
-      "rank": 5,
-      "repo_name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "description_ja": "A collective list of free APIs",
-      "readme_summary": "Try Public APIs for free The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years",
-      "readme_summary_ja": "Try Public APIs for free The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years",
-      "language": "Python",
-      "stars": 892
-    },
-    {
-      "rank": 6,
-      "repo_name": "promptfoo/promptfoo",
-      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-      "description_ja": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-      "readme_summary": "Promptfoo: LLM evals & red teaming <p align=\"center\"> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/v/promptfoo\" alt=\"npm\"></a> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/dm/promptfoo\" alt=\"npm\"></a> <a href=\"https://github.com/promptfoo/promptfoo/actions/workflows/main.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/promptfoo/promptfoo/main.yml\" alt=\"GitHub Workflow Status\"></a> <a href=\"https://gi...",
-      "readme_summary_ja": "Promptfoo: LLM evals & red teaming <p align=\"center\"> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/v/promptfoo\" alt=\"npm\"></a> <a href=\"https://npmjs.com/package/promptfoo\"><img src=\"https://img.shields.io/npm/dm/promptfoo\" alt=\"npm\"></a> <a href=\"https://github.com/promptfoo/promptfoo/actions/workflows/main.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/promptfoo/promptfoo/main.yml\" alt=\"GitHub Workflow Status\"></a> <a href=\"https://gi...",
-      "language": "TypeScript",
-      "stars": 1668
+      "stars": 2069
     },
     {
       "rank": 7,
@@ -70,97 +70,37 @@
       "readme_summary": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
       "readme_summary_ja": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. ![GitHub stars](https://github.com/msitarzewski/agency-agents) ![License: MIT](https://opensource.org/licenses/MIT) ![PRs Welcome](https://makeapullrequest.com) ![Sponsor](https://github.com/sponsors/msitarze...",
       "language": "Shell",
-      "stars": 5745
+      "stars": 4280
     },
     {
       "rank": 8,
-      "repo_name": "dolthub/dolt",
-      "description": "Dolt – Git for Data",
-      "description_ja": "Dolt – Git for Data",
-      "readme_summary": "<img height=\"100\" src=\"./images/Dolt-Logo@3x.svg\"/> Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a Git repository. Connect to Dolt just like any MySQL database to read or modify schema and data. Version control functionality is exposed in SQL via system tables, functions, and procedures",
-      "readme_summary_ja": "<img height=\"100\" src=\"./images/Dolt-Logo@3x.svg\"/> Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a Git repository. Connect to Dolt just like any MySQL database to read or modify schema and data. Version control functionality is exposed in SQL via system tables, functions, and procedures",
-      "language": "Go",
-      "stars": 60
-    },
-    {
-      "rank": 9,
-      "repo_name": "google/A2UI",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "A2UI: Agent-to-User Interface A2UI is an open-source project, complete with a format optimized for representing updatable agent-generated UIs and an initial set of renderers, that allows agents to generate or populate rich user interfaces. <img src=\"docs/assets/a2ui_gallery_examples.png\" alt=\"Gallery of A2UI components\" height=\"400\"> *A gallery of A2UI rendered cards, showing a variety of UI compositions that A2UI can achieve.* ⚠️ Status: Early stage public preview > **Note:** A2UI is currently ...",
-      "readme_summary_ja": "A2UI: Agent-to-User Interface A2UI is an open-source project, complete with a format optimized for representing updatable agent-generated UIs and an initial set of renderers, that allows agents to generate or populate rich user interfaces. <img src=\"docs/assets/a2ui_gallery_examples.png\" alt=\"Gallery of A2UI components\" height=\"400\"> *A gallery of A2UI rendered cards, showing a variety of UI compositions that A2UI can achieve.* ⚠️ Status: Early stage public preview > **Note:** A2UI is currently ...",
-      "language": "TypeScript",
-      "stars": 635
-    },
-    {
-      "rank": 10,
       "repo_name": "fishaudio/fish-speech",
       "description": "SOTA Open Source TTS",
       "description_ja": "SOTA Open Source TTS",
       "readme_summary": "<div align=\"center\"> <h1>Fish Speech</h1> **English** | 简体中文 | Portuguese | 日本語 | 한국어 | العربية <br> <a href=\"https://www.producthunt.com/products/fish-speech?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-fish&#0045;audio&#0045;s1\" target=\"_blank\"><img src=\"https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1023740&theme=light&period=daily&t=1761164814710\" alt=\"Fish&#0032;Audio&#0032;S1 - Expressive&#0032;Voice&#0032;Cloning&#0032;and&#00...",
       "readme_summary_ja": "<div align=\"center\"> <h1>Fish Speech</h1> **English** | 简体中文 | Portuguese | 日本語 | 한국어 | العربية <br> <a href=\"https://www.producthunt.com/products/fish-speech?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-fish&#0045;audio&#0045;s1\" target=\"_blank\"><img src=\"https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1023740&theme=light&period=daily&t=1761164814710\" alt=\"Fish&#0032;Audio&#0032;S1 - Expressive&#0032;Voice&#0032;Cloning&#0032;and&#00...",
       "language": "Python",
-      "stars": 559
+      "stars": 381
     },
     {
-      "rank": 11,
-      "repo_name": "alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "description_ja": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "readme_summary": "Page Agent <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://img.alicdn.com/imgextra/i4/O1CN01qKig1P1FnhpFKNdi6_!!6000000000532-2-tps-1280-256.png\"> <img alt=\"Page Agent Banner\" src=\"https://img.alicdn.com/imgextra/i1/O1CN01NCMKXj1Gn4tkFTsxf_!!6000000000666-2-tps-1280-256.png\"> </picture> ![License: MIT](https://opensource.org/licenses/MIT) ![TypeScript](http://www.typescriptlang.org/) ![Downloads](https://www.npmjs.com/package/page-agent) ![Bundle Size](https://bundlephobia...",
-      "readme_summary_ja": "Page Agent <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://img.alicdn.com/imgextra/i4/O1CN01qKig1P1FnhpFKNdi6_!!6000000000532-2-tps-1280-256.png\"> <img alt=\"Page Agent Banner\" src=\"https://img.alicdn.com/imgextra/i1/O1CN01NCMKXj1Gn4tkFTsxf_!!6000000000666-2-tps-1280-256.png\"> </picture> ![License: MIT](https://opensource.org/licenses/MIT) ![TypeScript](http://www.typescriptlang.org/) ![Downloads](https://www.npmjs.com/package/page-agent) ![Bundle Size](https://bundlephobia...",
-      "language": "TypeScript",
-      "stars": 1468
-    },
-    {
-      "rank": 12,
-      "repo_name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "description_ja": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "readme_summary": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
-      "readme_summary_ja": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
-      "language": "Python",
-      "stars": 654
-    },
-    {
-      "rank": 13,
-      "repo_name": "AstrBotDevs/AstrBot",
-      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "description_ja": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "readme_summary": "!AstrBot-Logo-Simplified <div align=\"center\"> <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh.md\">简体中文</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh-TW.md\">繁體中文</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_ja.md\">日本語</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_fr.md\">Français</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_ru.md\">Русский</a> <br> <div> <a href=\"ht...",
-      "readme_summary_ja": "!AstrBot-Logo-Simplified <div align=\"center\"> <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh.md\">简体中文</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh-TW.md\">繁體中文</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_ja.md\">日本語</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_fr.md\">Français</a> ｜ <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_ru.md\">Русский</a> <br> <div> <a href=\"ht...",
-      "language": "Python",
-      "stars": 1128
-    },
-    {
-      "rank": 14,
-      "repo_name": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "description_ja": "Hindsight: Agent Memory That Learns",
-      "readme_summary": "<div align=\"center\"> !Hindsight Banner Documentation • Paper • Cookbook • Hindsight Cloud ![CI](https://github.com/vectorize-io/hindsight/actions/workflows/release.yml) ![Slack Community](https://join.slack.com/t/hindsight-space/shared_invite/zt-3nhbm4w29-LeSJ5Ixi6j8PdiYOCPlOgg) ![License: MIT](https://opensource.org/licenses/MIT) !PyPI - Downloads !NPM Downloads <br/> <a href=\"https://trendshift.io/repositories/15603\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15603\"...",
-      "readme_summary_ja": "<div align=\"center\"> !Hindsight Banner Documentation • Paper • Cookbook • Hindsight Cloud ![CI](https://github.com/vectorize-io/hindsight/actions/workflows/release.yml) ![Slack Community](https://join.slack.com/t/hindsight-space/shared_invite/zt-3nhbm4w29-LeSJ5Ixi6j8PdiYOCPlOgg) ![License: MIT](https://opensource.org/licenses/MIT) !PyPI - Downloads !NPM Downloads <br/> <a href=\"https://trendshift.io/repositories/15603\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15603\"...",
-      "language": "Python",
-      "stars": 595
-    },
-    {
-      "rank": 15,
+      "rank": 9,
       "repo_name": "InsForge/InsForge",
       "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
       "description_ja": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
       "readme_summary": "<div align=\"center\"> <a href=\"https://insforge.dev\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/logo-light.svg\"> <img src=\"assets/logo-dark.svg\" alt=\"InsForge\" width=\"500\"> </picture> </a> <p> The backend built for agentic development.<br /> </p> <p> <a href=\"https://opensource.org/licenses/Apache-2.0\"><img src=\"https://img.shields.io/badge/License-Apache%202.0-orange.svg\" alt=\"License\"></a> <...",
       "readme_summary_ja": "<div align=\"center\"> <a href=\"https://insforge.dev\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/logo-light.svg\"> <img src=\"assets/logo-dark.svg\" alt=\"InsForge\" width=\"500\"> </picture> </a> <p> The backend built for agentic development.<br /> </p> <p> <a href=\"https://opensource.org/licenses/Apache-2.0\"><img src=\"https://img.shields.io/badge/License-Apache%202.0-orange.svg\" alt=\"License\"></a> <...",
       "language": "TypeScript",
-      "stars": 766
+      "stars": 482
     },
     {
-      "rank": 16,
-      "repo_name": "google-ai-edge/LiteRT",
-      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-      "description_ja": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-      "readme_summary": "LiteRT <p align=\"center\"> <img src=\"./g3doc/sources/litert_logo.png\" alt=\"LiteRT Logo\"/> </p> Google's on-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization 📖 Get Started | 🤝 Contributing | 📜 License | 🛡 Security Policy | 📄 Documentation Build Status | Nightly Builds | Continuous Builds | Other Builds | | :----------------------------------------------------------------------------------------------------------------...",
-      "readme_summary_ja": "LiteRT <p align=\"center\"> <img src=\"./g3doc/sources/litert_logo.png\" alt=\"LiteRT Logo\"/> </p> Google's on-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization 📖 Get Started | 🤝 Contributing | 📜 License | 🛡 Security Policy | 📄 Documentation Build Status | Nightly Builds | Continuous Builds | Other Builds | | :----------------------------------------------------------------------------------------------------------------...",
-      "language": "C++",
-      "stars": 211
+      "rank": 10,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 1439
     }
   ]
 }
