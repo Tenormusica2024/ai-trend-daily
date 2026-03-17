@@ -1,116 +1,116 @@
 {
-  "updated_at": "2026-03-16 09:00:44",
-  "total_repos": 13,
+  "updated_at": "2026-03-17 09:00:38",
+  "total_repos": 12,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "description_ja": "Lightpanda: the headless browser designed for AI and automation",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://lightpanda.io\"><img src=\"https://cdn.lightpanda.io/assets/images/logo/lpd-logo.png\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Lightpanda Browser</h1> <p align=\"center\"> <strong>The headless browser built from scratch for AI agents and automation.</strong><br> Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://lightpanda.io\"><img src=\"https://cdn.lightpanda.io/assets/images/logo/lpd-logo.png\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Lightpanda Browser</h1> <p align=\"center\"> <strong>The headless browser built from scratch for AI agents and automation.</strong><br> Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig",
-      "language": "Zig",
-      "stars": 1335
-    },
-    {
-      "rank": 2,
-      "repo_name": "Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "description_ja": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "readme_summary": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
-      "language": "TypeScript",
-      "stars": 205
-    },
-    {
-      "rank": 3,
-      "repo_name": "volcengine/OpenViking",
-      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-      "description_ja": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-      "readme_summary": "<div align=\"center\"> <picture> <img alt=\"OpenViking\" src=\"docs/images/banner.jpg\" width=\"100%\" height=\"auto\"> </picture> OpenViking: The Context Database for AI Agents English / 中文 <a href=\"https://www.openviking.ai\">Website</a> · <a href=\"https://github.com/volcengine/OpenViking\">GitHub</a> · <a href=\"https://github.com/volcengine/OpenViking/issues\">Issues</a> · <a href=\"https://www.openviking.ai/docs\">Docs</a> [![][release-shield]][release-link] [![][github-stars-shield]][github-stars-link] [!...",
-      "readme_summary_ja": "<div align=\"center\"> <picture> <img alt=\"OpenViking\" src=\"docs/images/banner.jpg\" width=\"100%\" height=\"auto\"> </picture> OpenViking: The Context Database for AI Agents English / 中文 <a href=\"https://www.openviking.ai\">Website</a> · <a href=\"https://github.com/volcengine/OpenViking\">GitHub</a> · <a href=\"https://github.com/volcengine/OpenViking/issues\">Issues</a> · <a href=\"https://www.openviking.ai/docs\">Docs</a> [![][release-shield]][release-link] [![][github-stars-shield]][github-stars-link] [!...",
-      "language": "Python",
-      "stars": 1870
-    },
-    {
-      "rank": 4,
-      "repo_name": "shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-      "description_ja": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-      "readme_summary": "English | 中文 | 日本語 Learn Claude Code -- A nano Claude Code-like agent, built from 0 to 1 **12 progressive sessions, from a simple loop to isolated autonomous execution.** **Each session adds one mechanism. Each mechanism has one motto.** > **s01** &nbsp; *\"One loop & Bash is all you need\"* &mdash; one tool + one loop = an agent > > **s02** &nbsp; *\"Adding a tool means adding one handler\"* &mdash; the loop stays the same; new tools register into the dispatch map > > **s03** &nbsp; *\"An agent with...",
-      "readme_summary_ja": "English | 中文 | 日本語 Learn Claude Code -- A nano Claude Code-like agent, built from 0 to 1 **12 progressive sessions, from a simple loop to isolated autonomous execution.** **Each session adds one mechanism. Each mechanism has one motto.** > **s01** &nbsp; *\"One loop & Bash is all you need\"* &mdash; one tool + one loop = an agent > > **s02** &nbsp; *\"Adding a tool means adding one handler\"* &mdash; the loop stays the same; new tools register into the dispatch map > > **s03** &nbsp; *\"An agent with...",
-      "language": "TypeScript",
-      "stars": 872
-    },
-    {
-      "rank": 5,
-      "repo_name": "shanraisshan/claude-code-best-practice",
-      "description": "practice made claude perfect",
-      "description_ja": "practice made claude perfect",
-      "readme_summary": "claude-code-best-practice practice makes claude perfect !Last Updated <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a> ![Best Practice](best-practice/) *Click on this badge to show the latest best practice*<br> ![Implemented](implementation/) *Click on this badge to show implementation in this repo*<br> !...",
-      "readme_summary_ja": "claude-code-best-practice practice makes claude perfect !Last Updated <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a> ![Best Practice](best-practice/) *Click on this badge to show the latest best practice*<br> ![Implemented](implementation/) *Click on this badge to show implementation in this repo*<br> !...",
-      "language": "HTML",
-      "stars": 851
-    },
-    {
-      "rank": 6,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 1867
-    },
-    {
-      "rank": 7,
-      "repo_name": "p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "description_ja": "Fully automatic censorship removal for language models",
-      "readme_summary": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) ![#1 Repository of the Day](https://trendshift.io/repositories/20538) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models wi...",
-      "readme_summary_ja": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) ![#1 Repository of the Day](https://trendshift.io/repositories/20538) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models wi...",
-      "language": "Python",
-      "stars": 1062
-    },
-    {
-      "rank": 8,
       "repo_name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "description_ja": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "readme_summary": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
       "readme_summary_ja": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> 简洁通用的群体智能引擎，预测万物 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ...",
       "language": "Python",
-      "stars": 2782
+      "stars": 3260
     },
     {
-      "rank": 9,
+      "rank": 2,
+      "repo_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "readme_summary": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
+      "readme_summary_ja": "<p align=\"center\"> Official $CMEM Links: <a href=\"https://bags.fm/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1GavekWBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/6MzFAkWnac6GSK1EdFX93dZeukGfzrFq4UHWarhGSQyd\">Photon</a> • <a href=\"https://dexscreener.com/solana/6mzfakwnac6gsk1edfx93dzeukgfzrfq4uhwarhgsqyd\">DEXScreener</a> </p> <p align=\"center\">Official CA: 2TsmuYUrsctE57VLckZBYEEzdokUF8j8e1Gavek...",
+      "language": "TypeScript",
+      "stars": 1045
+    },
+    {
+      "rank": 3,
+      "repo_name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "description_ja": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "readme_summary": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
+      "language": "TypeScript",
+      "stars": 775
+    },
+    {
+      "rank": 4,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 3152
+    },
+    {
+      "rank": 5,
       "repo_name": "abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "description_ja": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "readme_summary": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
       "readme_summary_ja": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
       "language": "TypeScript",
-      "stars": 451
+      "stars": 1860
+    },
+    {
+      "rank": 6,
+      "repo_name": "lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "description_ja": "Lightpanda: the headless browser designed for AI and automation",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://lightpanda.io\"><img src=\"https://cdn.lightpanda.io/assets/images/logo/lpd-logo.png\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Lightpanda Browser</h1> <p align=\"center\"> <strong>The headless browser built from scratch for AI agents and automation.</strong><br> Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://lightpanda.io\"><img src=\"https://cdn.lightpanda.io/assets/images/logo/lpd-logo.png\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Lightpanda Browser</h1> <p align=\"center\"> <strong>The headless browser built from scratch for AI agents and automation.</strong><br> Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig",
+      "language": "Zig",
+      "stars": 2086
+    },
+    {
+      "rank": 7,
+      "repo_name": "volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "description_ja": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "readme_summary": "<div align=\"center\"> <picture> <img alt=\"OpenViking\" src=\"docs/images/banner.jpg\" width=\"100%\" height=\"auto\"> </picture> OpenViking: The Context Database for AI Agents English / 中文 <a href=\"https://www.openviking.ai\">Website</a> · <a href=\"https://github.com/volcengine/OpenViking\">GitHub</a> · <a href=\"https://github.com/volcengine/OpenViking/issues\">Issues</a> · <a href=\"https://www.openviking.ai/docs\">Docs</a> [![][release-shield]][release-link] [![][github-stars-shield]][github-stars-link] [!...",
+      "readme_summary_ja": "<div align=\"center\"> <picture> <img alt=\"OpenViking\" src=\"docs/images/banner.jpg\" width=\"100%\" height=\"auto\"> </picture> OpenViking: The Context Database for AI Agents English / 中文 <a href=\"https://www.openviking.ai\">Website</a> · <a href=\"https://github.com/volcengine/OpenViking\">GitHub</a> · <a href=\"https://github.com/volcengine/OpenViking/issues\">Issues</a> · <a href=\"https://www.openviking.ai/docs\">Docs</a> [![][release-shield]][release-link] [![][github-stars-shield]][github-stars-link] [!...",
+      "language": "Python",
+      "stars": 2012
+    },
+    {
+      "rank": 8,
+      "repo_name": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "description_ja": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "readme_summary": "English | 中文 | 日本語 Learn Claude Code -- A nano Claude Code-like agent, built from 0 to 1 **12 progressive sessions, from a simple loop to isolated autonomous execution.** **Each session adds one mechanism. Each mechanism has one motto.** > **s01** &nbsp; *\"One loop & Bash is all you need\"* &mdash; one tool + one loop = an agent > > **s02** &nbsp; *\"Adding a tool means adding one handler\"* &mdash; the loop stays the same; new tools register into the dispatch map > > **s03** &nbsp; *\"An agent with...",
+      "readme_summary_ja": "English | 中文 | 日本語 Learn Claude Code -- A nano Claude Code-like agent, built from 0 to 1 **12 progressive sessions, from a simple loop to isolated autonomous execution.** **Each session adds one mechanism. Each mechanism has one motto.** > **s01** &nbsp; *\"One loop & Bash is all you need\"* &mdash; one tool + one loop = an agent > > **s02** &nbsp; *\"Adding a tool means adding one handler\"* &mdash; the loop stays the same; new tools register into the dispatch map > > **s03** &nbsp; *\"An agent with...",
+      "language": "TypeScript",
+      "stars": 1535
+    },
+    {
+      "rank": 9,
+      "repo_name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "description_ja": "Fully automatic censorship removal for language models",
+      "readme_summary": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) ![#1 Repository of the Day](https://trendshift.io/repositories/20538) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models wi...",
+      "readme_summary_ja": "<img width=\"128\" height=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> Heretic: Fully automatic censorship removal for language models<br><br>![Discord](https://discord.gg/gdXc48gSyT) ![Follow us on Hugging Face](https://huggingface.co/heretic-org) ![#1 Repository of the Day](https://trendshift.io/repositories/20538) Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models wi...",
+      "language": "Python",
+      "stars": 788
     },
     {
       "rank": 10,
-      "repo_name": "topoteretes/cognee",
-      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-      "description_ja": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/topoteretes/cognee\"> <img src=\"https://raw.githubusercontent.com/topoteretes/cognee/refs/heads/dev/assets/cognee-logo-transparent.png\" alt=\"Cognee Logo\" height=\"60\"> </a> <br /> Cognee - Build AI memory with a Knowledge Engine that learns <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=8hmqS2Y5RVQ&t=13s\">Demo</a> . <a href=\"https://docs.cognee.ai/\">Docs</a> . <a href=\"https://cognee.ai\">Learn More</a> · <a href=\"https://discord.gg/NQPK...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/topoteretes/cognee\"> <img src=\"https://raw.githubusercontent.com/topoteretes/cognee/refs/heads/dev/assets/cognee-logo-transparent.png\" alt=\"Cognee Logo\" height=\"60\"> </a> <br /> Cognee - Build AI memory with a Knowledge Engine that learns <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=8hmqS2Y5RVQ&t=13s\">Demo</a> . <a href=\"https://docs.cognee.ai/\">Docs</a> . <a href=\"https://cognee.ai\">Learn More</a> · <a href=\"https://discord.gg/NQPK...",
+      "repo_name": "langchain-ai/deepagents",
+      "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "description_ja": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://docs.langchain.com/oss/python/deepagents/overview#deep-agents-overview\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\".github/images/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\".github/images/logo-light.svg\"> <img alt=\"Deep Agents Logo\" src=\".github/images/logo-dark.svg\" width=\"50%\"> </picture> </a> </div> <div align=\"center\"> <h3>The batteries-included agent harness.</h3> </div> <div align=\"center\"> <a href=\"https...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://docs.langchain.com/oss/python/deepagents/overview#deep-agents-overview\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\".github/images/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\".github/images/logo-light.svg\"> <img alt=\"Deep Agents Logo\" src=\".github/images/logo-dark.svg\" width=\"50%\"> </picture> </a> </div> <div align=\"center\"> <h3>The batteries-included agent harness.</h3> </div> <div align=\"center\"> <a href=\"https...",
       "language": "Python",
-      "stars": 270
+      "stars": 1026
     },
     {
       "rank": 11,
-      "repo_name": "InsForge/InsForge",
-      "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-      "description_ja": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://insforge.dev\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/logo-light.svg\"> <img src=\"assets/logo-dark.svg\" alt=\"InsForge\" width=\"500\"> </picture> </a> <p> The backend built for agentic development.<br /> </p> <p> <a href=\"https://opensource.org/licenses/Apache-2.0\"><img src=\"https://img.shields.io/badge/License-Apache%202.0-orange.svg\" alt=\"License\"></a> <...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://insforge.dev\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/logo-light.svg\"> <img src=\"assets/logo-dark.svg\" alt=\"InsForge\" width=\"500\"> </picture> </a> <p> The backend built for agentic development.<br /> </p> <p> <a href=\"https://opensource.org/licenses/Apache-2.0\"><img src=\"https://img.shields.io/badge/License-Apache%202.0-orange.svg\" alt=\"License\"></a> <...",
+      "repo_name": "YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "description_ja": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "readme_summary": "Claudian !GitHub stars !GitHub release !License !Preview An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault. Your vault becomes Claude's working directory, giving it full agentic capabilities: file read/write, search, bash commands, and multi-step workflows. Features - **Full Agentic Capabilities**: Leverage Claude Code's power to read, write, and edit files, search, and execute bash commands, all within your Obsidian vault",
+      "readme_summary_ja": "Claudian !GitHub stars !GitHub release !License !Preview An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault. Your vault becomes Claude's working directory, giving it full agentic capabilities: file read/write, search, bash commands, and multi-step workflows. Features - **Full Agentic Capabilities**: Leverage Claude Code's power to read, write, and edit files, search, and execute bash commands, all within your Obsidian vault",
       "language": "TypeScript",
-      "stars": 515
+      "stars": 111
     },
     {
       "rank": 12,
@@ -120,17 +120,7 @@
       "readme_summary": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"/logo.svg\"> <img alt=\"Vite+\" src=\"/logo.svg\"> </picture> **The Unified Toolchain for the Web** _runtime and package management, create, dev, check, test, build, pack, and monorepo task caching in a single dependency_ --- Vite+ is the unified entry point for local web development. It combines Vite, Vitest, Oxlint, Oxfmt, Rolldown, tsdown, and Vite Task into one zer...",
       "readme_summary_ja": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"/logo.svg\"> <img alt=\"Vite+\" src=\"/logo.svg\"> </picture> **The Unified Toolchain for the Web** _runtime and package management, create, dev, check, test, build, pack, and monorepo task caching in a single dependency_ --- Vite+ is the unified entry point for local web development. It combines Vite, Vitest, Oxlint, Oxfmt, Rolldown, tsdown, and Vite Task into one zer...",
       "language": "Rust",
-      "stars": 300
-    },
-    {
-      "rank": 13,
-      "repo_name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "description_ja": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "readme_summary": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
-      "readme_summary_ja": "Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change",
-      "language": "Python",
-      "stars": 604
+      "stars": 621
     }
   ]
 }
