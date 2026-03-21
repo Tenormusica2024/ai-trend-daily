@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-20 09:00:34",
-  "total_repos": 11,
+  "updated_at": "2026-03-21 09:00:34",
+  "total_repos": 9,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "description_ja": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "readme_summary": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
-      "readme_summary_ja": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
-      "language": "Java",
-      "stars": 1416
+      "repo_name": "jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "description_ja": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "readme_summary": "Claude HUD A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input. ![License](LICENSE) ![Stars](https://github.com/jarrodwatts/claude-hud/stargazers) !Claude HUD in action Install Inside a Claude Code instance, run the following commands: **Step 1: Add the marketplace** **Step 2: Install the plugin** <details> <summary><strong>⚠️ Linux users: Click here first</strong></summary> On Linux, /tmp is often a s...",
+      "readme_summary_ja": "Claude HUD A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input. ![License](LICENSE) ![Stars](https://github.com/jarrodwatts/claude-hud/stargazers) !Claude HUD in action Install Inside a Claude Code instance, run the following commands: **Step 1: Add the marketplace** **Step 2: Install the plugin** <details> <summary><strong>⚠️ Linux users: Click here first</strong></summary> On Linux, /tmp is often a s...",
+      "language": "JavaScript",
+      "stars": 1074
     },
     {
       "rank": 2,
@@ -20,7 +20,7 @@
       "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/langchain-ai/open-swe\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"static/dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"static/light.svg\"> <img alt=\"Open SWE Logo\" src=\"static/dark.svg\" width=\"35%\"> </picture> </a> </div> <div align=\"center\"> <h3>Open-source framework for building your org's internal coding agent.</h3> </div> <div align=\"center\"> <a href=\"https://opensource.org/licenses/MIT\" target=\"_blank\"><...",
       "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/langchain-ai/open-swe\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"static/dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"static/light.svg\"> <img alt=\"Open SWE Logo\" src=\"static/dark.svg\" width=\"35%\"> </picture> </a> </div> <div align=\"center\"> <h3>Open-source framework for building your org's internal coding agent.</h3> </div> <div align=\"center\"> <a href=\"https://opensource.org/licenses/MIT\" target=\"_blank\"><...",
       "language": "Python",
-      "stars": 965
+      "stars": 640
     },
     {
       "rank": 3,
@@ -30,87 +30,67 @@
       "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
       "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
       "language": "Shell",
-      "stars": 3494
+      "stars": 2886
     },
     {
       "rank": 4,
-      "repo_name": "jarrodwatts/claude-hud",
-      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "description_ja": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "readme_summary": "Claude HUD A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input. ![License](LICENSE) ![Stars](https://github.com/jarrodwatts/claude-hud/stargazers) !Claude HUD in action Install Inside a Claude Code instance, run the following commands: **Step 1: Add the marketplace** **Step 2: Install the plugin** <details> <summary><strong>⚠️ Linux users: Click here first</strong></summary> On Linux, /tmp is often a s...",
-      "readme_summary_ja": "Claude HUD A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input. ![License](LICENSE) ![Stars](https://github.com/jarrodwatts/claude-hud/stargazers) !Claude HUD in action Install Inside a Claude Code instance, run the following commands: **Step 1: Add the marketplace** **Step 2: Install the plugin** <details> <summary><strong>⚠️ Linux users: Click here first</strong></summary> On Linux, /tmp is often a s...",
-      "language": "JavaScript",
-      "stars": 1851
+      "repo_name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "description_ja": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "readme_summary": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
+      "readme_summary_ja": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
+      "language": "Java",
+      "stars": 1848
     },
     {
       "rank": 5,
-      "repo_name": "unslothai/unsloth",
-      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
-      "description_ja": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
-      "readme_summary": "<h1 align=\"center\" style=\"margin:0;\"> <a href=\"https://unsloth.ai/docs\"><picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/STUDIO%20WHITE%20LOGO.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/STUDIO%20BLACK%20LOGO.png\"> <img alt=\"Unsloth logo\" src=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/STUDIO%20BLACK%20LOGO.png\" height=...",
-      "readme_summary_ja": "<h1 align=\"center\" style=\"margin:0;\"> <a href=\"https://unsloth.ai/docs\"><picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/STUDIO%20WHITE%20LOGO.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/STUDIO%20BLACK%20LOGO.png\"> <img alt=\"Unsloth logo\" src=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/STUDIO%20BLACK%20LOGO.png\" height=...",
-      "language": "Python",
-      "stars": 1262
-    },
-    {
-      "rank": 6,
-      "repo_name": "mobile-dev-inc/Maestro",
-      "description": "Painless E2E Automation for Mobile and Web",
-      "description_ja": "Painless E2E Automation for Mobile and Web",
-      "readme_summary": "> [!TIP] > Great things happen when testers connect — Join the Maestro Community <p align=\"center\"> <a href=\"https://www.maestro.dev\"> <img width=\"1200\" alt=\"Maestro logo\" src=\"https://github.com/mobile-dev-inc/Maestro/blob/main/assets/banne_logo.png\" /> </a> </p> <p align=\"center\"> <strong>Maestro</strong> is an open-source framework that makes UI and end-to-end testing for Android, iOS, and web apps simple and fast.<br/> Write your first test in under five minutes using YAML flows and run them...",
-      "readme_summary_ja": "> [!TIP] > Great things happen when testers connect — Join the Maestro Community <p align=\"center\"> <a href=\"https://www.maestro.dev\"> <img width=\"1200\" alt=\"Maestro logo\" src=\"https://github.com/mobile-dev-inc/Maestro/blob/main/assets/banne_logo.png\" /> </a> </p> <p align=\"center\"> <strong>Maestro</strong> is an open-source framework that makes UI and end-to-end testing for Android, iOS, and web apps simple and fast.<br/> Write your first test in under five minutes using YAML flows and run them...",
-      "language": "Kotlin",
-      "stars": 492
-    },
-    {
-      "rank": 7,
-      "repo_name": "newton-physics/newton",
-      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "description_ja": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "readme_summary": "![License](https://opensource.org/licenses/Apache-2.0) !GitHub commit activity ![codecov](https://codecov.io/gh/newton-physics/newton) ![Push - AWS GPU](https://github.com/newton-physics/newton/actions/workflows/push_aws_gpu.yml) Newton Newton is a GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. Newton extends and generalizes Warp's (deprecated) warp.sim module, and integrates MuJoCo Warp as its primary backend. New...",
-      "readme_summary_ja": "![License](https://opensource.org/licenses/Apache-2.0) !GitHub commit activity ![codecov](https://codecov.io/gh/newton-physics/newton) ![Push - AWS GPU](https://github.com/newton-physics/newton/actions/workflows/push_aws_gpu.yml) Newton Newton is a GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. Newton extends and generalizes Warp's (deprecated) warp.sim module, and integrates MuJoCo Warp as its primary backend. New...",
-      "language": "Python",
-      "stars": 346
-    },
-    {
-      "rank": 8,
       "repo_name": "louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "description_ja": "Generate any location from the real world in Minecraft with a high level of detail.",
       "readme_summary": "<img src=\"assets/git/banner.png\" width=\"100%\" alt=\"Banner\"> Arnis ![CI Build Status](https://github.com/louis-e/arnis/actions) <img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/louis-e/arnis\" /> <img alt=\"GitHub Downloads (all assets, all releases\" src=\"https://img.shields.io/github/downloads/louis-e/arnis/total\" /> ![Download here](https://github.com/louis-e/arnis/releases) ![Discord](https://discord.gg/mA2g69Fhxq) Arnis creates complex and accurate Minecraft Java Edition (...",
       "readme_summary_ja": "<img src=\"assets/git/banner.png\" width=\"100%\" alt=\"Banner\"> Arnis ![CI Build Status](https://github.com/louis-e/arnis/actions) <img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/louis-e/arnis\" /> <img alt=\"GitHub Downloads (all assets, all releases\" src=\"https://img.shields.io/github/downloads/louis-e/arnis/total\" /> ![Download here](https://github.com/louis-e/arnis/releases) ![Discord](https://discord.gg/mA2g69Fhxq) Arnis creates complex and accurate Minecraft Java Edition (...",
       "language": "Rust",
-      "stars": 946
+      "stars": 1073
+    },
+    {
+      "rank": 6,
+      "repo_name": "newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "description_ja": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "readme_summary": "![License](https://opensource.org/licenses/Apache-2.0) !GitHub commit activity ![codecov](https://codecov.io/gh/newton-physics/newton) ![Push - AWS GPU](https://github.com/newton-physics/newton/actions/workflows/push_aws_gpu.yml) Newton Newton is a GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. Newton extends and generalizes Warp's (deprecated) warp.sim module, and integrates MuJoCo Warp as its primary backend. New...",
+      "readme_summary_ja": "![License](https://opensource.org/licenses/Apache-2.0) !GitHub commit activity ![codecov](https://codecov.io/gh/newton-physics/newton) ![Push - AWS GPU](https://github.com/newton-physics/newton/actions/workflows/push_aws_gpu.yml) Newton Newton is a GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. Newton extends and generalizes Warp's (deprecated) warp.sim module, and integrates MuJoCo Warp as its primary backend. New...",
+      "language": "Python",
+      "stars": 267
+    },
+    {
+      "rank": 7,
+      "repo_name": "vas3k/TaxHacker",
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+      "description_ja": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+      "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> <img src=\"public/logo/512.png\" alt=\"\" width=\"320\"> <br> TaxHacker — self-hosted AI accountant ![GitHub Stars](https://github.com/vas3k/TaxHacker/stargazers) ![License](https://github.com/vas3k/TaxHacker/blob/main/LICENSE) ![GitHub Issues](https://github.com/vas3k/TaxHacker/issues) ![Donate](https://vas3k.com/donate/) </div> TaxHacker is a self-hosted accounting app designed for freelancers, indie hackers, and small businesses who want to save time an...",
+      "readme_summary_ja": "<div align=\"center\"><a name=\"readme-top\"></a> <img src=\"public/logo/512.png\" alt=\"\" width=\"320\"> <br> TaxHacker — self-hosted AI accountant ![GitHub Stars](https://github.com/vas3k/TaxHacker/stargazers) ![License](https://github.com/vas3k/TaxHacker/blob/main/LICENSE) ![GitHub Issues](https://github.com/vas3k/TaxHacker/issues) ![Donate](https://vas3k.com/donate/) </div> TaxHacker is a self-hosted accounting app designed for freelancers, indie hackers, and small businesses who want to save time an...",
+      "language": "TypeScript",
+      "stars": 136
+    },
+    {
+      "rank": 8,
+      "repo_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_ja": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"....",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"....",
+      "language": "Python",
+      "stars": 579
     },
     {
       "rank": 9,
-      "repo_name": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "Automate the process of making money online.",
-      "description_ja": "Automate the process of making money online.",
-      "readme_summary": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers) ![Discord](https://dsc.gg/fuji-com...",
-      "readme_summary_ja": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers) ![Discord](https://dsc.gg/fuji-com...",
-      "language": "Python",
-      "stars": 146
-    },
-    {
-      "rank": 10,
-      "repo_name": "gsd-build/get-shit-done",
-      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
-      "description_ja": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
-      "readme_summary": "<div align=\"center\"> GET SHIT DONE **English** · 简体中文 **A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code, OpenCode, Gemini CLI, Codex, Copilot, and Antigravity.** **Solves context rot — the quality degradation that happens as Claude fills its context window.** **English** | **简体中文** ![npm version](https://www.npmjs.com/package/get-shit-done-cc) ![npm downloads](https://www.npmjs.com/package/get-shit-done-cc) ![Tests](https://githu...",
-      "readme_summary_ja": "<div align=\"center\"> GET SHIT DONE **English** · 简体中文 **A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code, OpenCode, Gemini CLI, Codex, Copilot, and Antigravity.** **Solves context rot — the quality degradation that happens as Claude fills its context window.** **English** | **简体中文** ![npm version](https://www.npmjs.com/package/get-shit-done-cc) ![npm downloads](https://www.npmjs.com/package/get-shit-done-cc) ![Tests](https://githu...",
-      "language": "JavaScript",
-      "stars": 1491
-    },
-    {
-      "rank": 11,
-      "repo_name": "shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "description_ja": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "readme_summary": "English | 中文 | 日本語 Learn Claude Code -- Harness Engineering for Real Agents The Model IS the Agent Before we talk about code, let's get one thing absolutely straight. **An agent is a model. Not a framework",
-      "readme_summary_ja": "English | 中文 | 日本語 Learn Claude Code -- Harness Engineering for Real Agents The Model IS the Agent Before we talk about code, let's get one thing absolutely straight. **An agent is a model. Not a framework",
-      "language": "TypeScript",
-      "stars": 1448
+      "repo_name": "openrocket/openrocket",
+      "description": "Model-rocketry aerodynamics and trajectory simulation software",
+      "description_ja": "Model-rocketry aerodynamics and trajectory simulation software",
+      "readme_summary": "!OpenRocket banner !Build Status ![License: GPL v3](https://www.gnu.org/licenses/gpl-3.0) !GitHub release ![Github Releases (by release)](https://GitHub.com/openrocket/openrocket/releases/) ![Read the Docs](https://openrocket.readthedocs.io/en/latest/) ![snap release](https://snapcraft.io/openrocket) !Chocolatey release ![Crowdin](https://crowdin.com/project/openrocket) ![Join our Discord server!](https://discord.gg/qD2G5v2FAw) OpenRocket is a free, fully featured model rocket simulator that all...",
+      "readme_summary_ja": "!OpenRocket banner !Build Status ![License: GPL v3](https://www.gnu.org/licenses/gpl-3.0) !GitHub release ![Github Releases (by release)](https://GitHub.com/openrocket/openrocket/releases/) ![Read the Docs](https://openrocket.readthedocs.io/en/latest/) ![snap release](https://snapcraft.io/openrocket) !Chocolatey release ![Crowdin](https://crowdin.com/project/openrocket) ![Join our Discord server!](https://discord.gg/qD2G5v2FAw) OpenRocket is a free, fully featured model rocket simulator that all...",
+      "language": "Java",
+      "stars": 132
     }
   ]
 }
