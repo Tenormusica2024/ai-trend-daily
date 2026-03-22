@@ -1,96 +1,96 @@
 {
-  "updated_at": "2026-03-21 03:26:06",
+  "updated_at": "2026-03-22 03:43:01",
   "total_repos": 9,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "jarrodwatts/claude-hud",
-      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "description_ja": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "readme_summary": "Claude HUD A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input. ![License](LICENSE) ![Stars](https://github.com/jarrodwatts/claude-hud/stargazers) !Claude HUD in action Install Inside a Claude Code instance, run the following commands: **Step 1: Add the marketplace** **Step 2: Install the plugin** <details> <summary><strong>⚠️ Linux users: Click here first</strong></summary> On Linux, /tmp is often a s...",
-      "readme_summary_ja": "Claude HUD A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input. ![License](LICENSE) ![Stars](https://github.com/jarrodwatts/claude-hud/stargazers) !Claude HUD in action Install Inside a Claude Code instance, run the following commands: **Step 1: Add the marketplace** **Step 2: Install the plugin** <details> <summary><strong>⚠️ Linux users: Click here first</strong></summary> On Linux, /tmp is often a s...",
-      "language": "JavaScript",
-      "stars": 1068
+      "repo_name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "description_ja": "Automate the process of making money online.",
+      "readme_summary": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers) ![Discord](https://dsc.gg/fuji-com...",
+      "readme_summary_ja": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers) ![Discord](https://dsc.gg/fuji-com...",
+      "language": "Python",
+      "stars": 283
     },
     {
       "rank": 2,
-      "repo_name": "langchain-ai/open-swe",
-      "description": "An Open-Source Asynchronous Coding Agent",
-      "description_ja": "An Open-Source Asynchronous Coding Agent",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/langchain-ai/open-swe\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"static/dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"static/light.svg\"> <img alt=\"Open SWE Logo\" src=\"static/dark.svg\" width=\"35%\"> </picture> </a> </div> <div align=\"center\"> <h3>Open-source framework for building your org's internal coding agent.</h3> </div> <div align=\"center\"> <a href=\"https://opensource.org/licenses/MIT\" target=\"_blank\"><...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/langchain-ai/open-swe\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"static/dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"static/light.svg\"> <img alt=\"Open SWE Logo\" src=\"static/dark.svg\" width=\"35%\"> </picture> </a> </div> <div align=\"center\"> <h3>Open-source framework for building your org's internal coding agent.</h3> </div> <div align=\"center\"> <a href=\"https://opensource.org/licenses/MIT\" target=\"_blank\"><...",
-      "language": "Python",
-      "stars": 635
+      "repo_name": "systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "description_ja": "The systemd System and Service Manager",
+      "readme_summary": "!Systemd System and Service Manager ![OBS Packages Status](https://build.opensuse.org/project/show/system:systemd)<br/> ![Semaphore CI 2.0 Build Status](https://the-real-systemd.semaphoreci.com/projects/systemd)<br/> ![Coverity Scan Status](https://scan.coverity.com/projects/systemd)<br/> ![OSS-Fuzz Status](https://oss-fuzz-build-logs.storage.googleapis.com/index.html#systemd)<br/> ![CIFuzz](https://github.com/systemd/systemd/actions/workflows/cifuzz.yml)</br> ![CII Best Practices](https://bestp...",
+      "readme_summary_ja": "!Systemd System and Service Manager ![OBS Packages Status](https://build.opensuse.org/project/show/system:systemd)<br/> ![Semaphore CI 2.0 Build Status](https://the-real-systemd.semaphoreci.com/projects/systemd)<br/> ![Coverity Scan Status](https://scan.coverity.com/projects/systemd)<br/> ![OSS-Fuzz Status](https://oss-fuzz-build-logs.storage.googleapis.com/index.html#systemd)<br/> ![CIFuzz](https://github.com/systemd/systemd/actions/workflows/cifuzz.yml)</br> ![CII Best Practices](https://bestp...",
+      "language": "C",
+      "stars": 58
     },
     {
       "rank": 3,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 2819
+      "repo_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "language": "Go",
+      "stars": 39
     },
     {
       "rank": 4,
+      "repo_name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "description_ja": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "readme_summary": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
+      "language": "TypeScript",
+      "stars": 2032
+    },
+    {
+      "rank": 5,
       "repo_name": "opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "description_ja": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "readme_summary": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
       "readme_summary_ja": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
       "language": "Java",
-      "stars": 1812
+      "stars": 950
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "repo_name": "jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "description_ja": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "readme_summary": "Claude HUD A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input. ![License](LICENSE) ![Stars](https://github.com/jarrodwatts/claude-hud/stargazers) !Claude HUD in action Install Inside a Claude Code instance, run the following commands: **Step 1: Add the marketplace** **Step 2: Install the plugin** <details> <summary><strong>⚠️ Linux users: Click here first</strong></summary> On Linux, /tmp is often a s...",
+      "readme_summary_ja": "Claude HUD A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input. ![License](LICENSE) ![Stars](https://github.com/jarrodwatts/claude-hud/stargazers) !Claude HUD in action Install Inside a Claude Code instance, run the following commands: **Step 1: Add the marketplace** **Step 2: Install the plugin** <details> <summary><strong>⚠️ Linux users: Click here first</strong></summary> On Linux, /tmp is often a s...",
+      "language": "JavaScript",
+      "stars": 970
+    },
+    {
+      "rank": 7,
+      "repo_name": "protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "description_ja": "Protocol Buffers - Google's data interchange format",
+      "readme_summary": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
+      "readme_summary_ja": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
+      "language": "C++",
+      "stars": 7
+    },
+    {
+      "rank": 8,
+      "repo_name": "vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "description_ja": "A framework for efficient model inference with omni-modality models",
+      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\"> <img alt=\"vllm-omni\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\" width=55%> </picture> </p> <h3 align=\"center\"> Easy, fast, and cheap omni-modality model serving for everyone </h3> <p align=\"center\"> | <a href=\"https://vllm-omni.readt...",
+      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\"> <img alt=\"vllm-omni\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\" width=55%> </picture> </p> <h3 align=\"center\"> Easy, fast, and cheap omni-modality model serving for everyone </h3> <p align=\"center\"> | <a href=\"https://vllm-omni.readt...",
+      "language": "Python",
+      "stars": 71
+    },
+    {
+      "rank": 9,
       "repo_name": "louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "description_ja": "Generate any location from the real world in Minecraft with a high level of detail.",
       "readme_summary": "<img src=\"assets/git/banner.png\" width=\"100%\" alt=\"Banner\"> Arnis ![CI Build Status](https://github.com/louis-e/arnis/actions) <img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/louis-e/arnis\" /> <img alt=\"GitHub Downloads (all assets, all releases\" src=\"https://img.shields.io/github/downloads/louis-e/arnis/total\" /> ![Download here](https://github.com/louis-e/arnis/releases) ![Discord](https://discord.gg/mA2g69Fhxq) Arnis creates complex and accurate Minecraft Java Edition (...",
       "readme_summary_ja": "<img src=\"assets/git/banner.png\" width=\"100%\" alt=\"Banner\"> Arnis ![CI Build Status](https://github.com/louis-e/arnis/actions) <img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/louis-e/arnis\" /> <img alt=\"GitHub Downloads (all assets, all releases\" src=\"https://img.shields.io/github/downloads/louis-e/arnis/total\" /> ![Download here](https://github.com/louis-e/arnis/releases) ![Discord](https://discord.gg/mA2g69Fhxq) Arnis creates complex and accurate Minecraft Java Edition (...",
       "language": "Rust",
-      "stars": 1045
-    },
-    {
-      "rank": 6,
-      "repo_name": "newton-physics/newton",
-      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "description_ja": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "readme_summary": "![License](https://opensource.org/licenses/Apache-2.0) !GitHub commit activity ![codecov](https://codecov.io/gh/newton-physics/newton) ![Push - AWS GPU](https://github.com/newton-physics/newton/actions/workflows/push_aws_gpu.yml) Newton Newton is a GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. Newton extends and generalizes Warp's (deprecated) warp.sim module, and integrates MuJoCo Warp as its primary backend. New...",
-      "readme_summary_ja": "![License](https://opensource.org/licenses/Apache-2.0) !GitHub commit activity ![codecov](https://codecov.io/gh/newton-physics/newton) ![Push - AWS GPU](https://github.com/newton-physics/newton/actions/workflows/push_aws_gpu.yml) Newton Newton is a GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. Newton extends and generalizes Warp's (deprecated) warp.sim module, and integrates MuJoCo Warp as its primary backend. New...",
-      "language": "Python",
-      "stars": 266
-    },
-    {
-      "rank": 7,
-      "repo_name": "vas3k/TaxHacker",
-      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "description_ja": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> <img src=\"public/logo/512.png\" alt=\"\" width=\"320\"> <br> TaxHacker — self-hosted AI accountant ![GitHub Stars](https://github.com/vas3k/TaxHacker/stargazers) ![License](https://github.com/vas3k/TaxHacker/blob/main/LICENSE) ![GitHub Issues](https://github.com/vas3k/TaxHacker/issues) ![Donate](https://vas3k.com/donate/) </div> TaxHacker is a self-hosted accounting app designed for freelancers, indie hackers, and small businesses who want to save time an...",
-      "readme_summary_ja": "<div align=\"center\"><a name=\"readme-top\"></a> <img src=\"public/logo/512.png\" alt=\"\" width=\"320\"> <br> TaxHacker — self-hosted AI accountant ![GitHub Stars](https://github.com/vas3k/TaxHacker/stargazers) ![License](https://github.com/vas3k/TaxHacker/blob/main/LICENSE) ![GitHub Issues](https://github.com/vas3k/TaxHacker/issues) ![Donate](https://vas3k.com/donate/) </div> TaxHacker is a self-hosted accounting app designed for freelancers, indie hackers, and small businesses who want to save time an...",
-      "language": "TypeScript",
-      "stars": 137
-    },
-    {
-      "rank": 8,
-      "repo_name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "description_ja": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"....",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"....",
-      "language": "Python",
-      "stars": 433
-    },
-    {
-      "rank": 9,
-      "repo_name": "openrocket/openrocket",
-      "description": "Model-rocketry aerodynamics and trajectory simulation software",
-      "description_ja": "Model-rocketry aerodynamics and trajectory simulation software",
-      "readme_summary": "!OpenRocket banner !Build Status ![License: GPL v3](https://www.gnu.org/licenses/gpl-3.0) !GitHub release ![Github Releases (by release)](https://GitHub.com/openrocket/openrocket/releases/) ![Read the Docs](https://openrocket.readthedocs.io/en/latest/) ![snap release](https://snapcraft.io/openrocket) !Chocolatey release ![Crowdin](https://crowdin.com/project/openrocket) ![Join our Discord server!](https://discord.gg/qD2G5v2FAw) OpenRocket is a free, fully featured model rocket simulator that all...",
-      "readme_summary_ja": "!OpenRocket banner !Build Status ![License: GPL v3](https://www.gnu.org/licenses/gpl-3.0) !GitHub release ![Github Releases (by release)](https://GitHub.com/openrocket/openrocket/releases/) ![Read the Docs](https://openrocket.readthedocs.io/en/latest/) ![snap release](https://snapcraft.io/openrocket) !Chocolatey release ![Crowdin](https://crowdin.com/project/openrocket) ![Join our Discord server!](https://discord.gg/qD2G5v2FAw) OpenRocket is a free, fully featured model rocket simulator that all...",
-      "language": "Java",
-      "stars": 144
+      "stars": 690
     }
   ]
 }
