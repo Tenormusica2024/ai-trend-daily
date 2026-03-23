@@ -1,56 +1,56 @@
 {
-  "updated_at": "2026-03-22 03:43:01",
-  "total_repos": 9,
+  "updated_at": "2026-03-23 03:49:02",
+  "total_repos": 15,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "FujiwaraChoki/MoneyPrinterV2",
       "description": "Automate the process of making money online.",
       "description_ja": "Automate the process of making money online.",
-      "readme_summary": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers) ![Discord](https://dsc.gg/fuji-com...",
-      "readme_summary_ja": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinterV2/stargazers) ![Discord](https://dsc.gg/fuji-com...",
+      "readme_summary": "MoneyPrinter V2 > **Have an idea?** Let’s build it — reach out > > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinter...",
+      "readme_summary_ja": "MoneyPrinter V2 > **Have an idea?** Let’s build it — reach out > > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai --- > 𝕏 Also, follow me on X: @DevBySami. ![madewithlove](https://github.com/FujiwaraChoki/MoneyPrinterV2) ![Buy Me A Coffee](https://www.buymeacoffee.com/fujicodes) ![GitHub license](https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/LICENSE) ![GitHub issues](https://github.com/FujiwaraChoki/MoneyPrinterV2/issues) ![GitHub stars](https://github.com/FujiwaraChoki/MoneyPrinter...",
       "language": "Python",
-      "stars": 283
+      "stars": 1787
     },
     {
       "rank": 2,
-      "repo_name": "systemd/systemd",
-      "description": "The systemd System and Service Manager",
-      "description_ja": "The systemd System and Service Manager",
-      "readme_summary": "!Systemd System and Service Manager ![OBS Packages Status](https://build.opensuse.org/project/show/system:systemd)<br/> ![Semaphore CI 2.0 Build Status](https://the-real-systemd.semaphoreci.com/projects/systemd)<br/> ![Coverity Scan Status](https://scan.coverity.com/projects/systemd)<br/> ![OSS-Fuzz Status](https://oss-fuzz-build-logs.storage.googleapis.com/index.html#systemd)<br/> ![CIFuzz](https://github.com/systemd/systemd/actions/workflows/cifuzz.yml)</br> ![CII Best Practices](https://bestp...",
-      "readme_summary_ja": "!Systemd System and Service Manager ![OBS Packages Status](https://build.opensuse.org/project/show/system:systemd)<br/> ![Semaphore CI 2.0 Build Status](https://the-real-systemd.semaphoreci.com/projects/systemd)<br/> ![Coverity Scan Status](https://scan.coverity.com/projects/systemd)<br/> ![OSS-Fuzz Status](https://oss-fuzz-build-logs.storage.googleapis.com/index.html#systemd)<br/> ![CIFuzz](https://github.com/systemd/systemd/actions/workflows/cifuzz.yml)</br> ![CII Best Practices](https://bestp...",
-      "language": "C",
-      "stars": 58
+      "repo_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_ja": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"....",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"....",
+      "language": "Python",
+      "stars": 1051
     },
     {
       "rank": 3,
-      "repo_name": "aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "repo_name": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "description_ja": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "readme_summary": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy) <...",
+      "readme_summary_ja": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy) <...",
       "language": "Go",
-      "stars": 39
+      "stars": 1069
     },
     {
       "rank": 4,
-      "repo_name": "Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "description_ja": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "readme_summary": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
-      "language": "TypeScript",
-      "stars": 2032
+      "repo_name": "jamwithai/production-agentic-rag-course",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "The Mother of AI Project Phase 1 RAG Systems: arXiv Paper Curator <div align=\"center\"> <h3>A Learner-Focused Journey into Production RAG Systems</h3> <p>Learn to build modern AI systems from the ground up through hands-on implementation</p> <p>Master the most in-demand AI engineering skills: <strong>RAG (Retrieval-Augmented Generation)</strong></p> </div> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.12+-blue.svg\" alt=\"Python Version\"> <img src=\"https://img.shields.io/badge/...",
+      "readme_summary_ja": "The Mother of AI Project Phase 1 RAG Systems: arXiv Paper Curator <div align=\"center\"> <h3>A Learner-Focused Journey into Production RAG Systems</h3> <p>Learn to build modern AI systems from the ground up through hands-on implementation</p> <p>Master the most in-demand AI engineering skills: <strong>RAG (Retrieval-Augmented Generation)</strong></p> </div> <p align=\"center\"> <img src=\"https://img.shields.io/badge/Python-3.12+-blue.svg\" alt=\"Python Version\"> <img src=\"https://img.shields.io/badge/...",
+      "language": "Python",
+      "stars": 237
     },
     {
       "rank": 5,
-      "repo_name": "opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "description_ja": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "readme_summary": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
-      "readme_summary_ja": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
-      "language": "Java",
-      "stars": 950
+      "repo_name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_ja": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "readme_summary": "**Language:** English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 Türkçe Everything Claude Code ![Stars](https://github.com/affaan-m/everything-claude-code/stargazers) ![Forks](https://github.com/affaan-m/everything-claude-code/network/members) ![Contributors](https://github.com/affaan-m/everything-claude-code/graphs/contributors) ![npm ecc-universal](https://www.npmjs.com/package/ecc-universal) ![npm ecc-agentshield](https://www.npmjs.com/package/ecc-agentshield) ![GitHub App Install](https:...",
+      "readme_summary_ja": "**Language:** English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 Türkçe Everything Claude Code ![Stars](https://github.com/affaan-m/everything-claude-code/stargazers) ![Forks](https://github.com/affaan-m/everything-claude-code/network/members) ![Contributors](https://github.com/affaan-m/everything-claude-code/graphs/contributors) ![npm ecc-universal](https://www.npmjs.com/package/ecc-universal) ![npm ecc-agentshield](https://www.npmjs.com/package/ecc-agentshield) ![GitHub App Install](https:...",
+      "language": "JavaScript",
+      "stars": 3724
     },
     {
       "rank": 6,
@@ -60,37 +60,97 @@
       "readme_summary": "Claude HUD A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input. ![License](LICENSE) ![Stars](https://github.com/jarrodwatts/claude-hud/stargazers) !Claude HUD in action Install Inside a Claude Code instance, run the following commands: **Step 1: Add the marketplace** **Step 2: Install the plugin** <details> <summary><strong>⚠️ Linux users: Click here first</strong></summary> On Linux, /tmp is often a s...",
       "readme_summary_ja": "Claude HUD A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input. ![License](LICENSE) ![Stars](https://github.com/jarrodwatts/claude-hud/stargazers) !Claude HUD in action Install Inside a Claude Code instance, run the following commands: **Step 1: Add the marketplace** **Step 2: Install the plugin** <details> <summary><strong>⚠️ Linux users: Click here first</strong></summary> On Linux, /tmp is often a s...",
       "language": "JavaScript",
-      "stars": 970
+      "stars": 834
     },
     {
       "rank": 7,
-      "repo_name": "protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "description_ja": "Protocol Buffers - Google's data interchange format",
-      "readme_summary": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
-      "readme_summary_ja": "Protocol Buffers - Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation. This README file contains protobuf installation instruc...",
-      "language": "C++",
-      "stars": 7
+      "repo_name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "description_ja": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "readme_summary": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
+      "language": "TypeScript",
+      "stars": 2300
     },
     {
       "rank": 8,
-      "repo_name": "vllm-project/vllm-omni",
-      "description": "A framework for efficient model inference with omni-modality models",
-      "description_ja": "A framework for efficient model inference with omni-modality models",
-      "readme_summary": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\"> <img alt=\"vllm-omni\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\" width=55%> </picture> </p> <h3 align=\"center\"> Easy, fast, and cheap omni-modality model serving for everyone </h3> <p align=\"center\"> | <a href=\"https://vllm-omni.readt...",
-      "readme_summary_ja": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\"> <img alt=\"vllm-omni\" src=\"https://raw.githubusercontent.com/vllm-project/vllm-omni/refs/heads/main/docs/source/logos/vllm-omni-logo.png\" width=55%> </picture> </p> <h3 align=\"center\"> Easy, fast, and cheap omni-modality model serving for everyone </h3> <p align=\"center\"> | <a href=\"https://vllm-omni.readt...",
-      "language": "Python",
-      "stars": 71
+      "repo_name": "systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "description_ja": "The systemd System and Service Manager",
+      "readme_summary": "!Systemd System and Service Manager ![OBS Packages Status](https://build.opensuse.org/project/show/system:systemd)<br/> ![Semaphore CI 2.0 Build Status](https://the-real-systemd.semaphoreci.com/projects/systemd)<br/> ![Coverity Scan Status](https://scan.coverity.com/projects/systemd)<br/> ![OSS-Fuzz Status](https://oss-fuzz-build-logs.storage.googleapis.com/index.html#systemd)<br/> ![CIFuzz](https://github.com/systemd/systemd/actions/workflows/cifuzz.yml)</br> ![CII Best Practices](https://bestp...",
+      "readme_summary_ja": "!Systemd System and Service Manager ![OBS Packages Status](https://build.opensuse.org/project/show/system:systemd)<br/> ![Semaphore CI 2.0 Build Status](https://the-real-systemd.semaphoreci.com/projects/systemd)<br/> ![Coverity Scan Status](https://scan.coverity.com/projects/systemd)<br/> ![OSS-Fuzz Status](https://oss-fuzz-build-logs.storage.googleapis.com/index.html#systemd)<br/> ![CIFuzz](https://github.com/systemd/systemd/actions/workflows/cifuzz.yml)</br> ![CII Best Practices](https://bestp...",
+      "language": "C",
+      "stars": 313
     },
     {
       "rank": 9,
+      "repo_name": "browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "description_ja": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "readme_summary": "<picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\"> <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\" width=\"full\"> </picture> <div alig...",
+      "readme_summary_ja": "<picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\"> <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\" width=\"full\"> </picture> <div alig...",
+      "language": "Python",
+      "stars": 428
+    },
+    {
+      "rank": 10,
+      "repo_name": "HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "description_ja": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "readme_summary": "<div align=\"center\"> <div style=\"margin: 20px 0;\"> <img src=\"./assets/logo.png\" width=\"120\" height=\"120\" alt=\"LightRAG Logo\" style=\"border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);\"> </div> 🚀 LightRAG: Simple and Fast Retrieval-Augmented Generation <div align=\"center\"> <a href=\"https://trendshift.io/repositories/13043\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13043\" alt=\"HKUDS%2FLightRAG | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250...",
+      "readme_summary_ja": "<div align=\"center\"> <div style=\"margin: 20px 0;\"> <img src=\"./assets/logo.png\" width=\"120\" height=\"120\" alt=\"LightRAG Logo\" style=\"border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);\"> </div> 🚀 LightRAG: Simple and Fast Retrieval-Augmented Generation <div align=\"center\"> <a href=\"https://trendshift.io/repositories/13043\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13043\" alt=\"HKUDS%2FLightRAG | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250...",
+      "language": "Python",
+      "stars": 220
+    },
+    {
+      "rank": 11,
+      "repo_name": "hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "description_ja": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "readme_summary": "TradingAgents 中文增强版 ![License](https://opensource.org/licenses/Apache-2.0) ![Python](https://www.python.org/) ![Version](./VERSION) ![Documentation](./docs/) ![Original](https://github.com/TauricResearch/TradingAgents) --- ⚠️ 重要版权声明与授权说明 🚨 版权侵权警告 **我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。** **⚠️ 重要提醒**： - ❌ **我们项目组目前没有给任何组织或个人进行过商业授权** - ❌ **该网站未经授权使用我们的代码，属于侵权行为** - ⚠️ **请大家注意识别，避免上当受骗** **✅ 官方唯一渠道**： - 📦 GitHub 仓库：https://github.com/hsliuping/TradingAgents-CN - 📧 官方邮箱：hsliup@16...",
+      "readme_summary_ja": "TradingAgents 中文增强版 ![License](https://opensource.org/licenses/Apache-2.0) ![Python](https://www.python.org/) ![Version](./VERSION) ![Documentation](./docs/) ![Original](https://github.com/TauricResearch/TradingAgents) --- ⚠️ 重要版权声明与授权说明 🚨 版权侵权警告 **我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。** **⚠️ 重要提醒**： - ❌ **我们项目组目前没有给任何组织或个人进行过商业授权** - ❌ **该网站未经授权使用我们的代码，属于侵权行为** - ⚠️ **请大家注意识别，避免上当受骗** **✅ 官方唯一渠道**： - 📦 GitHub 仓库：https://github.com/hsliuping/TradingAgents-CN - 📧 官方邮箱：hsliup@16...",
+      "language": "Python",
+      "stars": 230
+    },
+    {
+      "rank": 12,
       "repo_name": "louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "description_ja": "Generate any location from the real world in Minecraft with a high level of detail.",
       "readme_summary": "<img src=\"assets/git/banner.png\" width=\"100%\" alt=\"Banner\"> Arnis ![CI Build Status](https://github.com/louis-e/arnis/actions) <img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/louis-e/arnis\" /> <img alt=\"GitHub Downloads (all assets, all releases\" src=\"https://img.shields.io/github/downloads/louis-e/arnis/total\" /> ![Download here](https://github.com/louis-e/arnis/releases) ![Discord](https://discord.gg/mA2g69Fhxq) Arnis creates complex and accurate Minecraft Java Edition (...",
       "readme_summary_ja": "<img src=\"assets/git/banner.png\" width=\"100%\" alt=\"Banner\"> Arnis ![CI Build Status](https://github.com/louis-e/arnis/actions) <img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/louis-e/arnis\" /> <img alt=\"GitHub Downloads (all assets, all releases\" src=\"https://img.shields.io/github/downloads/louis-e/arnis/total\" /> ![Download here](https://github.com/louis-e/arnis/releases) ![Discord](https://discord.gg/mA2g69Fhxq) Arnis creates complex and accurate Minecraft Java Edition (...",
       "language": "Rust",
-      "stars": 690
+      "stars": 582
+    },
+    {
+      "rank": 13,
+      "repo_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "language": "Go",
+      "stars": 251
+    },
+    {
+      "rank": 14,
+      "repo_name": "bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "description_ja": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "readme_summary": "🦌 DeerFlow - 2.0 English | 中文 | 日本語 ![Python](./backend/pyproject.toml) ![Node.js](./Makefile) ![License: MIT](./LICENSE) <a href=\"https://trendshift.io/repositories/14699\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14699\" alt=\"bytedance%2Fdeer-flow | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> > On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredi...",
+      "readme_summary_ja": "🦌 DeerFlow - 2.0 English | 中文 | 日本語 ![Python](./backend/pyproject.toml) ![Node.js](./Makefile) ![License: MIT](./LICENSE) <a href=\"https://trendshift.io/repositories/14699\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14699\" alt=\"bytedance%2Fdeer-flow | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> > On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredi...",
+      "language": "Python",
+      "stars": 1690
+    },
+    {
+      "rank": 15,
+      "repo_name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description_ja": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "readme_summary": "<div align=\"center\"> <h1 align=\"center\">MoneyPrinterTurbo 💸</h1> <p align=\"center\"> <a href=\"https://github.com/harry0703/MoneyPrinterTurbo/stargazers\"><img src=\"https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge\" alt=\"Stargazers\"></a> <a href=\"https://github.com/harry0703/MoneyPrinterTurbo/issues\"><img src=\"https://img.shields.io/github/issues/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge\" alt=\"Issues\"></a> <a href=\"https://github.com/harry0703/MoneyPr...",
+      "readme_summary_ja": "<div align=\"center\"> <h1 align=\"center\">MoneyPrinterTurbo 💸</h1> <p align=\"center\"> <a href=\"https://github.com/harry0703/MoneyPrinterTurbo/stargazers\"><img src=\"https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge\" alt=\"Stargazers\"></a> <a href=\"https://github.com/harry0703/MoneyPrinterTurbo/issues\"><img src=\"https://img.shields.io/github/issues/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge\" alt=\"Issues\"></a> <a href=\"https://github.com/harry0703/MoneyPr...",
+      "language": "Python",
+      "stars": 189
     }
   ]
 }
