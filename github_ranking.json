@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-24 09:00:50",
-  "total_repos": 15,
+  "updated_at": "2026-03-25 09:00:42",
+  "total_repos": 14,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "Automate the process of making money online.",
-      "description_ja": "Automate the process of making money online.",
-      "readme_summary": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai. Use code **MPV2** for 20% off. --- > 𝕏 Also, follow me on X: @DevBySami",
-      "readme_summary_ja": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai. Use code **MPV2** for 20% off. --- > 𝕏 Also, follow me on X: @DevBySami",
-      "language": "Python",
-      "stars": 2880
+      "repo_name": "pascalorg/editor",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Repository Architecture This is a Turborepo monorepo with three main packages: Separation of Concerns | Package | Responsibility | |---------|---------------| | **@pascal-app/core** | Node schemas, scene state (Zustand), systems (geometry generation), spatial queries, event bus | | **@pascal-app/viewer** | 3D rendering via React Three Fiber, ...",
+      "readme_summary_ja": "Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Repository Architecture This is a Turborepo monorepo with three main packages: Separation of Concerns | Package | Responsibility | |---------|---------------| | **@pascal-app/core** | Node schemas, scene state (Zustand), systems (geometry generation), spatial queries, event bus | | **@pascal-app/viewer** | 3D rendering via React Three Fiber, ...",
+      "language": "TypeScript",
+      "stars": 1449
     },
     {
       "rank": 2,
@@ -20,137 +20,127 @@
       "readme_summary": "🦌 DeerFlow - 2.0 English | 中文 | 日本語 ![Python](./backend/pyproject.toml) ![Node.js](./Makefile) ![License: MIT](./LICENSE) <a href=\"https://trendshift.io/repositories/14699\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14699\" alt=\"bytedance%2Fdeer-flow | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> > On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredi...",
       "readme_summary_ja": "🦌 DeerFlow - 2.0 English | 中文 | 日本語 ![Python](./backend/pyproject.toml) ![Node.js](./Makefile) ![License: MIT](./LICENSE) <a href=\"https://trendshift.io/repositories/14699\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14699\" alt=\"bytedance%2Fdeer-flow | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> > On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending following the launch of version 2. Thanks a million to our incredi...",
       "language": "Python",
-      "stars": 3546
+      "stars": 4346
     },
     {
       "rank": 3,
+      "repo_name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "description_ja": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "readme_summary": "<p align=\"center\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"Supermemory\" width=\"400\" /> </picture> </p> <p align=\"center\"> <strong>State-of-the-art memory and context engine for AI.</strong> </p> <p align=\"center\"> <a href=\"https://supermemory.ai/docs\">Docs</a> · <a href=\"https://supermemory.ai/...",
+      "readme_summary_ja": "<p align=\"center\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"Supermemory\" width=\"400\" /> </picture> </p> <p align=\"center\"> <strong>State-of-the-art memory and context engine for AI.</strong> </p> <p align=\"center\"> <a href=\"https://supermemory.ai/docs\">Docs</a> · <a href=\"https://supermemory.ai/...",
+      "language": "TypeScript",
+      "stars": 344
+    },
+    {
+      "rank": 4,
+      "repo_name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "description_ja": "Automate the process of making money online.",
+      "readme_summary": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai. Use code **MPV2** for 20% off. --- > 𝕏 Also, follow me on X: @DevBySami",
+      "readme_summary_ja": "MoneyPrinter V2 > ♥︎ **Sponsor**: The Best AI Chat App: shiori.ai. Use code **MPV2** for 20% off. --- > 𝕏 Also, follow me on X: @DevBySami",
+      "language": "Python",
+      "stars": 3006
+    },
+    {
+      "rank": 5,
+      "repo_name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description_ja": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "readme_summary": "<div align=\"center\"> <h1 align=\"center\">MoneyPrinterTurbo 💸</h1> <p align=\"center\"> <a href=\"https://github.com/harry0703/MoneyPrinterTurbo/stargazers\"><img src=\"https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge\" alt=\"Stargazers\"></a> <a href=\"https://github.com/harry0703/MoneyPrinterTurbo/issues\"><img src=\"https://img.shields.io/github/issues/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge\" alt=\"Issues\"></a> <a href=\"https://github.com/harry0703/MoneyPr...",
+      "readme_summary_ja": "<div align=\"center\"> <h1 align=\"center\">MoneyPrinterTurbo 💸</h1> <p align=\"center\"> <a href=\"https://github.com/harry0703/MoneyPrinterTurbo/stargazers\"><img src=\"https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge\" alt=\"Stargazers\"></a> <a href=\"https://github.com/harry0703/MoneyPrinterTurbo/issues\"><img src=\"https://img.shields.io/github/issues/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge\" alt=\"Issues\"></a> <a href=\"https://github.com/harry0703/MoneyPr...",
+      "language": "Python",
+      "stars": 728
+    },
+    {
+      "rank": 6,
       "repo_name": "Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "description_ja": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "readme_summary": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
       "readme_summary_ja": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/admin/public/project_nomad_logo.png\" width=\"200\" height=\"200\"/> Project N.O.M.A.D. Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) ![Benchmark](https://benchmark.projectnomad.us) </div> --- Project N.O.M.A.D. is a self-contained, offline-first knowledge ...",
       "language": "TypeScript",
-      "stars": 4138
+      "stars": 2513
     },
     {
-      "rank": 4,
-      "repo_name": "vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "description_ja": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "readme_summary": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy) <...",
-      "readme_summary_ja": "PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ![Discord](https://discord.gg/2xrMh7qX6m)⠀![Telegram](https://t.me/+Ka9i6CNwe71hMWQy) <...",
-      "language": "Go",
-      "stars": 1309
-    },
-    {
-      "rank": 5,
-      "repo_name": "browser-use/browser-use",
-      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "description_ja": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "readme_summary": "<picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\"> <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\" width=\"full\"> </picture> <div alig...",
-      "readme_summary_ja": "<picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\"> <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\" width=\"full\"> </picture> <div alig...",
-      "language": "Python",
-      "stars": 1157
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "repo_name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "description_ja": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "readme_summary": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"....",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"....",
       "language": "Python",
-      "stars": 2530
-    },
-    {
-      "rank": 7,
-      "repo_name": "tinygrad/tinygrad",
-      "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-      "description_ja": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-      "readme_summary": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"/docs/logo_tiny_light.svg\"> <img alt=\"tiny corp logo\" src=\"/docs/logo_tiny_dark.svg\" width=\"50%\" height=\"50%\"> </picture> tinygrad: For something between PyTorch and karpathy/micrograd. Maintained by tiny corp. <h3> Homepage | Documentation | Discord </h3> ![GitHub Repo stars](https://github.com/tinygrad/tinygrad/stargazers) ![Unit Tests](https://github.com/tinygrad/tinygrad/actions/workflows/test.yml) ![Discord...",
-      "readme_summary_ja": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"/docs/logo_tiny_light.svg\"> <img alt=\"tiny corp logo\" src=\"/docs/logo_tiny_dark.svg\" width=\"50%\" height=\"50%\"> </picture> tinygrad: For something between PyTorch and karpathy/micrograd. Maintained by tiny corp. <h3> Homepage | Documentation | Discord </h3> ![GitHub Repo stars](https://github.com/tinygrad/tinygrad/stargazers) ![Unit Tests](https://github.com/tinygrad/tinygrad/actions/workflows/test.yml) ![Discord...",
-      "language": "Python",
-      "stars": 56
+      "stars": 1760
     },
     {
       "rank": 8,
-      "repo_name": "affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "description_ja": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "readme_summary": "**Language:** English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 Türkçe Everything Claude Code ![Stars](https://github.com/affaan-m/everything-claude-code/stargazers) ![Forks](https://github.com/affaan-m/everything-claude-code/network/members) ![Contributors](https://github.com/affaan-m/everything-claude-code/graphs/contributors) ![npm ecc-universal](https://www.npmjs.com/package/ecc-universal) ![npm ecc-agentshield](https://www.npmjs.com/package/ecc-agentshield) ![GitHub App Install](https:...",
-      "readme_summary_ja": "**Language:** English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 Türkçe Everything Claude Code ![Stars](https://github.com/affaan-m/everything-claude-code/stargazers) ![Forks](https://github.com/affaan-m/everything-claude-code/network/members) ![Contributors](https://github.com/affaan-m/everything-claude-code/graphs/contributors) ![npm ecc-universal](https://www.npmjs.com/package/ecc-universal) ![npm ecc-agentshield](https://www.npmjs.com/package/ecc-agentshield) ![GitHub App Install](https:...",
-      "language": "JavaScript",
-      "stars": 4458
+      "repo_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_ja": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "readme_summary": "/last30days v2.9.5 Claude Code (recommended) ![ClawHub](https://clawhub.ai/skills/last30days-official) **The AI world reinvents itself every month. This skill keeps you current.** /last30days researches your topic across Reddit, X, Bluesky, YouTube, TikTok, Instagram, Hacker News, Polymarket, and the web from the last 30 days, finds what the community is actually upvoting, sharing, betting on, and saying on camera, and writes you a grounded narrative with real citations. Whether it's Seedance 2....",
+      "readme_summary_ja": "/last30days v2.9.5 Claude Code (recommended) ![ClawHub](https://clawhub.ai/skills/last30days-official) **The AI world reinvents itself every month. This skill keeps you current.** /last30days researches your topic across Reddit, X, Bluesky, YouTube, TikTok, Instagram, Hacker News, Polymarket, and the web from the last 30 days, finds what the community is actually upvoting, sharing, betting on, and saying on camera, and writes you a grounded narrative with real citations. Whether it's Seedance 2....",
+      "language": "Python",
+      "stars": 209
     },
     {
       "rank": 9,
+      "repo_name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "description_ja": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "readme_summary": "🌊 RuFlo v3.5: Enterprise AI Orchestration Platform <div align=\"center\"> !Ruflo Banner ![GitHub Project of the Day](https://github.com/ruvnet/claude-flow) ![Star on GitHub](https://github.com/ruvnet/claude-flow) ![Monthly Downloads](https://www.npmjs.com/package/claude-flow) ![Total Downloads](https://www.npmjs.com/package/claude-flow) ![ruv.io](https://ruv.io) ![Agentics Foundation](https://discord.com/invite/dfxmpwkG2D) ![Claude Code](https://github.com/ruvnet/claude-flow) ![MIT License](https:...",
+      "readme_summary_ja": "🌊 RuFlo v3.5: Enterprise AI Orchestration Platform <div align=\"center\"> !Ruflo Banner ![GitHub Project of the Day](https://github.com/ruvnet/claude-flow) ![Star on GitHub](https://github.com/ruvnet/claude-flow) ![Monthly Downloads](https://www.npmjs.com/package/claude-flow) ![Total Downloads](https://www.npmjs.com/package/claude-flow) ![ruv.io](https://ruv.io) ![Agentics Foundation](https://discord.com/invite/dfxmpwkG2D) ![Claude Code](https://github.com/ruvnet/claude-flow) ![MIT License](https:...",
+      "language": "TypeScript",
+      "stars": 1397
+    },
+    {
+      "rank": 10,
       "repo_name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "description_ja": "The agent that grows with you",
       "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "language": "Python",
-      "stars": 919
-    },
-    {
-      "rank": 10,
-      "repo_name": "jingyaogong/minimind",
-      "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
-      "description_ja": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
-      "readme_summary": "<div align=\"center\"> !logo </div> <div align=\"center\"> !visitors ![GitHub Repo stars](https://github.com/jingyaogong/minimind/stargazers) ![GitHub Code License](LICENSE) ![GitHub last commit](https://github.com/jingyaogong/minimind/commits/master) ![GitHub pull request](https://github.com/jingyaogong/minimind/pulls) ![Collection](https://huggingface.co/collections/jingyaogong/minimind-66caf8d999f5c7fa64f399e5) </div> <div align=\"center\"> !GitHub Trend </div> <div align=\"center\"> <h3>\"大道至简\"</h3> ...",
-      "readme_summary_ja": "<div align=\"center\"> !logo </div> <div align=\"center\"> !visitors ![GitHub Repo stars](https://github.com/jingyaogong/minimind/stargazers) ![GitHub Code License](LICENSE) ![GitHub last commit](https://github.com/jingyaogong/minimind/commits/master) ![GitHub pull request](https://github.com/jingyaogong/minimind/pulls) ![Collection](https://huggingface.co/collections/jingyaogong/minimind-66caf8d999f5c7fa64f399e5) </div> <div align=\"center\"> !GitHub Trend </div> <div align=\"center\"> <h3>\"大道至简\"</h3> ...",
-      "language": "Python",
-      "stars": 487
+      "stars": 1278
     },
     {
       "rank": 11,
-      "repo_name": "hsliuping/TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "description_ja": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "readme_summary": "TradingAgents 中文增强版 ![License](https://opensource.org/licenses/Apache-2.0) ![Python](https://www.python.org/) ![Version](./VERSION) ![Documentation](./docs/) ![Original](https://github.com/TauricResearch/TradingAgents) --- ⚠️ 重要版权声明与授权说明 🚨 版权侵权警告 **我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。** **⚠️ 重要提醒**： - ❌ **我们项目组目前没有给任何组织或个人进行过商业授权** - ❌ **该网站未经授权使用我们的代码，属于侵权行为** - ⚠️ **请大家注意识别，避免上当受骗** **✅ 官方唯一渠道**： - 📦 GitHub 仓库：https://github.com/hsliuping/TradingAgents-CN - 📧 官方邮箱：hsliup@16...",
-      "readme_summary_ja": "TradingAgents 中文增强版 ![License](https://opensource.org/licenses/Apache-2.0) ![Python](https://www.python.org/) ![Version](./VERSION) ![Documentation](./docs/) ![Original](https://github.com/TauricResearch/TradingAgents) --- ⚠️ 重要版权声明与授权说明 🚨 版权侵权警告 **我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。** **⚠️ 重要提醒**： - ❌ **我们项目组目前没有给任何组织或个人进行过商业授权** - ❌ **该网站未经授权使用我们的代码，属于侵权行为** - ⚠️ **请大家注意识别，避免上当受骗** **✅ 官方唯一渠道**： - 📦 GitHub 仓库：https://github.com/hsliuping/TradingAgents-CN - 📧 官方邮箱：hsliup@16...",
-      "language": "Python",
-      "stars": 676
-    },
-    {
-      "rank": 12,
-      "repo_name": "kepano/obsidian-skills",
-      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "description_ja": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "readme_summary": "Agent Skills for use with Obsidian. These skills follow the Agent Skills specification so they can be used by any skills-compatible agent, including Claude Code and Codex CLI. Installation Marketplace npx skills Manually Claude Code Add the contents of this repo to a /.claude folder in the root of your Obsidian vault (or whichever folder you're using with Claude Code)",
-      "readme_summary_ja": "Agent Skills for use with Obsidian. These skills follow the Agent Skills specification so they can be used by any skills-compatible agent, including Claude Code and Codex CLI. Installation Marketplace npx skills Manually Claude Code Add the contents of this repo to a /.claude folder in the root of your Obsidian vault (or whichever folder you're using with Claude Code)",
-      "language": "",
-      "stars": 354
-    },
-    {
-      "rank": 13,
-      "repo_name": "czlonkowski/n8n-mcp",
-      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-      "description_ja": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-      "readme_summary": "n8n-MCP ![License: MIT](https://opensource.org/licenses/MIT) ![GitHub stars](https://github.com/czlonkowski/n8n-mcp) ![npm version](https://www.npmjs.com/package/n8n-mcp) ![codecov](https://codecov.io/gh/czlonkowski/n8n-mcp) ![Tests](https://github.com/czlonkowski/n8n-mcp/actions) ![n8n version](https://github.com/n8n-io/n8n) ![Docker](https://github.com/czlonkowski/n8n-mcp/pkgs/container/n8n-mcp) ![Deploy on Railway](https://railway.com/deploy/n8n-mcp?referralCode=n8n-mcp) A Model Context Proto...",
-      "readme_summary_ja": "n8n-MCP ![License: MIT](https://opensource.org/licenses/MIT) ![GitHub stars](https://github.com/czlonkowski/n8n-mcp) ![npm version](https://www.npmjs.com/package/n8n-mcp) ![codecov](https://codecov.io/gh/czlonkowski/n8n-mcp) ![Tests](https://github.com/czlonkowski/n8n-mcp/actions) ![n8n version](https://github.com/n8n-io/n8n) ![Docker](https://github.com/czlonkowski/n8n-mcp/pkgs/container/n8n-mcp) ![Deploy on Railway](https://railway.com/deploy/n8n-mcp?referralCode=n8n-mcp) A Model Context Proto...",
-      "language": "TypeScript",
-      "stars": 146
-    },
-    {
-      "rank": 14,
-      "repo_name": "iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "description_ja": "Collection of publicly available IPTV channels from all over the world",
-      "readme_summary": "IPTV ![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents - 🚀 How to use? - 📺 Playlists - 🗓 EPG - 🗄 Database - 👨‍💻 API - 📚 Resources - 💬 Discussions - ❓ FAQ - 🛠 Contribution - ⚖ Legal - © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press _Open_. !VLC Network Panel Playlists The mai...",
-      "readme_summary_ja": "IPTV ![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents - 🚀 How to use? - 📺 Playlists - 🗓 EPG - 🗄 Database - 👨‍💻 API - 📚 Resources - 💬 Discussions - ❓ FAQ - 🛠 Contribution - ⚖ Legal - © License How to use? Simply paste the link to one of the playlists into any video player that supports live streaming and press _Open_. !VLC Network Panel Playlists The mai...",
-      "language": "TypeScript",
-      "stars": 106
-    },
-    {
-      "rank": 15,
       "repo_name": "hesreallyhim/awesome-claude-code",
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "description_ja": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "readme_summary": "<!-- GENERATED FILE: do not edit directly --> <h3 align=\"center\">Pick Your Style:</h3> <p align=\"center\"> <a href=\"./\"><img src=\"assets/badge-style-awesome.svg\" alt=\"Awesome\" height=\"28\" style=\"border: 2px solid #cc3366; border-radius: 4px;\"></a> <a href=\"README_ALTERNATIVES/README_EXTRA.md\"><img src=\"assets/badge-style-extra.svg\" alt=\"Extra\" height=\"28\"></a> <a href=\"README_ALTERNATIVES/README_CLASSIC.md\"><img src=\"assets/badge-style-classic.svg\" alt=\"Classic\" height=\"28\"></a> <a href=\"README_A...",
       "readme_summary_ja": "<!-- GENERATED FILE: do not edit directly --> <h3 align=\"center\">Pick Your Style:</h3> <p align=\"center\"> <a href=\"./\"><img src=\"assets/badge-style-awesome.svg\" alt=\"Awesome\" height=\"28\" style=\"border: 2px solid #cc3366; border-radius: 4px;\"></a> <a href=\"README_ALTERNATIVES/README_EXTRA.md\"><img src=\"assets/badge-style-extra.svg\" alt=\"Extra\" height=\"28\"></a> <a href=\"README_ALTERNATIVES/README_CLASSIC.md\"><img src=\"assets/badge-style-classic.svg\" alt=\"Classic\" height=\"28\"></a> <a href=\"README_A...",
       "language": "Python",
-      "stars": 429
+      "stars": 995
+    },
+    {
+      "rank": 12,
+      "repo_name": "hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "description_ja": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "readme_summary": "TradingAgents 中文增强版 ![License](https://opensource.org/licenses/Apache-2.0) ![Python](https://www.python.org/) ![Version](./VERSION) ![Documentation](./docs/) ![Original](https://github.com/TauricResearch/TradingAgents) --- ⚠️ 重要版权声明与授权说明 🚨 版权侵权警告 **我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。** **⚠️ 重要提醒**： - ❌ **我们项目组目前没有给任何组织或个人进行过商业授权** - ❌ **该网站未经授权使用我们的代码，属于侵权行为** - ⚠️ **请大家注意识别，避免上当受骗** **✅ 官方唯一渠道**： - 📦 GitHub 仓库：https://github.com/hsliuping/TradingAgents-CN - 📧 官方邮箱：hsliup@16...",
+      "readme_summary_ja": "TradingAgents 中文增强版 ![License](https://opensource.org/licenses/Apache-2.0) ![Python](https://www.python.org/) ![Version](./VERSION) ![Documentation](./docs/) ![Original](https://github.com/TauricResearch/TradingAgents) --- ⚠️ 重要版权声明与授权说明 🚨 版权侵权警告 **我们注意到 tradingagents-ai.com 网站未经授权使用了我们的专有代码，并声称是他们公司的产品。** **⚠️ 重要提醒**： - ❌ **我们项目组目前没有给任何组织或个人进行过商业授权** - ❌ **该网站未经授权使用我们的代码，属于侵权行为** - ⚠️ **请大家注意识别，避免上当受骗** **✅ 官方唯一渠道**： - 📦 GitHub 仓库：https://github.com/hsliuping/TradingAgents-CN - 📧 官方邮箱：hsliup@16...",
+      "language": "Python",
+      "stars": 557
+    },
+    {
+      "rank": 13,
+      "repo_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "description_ja": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "readme_summary": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"docs/imgs/logo.png\" width=\"200\"> [![GitHub Release][release-img]][release] [![Test][test-img]][test] [![Go Report Card][go-report-img]][go-report] [![License: Apache-2.0][license-img]][license] [![GitHub Downloads][github-downloads-img]][release] ![Docker Pulls][docker-pulls] [📖 Documentation][docs] </div> Trivy ([pronunciation][pronunciation]) is a comprehensive and versatile security scanner. Trivy has *scanners* that look for security issues, and *targets* where...",
+      "language": "Go",
+      "stars": 104
+    },
+    {
+      "rank": 14,
+      "repo_name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "description_ja": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "readme_summary": "π RuView <p align=\"center\"> <a href=\"https://ruvnet.github.io/RuView/\"> <img src=\"assets/ruview-small-gemini.jpg\" alt=\"RuView - WiFi DensePose\" width=\"100%\"> </a> </p> **See through walls with WiFi + Ai** **Perceive the world through signals.** No cameras. No wearables. No Internet",
+      "readme_summary_ja": "π RuView <p align=\"center\"> <a href=\"https://ruvnet.github.io/RuView/\"> <img src=\"assets/ruview-small-gemini.jpg\" alt=\"RuView - WiFi DensePose\" width=\"100%\"> </a> </p> **See through walls with WiFi + Ai** **Perceive the world through signals.** No cameras. No wearables. No Internet",
+      "language": "Rust",
+      "stars": 861
     }
   ]
 }
