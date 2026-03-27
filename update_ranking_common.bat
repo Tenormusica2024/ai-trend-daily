@@ -115,6 +115,7 @@ if !PYTHON_RESULT! NEQ 0 (
     echo ============================================================
     echo [%time%] ERROR: Python script failed with code !PYTHON_RESULT! >> "%LOG_FILE%"
     set /a OFFSET_CODE=!PYTHON_RESULT!+100
+    echo Exit Code: !OFFSET_CODE! >> "%LOG_FILE%"
     exit /b !OFFSET_CODE!
 )
 
@@ -174,21 +175,34 @@ if !COMMIT_RESULT! NEQ 0 (
     )
 )
 
-REM Check for authentication errors before push
-git push %GIT_REMOTE% %GIT_BRANCH% 2>&1 | findstr /i "Authentication denied fatal error" >nul
+REM Execute git push and capture output for error detection
+set PUSH_OUTPUT=%TEMP%\git_push_%RANDOM%.tmp
+git push %GIT_REMOTE% %GIT_BRANCH% > "%PUSH_OUTPUT%" 2>&1
+set PUSH_RESULT=!ERRORLEVEL!
+
+REM Check for authentication errors in output
+findstr /i "Authentication denied fatal error" "%PUSH_OUTPUT%" >nul 2>&1
 if !ERRORLEVEL! EQU 0 (
     echo ERROR: git push failed - Authentication error
     echo [%time%] ERROR: git push authentication failed >> "%LOG_FILE%"
     echo TIP: Check GITHUB_TOKEN environment variable or credential manager
+    type "%PUSH_OUTPUT%"
+    del "%PUSH_OUTPUT%" 2>nul
+    echo Exit Code: 4 >> "%LOG_FILE%"
     exit /b 4
 )
 
-git push %GIT_REMOTE% %GIT_BRANCH%
-if !ERRORLEVEL! NEQ 0 (
-    echo ERROR: git push failed
+REM Check push result
+if !PUSH_RESULT! NEQ 0 (
+    echo ERROR: git push failed with code !PUSH_RESULT!
     echo [%time%] ERROR: git push failed >> "%LOG_FILE%"
+    type "%PUSH_OUTPUT%"
+    del "%PUSH_OUTPUT%" 2>nul
+    echo Exit Code: 4 >> "%LOG_FILE%"
     exit /b 4
 )
+
+del "%PUSH_OUTPUT%" 2>nul
 
 echo.
 echo Git push completed!
@@ -203,6 +217,7 @@ echo ============================================================
 echo.
 echo Finished at: %date% %time%
 echo [%time%] Finished >> "%LOG_FILE%"
+echo Exit Code: 0 >> "%LOG_FILE%"
 echo.
 
 endlocal
