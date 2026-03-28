@@ -156,9 +156,15 @@ echo Pulling remote changes...
 git pull --rebase %GIT_REMOTE% %GIT_BRANCH% 2>&1
 set PULL_RESULT=!ERRORLEVEL!
 if !PULL_RESULT! NEQ 0 (
-    echo WARNING: git pull --rebase failed with code !PULL_RESULT! - continuing anyway
-    echo [%time%] WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) >> "%LOG_FILE%"
+    echo WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - falling back to merge
+    echo [%time%] WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - trying merge >> "%LOG_FILE%"
     git rebase --abort 2>nul
+    git pull --no-rebase %GIT_REMOTE% %GIT_BRANCH% 2>&1
+    set MERGE_RESULT=!ERRORLEVEL!
+    if !MERGE_RESULT! NEQ 0 (
+        echo WARNING: git pull --merge also failed ^(code !MERGE_RESULT!^) - push may be rejected
+        echo [%time%] WARNING: git pull --merge failed ^(code !MERGE_RESULT!^) >> "%LOG_FILE%"
+    )
 )
 
 REM Commit and push to GitHub with error handling
