@@ -6,6 +6,8 @@ GitHubのトレンドリポジトリを取得してJSONファイルに保存
 """
 
 import json
+import os
+import re
 import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
@@ -17,15 +19,19 @@ def translate_to_japanese(text, retry_count=0, max_retries=3):
     """
     if text == "No description provided":
         return "説明なし"
-    
+
     # 短い固有名詞や技術用語は翻訳しない
     if len(text.split()) <= 3 and text[0].isupper():
         # 例: "OpenTelemetry Collector" のような固有名詞はそのまま
         pass
-    
-    API_KEY = "REMOVED_GCP_API_KEY"
-    # Gemini 2.0 Flash (thinking機能なし、安定版)
-    API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent"
+
+    # APIキーは環境変数から取得（ハードコード禁止）
+    API_KEY = os.environ.get("GEMINI_API_KEY", "")
+    if not API_KEY:
+        # APIキー未設定時は翻訳スキップ（原文を返す）
+        return text
+    # Gemini 2.0 Flash（安定版）
+    API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
     
     prompt = f"""以下の英語のGitHubリポジトリ説明文を自然な日本語に翻訳してください。
 
@@ -50,8 +56,7 @@ def translate_to_japanese(text, retry_count=0, max_retries=3):
                     "temperature": 0.3,
                     "topK": 40,
                     "topP": 0.95,
-                    "maxOutputTokens": 200,
-                    "responseModalities": ["TEXT"]
+                    "maxOutputTokens": 200
                 }
             },
             timeout=10
@@ -83,7 +88,11 @@ def translate_to_japanese(text, retry_count=0, max_retries=3):
             print(f"Translation failed after {max_retries} retries: {text[:50]}...")
             return text
         else:
-            # APIエラー時もリトライ
+            # 404/401/403はAPIキー無効・モデル不存在のため即座にスキップ（リトライ不要）
+            if response.status_code in (401, 403, 404):
+                print(f"Translation skipped: API returned {response.status_code} (invalid key or model)")
+                return text
+            # その他のAPIエラーはリトライ
             if retry_count < max_retries:
                 print(f"API error (status {response.status_code}), retry {retry_count + 1}/{max_retries}")
                 time.sleep(2)  # エラー時はより長く待機
@@ -132,7 +141,6 @@ def fetch_readme_summary(repo_name, max_length=500):
         if response.status_code == 200:
             readme_text = response.text
             # Markdown記号を削除してプレーンテキスト化
-            import re
             # ヘッダー記号除去
             readme_text = re.sub(r'#+\s', '', readme_text)
             # リンク記号除去
@@ -195,7 +203,6 @@ def parse_trending_repos(html_content):
                 stars_text = star_count.get_text(strip=True)
                 try:
                     # "1,289 stars today" から数字のみ抽出
-                    import re
                     numbers = re.findall(r'[\d,]+', stars_text)
                     if numbers:
                         stars = int(numbers[0].replace(',', ''))

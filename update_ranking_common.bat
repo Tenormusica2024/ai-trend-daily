@@ -150,6 +150,17 @@ if !ERRORLEVEL! NEQ 0 (
 
 echo [%time%] Output file validated: %JSON_FILE% ^(%FILE_SIZE% bytes^) >> "%LOG_FILE%"
 
+REM Pull remote changes before committing to avoid push rejection
+echo.
+echo Pulling remote changes...
+git pull --rebase %GIT_REMOTE% %GIT_BRANCH% 2>&1
+set PULL_RESULT=!ERRORLEVEL!
+if !PULL_RESULT! NEQ 0 (
+    echo WARNING: git pull --rebase failed with code !PULL_RESULT! - continuing anyway
+    echo [%time%] WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) >> "%LOG_FILE%"
+    git rebase --abort 2>nul
+)
+
 REM Commit and push to GitHub with error handling
 echo.
 echo Committing changes to GitHub...
