@@ -178,7 +178,7 @@ if !COMMIT_RESULT! NEQ 0 (
 REM Pull remote changes and rebase our commit on top (working tree is now clean)
 echo.
 echo Pulling remote changes...
-git pull --rebase %GIT_REMOTE% %GIT_BRANCH% 2>&1
+git pull --rebase -X theirs %GIT_REMOTE% %GIT_BRANCH% 2>&1
 set PULL_RESULT=!ERRORLEVEL!
 if !PULL_RESULT! NEQ 0 (
     echo WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - aborting rebase
