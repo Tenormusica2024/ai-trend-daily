@@ -199,7 +199,7 @@ set PUSH_RESULT=!ERRORLEVEL!
 
 REM Check for authentication errors in output
 REM Use /c: for exact phrase matching to avoid false positives on "error", "fatal" etc.
-findstr /i /c:"Authentication failed" /c:"Invalid username or password" /c:"returned error: 401" /c:"returned error: 403" "%PUSH_OUTPUT%" >nul 2>&1
+findstr /i /c:"Authentication failed" /c:"Invalid username or password" /c:"returned error: 401" /c:"returned error: 403" /c:"Permission denied (publickey)" "%PUSH_OUTPUT%" >nul 2>&1
 if !ERRORLEVEL! EQU 0 (
     echo ERROR: git push failed - Authentication error
     echo [%time%] ERROR: git push authentication failed >> "%LOG_FILE%"
