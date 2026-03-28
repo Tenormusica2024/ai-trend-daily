@@ -176,9 +176,11 @@ if !COMMIT_RESULT! NEQ 0 (
 )
 
 REM Pull remote changes and rebase our commit on top (working tree is now clean)
+REM -X theirs: in rebase context, "ours"=remote tip, "theirs"=local commit being replayed
+REM            so -X theirs means: on conflict, prefer our Python-generated local data
 echo.
 echo Pulling remote changes...
-git pull --rebase -X theirs %GIT_REMOTE% %GIT_BRANCH% 2>&1
+git pull --rebase -X theirs %GIT_REMOTE% %GIT_BRANCH% >> "%LOG_FILE%" 2>&1
 set PULL_RESULT=!ERRORLEVEL!
 if !PULL_RESULT! NEQ 0 (
     echo WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - aborting rebase
@@ -187,7 +189,8 @@ if !PULL_RESULT! NEQ 0 (
 )
 
 REM Execute git push and capture output for error detection
-set PUSH_OUTPUT=%TEMP%\git_push_%RANDOM%.tmp
+REM Use RANKING_TYPE in temp name to avoid collisions when multiple scripts run concurrently
+set PUSH_OUTPUT=%TEMP%\git_push_%RANKING_TYPE%_%RANDOM%.tmp
 git push %GIT_REMOTE% %GIT_BRANCH% > "%PUSH_OUTPUT%" 2>&1
 set PUSH_RESULT=!ERRORLEVEL!
 
@@ -221,6 +224,7 @@ echo Git push completed!
 echo [%time%] Git push completed >> "%LOG_FILE%"
 
 :finish
+if defined PUSH_OUTPUT (del "%PUSH_OUTPUT%" 2>nul)
 echo.
 echo ============================================================
 echo Daily Update Completed Successfully!
