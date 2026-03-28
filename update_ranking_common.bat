@@ -161,12 +161,17 @@ if !PULL_RESULT! NEQ 0 (
     git rebase --abort 2>nul
     REM JSONを一時退避してからマージ試行
     copy /Y "%JSON_FILE%" "%TEMP%\ranking_local_backup.json" > nul
+    if !ERRORLEVEL! NEQ 0 (
+        echo ERROR: Failed to backup JSON before merge - aborting
+        echo [%time%] ERROR: JSON backup failed >> "%LOG_FILE%"
+        exit /b 5
+    )
     git pull --no-rebase %GIT_REMOTE% %GIT_BRANCH% 2>&1
     set MERGE_RESULT=!ERRORLEVEL!
     if !MERGE_RESULT! NEQ 0 (
         echo WARNING: git pull --merge also failed ^(code !MERGE_RESULT!^) - forcing reset to remote
         echo [%time%] WARNING: git pull --merge failed ^(code !MERGE_RESULT!^) - attempting hard reset >> "%LOG_FILE%"
-        git merge --abort 2>nul
+        git merge --abort 2>&1 >> "%LOG_FILE%"
         git reset --hard %GIT_REMOTE%/%GIT_BRANCH% 2>&1
         if !ERRORLEVEL! NEQ 0 (
             echo ERROR: git reset --hard failed - cannot recover
@@ -176,6 +181,12 @@ if !PULL_RESULT! NEQ 0 (
         )
         REM リモートにリセット後、退避したJSONを復元
         copy /Y "%TEMP%\ranking_local_backup.json" "%JSON_FILE%" > nul
+        if !ERRORLEVEL! NEQ 0 (
+            echo ERROR: Failed to restore JSON backup - data may be lost
+            echo [%time%] ERROR: JSON restore failed >> "%LOG_FILE%"
+            del "%TEMP%\ranking_local_backup.json" 2>nul
+            exit /b 5
+        )
         echo [%time%] Recovered: restored local JSON after reset to remote >> "%LOG_FILE%"
     )
     del "%TEMP%\ranking_local_backup.json" 2>nul
