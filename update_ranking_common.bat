@@ -159,12 +159,26 @@ if !PULL_RESULT! NEQ 0 (
     echo WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - falling back to merge
     echo [%time%] WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - trying merge >> "%LOG_FILE%"
     git rebase --abort 2>nul
+    REM JSONを一時退避してからマージ試行
+    copy /Y "%JSON_FILE%" "%TEMP%\ranking_local_backup.json" > nul
     git pull --no-rebase %GIT_REMOTE% %GIT_BRANCH% 2>&1
     set MERGE_RESULT=!ERRORLEVEL!
     if !MERGE_RESULT! NEQ 0 (
-        echo WARNING: git pull --merge also failed ^(code !MERGE_RESULT!^) - push may be rejected
-        echo [%time%] WARNING: git pull --merge failed ^(code !MERGE_RESULT!^) >> "%LOG_FILE%"
+        echo WARNING: git pull --merge also failed ^(code !MERGE_RESULT!^) - forcing reset to remote
+        echo [%time%] WARNING: git pull --merge failed ^(code !MERGE_RESULT!^) - attempting hard reset >> "%LOG_FILE%"
+        git merge --abort 2>nul
+        git reset --hard %GIT_REMOTE%/%GIT_BRANCH% 2>&1
+        if !ERRORLEVEL! NEQ 0 (
+            echo ERROR: git reset --hard failed - cannot recover
+            echo [%time%] ERROR: git reset --hard failed >> "%LOG_FILE%"
+            del "%TEMP%\ranking_local_backup.json" 2>nul
+            exit /b 5
+        )
+        REM リモートにリセット後、退避したJSONを復元
+        copy /Y "%TEMP%\ranking_local_backup.json" "%JSON_FILE%" > nul
+        echo [%time%] Recovered: restored local JSON after reset to remote >> "%LOG_FILE%"
     )
+    del "%TEMP%\ranking_local_backup.json" 2>nul
 )
 
 REM Commit and push to GitHub with error handling
