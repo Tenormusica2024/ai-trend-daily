@@ -92,6 +92,11 @@ def translate_to_japanese(text, retry_count=0, max_retries=3):
             if response.status_code in (401, 403, 404):
                 print(f"Translation skipped: API returned {response.status_code} (invalid key or model)")
                 return text
+            # 429（レートリミット）は長めに待機してリトライ
+            if response.status_code == 429 and retry_count < max_retries:
+                print(f"Rate limited (429), waiting 30s before retry {retry_count + 1}/{max_retries}")
+                time.sleep(30)
+                return translate_to_japanese(text, retry_count + 1, max_retries)
             # その他のAPIエラーはリトライ
             if retry_count < max_retries:
                 print(f"API error (status {response.status_code}), retry {retry_count + 1}/{max_retries}")
