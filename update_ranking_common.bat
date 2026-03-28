@@ -150,51 +150,9 @@ if !ERRORLEVEL! NEQ 0 (
 
 echo [%time%] Output file validated: %JSON_FILE% ^(%FILE_SIZE% bytes^) >> "%LOG_FILE%"
 
-REM Pull remote changes before committing to avoid push rejection
+REM Commit new data first (ensures clean working tree for git pull)
 echo.
-echo Pulling remote changes...
-git pull --rebase %GIT_REMOTE% %GIT_BRANCH% 2>&1
-set PULL_RESULT=!ERRORLEVEL!
-if !PULL_RESULT! NEQ 0 (
-    echo WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - falling back to merge
-    echo [%time%] WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - trying merge >> "%LOG_FILE%"
-    git rebase --abort 2>nul
-    REM JSONを一時退避してからマージ試行
-    copy /Y "%JSON_FILE%" "%TEMP%\ranking_local_backup.json" > nul
-    if !ERRORLEVEL! NEQ 0 (
-        echo ERROR: Failed to backup JSON before merge - aborting
-        echo [%time%] ERROR: JSON backup failed >> "%LOG_FILE%"
-        exit /b 5
-    )
-    git pull --no-rebase %GIT_REMOTE% %GIT_BRANCH% 2>&1
-    set MERGE_RESULT=!ERRORLEVEL!
-    if !MERGE_RESULT! NEQ 0 (
-        echo WARNING: git pull --merge also failed ^(code !MERGE_RESULT!^) - forcing reset to remote
-        echo [%time%] WARNING: git pull --merge failed ^(code !MERGE_RESULT!^) - attempting hard reset >> "%LOG_FILE%"
-        git merge --abort 2>&1 >> "%LOG_FILE%"
-        git reset --hard %GIT_REMOTE%/%GIT_BRANCH% 2>&1
-        if !ERRORLEVEL! NEQ 0 (
-            echo ERROR: git reset --hard failed - cannot recover
-            echo [%time%] ERROR: git reset --hard failed >> "%LOG_FILE%"
-            del "%TEMP%\ranking_local_backup.json" 2>nul
-            exit /b 5
-        )
-        REM リモートにリセット後、退避したJSONを復元
-        copy /Y "%TEMP%\ranking_local_backup.json" "%JSON_FILE%" > nul
-        if !ERRORLEVEL! NEQ 0 (
-            echo ERROR: Failed to restore JSON backup - data may be lost
-            echo [%time%] ERROR: JSON restore failed >> "%LOG_FILE%"
-            del "%TEMP%\ranking_local_backup.json" 2>nul
-            exit /b 5
-        )
-        echo [%time%] Recovered: restored local JSON after reset to remote >> "%LOG_FILE%"
-    )
-    del "%TEMP%\ranking_local_backup.json" 2>nul
-)
-
-REM Commit and push to GitHub with error handling
-echo.
-echo Committing changes to GitHub...
+echo Committing new data...
 
 git add "%JSON_FILE%"
 if !ERRORLEVEL! NEQ 0 (
@@ -215,6 +173,17 @@ if !COMMIT_RESULT! NEQ 0 (
         echo [%time%] ERROR: git commit failed >> "%LOG_FILE%"
         exit /b 3
     )
+)
+
+REM Pull remote changes and rebase our commit on top (working tree is now clean)
+echo.
+echo Pulling remote changes...
+git pull --rebase %GIT_REMOTE% %GIT_BRANCH% 2>&1
+set PULL_RESULT=!ERRORLEVEL!
+if !PULL_RESULT! NEQ 0 (
+    echo WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - aborting rebase
+    echo [%time%] WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - continuing with push >> "%LOG_FILE%"
+    git rebase --abort 2>nul
 )
 
 REM Execute git push and capture output for error detection
