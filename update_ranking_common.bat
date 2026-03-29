@@ -175,7 +175,12 @@ if !COMMIT_RESULT! NEQ 0 (
     )
 )
 
-REM Pull remote changes and rebase our commit on top (working tree is now clean)
+REM Stash any unstaged changes from concurrent ranking processes before rebase
+REM Root cause: image/video tasks run at the same time; one task's Python output
+REM             appears as unstaged changes when the other task runs git pull --rebase
+git stash 2>&1 >> "%LOG_FILE%"
+
+REM Pull remote changes and rebase our commit on top
 REM -X theirs: in rebase context, "ours"=remote tip, "theirs"=local commit being replayed
 REM            so -X theirs means: on conflict, prefer our Python-generated local data
 echo.
@@ -184,8 +189,16 @@ git pull --rebase -X theirs %GIT_REMOTE% %GIT_BRANCH% >> "%LOG_FILE%" 2>&1
 set PULL_RESULT=!ERRORLEVEL!
 if !PULL_RESULT! NEQ 0 (
     echo WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - aborting rebase
-    echo [%time%] WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - continuing with push >> "%LOG_FILE%"
+    echo [%time%] WARNING: git pull --rebase failed ^(code !PULL_RESULT!^) - aborting rebase >> "%LOG_FILE%"
     git rebase --abort 2>nul
+)
+
+REM Restore stashed changes so concurrent processes can continue their git operations
+git stash pop 2>&1 >> "%LOG_FILE%"
+set STASH_POP_RESULT=!ERRORLEVEL!
+if !STASH_POP_RESULT! NEQ 0 (
+    echo WARNING: git stash pop had conflicts - concurrent task data may need attention
+    echo [%time%] WARNING: git stash pop conflicts ^(code !STASH_POP_RESULT!^) >> "%LOG_FILE%"
 )
 
 REM Execute git push and capture output for error detection
@@ -193,6 +206,8 @@ REM Use RANKING_TYPE in temp name to avoid collisions when multiple scripts run 
 set PUSH_OUTPUT=%TEMP%\git_push_%RANKING_TYPE%_%RANDOM%.tmp
 git push %GIT_REMOTE% %GIT_BRANCH% > "%PUSH_OUTPUT%" 2>&1
 set PUSH_RESULT=!ERRORLEVEL!
+echo [%time%] DEBUG: Push output >> "%LOG_FILE%"
+type "%PUSH_OUTPUT%" >> "%LOG_FILE%"
 
 REM Check for authentication errors in output
 REM Use /c: for exact phrase matching to avoid false positives on "error", "fatal" etc.
@@ -207,7 +222,33 @@ if !ERRORLEVEL! EQU 0 (
     exit /b 4
 )
 
-REM Check push result
+REM If push failed (non-fast-forward due to concurrent push by another task), retry once
+REM Re-stash in case new unstaged changes appeared from other concurrent tasks during pull
+if !PUSH_RESULT! NEQ 0 (
+    echo WARNING: git push failed ^(code !PUSH_RESULT!^) - retrying after pull --rebase
+    echo [%time%] WARNING: git push failed - retrying with pull --rebase >> "%LOG_FILE%"
+    git stash 2>&1 >> "%LOG_FILE%"
+    git pull --rebase -X theirs %GIT_REMOTE% %GIT_BRANCH% >> "%LOG_FILE%" 2>&1
+    if !ERRORLEVEL! NEQ 0 (git rebase --abort 2>nul)
+    git stash pop 2>&1 >> "%LOG_FILE%"
+    git push %GIT_REMOTE% %GIT_BRANCH% > "%PUSH_OUTPUT%" 2>&1
+    set PUSH_RESULT=!ERRORLEVEL!
+    echo [%time%] DEBUG: Retry push output >> "%LOG_FILE%"
+    type "%PUSH_OUTPUT%" >> "%LOG_FILE%"
+    REM Check for authentication errors after retry
+    findstr /i /c:"Authentication failed" /c:"Invalid username or password" /c:"returned error: 401" /c:"returned error: 403" /c:"Permission denied (publickey)" "%PUSH_OUTPUT%" >nul 2>&1
+    if !ERRORLEVEL! EQU 0 (
+        echo ERROR: git push retry failed - Authentication error
+        echo [%time%] ERROR: git push retry failed - Authentication error >> "%LOG_FILE%"
+        echo TIP: Check GITHUB_TOKEN environment variable or credential manager
+        type "%PUSH_OUTPUT%"
+        del "%PUSH_OUTPUT%" 2>nul
+        echo Exit Code: 4 >> "%LOG_FILE%"
+        exit /b 4
+    )
+)
+
+REM Check final push result
 if !PUSH_RESULT! NEQ 0 (
     echo ERROR: git push failed with code !PUSH_RESULT!
     echo [%time%] ERROR: git push failed >> "%LOG_FILE%"
