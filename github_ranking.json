@@ -1,96 +1,136 @@
 {
-  "updated_at": "2026-03-29 03:56:26",
-  "total_repos": 9,
+  "updated_at": "2026-03-29 18:19:55",
+  "total_repos": 13,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "description_ja": "real time face swap and one-click video deepfake with only a single image",
-      "readme_summary": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Disclaim...",
-      "readme_summary_ja": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Disclaim...",
+      "repo_name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "description_ja": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "readme_summary": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\"> <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\"> </picture> ![GitHub Stars](https://github.com/luongnv89/claude-howto/stargazers) ![GitHub Forks](https://github.com/luongnv89/claude-howto/network/members) ![License: MIT](LICENSE) ![Version](CHANGELOG.md) ![Claude Code](https://code.claude.com) Master Claude Code in a Weekend Go from typing claude to orchestrating agent...",
+      "readme_summary_ja": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\"> <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\"> </picture> ![GitHub Stars](https://github.com/luongnv89/claude-howto/stargazers) ![GitHub Forks](https://github.com/luongnv89/claude-howto/network/members) ![License: MIT](LICENSE) ![Version](CHANGELOG.md) ![Claude Code](https://code.claude.com) Master Claude Code in a Weekend Go from typing claude to orchestrating agent...",
       "language": "Python",
-      "stars": 1814
+      "stars": 1121
     },
     {
       "rank": 2,
+      "repo_name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "description_ja": "Teams-first Multi-agent orchestration for Claude Code",
+      "readme_summary": "English | 한국어 | 中文 | 日本語 | Español | Tiếng Việt | Português oh-my-claudecode ![npm version](https://www.npmjs.com/package/oh-my-claude-sisyphus) ![npm downloads](https://www.npmjs.com/package/oh-my-claude-sisyphus) ![GitHub stars](https://github.com/Yeachan-Heo/oh-my-claudecode/stargazers) ![License: MIT](https://opensource.org/licenses/MIT) ![Sponsor](https://github.com/sponsors/Yeachan-Heo) ![Discord](https://discord.gg/qRJw62Gvh7) > **For Codex users:** Check out oh-my-codex — the same orches...",
+      "readme_summary_ja": "English | 한국어 | 中文 | 日本語 | Español | Tiếng Việt | Português oh-my-claudecode ![npm version](https://www.npmjs.com/package/oh-my-claude-sisyphus) ![npm downloads](https://www.npmjs.com/package/oh-my-claude-sisyphus) ![GitHub stars](https://github.com/Yeachan-Heo/oh-my-claudecode/stargazers) ![License: MIT](https://opensource.org/licenses/MIT) ![Sponsor](https://github.com/sponsors/Yeachan-Heo) ![Discord](https://discord.gg/qRJw62Gvh7) > **For Codex users:** Check out oh-my-codex — the same orches...",
+      "language": "TypeScript",
+      "stars": 1140
+    },
+    {
+      "rank": 3,
+      "repo_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "description_ja": "Open-Source Frontier Voice AI",
+      "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![ASR Report](https://arxiv.org/pdf/2601.18184) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) ![microsoft%2FVibeVoice | Trend...",
+      "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![ASR Report](https://arxiv.org/pdf/2601.18184) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) ![microsoft%2FVibeVoice | Trend...",
+      "language": "Python",
+      "stars": 1190
+    },
+    {
+      "rank": 4,
+      "repo_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "description_ja": "The agent that grows with you",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
+      "language": "Python",
+      "stars": 997
+    },
+    {
+      "rank": 5,
+      "repo_name": "OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "description_ja": "Financial data platform for analysts, quants and AI agents.",
+      "readme_summary": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
+      "readme_summary_ja": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
+      "language": "Python",
+      "stars": 113
+    },
+    {
+      "rank": 6,
       "repo_name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "description_ja": "An agentic skills framework & software development methodology that works.",
       "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
       "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
       "language": "Shell",
-      "stars": 2292
+      "stars": 2229
     },
     {
-      "rank": 3,
-      "repo_name": "SakanaAI/AI-Scientist-v2",
-      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "description_ja": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/SakanaAI/AI-Scientist_v2/blob/main/docs/logo_v1.jpg\"> <img src=\"docs/logo_v1.png\" width=\"215\" alt=\"AI Scientist v2 Logo\" /> </a> <h1> <b>The AI Scientist-v2: Workshop-Level Automated</b><br> <b>Scientific Discovery via Agentic Tree Search</b> </h1> </div> <p align=\"center\"> 📚 <a href=\"https://pub.sakana.ai/ai-scientist-v2/paper\">[Paper]</a> | 📝 <a href=\"https://sakana.ai/ai-scientist-first-publication/\"> [Blog Post]</a> | 📂 <a href=\"https://github...",
-      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/SakanaAI/AI-Scientist_v2/blob/main/docs/logo_v1.jpg\"> <img src=\"docs/logo_v1.png\" width=\"215\" alt=\"AI Scientist v2 Logo\" /> </a> <h1> <b>The AI Scientist-v2: Workshop-Level Automated</b><br> <b>Scientific Discovery via Agentic Tree Search</b> </h1> </div> <p align=\"center\"> 📚 <a href=\"https://pub.sakana.ai/ai-scientist-v2/paper\">[Paper]</a> | 📝 <a href=\"https://sakana.ai/ai-scientist-first-publication/\"> [Blog Post]</a> | 📂 <a href=\"https://github...",
-      "language": "Python",
-      "stars": 506
-    },
-    {
-      "rank": 4,
-      "repo_name": "virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
-      "description_ja": "An autonomous agent for deep financial research",
-      "readme_summary": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
-      "readme_summary_ja": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
+      "rank": 7,
+      "repo_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
+      "readme_summary_ja": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
       "language": "TypeScript",
-      "stars": 581
+      "stars": 464
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "repo_name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "description_ja": "real time face swap and one-click video deepfake with only a single image",
+      "readme_summary": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Disclaim...",
+      "readme_summary_ja": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Disclaim...",
+      "language": "Python",
+      "stars": 1131
+    },
+    {
+      "rank": 9,
+      "repo_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_ja": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "readme_summary": "/last30days v2.9.5 Claude Code (recommended) ![ClawHub](https://clawhub.ai/skills/last30days-official) **The AI world reinvents itself every month. This skill keeps you current.** /last30days researches your topic across Reddit, X, Bluesky, YouTube, TikTok, Instagram, Hacker News, Polymarket, and the web from the last 30 days, finds what the community is actually upvoting, sharing, betting on, and saying on camera, and writes you a grounded narrative with real citations. Whether it's Seedance 2....",
+      "readme_summary_ja": "/last30days v2.9.5 Claude Code (recommended) ![ClawHub](https://clawhub.ai/skills/last30days-official) **The AI world reinvents itself every month. This skill keeps you current.** /last30days researches your topic across Reddit, X, Bluesky, YouTube, TikTok, Instagram, Hacker News, Polymarket, and the web from the last 30 days, finds what the community is actually upvoting, sharing, betting on, and saying on camera, and writes you a grounded narrative with real citations. Whether it's Seedance 2....",
+      "language": "Python",
+      "stars": 1186
+    },
+    {
+      "rank": 10,
+      "repo_name": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "description_ja": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "readme_summary": "English | 中文 | 日本語 Learn Claude Code -- Harness Engineering for Real Agents The Model IS the Agent Before we talk about code, let's get one thing absolutely straight. **An agent is a model. Not a framework",
+      "readme_summary_ja": "English | 中文 | 日本語 Learn Claude Code -- Harness Engineering for Real Agents The Model IS the Agent Before we talk about code, let's get one thing absolutely straight. **An agent is a model. Not a framework",
+      "language": "TypeScript",
+      "stars": 908
+    },
+    {
+      "rank": 11,
+      "repo_name": "fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "description_ja": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "readme_summary": "Fastfetch ![GitHub Workflow Status (with event)](https://github.com/fastfetch-cli/fastfetch/actions) ![GitHub license](https://github.com/fastfetch-cli/fastfetch/blob/dev/LICENSE) ![GitHub contributors](https://github.com/fastfetch-cli/fastfetch/graphs/contributors) ![GitHub top language](https://github.com/fastfetch-cli/fastfetch/blob/dev/CMakeLists.txt#L5) ![GitHub commit activity (branch)](https://github.com/fastfetch-cli/fastfetch/commits) ![homebrew downloads](https://formulae.brew.sh/formu...",
+      "readme_summary_ja": "Fastfetch ![GitHub Workflow Status (with event)](https://github.com/fastfetch-cli/fastfetch/actions) ![GitHub license](https://github.com/fastfetch-cli/fastfetch/blob/dev/LICENSE) ![GitHub contributors](https://github.com/fastfetch-cli/fastfetch/graphs/contributors) ![GitHub top language](https://github.com/fastfetch-cli/fastfetch/blob/dev/CMakeLists.txt#L5) ![GitHub commit activity (branch)](https://github.com/fastfetch-cli/fastfetch/commits) ![homebrew downloads](https://formulae.brew.sh/formu...",
+      "language": "C",
+      "stars": 28
+    },
+    {
+      "rank": 12,
+      "repo_name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description_ja": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "readme_summary": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
+      "readme_summary_ja": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
+      "language": "TypeScript",
+      "stars": 213
+    },
+    {
+      "rank": 13,
       "repo_name": "twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "description_ja": "Building a modern alternative to Salesforce, powered by the community.",
       "readme_summary": "<p align=\"center\"> <a href=\"https://www.twenty.com\"> <img src=\"./packages/twenty-website/public/images/core/logo.svg\" width=\"100px\" alt=\"Twenty logo\" /> </a> </p> <h2 align=\"center\" >The #1 Open-Source CRM </h2> <p align=\"center\"><a href=\"https://twenty.com\">🌐 Website</a> · <a href=\"https://docs.twenty.com\">📚 Documentation</a> · <a href=\"https://github.com/orgs/twentyhq/projects/1\"><img src=\"./packages/twenty-website/public/images/readme/planner-icon.svg\" width=\"12\" height=\"12\"/> Roadmap </a> · ...",
       "readme_summary_ja": "<p align=\"center\"> <a href=\"https://www.twenty.com\"> <img src=\"./packages/twenty-website/public/images/core/logo.svg\" width=\"100px\" alt=\"Twenty logo\" /> </a> </p> <h2 align=\"center\" >The #1 Open-Source CRM </h2> <p align=\"center\"><a href=\"https://twenty.com\">🌐 Website</a> · <a href=\"https://docs.twenty.com\">📚 Documentation</a> · <a href=\"https://github.com/orgs/twentyhq/projects/1\"><img src=\"./packages/twenty-website/public/images/readme/planner-icon.svg\" width=\"12\" height=\"12\"/> Roadmap </a> · ...",
       "language": "TypeScript",
-      "stars": 563
-    },
-    {
-      "rank": 6,
-      "repo_name": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "description_ja": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "readme_summary": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\">Open Source AI Platform</p> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https:...",
-      "readme_summary_ja": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\">Open Source AI Platform</p> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https:...",
-      "language": "Python",
-      "stars": 880
-    },
-    {
-      "rank": 7,
-      "repo_name": "datalab-to/chandra",
-      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-      "description_ja": "OCR model that handles complex tables, forms, handwriting with full layout.",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/datalab-logo.png\" alt=\"Datalab Logo\" width=\"150\"/> </p> <h1 align=\"center\">Datalab</h1> <p align=\"center\"> <strong>State of the Art models for Document Intelligence</strong> </p> <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"><img src=\"https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg\" alt=\"Code License\"></a> <a href=\"https://www.datalab.to/pricing\"><img src=\"https://img.shields.io/badge/Model%20License-OpenRAIL--M-blue....",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/datalab-logo.png\" alt=\"Datalab Logo\" width=\"150\"/> </p> <h1 align=\"center\">Datalab</h1> <p align=\"center\"> <strong>State of the Art models for Document Intelligence</strong> </p> <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"><img src=\"https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg\" alt=\"Code License\"></a> <a href=\"https://www.datalab.to/pricing\"><img src=\"https://img.shields.io/badge/Model%20License-OpenRAIL--M-blue....",
-      "language": "Python",
-      "stars": 687
-    },
-    {
-      "rank": 8,
-      "repo_name": "agentscope-ai/agentscope",
-      "description": "Build and run agents you can see, understand and trust.",
-      "description_ja": "Build and run agents you can see, understand and trust.",
-      "readme_summary": "<p align=\"center\"> <img src=\"https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg\" alt=\"AgentScope Logo\" width=\"200\" /> </p> <span align=\"center\"> **中文主页** | **Tutorial** | **Roadmap (Jan 2026 -)** | **FAQ** </span> <p align=\"center\"> <a href=\"https://arxiv.org/abs/2402.14034\"> <img src=\"https://img.shields.io/badge/cs.MA-2402.14034-B31C1C?logo=arxiv&logoColor=B31C1C\" alt=\"arxiv\" /> </a> <a href=\"https://pypi.org/project/agentscope/\"> <img src=\"https://im...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg\" alt=\"AgentScope Logo\" width=\"200\" /> </p> <span align=\"center\"> **中文主页** | **Tutorial** | **Roadmap (Jan 2026 -)** | **FAQ** </span> <p align=\"center\"> <a href=\"https://arxiv.org/abs/2402.14034\"> <img src=\"https://img.shields.io/badge/cs.MA-2402.14034-B31C1C?logo=arxiv&logoColor=B31C1C\" alt=\"arxiv\" /> </a> <a href=\"https://pypi.org/project/agentscope/\"> <img src=\"https://im...",
-      "language": "Python",
-      "stars": 398
-    },
-    {
-      "rank": 9,
-      "repo_name": "apache/superset",
-      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-      "description_ja": "Apache Superset is a Data Visualization and Data Exploration Platform",
-      "readme_summary": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
-      "readme_summary_ja": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
-      "language": "TypeScript",
-      "stars": 31
+      "stars": 451
     }
   ]
 }
