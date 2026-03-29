@@ -33,6 +33,12 @@ output/*.html
 .DS_Store
 Thumbs.db
 
+# Tool-generated analysis files (not part of project output)
+.letta/
+DEPENDENCY_ANALYSIS_REPORT.md
+i18n_analysis_report.md
+null
+
 # Logs
 *.log
 logs/
