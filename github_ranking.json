@@ -1,0 +1,96 @@
+{
+  "updated_at": "2026-03-29 03:56:26",
+  "total_repos": 9,
+  "ranking": [
+    {
+      "rank": 1,
+      "repo_name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "description_ja": "real time face swap and one-click video deepfake with only a single image",
+      "readme_summary": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Disclaim...",
+      "readme_summary_ja": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Disclaim...",
+      "language": "Python",
+      "stars": 1814
+    },
+    {
+      "rank": 2,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 2292
+    },
+    {
+      "rank": 3,
+      "repo_name": "SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "description_ja": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "readme_summary": "<div align=\"center\"> <a href=\"https://github.com/SakanaAI/AI-Scientist_v2/blob/main/docs/logo_v1.jpg\"> <img src=\"docs/logo_v1.png\" width=\"215\" alt=\"AI Scientist v2 Logo\" /> </a> <h1> <b>The AI Scientist-v2: Workshop-Level Automated</b><br> <b>Scientific Discovery via Agentic Tree Search</b> </h1> </div> <p align=\"center\"> 📚 <a href=\"https://pub.sakana.ai/ai-scientist-v2/paper\">[Paper]</a> | 📝 <a href=\"https://sakana.ai/ai-scientist-first-publication/\"> [Blog Post]</a> | 📂 <a href=\"https://github...",
+      "readme_summary_ja": "<div align=\"center\"> <a href=\"https://github.com/SakanaAI/AI-Scientist_v2/blob/main/docs/logo_v1.jpg\"> <img src=\"docs/logo_v1.png\" width=\"215\" alt=\"AI Scientist v2 Logo\" /> </a> <h1> <b>The AI Scientist-v2: Workshop-Level Automated</b><br> <b>Scientific Discovery via Agentic Tree Search</b> </h1> </div> <p align=\"center\"> 📚 <a href=\"https://pub.sakana.ai/ai-scientist-v2/paper\">[Paper]</a> | 📝 <a href=\"https://sakana.ai/ai-scientist-first-publication/\"> [Blog Post]</a> | 📂 <a href=\"https://github...",
+      "language": "Python",
+      "stars": 506
+    },
+    {
+      "rank": 4,
+      "repo_name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "description_ja": "An autonomous agent for deep financial research",
+      "readme_summary": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
+      "readme_summary_ja": "Dexter 🤖 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research",
+      "language": "TypeScript",
+      "stars": 581
+    },
+    {
+      "rank": 5,
+      "repo_name": "twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "description_ja": "Building a modern alternative to Salesforce, powered by the community.",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://www.twenty.com\"> <img src=\"./packages/twenty-website/public/images/core/logo.svg\" width=\"100px\" alt=\"Twenty logo\" /> </a> </p> <h2 align=\"center\" >The #1 Open-Source CRM </h2> <p align=\"center\"><a href=\"https://twenty.com\">🌐 Website</a> · <a href=\"https://docs.twenty.com\">📚 Documentation</a> · <a href=\"https://github.com/orgs/twentyhq/projects/1\"><img src=\"./packages/twenty-website/public/images/readme/planner-icon.svg\" width=\"12\" height=\"12\"/> Roadmap </a> · ...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://www.twenty.com\"> <img src=\"./packages/twenty-website/public/images/core/logo.svg\" width=\"100px\" alt=\"Twenty logo\" /> </a> </p> <h2 align=\"center\" >The #1 Open-Source CRM </h2> <p align=\"center\"><a href=\"https://twenty.com\">🌐 Website</a> · <a href=\"https://docs.twenty.com\">📚 Documentation</a> · <a href=\"https://github.com/orgs/twentyhq/projects/1\"><img src=\"./packages/twenty-website/public/images/readme/planner-icon.svg\" width=\"12\" height=\"12\"/> Roadmap </a> · ...",
+      "language": "TypeScript",
+      "stars": 563
+    },
+    {
+      "rank": 6,
+      "repo_name": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "description_ja": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "readme_summary": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\">Open Source AI Platform</p> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https:...",
+      "readme_summary_ja": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\">Open Source AI Platform</p> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https:...",
+      "language": "Python",
+      "stars": 880
+    },
+    {
+      "rank": 7,
+      "repo_name": "datalab-to/chandra",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+      "description_ja": "OCR model that handles complex tables, forms, handwriting with full layout.",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/datalab-logo.png\" alt=\"Datalab Logo\" width=\"150\"/> </p> <h1 align=\"center\">Datalab</h1> <p align=\"center\"> <strong>State of the Art models for Document Intelligence</strong> </p> <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"><img src=\"https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg\" alt=\"Code License\"></a> <a href=\"https://www.datalab.to/pricing\"><img src=\"https://img.shields.io/badge/Model%20License-OpenRAIL--M-blue....",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/datalab-logo.png\" alt=\"Datalab Logo\" width=\"150\"/> </p> <h1 align=\"center\">Datalab</h1> <p align=\"center\"> <strong>State of the Art models for Document Intelligence</strong> </p> <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\"><img src=\"https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg\" alt=\"Code License\"></a> <a href=\"https://www.datalab.to/pricing\"><img src=\"https://img.shields.io/badge/Model%20License-OpenRAIL--M-blue....",
+      "language": "Python",
+      "stars": 687
+    },
+    {
+      "rank": 8,
+      "repo_name": "agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "description_ja": "Build and run agents you can see, understand and trust.",
+      "readme_summary": "<p align=\"center\"> <img src=\"https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg\" alt=\"AgentScope Logo\" width=\"200\" /> </p> <span align=\"center\"> **中文主页** | **Tutorial** | **Roadmap (Jan 2026 -)** | **FAQ** </span> <p align=\"center\"> <a href=\"https://arxiv.org/abs/2402.14034\"> <img src=\"https://img.shields.io/badge/cs.MA-2402.14034-B31C1C?logo=arxiv&logoColor=B31C1C\" alt=\"arxiv\" /> </a> <a href=\"https://pypi.org/project/agentscope/\"> <img src=\"https://im...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg\" alt=\"AgentScope Logo\" width=\"200\" /> </p> <span align=\"center\"> **中文主页** | **Tutorial** | **Roadmap (Jan 2026 -)** | **FAQ** </span> <p align=\"center\"> <a href=\"https://arxiv.org/abs/2402.14034\"> <img src=\"https://img.shields.io/badge/cs.MA-2402.14034-B31C1C?logo=arxiv&logoColor=B31C1C\" alt=\"arxiv\" /> </a> <a href=\"https://pypi.org/project/agentscope/\"> <img src=\"https://im...",
+      "language": "Python",
+      "stars": 398
+    },
+    {
+      "rank": 9,
+      "repo_name": "apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "description_ja": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "readme_summary": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
+      "readme_summary_ja": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
+      "language": "TypeScript",
+      "stars": 31
+    }
+  ]
+}
