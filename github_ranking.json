@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30 04:10:04",
+  "updated_at": "2026-03-30 10:36:35",
   "total_repos": 12,
   "ranking": [
     {
@@ -7,8 +7,8 @@
       "repo_name": "luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "description_ja": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "readme_summary": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\"> <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\"> </picture> ![GitHub Stars](https://github.com/luongnv89/claude-howto/stargazers) ![GitHub Forks](https://github.com/luongnv89/claude-howto/network/members) ![License: MIT](LICENSE) ![Version](CHANGELOG.md) ![Claude Code](https://code.claude.com) Master Claude Code in a Weekend Go from typing claude to orchestrating agent...",
-      "readme_summary_ja": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\"> <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\"> </picture> ![GitHub Stars](https://github.com/luongnv89/claude-howto/stargazers) ![GitHub Forks](https://github.com/luongnv89/claude-howto/network/members) ![License: MIT](LICENSE) ![Version](CHANGELOG.md) ![Claude Code](https://code.claude.com) Master Claude Code in a Weekend Go from typing claude to orchestrating agent...",
+      "readme_summary": null,
+      "readme_summary_ja": null,
       "language": "Python",
       "stars": 1165
     },
@@ -57,8 +57,8 @@
       "repo_name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
-      "readme_summary_ja": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
+      "readme_summary": null,
+      "readme_summary_ja": null,
       "language": "TypeScript",
       "stars": 373
     },
