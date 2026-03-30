@@ -1,126 +1,106 @@
 {
-  "updated_at": "2026-03-30 10:36:35",
-  "total_repos": 12,
+  "updated_at": "2026-03-30 23:29:18",
+  "total_repos": 10,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "description_ja": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "Python",
-      "stars": 1165
-    },
-    {
-      "rank": 2,
       "repo_name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "description_ja": "Open-Source Frontier Voice AI",
       "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![ASR Report](https://arxiv.org/pdf/2601.18184) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) ![microsoft%2FVibeVoice | Trend...",
       "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![ASR Report](https://arxiv.org/pdf/2601.18184) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) ![microsoft%2FVibeVoice | Trend...",
       "language": "Python",
-      "stars": 1056
+      "stars": 2509
+    },
+    {
+      "rank": 2,
+      "repo_name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "description_ja": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "readme_summary": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\"> <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\"> </picture> ![GitHub Stars](https://github.com/luongnv89/claude-howto/stargazers) ![GitHub Forks](https://github.com/luongnv89/claude-howto/network/members) ![License: MIT](LICENSE) ![Version](CHANGELOG.md) ![Claude Code](https://code.claude.com) Master Claude Code in a Weekend Go from typing claude to orchestrating agent...",
+      "readme_summary_ja": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\"> <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\"> </picture> ![GitHub Stars](https://github.com/luongnv89/claude-howto/stargazers) ![GitHub Forks](https://github.com/luongnv89/claude-howto/network/members) ![License: MIT](LICENSE) ![Version](CHANGELOG.md) ![Claude Code](https://code.claude.com) Master Claude Code in a Weekend Go from typing claude to orchestrating agent...",
+      "language": "Python",
+      "stars": 4150
     },
     {
       "rank": 3,
-      "repo_name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "description_ja": "The agent that grows with you",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
-      "language": "Python",
-      "stars": 917
+      "repo_name": "shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "description_ja": "practice made claude perfect",
+      "readme_summary": "claude-code-best-practice practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orchestration-workflow/orchestration-workflow.m...",
+      "readme_summary_ja": "claude-code-best-practice practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orchestration-workflow/orchestration-workflow.m...",
+      "language": "HTML",
+      "stars": 1342
     },
     {
       "rank": 4,
-      "repo_name": "OpenBB-finance/OpenBB",
-      "description": "Financial data platform for analysts, quants and AI agents.",
-      "description_ja": "Financial data platform for analysts, quants and AI agents.",
-      "readme_summary": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
-      "readme_summary_ja": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
-      "language": "Python",
-      "stars": 137
-    },
-    {
-      "rank": 5,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 2230
-    },
-    {
-      "rank": 6,
-      "repo_name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "readme_summary": null,
-      "readme_summary_ja": null,
-      "language": "TypeScript",
-      "stars": 373
-    },
-    {
-      "rank": 7,
       "repo_name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "description_ja": "real time face swap and one-click video deepfake with only a single image",
       "readme_summary": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Disclaim...",
       "readme_summary_ja": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Disclaim...",
       "language": "Python",
-      "stars": 1132
+      "stars": 1138
+    },
+    {
+      "rank": 5,
+      "repo_name": "OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "description_ja": "Financial data platform for analysts, quants and AI agents.",
+      "readme_summary": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
+      "readme_summary_ja": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
+      "language": "Python",
+      "stars": 499
+    },
+    {
+      "rank": 6,
+      "repo_name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "description_ja": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "readme_summary": "![freeCodeCamp Social Banner](https://www.freecodecamp.org/) ![first-timers-only Friendly](https://www.firsttimersonly.com/) ![Discord](https://discord.gg/PRyKn3Vbay) ![LFX Active Contributors](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp) freeCodeCamp.org's open-source codebase and curriculum freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy ad...",
+      "readme_summary_ja": "![freeCodeCamp Social Banner](https://www.freecodecamp.org/) ![first-timers-only Friendly](https://www.firsttimersonly.com/) ![Discord](https://discord.gg/PRyKn3Vbay) ![LFX Active Contributors](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp) freeCodeCamp.org's open-source codebase and curriculum freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy ad...",
+      "language": "TypeScript",
+      "stars": 376
+    },
+    {
+      "rank": 7,
+      "repo_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "description_ja": "Hunt down social media accounts by username across social networks",
+      "readme_summary": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
+      "readme_summary_ja": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
+      "language": "Python",
+      "stars": 68
     },
     {
       "rank": 8,
-      "repo_name": "mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "description_ja": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "readme_summary": "/last30days v2.9.5 Claude Code (recommended) ![ClawHub](https://clawhub.ai/skills/last30days-official) **The AI world reinvents itself every month. This skill keeps you current.** /last30days researches your topic across Reddit, X, YouTube, and other sources from the last 30 days, finds what the community is actually upvoting, sharing, betting on, and saying on camera, and writes you a grounded narrative with real citations. Whether it's Seedance 2.0 access, paper.design prompts, or the latest N...",
-      "readme_summary_ja": "/last30days v2.9.5 Claude Code (recommended) ![ClawHub](https://clawhub.ai/skills/last30days-official) **The AI world reinvents itself every month. This skill keeps you current.** /last30days researches your topic across Reddit, X, YouTube, and other sources from the last 30 days, finds what the community is actually upvoting, sharing, betting on, and saying on camera, and writes you a grounded narrative with real citations. Whether it's Seedance 2.0 access, paper.design prompts, or the latest N...",
-      "language": "Python",
-      "stars": 1308
+      "repo_name": "apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "description_ja": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "readme_summary": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
+      "readme_summary_ja": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
+      "language": "TypeScript",
+      "stars": 63
     },
     {
       "rank": 9,
-      "repo_name": "shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "description_ja": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "readme_summary": "English | 中文 | 日本語 Learn Claude Code -- Harness Engineering for Real Agents The Model IS the Agent Before we talk about code, let's get one thing absolutely straight. **An agent is a model. Not a framework",
-      "readme_summary_ja": "English | 中文 | 日本語 Learn Claude Code -- Harness Engineering for Real Agents The Model IS the Agent Before we talk about code, let's get one thing absolutely straight. **An agent is a model. Not a framework",
-      "language": "TypeScript",
-      "stars": 919
-    },
-    {
-      "rank": 10,
       "repo_name": "fastfetch-cli/fastfetch",
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "description_ja": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "readme_summary": "Fastfetch ![GitHub Workflow Status (with event)](https://github.com/fastfetch-cli/fastfetch/actions) ![GitHub license](https://github.com/fastfetch-cli/fastfetch/blob/dev/LICENSE) ![GitHub contributors](https://github.com/fastfetch-cli/fastfetch/graphs/contributors) ![GitHub top language](https://github.com/fastfetch-cli/fastfetch/blob/dev/CMakeLists.txt#L5) ![GitHub commit activity (branch)](https://github.com/fastfetch-cli/fastfetch/commits) ![homebrew downloads](https://formulae.brew.sh/formu...",
       "readme_summary_ja": "Fastfetch ![GitHub Workflow Status (with event)](https://github.com/fastfetch-cli/fastfetch/actions) ![GitHub license](https://github.com/fastfetch-cli/fastfetch/blob/dev/LICENSE) ![GitHub contributors](https://github.com/fastfetch-cli/fastfetch/graphs/contributors) ![GitHub top language](https://github.com/fastfetch-cli/fastfetch/blob/dev/CMakeLists.txt#L5) ![GitHub commit activity (branch)](https://github.com/fastfetch-cli/fastfetch/commits) ![homebrew downloads](https://formulae.brew.sh/formu...",
       "language": "C",
-      "stars": 37
+      "stars": 271
     },
     {
-      "rank": 11,
-      "repo_name": "moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "description_ja": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "readme_summary": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
-      "readme_summary_ja": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character...",
-      "language": "TypeScript",
-      "stars": 224
-    },
-    {
-      "rank": 12,
-      "repo_name": "twentyhq/twenty",
-      "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "description_ja": "Building a modern alternative to Salesforce, powered by the community.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://www.twenty.com\"> <img src=\"./packages/twenty-website/public/images/core/logo.svg\" width=\"100px\" alt=\"Twenty logo\" /> </a> </p> <h2 align=\"center\" >The #1 Open-Source CRM </h2> <p align=\"center\"><a href=\"https://twenty.com\">🌐 Website</a> · <a href=\"https://docs.twenty.com\">📚 Documentation</a> · <a href=\"https://github.com/orgs/twentyhq/projects/1\"><img src=\"./packages/twenty-website/public/images/readme/planner-icon.svg\" width=\"12\" height=\"12\"/> Roadmap </a> · ...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://www.twenty.com\"> <img src=\"./packages/twenty-website/public/images/core/logo.svg\" width=\"100px\" alt=\"Twenty logo\" /> </a> </p> <h2 align=\"center\" >The #1 Open-Source CRM </h2> <p align=\"center\"><a href=\"https://twenty.com\">🌐 Website</a> · <a href=\"https://docs.twenty.com\">📚 Documentation</a> · <a href=\"https://github.com/orgs/twentyhq/projects/1\"><img src=\"./packages/twenty-website/public/images/readme/planner-icon.svg\" width=\"12\" height=\"12\"/> Roadmap </a> · ...",
-      "language": "TypeScript",
-      "stars": 447
+      "rank": 10,
+      "repo_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "description_ja": "The agent that grows with you",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
+      "language": "Python",
+      "stars": 1859
     }
   ]
 }
