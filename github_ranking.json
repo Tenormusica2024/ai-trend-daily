@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30 23:29:18",
+  "updated_at": "2026-03-31 09:00:31",
   "total_repos": 10,
   "ranking": [
     {
@@ -10,7 +10,7 @@
       "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![ASR Report](https://arxiv.org/pdf/2601.18184) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) ![microsoft%2FVibeVoice | Trend...",
       "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://arxiv.org/pdf/2508.19205) ![ASR Report](https://arxiv.org/pdf/2601.18184) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) ![microsoft%2FVibeVoice | Trend...",
       "language": "Python",
-      "stars": 2509
+      "stars": 2492
     },
     {
       "rank": 2,
@@ -20,7 +20,7 @@
       "readme_summary": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\"> <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\"> </picture> ![GitHub Stars](https://github.com/luongnv89/claude-howto/stargazers) ![GitHub Forks](https://github.com/luongnv89/claude-howto/network/members) ![License: MIT](LICENSE) ![Version](CHANGELOG.md) ![Claude Code](https://code.claude.com) Master Claude Code in a Weekend Go from typing claude to orchestrating agent...",
       "readme_summary_ja": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\"> <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\"> </picture> ![GitHub Stars](https://github.com/luongnv89/claude-howto/stargazers) ![GitHub Forks](https://github.com/luongnv89/claude-howto/network/members) ![License: MIT](LICENSE) ![Version](CHANGELOG.md) ![Claude Code](https://code.claude.com) Master Claude Code in a Weekend Go from typing claude to orchestrating agent...",
       "language": "Python",
-      "stars": 4150
+      "stars": 4232
     },
     {
       "rank": 3,
@@ -30,7 +30,7 @@
       "readme_summary": "claude-code-best-practice practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orchestration-workflow/orchestration-workflow.m...",
       "readme_summary_ja": "claude-code-best-practice practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orchestration-workflow/orchestration-workflow.m...",
       "language": "HTML",
-      "stars": 1342
+      "stars": 1108
     },
     {
       "rank": 4,
@@ -40,7 +40,7 @@
       "readme_summary": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Disclaim...",
       "readme_summary_ja": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Disclaim...",
       "language": "Python",
-      "stars": 1138
+      "stars": 1136
     },
     {
       "rank": 5,
@@ -50,7 +50,7 @@
       "readme_summary": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
       "readme_summary_ja": "<br /> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-light.svg?raw=true#gh-light-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <img src=\"https://github.com/OpenBB-finance/OpenBB/blob/develop/images/odp-dark.svg?raw=true#gh-dark-mode-only\" alt=\"Open Data Platform by OpenBB logo\" width=\"600\"> <br /> <br /> ![Twitter](https://x.com/openbb_finance) ![Discord Shield](https://discord.com/invite/xPHTuHCmuV) ![Open in Dev Containers](https://vscode.dev/redi...",
       "language": "Python",
-      "stars": 499
+      "stars": 502
     },
     {
       "rank": 6,
@@ -60,7 +60,7 @@
       "readme_summary": "![freeCodeCamp Social Banner](https://www.freecodecamp.org/) ![first-timers-only Friendly](https://www.firsttimersonly.com/) ![Discord](https://discord.gg/PRyKn3Vbay) ![LFX Active Contributors](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp) freeCodeCamp.org's open-source codebase and curriculum freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy ad...",
       "readme_summary_ja": "![freeCodeCamp Social Banner](https://www.freecodecamp.org/) ![first-timers-only Friendly](https://www.firsttimersonly.com/) ![Discord](https://discord.gg/PRyKn3Vbay) ![LFX Active Contributors](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp) freeCodeCamp.org's open-source codebase and curriculum freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy ad...",
       "language": "TypeScript",
-      "stars": 376
+      "stars": 368
     },
     {
       "rank": 7,
@@ -70,7 +70,7 @@
       "readme_summary": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
       "readme_summary_ja": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
       "language": "Python",
-      "stars": 68
+      "stars": 76
     },
     {
       "rank": 8,
@@ -80,7 +80,7 @@
       "readme_summary": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
       "readme_summary_ja": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License",
       "language": "TypeScript",
-      "stars": 63
+      "stars": 49
     },
     {
       "rank": 9,
@@ -90,7 +90,7 @@
       "readme_summary": "Fastfetch ![GitHub Workflow Status (with event)](https://github.com/fastfetch-cli/fastfetch/actions) ![GitHub license](https://github.com/fastfetch-cli/fastfetch/blob/dev/LICENSE) ![GitHub contributors](https://github.com/fastfetch-cli/fastfetch/graphs/contributors) ![GitHub top language](https://github.com/fastfetch-cli/fastfetch/blob/dev/CMakeLists.txt#L5) ![GitHub commit activity (branch)](https://github.com/fastfetch-cli/fastfetch/commits) ![homebrew downloads](https://formulae.brew.sh/formu...",
       "readme_summary_ja": "Fastfetch ![GitHub Workflow Status (with event)](https://github.com/fastfetch-cli/fastfetch/actions) ![GitHub license](https://github.com/fastfetch-cli/fastfetch/blob/dev/LICENSE) ![GitHub contributors](https://github.com/fastfetch-cli/fastfetch/graphs/contributors) ![GitHub top language](https://github.com/fastfetch-cli/fastfetch/blob/dev/CMakeLists.txt#L5) ![GitHub commit activity (branch)](https://github.com/fastfetch-cli/fastfetch/commits) ![homebrew downloads](https://formulae.brew.sh/formu...",
       "language": "C",
-      "stars": 271
+      "stars": 276
     },
     {
       "rank": 10,
@@ -100,7 +100,7 @@
       "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "language": "Python",
-      "stars": 1859
+      "stars": 1851
     }
   ]
 }
