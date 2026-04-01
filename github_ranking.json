@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31 18:05:57",
+  "updated_at": "2026-04-01 09:00:41",
   "total_repos": 14,
   "ranking": [
     {
@@ -20,7 +20,7 @@
       "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://openreview.net/pdf?id=FihSkzyxdv) ![ASR Report](https://arxiv.org/pdf/2601.18184) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) ![microsoft%2FVibeVoice...",
       "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://openreview.net/pdf?id=FihSkzyxdv) ![ASR Report](https://arxiv.org/pdf/2601.18184) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) ![microsoft%2FVibeVoice...",
       "language": "Python",
-      "stars": 3862
+      "stars": 3863
     },
     {
       "rank": 3,
@@ -30,7 +30,7 @@
       "readme_summary": "English | 한국어 | 中文 | 日本語 | Español | Tiếng Việt | Português oh-my-claudecode ![npm version](https://www.npmjs.com/package/oh-my-claude-sisyphus) ![npm downloads](https://www.npmjs.com/package/oh-my-claude-sisyphus) ![GitHub stars](https://github.com/Yeachan-Heo/oh-my-claudecode/stargazers) ![License: MIT](https://opensource.org/licenses/MIT) ![Sponsor](https://github.com/sponsors/Yeachan-Heo) ![Discord](https://discord.gg/PUwSMR9XNk) > **For Codex users:** Check out oh-my-codex — the same orches...",
       "readme_summary_ja": "English | 한국어 | 中文 | 日本語 | Español | Tiếng Việt | Português oh-my-claudecode ![npm version](https://www.npmjs.com/package/oh-my-claude-sisyphus) ![npm downloads](https://www.npmjs.com/package/oh-my-claude-sisyphus) ![GitHub stars](https://github.com/Yeachan-Heo/oh-my-claudecode/stargazers) ![License: MIT](https://opensource.org/licenses/MIT) ![Sponsor](https://github.com/sponsors/Yeachan-Heo) ![Discord](https://discord.gg/PUwSMR9XNk) > **For Codex users:** Check out oh-my-codex — the same orches...",
       "language": "TypeScript",
-      "stars": 1127
+      "stars": 1126
     },
     {
       "rank": 4,
@@ -40,7 +40,7 @@
       "readme_summary": "claude-code-best-practice practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orchestration-workflow/orchestration-workflow.m...",
       "readme_summary_ja": "claude-code-best-practice practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orchestration-workflow/orchestration-workflow.m...",
       "language": "HTML",
-      "stars": 2408
+      "stars": 2407
     },
     {
       "rank": 5,
@@ -50,7 +50,7 @@
       "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "language": "Python",
-      "stars": 1909
+      "stars": 1907
     },
     {
       "rank": 6,
@@ -60,7 +60,7 @@
       "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
       "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
       "language": "Shell",
-      "stars": 2623
+      "stars": 2620
     },
     {
       "rank": 7,
@@ -70,7 +70,7 @@
       "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.svg\" alt=\"Agent-lightning-banner\" style=\"width:600px\"/> </p> Agent Lightning⚡ ![Unit Tests](https://github.com/microsoft/agent-lightning/actions/workflows/badge-unit.yml) ![Documentation](https://microsoft.github.io/agent-lightning/) ![PyPI version](https://badge.fury.io/py/agentlightning) ![License](LICENSE) ![Ask DeepWiki](https://deepwiki.com/microsoft/agent-lightning) ![Discord](https://discord.gg/RYk7CdvDR7) **The absolute trainer to li...",
       "language": "Python",
-      "stars": 160
+      "stars": 130
     },
     {
       "rank": 8,
@@ -80,7 +80,7 @@
       "readme_summary": "<div align=\"center\"> <p> <img width=\"800\" src=\"https://raw.githubusercontent.com/cuicheng01/PaddleX_doc_images/main/images/paddleocr/README/Banner.png\" alt=\"Star-history\"> </p> <h3>Global Leading OCR Toolkit & Document AI Engine</h3> English | 简体中文 | 繁體中文 | 日本語 | 한국어 | Français | Русский | Español | العربية <!-- icon --> ![PyPI Downloads](https://pepy.tech/projects/paddleocr) ![Used by](https://github.com/PaddlePaddle/PaddleOCR/network/dependents) !python !os !hardware ![AI Studio](https://www.p...",
       "readme_summary_ja": "<div align=\"center\"> <p> <img width=\"800\" src=\"https://raw.githubusercontent.com/cuicheng01/PaddleX_doc_images/main/images/paddleocr/README/Banner.png\" alt=\"Star-history\"> </p> <h3>Global Leading OCR Toolkit & Document AI Engine</h3> English | 简体中文 | 繁體中文 | 日本語 | 한국어 | Français | Русский | Español | العربية <!-- icon --> ![PyPI Downloads](https://pepy.tech/projects/paddleocr) ![Used by](https://github.com/PaddlePaddle/PaddleOCR/network/dependents) !python !os !hardware ![AI Studio](https://www.p...",
       "language": "Python",
-      "stars": 440
+      "stars": 439
     },
     {
       "rank": 9,
@@ -90,7 +90,7 @@
       "readme_summary": "![GitHub Pages](https://dimillian.github.io/Skills/) Skills Public A collection of reusable development skills for Apple platforms, GitHub workflows, refactoring, diff review swarms, bug investigation swarms, code review, React performance work, and skill curation. Overview This repository contains focused, self-contained skills that help with recurring engineering tasks such as generating App Store release notes, debugging iOS apps, improving SwiftUI and React code, packaging macOS apps, runnin...",
       "readme_summary_ja": "![GitHub Pages](https://dimillian.github.io/Skills/) Skills Public A collection of reusable development skills for Apple platforms, GitHub workflows, refactoring, diff review swarms, bug investigation swarms, code review, React performance work, and skill curation. Overview This repository contains focused, self-contained skills that help with recurring engineering tasks such as generating App Store release notes, debugging iOS apps, improving SwiftUI and React code, packaging macOS apps, runnin...",
       "language": "Shell",
-      "stars": 173
+      "stars": 115
     },
     {
       "rank": 10,
@@ -100,7 +100,7 @@
       "readme_summary": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
       "readme_summary_ja": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
       "language": "Python",
-      "stars": 862
+      "stars": 865
     },
     {
       "rank": 11,
@@ -110,7 +110,7 @@
       "readme_summary": "<h1 align=\"center\"> <img src=\"https://raw.githubusercontent.com/neovim/neovim.github.io/master/static/logos/neovim-logo-300x87.png\" alt=\"Neovim\"> <a href=\"https://neovim.io/doc/\">Documentation</a> | <a href=\"https://app.element.io/#/room/#neovim:matrix.org\">Chat</a> </h1> ![Coverity Scan analysis](https://scan.coverity.com/projects/2227) ![Packages](https://repology.org/metapackage/neovim) ![Debian CI](https://buildd.debian.org/neovim) ![Downloads](https://github.com/neovim/neovim/releases/) Neo...",
       "readme_summary_ja": "<h1 align=\"center\"> <img src=\"https://raw.githubusercontent.com/neovim/neovim.github.io/master/static/logos/neovim-logo-300x87.png\" alt=\"Neovim\"> <a href=\"https://neovim.io/doc/\">Documentation</a> | <a href=\"https://app.element.io/#/room/#neovim:matrix.org\">Chat</a> </h1> ![Coverity Scan analysis](https://scan.coverity.com/projects/2227) ![Packages](https://repology.org/metapackage/neovim) ![Debian CI](https://buildd.debian.org/neovim) ![Downloads](https://github.com/neovim/neovim/releases/) Neo...",
       "language": "Vim Script",
-      "stars": 95
+      "stars": 93
     },
     {
       "rank": 12,
@@ -120,7 +120,7 @@
       "readme_summary": "<div align=\"center\"><a name=\"readme-top\"></a> <img src=\"public/logo/512.png\" alt=\"\" width=\"320\"> <br> TaxHacker — self-hosted AI accountant ![GitHub Stars](https://github.com/vas3k/TaxHacker/stargazers) ![License](https://github.com/vas3k/TaxHacker/blob/main/LICENSE) ![GitHub Issues](https://github.com/vas3k/TaxHacker/issues) ![Donate](https://vas3k.com/donate/) </div> > 🙏 I'm currently looking for a job! Here's my CV and my Github profile. TaxHacker is a self-hosted accounting app designed for ...",
       "readme_summary_ja": "<div align=\"center\"><a name=\"readme-top\"></a> <img src=\"public/logo/512.png\" alt=\"\" width=\"320\"> <br> TaxHacker — self-hosted AI accountant ![GitHub Stars](https://github.com/vas3k/TaxHacker/stargazers) ![License](https://github.com/vas3k/TaxHacker/blob/main/LICENSE) ![GitHub Issues](https://github.com/vas3k/TaxHacker/issues) ![Donate](https://vas3k.com/donate/) </div> > 🙏 I'm currently looking for a job! Here's my CV and my Github profile. TaxHacker is a self-hosted accounting app designed for ...",
       "language": "TypeScript",
-      "stars": 325
+      "stars": 318
     },
     {
       "rank": 13,
@@ -130,7 +130,7 @@
       "readme_summary": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
       "readme_summary_ja": "ChatDev 2.0 - DevAll <p align=\"center\"> <img src=\"frontend/public/media/logo.png\" alt=\"DevAll Logo\" width=\"500\"/> </p> <p align=\"center\"> <strong>A Zero-Code Multi-Agent Platform for Developing Everything</strong> </p> <p align=\"center\"> 【<a href=\"./README.md\">English</a> | <a href=\"./README-zh.md\">简体中文</a>】 </p> <p align=\"center\"> 【📚 <a href=\"#developers\">Developers</a> | 👥 <a href=\"#primary-contributors\">Contributors</a>｜⭐️ <a href=\"https://github.com/OpenBMB/ChatDev/tree/chatdev1.0\">ChatDev 1...",
       "language": "Python",
-      "stars": 117
+      "stars": 84
     },
     {
       "rank": 14,
@@ -140,7 +140,7 @@
       "readme_summary": "Coding Interview University > I originally created this as a short to-do list of study topics for becoming a software engineer, > but it grew to the large list you see today. After going through this study plan, I got hired > as a Software Development Engineer at Amazon! > You probably won't have to study as much as I did. Anyway, everything you need is here",
       "readme_summary_ja": "Coding Interview University > I originally created this as a short to-do list of study topics for becoming a software engineer, > but it grew to the large list you see today. After going through this study plan, I got hired > as a Software Development Engineer at Amazon! > You probably won't have to study as much as I did. Anyway, everything you need is here",
       "language": "",
-      "stars": 874
+      "stars": 873
     }
   ]
 }
