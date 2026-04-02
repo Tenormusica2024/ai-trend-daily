@@ -1,76 +1,46 @@
 {
-  "updated_at": "2026-04-02 03:46:04",
-  "total_repos": 7,
+  "updated_at": "2026-04-02 18:00:34",
+  "total_repos": 4,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "description_ja": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "readme_summary": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "readme_summary_ja": "Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your ter...",
-      "language": "Shell",
-      "stars": 10749
+      "repo_name": "siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "description_ja": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "readme_summary": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> </p> <p align=\"center\">OpenScreen</p> <p align=\"center\"><strong>OpenScreen is your free, open-source alternative to Screen Studio (sort of).</strong></p> I...",
+      "readme_summary_ja": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> </p> <p align=\"center\">OpenScreen</p> <p align=\"center\"><strong>OpenScreen is your free, open-source alternative to Screen Studio (sort of).</strong></p> I...",
+      "language": "TypeScript",
+      "stars": 2496
     },
     {
       "rank": 2,
-      "repo_name": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "description_ja": "Open-Source Frontier Voice AI",
-      "readme_summary": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://openreview.net/pdf?id=FihSkzyxdv) ![ASR Report](https://arxiv.org/pdf/2601.18184) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) ![microsoft%2FVibeVoice...",
-      "readme_summary_ja": "<div align=\"center\"> 🎙️ VibeVoice: Open-Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) ![TTS Report](https://openreview.net/pdf?id=FihSkzyxdv) ![ASR Report](https://arxiv.org/pdf/2601.18184) ![Colab](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) ![ASR Playground](https://aka.ms/vibevoice-asr) ![microsoft%2FVibeVoice...",
-      "language": "Python",
-      "stars": 1685
+      "repo_name": "Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "description_ja": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "readme_summary": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
+      "readme_summary_ja": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
+      "language": "TypeScript",
+      "stars": 2852
     },
     {
       "rank": 3,
-      "repo_name": "google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "description_ja": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "readme_summary": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. * Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. * All checkpoints: TimesFM Hugging Face Collection",
-      "readme_summary_ja": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. * Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. * All checkpoints: TimesFM Hugging Face Collection",
-      "language": "Python",
-      "stars": 380
+      "repo_name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "description_ja": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "readme_summary": "System Prompts Leaks Extracted system prompts, system messages, and developer instructions from popular AI chatbots and coding assistants — ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly with new models and versions. PRs welcome",
+      "readme_summary_ja": "System Prompts Leaks Extracted system prompts, system messages, and developer instructions from popular AI chatbots and coding assistants — ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly with new models and versions. PRs welcome",
+      "language": "",
+      "stars": 323
     },
     {
       "rank": 4,
-      "repo_name": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "description_ja": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "readme_summary": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\"> <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\"> </picture> <p align=\"center\"> <a href=\"https://github.com/trending\"> <img src=\"https://img.shields.io/badge/GitHub-🔥%20%231%20Trending-purple?style=for-the-badge&logo=github\"/> </a> </p> ![GitHub Stars](https://github.com/luongnv89/claude-howto/stargazers) ![GitHub Forks](https://github.com/luongnv89/claude-howto/network...",
-      "readme_summary_ja": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"resources/logos/claude-howto-logo-dark.svg\"> <img alt=\"Claude How To\" src=\"resources/logos/claude-howto-logo.svg\"> </picture> <p align=\"center\"> <a href=\"https://github.com/trending\"> <img src=\"https://img.shields.io/badge/GitHub-🔥%20%231%20Trending-purple?style=for-the-badge&logo=github\"/> </a> </p> ![GitHub Stars](https://github.com/luongnv89/claude-howto/stargazers) ![GitHub Forks](https://github.com/luongnv89/claude-howto/network...",
+      "repo_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "description_ja": "Hunt down social media accounts by username across social networks",
+      "readme_summary": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
+      "readme_summary_ja": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
       "language": "Python",
-      "stars": 3301
-    },
-    {
-      "rank": 5,
-      "repo_name": "axios/axios",
-      "description": "Promise based HTTP client for the browser and node.js",
-      "description_ja": "Promise based HTTP client for the browser and node.js",
-      "readme_summary": "<h3 align=\"center\"> 💎 Platinum sponsors <br> </h3> <table align=\"center\"><tr><td align=\"center\" width=\"50%\"> <a href=\"https://thanks.dev/?utm_source&#x3D;axios&amp;utm_medium&#x3D;sponsorlist&amp;utm_campaign&#x3D;sponsorship\" style=\"padding: 10px; display: inline-block\" target=\"_blank\"> <img width=\"90px\" height=\"90px\" src=\"https://axios-http.com/assets/sponsors/opencollective/ed51c2ee8f1b70aa3484d6dd678652134079a036.png\" alt=\"THANKS.DEV\"/> </a> <p align=\"center\" title=\"We&#x27;re passionate abo...",
-      "readme_summary_ja": "<h3 align=\"center\"> 💎 Platinum sponsors <br> </h3> <table align=\"center\"><tr><td align=\"center\" width=\"50%\"> <a href=\"https://thanks.dev/?utm_source&#x3D;axios&amp;utm_medium&#x3D;sponsorlist&amp;utm_campaign&#x3D;sponsorship\" style=\"padding: 10px; display: inline-block\" target=\"_blank\"> <img width=\"90px\" height=\"90px\" src=\"https://axios-http.com/assets/sponsors/opencollective/ed51c2ee8f1b70aa3484d6dd678652134079a036.png\" alt=\"THANKS.DEV\"/> </a> <p align=\"center\" title=\"We&#x27;re passionate abo...",
-      "language": "JavaScript",
-      "stars": 93
-    },
-    {
-      "rank": 6,
-      "repo_name": "openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "description_ja": "Lightweight coding agent that runs in your terminal",
-      "readme_summary": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"https://github.com/openai/codex/blob/main/.github/codex-cli-splash.png\" alt=\"Codex CLI splash\" width=\"80%\" /> </p> </br> If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your I...",
-      "readme_summary_ja": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"https://github.com/openai/codex/blob/main/.github/codex-cli-splash.png\" alt=\"Codex CLI splash\" width=\"80%\" /> </p> </br> If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your I...",
-      "language": "Rust",
-      "stars": 2390
-    },
-    {
-      "rank": 7,
-      "repo_name": "f/prompts.chat",
-      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "description_ja": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "readme_summary": "<h1 align=\"center\"> <a href=\"https://prompts.chat\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\"> <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\"> </picture> <br> prompts.chat </a> </h1> <p align=\"center\"> <strong>The world's largest open-source prompt library for AI</strong><br> <sub>Works with ChatGPT, Claude, Gemini, Llama, Mistral...",
-      "readme_summary_ja": "<h1 align=\"center\"> <a href=\"https://prompts.chat\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\"> <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\"> </picture> <br> prompts.chat </a> </h1> <p align=\"center\"> <strong>The world's largest open-source prompt library for AI</strong><br> <sub>Works with ChatGPT, Claude, Gemini, Llama, Mistral...",
-      "language": "HTML",
-      "stars": 398
+      "stars": 807
     }
   ]
 }
