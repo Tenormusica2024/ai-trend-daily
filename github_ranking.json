@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-02 18:00:34",
-  "total_repos": 4,
+  "updated_at": "2026-04-02 18:05:26",
+  "total_repos": 3,
   "ranking": [
     {
       "rank": 1,
@@ -14,16 +14,6 @@
     },
     {
       "rank": 2,
-      "repo_name": "Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "description_ja": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "readme_summary": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
-      "readme_summary_ja": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
-      "language": "TypeScript",
-      "stars": 2852
-    },
-    {
-      "rank": 3,
       "repo_name": "asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
       "description_ja": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
@@ -33,7 +23,7 @@
       "stars": 323
     },
     {
-      "rank": 4,
+      "rank": 3,
       "repo_name": "sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "description_ja": "Hunt down social media accounts by username across social networks",
