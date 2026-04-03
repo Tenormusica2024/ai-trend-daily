@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-02 18:05:26",
-  "total_repos": 3,
+  "updated_at": "2026-04-03 09:00:15",
+  "total_repos": 4,
   "ranking": [
     {
       "rank": 1,
@@ -10,17 +10,27 @@
       "readme_summary": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> </p> <p align=\"center\">OpenScreen</p> <p align=\"center\"><strong>OpenScreen is your free, open-source alternative to Screen Studio (sort of).</strong></p> I...",
       "readme_summary_ja": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> </p> <p align=\"center\">OpenScreen</p> <p align=\"center\"><strong>OpenScreen is your free, open-source alternative to Screen Studio (sort of).</strong></p> I...",
       "language": "TypeScript",
-      "stars": 2496
+      "stars": 2573
     },
     {
       "rank": 2,
+      "repo_name": "Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "description_ja": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "readme_summary": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
+      "readme_summary_ja": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
+      "language": "TypeScript",
+      "stars": 2867
+    },
+    {
+      "rank": 3,
       "repo_name": "asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
       "description_ja": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
       "readme_summary": "System Prompts Leaks Extracted system prompts, system messages, and developer instructions from popular AI chatbots and coding assistants — ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly with new models and versions. PRs welcome",
       "readme_summary_ja": "System Prompts Leaks Extracted system prompts, system messages, and developer instructions from popular AI chatbots and coding assistants — ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly with new models and versions. PRs welcome",
       "language": "",
-      "stars": 323
+      "stars": 306
     },
     {
       "rank": 3,
@@ -30,7 +40,7 @@
       "readme_summary": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
       "readme_summary_ja": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
       "language": "Python",
-      "stars": 807
+      "stars": 827
     }
   ]
 }
