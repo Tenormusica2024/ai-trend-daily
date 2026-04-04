@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-04-04 03:35:58",
-  "total_repos": 7,
+  "updated_at": "2026-04-04 18:00:38",
+  "total_repos": 8,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "description_ja": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "readme_summary": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
-      "readme_summary_ja": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
-      "language": "TypeScript",
-      "stars": 3047
+      "repo_name": "Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "description_ja": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "readme_summary": "![Upload Python Package](https://github.com/Blaizzy/mlx-vlm/actions/workflows/python-publish.yml) MLX-VLM MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) and Omni Models (VLMs with audio and video support) on your Mac using MLX. Table of Contents - Installation - Usage - Command Line Interface (CLI) - Thinking Budget - Chat UI with Gradio - Python Script - Activation Quantization (CUDA) - Multi-Image Chat Support - Supported Models - Usage Examples - Model-Spe...",
+      "readme_summary_ja": "![Upload Python Package](https://github.com/Blaizzy/mlx-vlm/actions/workflows/python-publish.yml) MLX-VLM MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) and Omni Models (VLMs with audio and video support) on your Mac using MLX. Table of Contents - Installation - Usage - Command Line Interface (CLI) - Thinking Budget - Chat UI with Gradio - Python Script - Activation Quantization (CUDA) - Multi-Image Chat Support - Supported Models - Usage Examples - Model-Spe...",
+      "language": "Python",
+      "stars": 316
     },
     {
       "rank": 2,
@@ -20,17 +20,17 @@
       "readme_summary": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https://docs.onyx.app/?utm_source=onyx_repo&utm_medi...",
       "readme_summary_ja": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https://docs.onyx.app/?utm_source=onyx_repo&utm_medi...",
       "language": "Python",
-      "stars": 1852
+      "stars": 1212
     },
     {
       "rank": 3,
-      "repo_name": "google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "description_ja": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "readme_summary": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. * Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. * All checkpoints: TimesFM Hugging Face Collection",
-      "readme_summary_ja": "TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. * Paper: A decoder-only foundation model for time-series forecasting, ICML 2024. * All checkpoints: TimesFM Hugging Face Collection",
-      "language": "Python",
-      "stars": 916
+      "repo_name": "Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "description_ja": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "readme_summary": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
+      "readme_summary_ja": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
+      "language": "TypeScript",
+      "stars": 1803
     },
     {
       "rank": 4,
@@ -40,37 +40,47 @@
       "readme_summary": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> </p> <p align=\"center\">OpenScreen</p> <p align=\"center\"><strong>OpenScreen is your free, open-source alternative to Screen Studio (sort of).</strong></p> I...",
       "readme_summary_ja": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> </p> <p align=\"center\">OpenScreen</p> <p align=\"center\"><strong>OpenScreen is your free, open-source alternative to Screen Studio (sort of).</strong></p> I...",
       "language": "TypeScript",
-      "stars": 2771
+      "stars": 1600
     },
     {
       "rank": 5,
-      "repo_name": "dmtrKovalenko/fff.nvim",
-      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "description_ja": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "readme_summary": "<p align=\"center\"> <h1 align=\"center\">FFF</h1> </p> <p align=\"center\"> <a href=\"#mcp\"><strong>AI agents (MCP)</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href=\"#neovim-guide\"><strong>Neovim users</strong></a> </p> <p align=\"center\"> <i>A fast file search for your AI and neovim, with memory built-in</i> </p> <p align=\"center\" style=\"text-decoration: none; border: none;\"> <a href=\"https://github.com/dmtrKovalenko/fff.nvim/stargazers\" style=\"text-decoration: none\"> <img alt=\"Stars\" src=\"https://img.s...",
-      "readme_summary_ja": "<p align=\"center\"> <h1 align=\"center\">FFF</h1> </p> <p align=\"center\"> <a href=\"#mcp\"><strong>AI agents (MCP)</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href=\"#neovim-guide\"><strong>Neovim users</strong></a> </p> <p align=\"center\"> <i>A fast file search for your AI and neovim, with memory built-in</i> </p> <p align=\"center\" style=\"text-decoration: none; border: none;\"> <a href=\"https://github.com/dmtrKovalenko/fff.nvim/stargazers\" style=\"text-decoration: none\"> <img alt=\"Stars\" src=\"https://img.s...",
-      "language": "Rust",
-      "stars": 750
+      "repo_name": "telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "description_ja": "Telegram Desktop messaging app",
+      "readme_summary": "[Telegram Desktop][telegram_desktop] – Official Messenger This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol. ![Version](https://github.com/telegramdesktop/tdesktop/releases) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https:...",
+      "readme_summary_ja": "[Telegram Desktop][telegram_desktop] – Official Messenger This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol. ![Version](https://github.com/telegramdesktop/tdesktop/releases) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https:...",
+      "language": "C++",
+      "stars": 282
     },
     {
       "rank": 6,
-      "repo_name": "f/prompts.chat",
-      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "description_ja": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "readme_summary": "<h1 align=\"center\"> <a href=\"https://prompts.chat\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\"> <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\"> </picture> <br> prompts.chat </a> </h1> <p align=\"center\"> <strong>The world's largest open-source prompt library for AI</strong><br> <sub>Works with ChatGPT, Claude, Gemini, Llama, Mistral...",
-      "readme_summary_ja": "<h1 align=\"center\"> <a href=\"https://prompts.chat\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\"> <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\"> </picture> <br> prompts.chat </a> </h1> <p align=\"center\"> <strong>The world's largest open-source prompt library for AI</strong><br> <sub>Works with ChatGPT, Claude, Gemini, Llama, Mistral...",
-      "language": "HTML",
-      "stars": 375
+      "repo_name": "block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "description_ja": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\" ><img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"></a> <a href=\"https://discord.gg/goose-oss\" ><img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"></a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\" ><i...",
+      "readme_summary_ja": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\" ><img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"></a> <a href=\"https://discord.gg/goose-oss\" ><img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"></a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\" ><i...",
+      "language": "Rust",
+      "stars": 947
     },
     {
       "rank": 7,
+      "repo_name": "microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "description_ja": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "readme_summary": "!Microsoft Agent Framework Welcome to Microsoft Agent Framework! ![Microsoft Foundry Discord](https://discord.gg/b5zjErwbQM) ![MS Learn Documentation](https://learn.microsoft.com/en-us/agent-framework/) ![PyPI](https://pypi.org/project/agent-framework/) ![NuGet](https://www.nuget.org/profiles/MicrosoftAgentFramework/) Welcome to Microsoft's comprehensive multi-language framework for building, orchestrating, and deploying AI agents with support for both .NET and Python implementations. This frame...",
+      "readme_summary_ja": "!Microsoft Agent Framework Welcome to Microsoft Agent Framework! ![Microsoft Foundry Discord](https://discord.gg/b5zjErwbQM) ![MS Learn Documentation](https://learn.microsoft.com/en-us/agent-framework/) ![PyPI](https://pypi.org/project/agent-framework/) ![NuGet](https://www.nuget.org/profiles/MicrosoftAgentFramework/) Welcome to Microsoft's comprehensive multi-language framework for building, orchestrating, and deploying AI agents with support for both .NET and Python implementations. This frame...",
+      "language": "Python",
+      "stars": 66
+    },
+    {
+      "rank": 8,
       "repo_name": "sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "description_ja": "Hunt down social media accounts by username across social networks",
       "readme_summary": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
       "readme_summary_ja": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
       "language": "Python",
-      "stars": 1192
+      "stars": 993
     }
   ]
 }
