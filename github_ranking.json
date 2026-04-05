@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05 00:00:59",
+  "updated_at": "2026-04-05 03:55:31",
   "total_repos": 8,
   "ranking": [
     {
@@ -37,8 +37,8 @@
       "repo_name": "siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "description_ja": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "readme_summary": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> </p> <p align=\"center\">OpenScreen</p> <p align=\"center\"><strong>OpenScreen is your free, open-source alternative to Screen Studio (sort of).</strong></p> I...",
-      "readme_summary_ja": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> </p> <p align=\"center\">OpenScreen</p> <p align=\"center\"><strong>OpenScreen is your free, open-source alternative to Screen Studio (sort of).</strong></p> I...",
+      "readme_summary": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> &nbsp; <a href=\"https://discord.gg/yAQQhRaEeg\"> <img src=\"https://img.shields.io/discord/pHAUbcqNd?logo=discord&label=Discord&color=5865F2\" alt=\"Join Disco...",
+      "readme_summary_ja": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> &nbsp; <a href=\"https://discord.gg/yAQQhRaEeg\"> <img src=\"https://img.shields.io/discord/pHAUbcqNd?logo=discord&label=Discord&color=5865F2\" alt=\"Join Disco...",
       "language": "TypeScript",
       "stars": 1591
     },
