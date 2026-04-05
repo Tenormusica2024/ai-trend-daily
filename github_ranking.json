@@ -1,86 +1,106 @@
 {
-  "updated_at": "2026-04-05 03:55:31",
-  "total_repos": 8,
+  "updated_at": "2026-04-05 18:00:46",
+  "total_repos": 10,
   "ranking": [
     {
       "rank": 1,
+      "repo_name": "google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "description_ja": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "readme_summary": "Google AI Edge Gallery ✨ ![License](LICENSE) ![GitHub release (latest by date)](https://github.com/google-ai-edge/gallery/releases) **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.** AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. **Now Featurin...",
+      "readme_summary_ja": "Google AI Edge Gallery ✨ ![License](LICENSE) ![GitHub release (latest by date)](https://github.com/google-ai-edge/gallery/releases) **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.** AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. **Now Featurin...",
+      "language": "Kotlin",
+      "stars": 495
+    },
+    {
+      "rank": 2,
       "repo_name": "Blaizzy/mlx-vlm",
       "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
       "description_ja": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
       "readme_summary": "![Upload Python Package](https://github.com/Blaizzy/mlx-vlm/actions/workflows/python-publish.yml) MLX-VLM MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) and Omni Models (VLMs with audio and video support) on your Mac using MLX. Table of Contents - Installation - Usage - Command Line Interface (CLI) - Thinking Budget - Chat UI with Gradio - Python Script - Activation Quantization (CUDA) - Multi-Image Chat Support - Supported Models - Usage Examples - Model-Spe...",
       "readme_summary_ja": "![Upload Python Package](https://github.com/Blaizzy/mlx-vlm/actions/workflows/python-publish.yml) MLX-VLM MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) and Omni Models (VLMs with audio and video support) on your Mac using MLX. Table of Contents - Installation - Usage - Command Line Interface (CLI) - Thinking Budget - Chat UI with Gradio - Python Script - Activation Quantization (CUDA) - Multi-Image Chat Support - Supported Models - Usage Examples - Model-Spe...",
       "language": "Python",
-      "stars": 343
-    },
-    {
-      "rank": 2,
-      "repo_name": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "description_ja": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "readme_summary": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https://docs.onyx.app/?utm_source=onyx_repo&utm_medi...",
-      "readme_summary_ja": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https://docs.onyx.app/?utm_source=onyx_repo&utm_medi...",
-      "language": "Python",
-      "stars": 1197
+      "stars": 408
     },
     {
       "rank": 3,
-      "repo_name": "Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "description_ja": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "readme_summary": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
-      "readme_summary_ja": "oh-my-codex (OMX) <p align=\"center\"> <img src=\"https://yeachan-heo.github.io/oh-my-codex-website/omx-character-nobg.png\" alt=\"oh-my-codex character\" width=\"280\"> <br> <em>Start Codex stronger, then let OMX add better prompts, workflows, and runtime help when the work grows.</em> </p> ![npm version](https://www.npmjs.com/package/oh-my-codex) ![License: MIT](https://opensource.org/licenses/MIT) ![Node.js](https://nodejs.org) ![Discord](https://discord.gg/PUwSMR9XNk) **Website:** https://yeachan-he...",
-      "language": "TypeScript",
-      "stars": 1789
-    },
-    {
-      "rank": 4,
       "repo_name": "siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "description_ja": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "readme_summary": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> &nbsp; <a href=\"https://discord.gg/yAQQhRaEeg\"> <img src=\"https://img.shields.io/discord/pHAUbcqNd?logo=discord&label=Discord&color=5865F2\" alt=\"Join Disco...",
       "readme_summary_ja": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> &nbsp; <a href=\"https://discord.gg/yAQQhRaEeg\"> <img src=\"https://img.shields.io/discord/pHAUbcqNd?logo=discord&label=Discord&color=5865F2\" alt=\"Join Disco...",
       "language": "TypeScript",
-      "stars": 1591
+      "stars": 2692
     },
     {
-      "rank": 5,
-      "repo_name": "telegramdesktop/tdesktop",
-      "description": "Telegram Desktop messaging app",
-      "description_ja": "Telegram Desktop messaging app",
-      "readme_summary": "[Telegram Desktop][telegram_desktop] – Official Messenger This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol. ![Version](https://github.com/telegramdesktop/tdesktop/releases) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https:...",
-      "readme_summary_ja": "[Telegram Desktop][telegram_desktop] – Official Messenger This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol. ![Version](https://github.com/telegramdesktop/tdesktop/releases) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https:...",
-      "language": "C++",
-      "stars": 249
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "repo_name": "block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "description_ja": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\" ><img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"></a> <a href=\"https://discord.gg/goose-oss\" ><img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"></a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\" ><i...",
       "readme_summary_ja": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\" ><img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"></a> <a href=\"https://discord.gg/goose-oss\" ><img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"></a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\" ><i...",
       "language": "Rust",
-      "stars": 935
+      "stars": 866
+    },
+    {
+      "rank": 5,
+      "repo_name": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "description_ja": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "readme_summary": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https://docs.onyx.app/?utm_source=onyx_repo&utm_medi...",
+      "readme_summary_ja": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https://docs.onyx.app/?utm_source=onyx_repo&utm_medi...",
+      "language": "Python",
+      "stars": 960
+    },
+    {
+      "rank": 6,
+      "repo_name": "badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "description_ja": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "readme_summary": "<!-- OSS_WEEKEND_START --> 🏖️ OSS Weekend **Issue tracker reopens Monday, April 13, 2026.** OSS weekend runs Thursday, April 2, 2026 through Monday, April 13, 2026. New issues and PRs from unapproved contributors are auto-closed during this time. Approved contributors can still open issues and PRs if something is genuinely urgent, but please keep that to pressing matters only",
+      "readme_summary_ja": "<!-- OSS_WEEKEND_START --> 🏖️ OSS Weekend **Issue tracker reopens Monday, April 13, 2026.** OSS weekend runs Thursday, April 2, 2026 through Monday, April 13, 2026. New issues and PRs from unapproved contributors are auto-closed during this time. Approved contributors can still open issues and PRs if something is genuinely urgent, but please keep that to pressing matters only",
+      "language": "TypeScript",
+      "stars": 340
     },
     {
       "rank": 7,
-      "repo_name": "microsoft/agent-framework",
-      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-      "description_ja": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-      "readme_summary": "!Microsoft Agent Framework Welcome to Microsoft Agent Framework! ![Microsoft Foundry Discord](https://discord.gg/b5zjErwbQM) ![MS Learn Documentation](https://learn.microsoft.com/en-us/agent-framework/) ![PyPI](https://pypi.org/project/agent-framework/) ![NuGet](https://www.nuget.org/profiles/MicrosoftAgentFramework/) Welcome to Microsoft's comprehensive multi-language framework for building, orchestrating, and deploying AI agents with support for both .NET and Python implementations. This frame...",
-      "readme_summary_ja": "!Microsoft Agent Framework Welcome to Microsoft Agent Framework! ![Microsoft Foundry Discord](https://discord.gg/b5zjErwbQM) ![MS Learn Documentation](https://learn.microsoft.com/en-us/agent-framework/) ![PyPI](https://pypi.org/project/agent-framework/) ![NuGet](https://www.nuget.org/profiles/MicrosoftAgentFramework/) Welcome to Microsoft's comprehensive multi-language framework for building, orchestrating, and deploying AI agents with support for both .NET and Python implementations. This frame...",
-      "language": "Python",
-      "stars": 72
+      "repo_name": "dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "description_ja": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "readme_summary": "<p align=\"center\"> <h1 align=\"center\">FFF</h1> </p> <p align=\"center\"> <a href=\"#mcp\"><strong>AI agents (MCP)</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href=\"#neovim-guide\"><strong>Neovim users</strong></a> </p> <p align=\"center\"> <i>A fast file search for your AI and neovim, with memory built-in</i> </p> <p align=\"center\" style=\"text-decoration: none; border: none;\"> <a href=\"https://github.com/dmtrKovalenko/fff.nvim/stargazers\" style=\"text-decoration: none\"> <img alt=\"Stars\" src=\"https://img.s...",
+      "readme_summary_ja": "<p align=\"center\"> <h1 align=\"center\">FFF</h1> </p> <p align=\"center\"> <a href=\"#mcp\"><strong>AI agents (MCP)</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href=\"#neovim-guide\"><strong>Neovim users</strong></a> </p> <p align=\"center\"> <i>A fast file search for your AI and neovim, with memory built-in</i> </p> <p align=\"center\" style=\"text-decoration: none; border: none;\"> <a href=\"https://github.com/dmtrKovalenko/fff.nvim/stargazers\" style=\"text-decoration: none\"> <img alt=\"Stars\" src=\"https://img.s...",
+      "language": "Rust",
+      "stars": 111
     },
     {
       "rank": 8,
-      "repo_name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "description_ja": "Hunt down social media accounts by username across social networks",
-      "readme_summary": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
-      "readme_summary_ja": "<p align=\"center\"> <br> <a href=\"https://sherlock-project.github.io/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp...",
-      "language": "Python",
-      "stars": 994
+      "repo_name": "google-ai-edge/LiteRT-LM",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance (blog). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI: 🌟 Key Features - 📱 **Cross-Platform Support**: Android, iOS, Web, Desktop, and IoT (e.g",
+      "readme_summary_ja": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance (blog). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI: 🌟 Key Features - 📱 **Cross-Platform Support**: Android, iOS, Web, Desktop, and IoT (e.g",
+      "language": "C++",
+      "stars": 193
+    },
+    {
+      "rank": 9,
+      "repo_name": "telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "description_ja": "Telegram Desktop messaging app",
+      "readme_summary": "[Telegram Desktop][telegram_desktop] – Official Messenger This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol. ![Version](https://github.com/telegramdesktop/tdesktop/releases) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https:...",
+      "readme_summary_ja": "[Telegram Desktop][telegram_desktop] – Official Messenger This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol. ![Version](https://github.com/telegramdesktop/tdesktop/releases) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https:...",
+      "language": "C++",
+      "stars": 265
+    },
+    {
+      "rank": 10,
+      "repo_name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "description_ja": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "readme_summary": "![freeCodeCamp Social Banner](https://www.freecodecamp.org/) ![first-timers-only Friendly](https://www.firsttimersonly.com/) ![Discord](https://discord.gg/PRyKn3Vbay) ![LFX Active Contributors](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp) freeCodeCamp.org's open-source codebase and curriculum freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy ad...",
+      "readme_summary_ja": "![freeCodeCamp Social Banner](https://www.freecodecamp.org/) ![first-timers-only Friendly](https://www.firsttimersonly.com/) ![Discord](https://discord.gg/PRyKn3Vbay) ![LFX Active Contributors](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp) freeCodeCamp.org's open-source codebase and curriculum freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy ad...",
+      "language": "TypeScript",
+      "stars": 292
     }
   ]
 }
