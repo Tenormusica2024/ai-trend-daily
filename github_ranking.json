@@ -1,106 +1,146 @@
 {
-  "updated_at": "2026-04-06 04:09:21",
-  "total_repos": 10,
+  "updated_at": "2026-04-07 03:51:21",
+  "total_repos": 14,
   "ranking": [
     {
       "rank": 1,
+      "repo_name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "description_ja": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "readme_summary": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
+      "readme_summary_ja": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
+      "language": "TypeScript",
+      "stars": 857
+    },
+    {
+      "rank": 2,
       "repo_name": "google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "description_ja": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "readme_summary": "Google AI Edge Gallery ✨ ![License](LICENSE) ![GitHub release (latest by date)](https://github.com/google-ai-edge/gallery/releases) **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.** AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. **Now Featurin...",
       "readme_summary_ja": "Google AI Edge Gallery ✨ ![License](LICENSE) ![GitHub release (latest by date)](https://github.com/google-ai-edge/gallery/releases) **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.** AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. **Now Featurin...",
       "language": "Kotlin",
-      "stars": 389
-    },
-    {
-      "rank": 2,
-      "repo_name": "Blaizzy/mlx-vlm",
-      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-      "description_ja": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-      "readme_summary": "![Upload Python Package](https://github.com/Blaizzy/mlx-vlm/actions/workflows/python-publish.yml) MLX-VLM MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) and Omni Models (VLMs with audio and video support) on your Mac using MLX. Table of Contents - Installation - Usage - Command Line Interface (CLI) - Thinking Budget - Chat UI with Gradio - Python Script - Activation Quantization (CUDA) - Multi-Image Chat Support - Supported Models - Usage Examples - Model-Spe...",
-      "readme_summary_ja": "![Upload Python Package](https://github.com/Blaizzy/mlx-vlm/actions/workflows/python-publish.yml) MLX-VLM MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) and Omni Models (VLMs with audio and video support) on your Mac using MLX. Table of Contents - Installation - Usage - Command Line Interface (CLI) - Thinking Budget - Chat UI with Gradio - Python Script - Activation Quantization (CUDA) - Multi-Image Chat Support - Supported Models - Usage Examples - Model-Spe...",
-      "language": "Python",
-      "stars": 416
+      "stars": 1107
     },
     {
       "rank": 3,
-      "repo_name": "siddharthvaddem/openscreen",
-      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "description_ja": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "readme_summary": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> &nbsp; <a href=\"https://discord.gg/yAQQhRaEeg\"> <img src=\"https://img.shields.io/discord/pHAUbcqNd?logo=discord&label=Discord&color=5865F2\" alt=\"Join Disco...",
-      "readme_summary_ja": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> &nbsp; <a href=\"https://discord.gg/yAQQhRaEeg\"> <img src=\"https://img.shields.io/discord/pHAUbcqNd?logo=discord&label=Discord&color=5865F2\" alt=\"Join Disco...",
-      "language": "TypeScript",
-      "stars": 2749
-    },
-    {
-      "rank": 4,
-      "repo_name": "block/goose",
+      "repo_name": "aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "description_ja": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\" ><img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"></a> <a href=\"https://discord.gg/goose-oss\" ><img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"></a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\" ><i...",
       "readme_summary_ja": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\" ><img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"></a> <a href=\"https://discord.gg/goose-oss\" ><img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"></a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\" ><i...",
       "language": "Rust",
-      "stars": 882
+      "stars": 1523
     },
     {
-      "rank": 5,
-      "repo_name": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "description_ja": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "readme_summary": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https://docs.onyx.app/?utm_source=onyx_repo&utm_medi...",
-      "readme_summary_ja": "<a name=\"readme-top\"></a> <h2 align=\"center\"> <a href=\"https://www.onyx.app/?utm_source=onyx_repo&utm_medium=github&utm_campaign=readme\"> <img width=\"50%\" src=\"https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true\" /></a> </h2> <p align=\"center\"> <a href=\"https://discord.gg/TDJ59cGV2X\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white\" alt=\"Discord\" /> </a> <a href=\"https://docs.onyx.app/?utm_source=onyx_repo&utm_medi...",
-      "language": "Python",
-      "stars": 998
-    },
-    {
-      "rank": 6,
-      "repo_name": "badlogic/pi-mono",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "description_ja": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "readme_summary": "<!-- OSS_WEEKEND_START --> 🏖️ OSS Weekend **Issue tracker reopens Monday, April 13, 2026.** OSS weekend runs Thursday, April 2, 2026 through Monday, April 13, 2026. New issues and PRs from unapproved contributors are auto-closed during this time. Approved contributors can still open issues and PRs if something is genuinely urgent, but please keep that to pressing matters only",
-      "readme_summary_ja": "<!-- OSS_WEEKEND_START --> 🏖️ OSS Weekend **Issue tracker reopens Monday, April 13, 2026.** OSS weekend runs Thursday, April 2, 2026 through Monday, April 13, 2026. New issues and PRs from unapproved contributors are auto-closed during this time. Approved contributors can still open issues and PRs if something is genuinely urgent, but please keep that to pressing matters only",
-      "language": "TypeScript",
-      "stars": 355
-    },
-    {
-      "rank": 7,
-      "repo_name": "dmtrKovalenko/fff.nvim",
-      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "description_ja": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "readme_summary": "<p align=\"center\"> <h1 align=\"center\">FFF</h1> </p> <p align=\"center\"> <a href=\"#mcp\"><strong>AI agents (MCP)</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href=\"#neovim-guide\"><strong>Neovim users</strong></a> </p> <p align=\"center\"> <i>A fast file search for your AI and neovim, with memory built-in</i> </p> <p align=\"center\" style=\"text-decoration: none; border: none;\"> <a href=\"https://github.com/dmtrKovalenko/fff.nvim/stargazers\" style=\"text-decoration: none\"> <img alt=\"Stars\" src=\"https://img.s...",
-      "readme_summary_ja": "<p align=\"center\"> <h1 align=\"center\">FFF</h1> </p> <p align=\"center\"> <a href=\"#mcp\"><strong>AI agents (MCP)</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href=\"#neovim-guide\"><strong>Neovim users</strong></a> </p> <p align=\"center\"> <i>A fast file search for your AI and neovim, with memory built-in</i> </p> <p align=\"center\" style=\"text-decoration: none; border: none;\"> <a href=\"https://github.com/dmtrKovalenko/fff.nvim/stargazers\" style=\"text-decoration: none\"> <img alt=\"Stars\" src=\"https://img.s...",
-      "language": "Rust",
-      "stars": 76
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "repo_name": "google-ai-edge/LiteRT-LM",
       "description": "No description provided",
       "description_ja": "説明なし",
       "readme_summary": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance (blog). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI: 🌟 Key Features - 📱 **Cross-Platform Support**: Android, iOS, Web, Desktop, and IoT (e.g",
       "readme_summary_ja": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance (blog). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI: 🌟 Key Features - 📱 **Cross-Platform Support**: Android, iOS, Web, Desktop, and IoT (e.g",
       "language": "C++",
-      "stars": 124
+      "stars": 483
+    },
+    {
+      "rank": 5,
+      "repo_name": "immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "description_ja": "High performance self-hosted photo and video management solution.",
+      "readme_summary": "<p align=\"center\"> <br/> <a href=\"https://opensource.org/license/agpl-v3\"><img src=\"https://img.shields.io/badge/License-AGPL_v3-blue.svg?color=3F51B5&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec\" alt=\"License: AGPLv3\"></a> <a href=\"https://discord.immich.app\"> <img src=\"https://img.shields.io/discord/979116623879368755.svg?label=Discord&logo=Discord&style=for-the-badge&logoColor=000000&labelColor=ececec\" alt=\"Discord\"/> </a> <br/> <br/> </p> <p align=\"center\"> <img src=\"...",
+      "readme_summary_ja": "<p align=\"center\"> <br/> <a href=\"https://opensource.org/license/agpl-v3\"><img src=\"https://img.shields.io/badge/License-AGPL_v3-blue.svg?color=3F51B5&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec\" alt=\"License: AGPLv3\"></a> <a href=\"https://discord.immich.app\"> <img src=\"https://img.shields.io/discord/979116623879368755.svg?label=Discord&logo=Discord&style=for-the-badge&logoColor=000000&labelColor=ececec\" alt=\"Discord\"/> </a> <br/> <br/> </p> <p align=\"center\"> <img src=\"...",
+      "language": "TypeScript",
+      "stars": 152
+    },
+    {
+      "rank": 6,
+      "repo_name": "KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "description_ja": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "readme_summary": ">[!NOTE] > **📢 New: Shannon is now available via npx @keygraph/shannon. →** <div align=\"center\"> <img src=\"./assets/github-banner.png\" alt=\"Shannon — AI Pentester for Web Applications and APIs\" width=\"100%\"> Shannon — AI Pentester by Keygraph <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> Shannon is an autonomo...",
+      "readme_summary_ja": ">[!NOTE] > **📢 New: Shannon is now available via npx @keygraph/shannon. →** <div align=\"center\"> <img src=\"./assets/github-banner.png\" alt=\"Shannon — AI Pentester for Web Applications and APIs\" width=\"100%\"> Shannon — AI Pentester by Keygraph <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> Shannon is an autonomo...",
+      "language": "TypeScript",
+      "stars": 733
+    },
+    {
+      "rank": 7,
+      "repo_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "description_ja": "The agent that grows with you",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
+      "language": "Python",
+      "stars": 1574
+    },
+    {
+      "rank": 8,
+      "repo_name": "tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "description_ja": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "readme_summary": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and knowledge bases. Search with keywords or natural language",
+      "readme_summary_ja": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and knowledge bases. Search with keywords or natural language",
+      "language": "TypeScript",
+      "stars": 394
     },
     {
       "rank": 9,
-      "repo_name": "telegramdesktop/tdesktop",
-      "description": "Telegram Desktop messaging app",
-      "description_ja": "Telegram Desktop messaging app",
-      "readme_summary": "[Telegram Desktop][telegram_desktop] – Official Messenger This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol. ![Version](https://github.com/telegramdesktop/tdesktop/releases) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https:...",
-      "readme_summary_ja": "[Telegram Desktop][telegram_desktop] – Official Messenger This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol. ![Version](https://github.com/telegramdesktop/tdesktop/releases) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https://github.com/telegramdesktop/tdesktop/actions) ![Build Status](https:...",
-      "language": "C++",
-      "stars": 287
+      "repo_name": "TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "description_ja": "Telegram-iOS",
+      "readme_summary": "Telegram iOS Source Code Compilation Guide We welcome all developers to use our API and source code to create applications on our platform. There are several things we require from **all developers** for the moment. Creating your Telegram Application 1",
+      "readme_summary_ja": "Telegram iOS Source Code Compilation Guide We welcome all developers to use our API and source code to create applications on our platform. There are several things we require from **all developers** for the moment. Creating your Telegram Application 1",
+      "language": "Swift",
+      "stars": 25
     },
     {
       "rank": 10,
-      "repo_name": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "description_ja": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "readme_summary": "![freeCodeCamp Social Banner](https://www.freecodecamp.org/) ![first-timers-only Friendly](https://www.firsttimersonly.com/) ![Discord](https://discord.gg/PRyKn3Vbay) ![LFX Active Contributors](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp) freeCodeCamp.org's open-source codebase and curriculum freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy ad...",
-      "readme_summary_ja": "![freeCodeCamp Social Banner](https://www.freecodecamp.org/) ![first-timers-only Friendly](https://www.firsttimersonly.com/) ![Discord](https://discord.gg/PRyKn3Vbay) ![LFX Active Contributors](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp) freeCodeCamp.org's open-source codebase and curriculum freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy ad...",
+      "repo_name": "kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+      "description_ja": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+      "readme_summary": "Agent Skills for use with Obsidian. These skills follow the Agent Skills specification so they can be used by any skills-compatible agent, including Claude Code and Codex CLI. Installation Marketplace npx skills Manually Claude Code Add the contents of this repo to a /.claude folder in the root of your Obsidian vault (or whichever folder you're using with Claude Code)",
+      "readme_summary_ja": "Agent Skills for use with Obsidian. These skills follow the Agent Skills specification so they can be used by any skills-compatible agent, including Claude Code and Codex CLI. Installation Marketplace npx skills Manually Claude Code Add the contents of this repo to a /.claude folder in the root of your Obsidian vault (or whichever folder you're using with Claude Code)",
+      "language": "",
+      "stars": 429
+    },
+    {
+      "rank": 11,
+      "repo_name": "ollama/ollama",
+      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "description_ja": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "readme_summary": "<p align=\"center\"> <a href=\"https://ollama.com\"> <img src=\"https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7\" alt=\"ollama\" width=\"200\"/> </a> </p> Ollama Start building with open models. Download macOS or download manually Windows or download manually Linux Manual install instructions Docker The official Ollama Docker image ollama/ollama is available on Docker Hub. Libraries - ollama-python - ollama-js Community - Discord - 𝕏 (Twitter) - Reddit Get started You'...",
+      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://ollama.com\"> <img src=\"https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7\" alt=\"ollama\" width=\"200\"/> </a> </p> Ollama Start building with open models. Download macOS or download manually Windows or download manually Linux Manual install instructions Docker The official Ollama Docker image ollama/ollama is available on Docker Hub. Libraries - ollama-python - ollama-js Community - Discord - 𝕏 (Twitter) - Reddit Get started You'...",
+      "language": "Go",
+      "stars": 196
+    },
+    {
+      "rank": 12,
+      "repo_name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "description_ja": "LLM inference in C/C++",
+      "readme_summary": "llama.cpp !llama ![License: MIT](https://opensource.org/licenses/MIT) ![Release](https://github.com/ggml-org/llama.cpp/releases) ![Server](https://github.com/ggml-org/llama.cpp/actions/workflows/server.yml) Manifesto / ggml / ops LLM inference in C/C++ Recent API changes - Changelog for libllama API - Changelog for llama-server REST API Hot topics - **Hugging Face cache migration: models downloaded with -hf are now stored in the standard Hugging Face cache directory, enabling sharing with other ...",
+      "readme_summary_ja": "llama.cpp !llama ![License: MIT](https://opensource.org/licenses/MIT) ![Release](https://github.com/ggml-org/llama.cpp/releases) ![Server](https://github.com/ggml-org/llama.cpp/actions/workflows/server.yml) Manifesto / ggml / ops LLM inference in C/C++ Recent API changes - Changelog for libllama API - Changelog for llama-server REST API Hot topics - **Hugging Face cache migration: models downloaded with -hf are now stored in the standard Hugging Face cache directory, enabling sharing with other ...",
+      "language": "C++",
+      "stars": 267
+    },
+    {
+      "rank": 13,
+      "repo_name": "siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "description_ja": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "readme_summary": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> &nbsp; <a href=\"https://discord.gg/yAQQhRaEeg\"> <img src=\"https://img.shields.io/discord/pHAUbcqNd?logo=discord&label=Discord&color=5865F2\" alt=\"Join Disco...",
+      "readme_summary_ja": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> &nbsp; <a href=\"https://discord.gg/yAQQhRaEeg\"> <img src=\"https://img.shields.io/discord/pHAUbcqNd?logo=discord&label=Discord&color=5865F2\" alt=\"Join Disco...",
       "language": "TypeScript",
-      "stars": 335
+      "stars": 1838
+    },
+    {
+      "rank": 14,
+      "repo_name": "NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "description_ja": "PersonaPlex code.",
+      "readme_summary": "PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models ![Weights](https://huggingface.co/nvidia/personaplex-7b-v1) ![Paper](https://arxiv.org/abs/2602.06053) ![Demo](https://research.nvidia.com/labs/adlr/personaplex/) ![Discord](https://discord.gg/5jAXrrbwRb) PersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona control through text-based role prompts and audio-based voice conditioning. Trained on a combination of synthetic a...",
+      "readme_summary_ja": "PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models ![Weights](https://huggingface.co/nvidia/personaplex-7b-v1) ![Paper](https://arxiv.org/abs/2602.06053) ![Demo](https://research.nvidia.com/labs/adlr/personaplex/) ![Discord](https://discord.gg/5jAXrrbwRb) PersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona control through text-based role prompts and audio-based voice conditioning. Trained on a combination of synthetic a...",
+      "language": "Python",
+      "stars": 295
     }
   ]
 }
