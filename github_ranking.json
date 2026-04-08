@@ -1,146 +1,96 @@
 {
-  "updated_at": "2026-04-07 03:51:21",
-  "total_repos": 14,
+  "updated_at": "2026-04-08 03:53:07",
+  "total_repos": 9,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "description_ja": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "readme_summary": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
-      "readme_summary_ja": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
-      "language": "TypeScript",
-      "stars": 857
-    },
-    {
-      "rank": 2,
       "repo_name": "google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "description_ja": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "readme_summary": "Google AI Edge Gallery ✨ ![License](LICENSE) ![GitHub release (latest by date)](https://github.com/google-ai-edge/gallery/releases) **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.** AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. **Now Featurin...",
       "readme_summary_ja": "Google AI Edge Gallery ✨ ![License](LICENSE) ![GitHub release (latest by date)](https://github.com/google-ai-edge/gallery/releases) **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.** AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. **Now Featurin...",
       "language": "Kotlin",
-      "stars": 1107
+      "stars": 897
     },
     {
-      "rank": 3,
-      "repo_name": "aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "description_ja": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "readme_summary": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\" ><img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"></a> <a href=\"https://discord.gg/goose-oss\" ><img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"></a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\" ><i...",
-      "readme_summary_ja": "<div align=\"center\"> goose _a local, extensible, open source AI agent that automates engineering tasks_ <p align=\"center\"> <a href=\"https://opensource.org/licenses/Apache-2.0\" ><img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\"></a> <a href=\"https://discord.gg/goose-oss\" ><img src=\"https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet\" alt=\"Discord\"></a> <a href=\"https://github.com/block/goose/actions/workflows/ci.yml\" ><i...",
-      "language": "Rust",
-      "stars": 1523
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "repo_name": "google-ai-edge/LiteRT-LM",
       "description": "No description provided",
       "description_ja": "説明なし",
       "readme_summary": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance (blog). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI: 🌟 Key Features - 📱 **Cross-Platform Support**: Android, iOS, Web, Desktop, and IoT (e.g",
       "readme_summary_ja": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance (blog). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI: 🌟 Key Features - 📱 **Cross-Platform Support**: Android, iOS, Web, Desktop, and IoT (e.g",
       "language": "C++",
-      "stars": 483
+      "stars": 528
     },
     {
-      "rank": 5,
-      "repo_name": "immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "description_ja": "High performance self-hosted photo and video management solution.",
-      "readme_summary": "<p align=\"center\"> <br/> <a href=\"https://opensource.org/license/agpl-v3\"><img src=\"https://img.shields.io/badge/License-AGPL_v3-blue.svg?color=3F51B5&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec\" alt=\"License: AGPLv3\"></a> <a href=\"https://discord.immich.app\"> <img src=\"https://img.shields.io/discord/979116623879368755.svg?label=Discord&logo=Discord&style=for-the-badge&logoColor=000000&labelColor=ececec\" alt=\"Discord\"/> </a> <br/> <br/> </p> <p align=\"center\"> <img src=\"...",
-      "readme_summary_ja": "<p align=\"center\"> <br/> <a href=\"https://opensource.org/license/agpl-v3\"><img src=\"https://img.shields.io/badge/License-AGPL_v3-blue.svg?color=3F51B5&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec\" alt=\"License: AGPLv3\"></a> <a href=\"https://discord.immich.app\"> <img src=\"https://img.shields.io/discord/979116623879368755.svg?label=Discord&logo=Discord&style=for-the-badge&logoColor=000000&labelColor=ececec\" alt=\"Discord\"/> </a> <br/> <br/> </p> <p align=\"center\"> <img src=\"...",
-      "language": "TypeScript",
-      "stars": 152
-    },
-    {
-      "rank": 6,
-      "repo_name": "KeygraphHQ/shannon",
-      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "description_ja": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "readme_summary": ">[!NOTE] > **📢 New: Shannon is now available via npx @keygraph/shannon. →** <div align=\"center\"> <img src=\"./assets/github-banner.png\" alt=\"Shannon — AI Pentester for Web Applications and APIs\" width=\"100%\"> Shannon — AI Pentester by Keygraph <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> Shannon is an autonomo...",
-      "readme_summary_ja": ">[!NOTE] > **📢 New: Shannon is now available via npx @keygraph/shannon. →** <div align=\"center\"> <img src=\"./assets/github-banner.png\" alt=\"Shannon — AI Pentester for Web Applications and APIs\" width=\"100%\"> Shannon — AI Pentester by Keygraph <a href=\"https://trendshift.io/repositories/15604\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15604\" alt=\"KeygraphHQ%2Fshannon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> Shannon is an autonomo...",
-      "language": "TypeScript",
-      "stars": 733
-    },
-    {
-      "rank": 7,
-      "repo_name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "description_ja": "The agent that grows with you",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
-      "language": "Python",
-      "stars": 1574
-    },
-    {
-      "rank": 8,
-      "repo_name": "tobi/qmd",
-      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "description_ja": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "readme_summary": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and knowledge bases. Search with keywords or natural language",
-      "readme_summary_ja": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and knowledge bases. Search with keywords or natural language",
-      "language": "TypeScript",
-      "stars": 394
-    },
-    {
-      "rank": 9,
-      "repo_name": "TelegramMessenger/Telegram-iOS",
-      "description": "Telegram-iOS",
-      "description_ja": "Telegram-iOS",
-      "readme_summary": "Telegram iOS Source Code Compilation Guide We welcome all developers to use our API and source code to create applications on our platform. There are several things we require from **all developers** for the moment. Creating your Telegram Application 1",
-      "readme_summary_ja": "Telegram iOS Source Code Compilation Guide We welcome all developers to use our API and source code to create applications on our platform. There are several things we require from **all developers** for the moment. Creating your Telegram Application 1",
-      "language": "Swift",
-      "stars": 25
-    },
-    {
-      "rank": 10,
-      "repo_name": "kepano/obsidian-skills",
-      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "description_ja": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "readme_summary": "Agent Skills for use with Obsidian. These skills follow the Agent Skills specification so they can be used by any skills-compatible agent, including Claude Code and Codex CLI. Installation Marketplace npx skills Manually Claude Code Add the contents of this repo to a /.claude folder in the root of your Obsidian vault (or whichever folder you're using with Claude Code)",
-      "readme_summary_ja": "Agent Skills for use with Obsidian. These skills follow the Agent Skills specification so they can be used by any skills-compatible agent, including Claude Code and Codex CLI. Installation Marketplace npx skills Manually Claude Code Add the contents of this repo to a /.claude folder in the root of your Obsidian vault (or whichever folder you're using with Claude Code)",
-      "language": "",
-      "stars": 429
-    },
-    {
-      "rank": 11,
-      "repo_name": "ollama/ollama",
-      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "description_ja": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "readme_summary": "<p align=\"center\"> <a href=\"https://ollama.com\"> <img src=\"https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7\" alt=\"ollama\" width=\"200\"/> </a> </p> Ollama Start building with open models. Download macOS or download manually Windows or download manually Linux Manual install instructions Docker The official Ollama Docker image ollama/ollama is available on Docker Hub. Libraries - ollama-python - ollama-js Community - Discord - 𝕏 (Twitter) - Reddit Get started You'...",
-      "readme_summary_ja": "<p align=\"center\"> <a href=\"https://ollama.com\"> <img src=\"https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7\" alt=\"ollama\" width=\"200\"/> </a> </p> Ollama Start building with open models. Download macOS or download manually Windows or download manually Linux Manual install instructions Docker The official Ollama Docker image ollama/ollama is available on Docker Hub. Libraries - ollama-python - ollama-js Community - Discord - 𝕏 (Twitter) - Reddit Get started You'...",
-      "language": "Go",
-      "stars": 196
-    },
-    {
-      "rank": 12,
-      "repo_name": "ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "description_ja": "LLM inference in C/C++",
-      "readme_summary": "llama.cpp !llama ![License: MIT](https://opensource.org/licenses/MIT) ![Release](https://github.com/ggml-org/llama.cpp/releases) ![Server](https://github.com/ggml-org/llama.cpp/actions/workflows/server.yml) Manifesto / ggml / ops LLM inference in C/C++ Recent API changes - Changelog for libllama API - Changelog for llama-server REST API Hot topics - **Hugging Face cache migration: models downloaded with -hf are now stored in the standard Hugging Face cache directory, enabling sharing with other ...",
-      "readme_summary_ja": "llama.cpp !llama ![License: MIT](https://opensource.org/licenses/MIT) ![Release](https://github.com/ggml-org/llama.cpp/releases) ![Server](https://github.com/ggml-org/llama.cpp/actions/workflows/server.yml) Manifesto / ggml / ops LLM inference in C/C++ Recent API changes - Changelog for libllama API - Changelog for llama-server REST API Hot topics - **Hugging Face cache migration: models downloaded with -hf are now stored in the standard Hugging Face cache directory, enabling sharing with other ...",
-      "language": "C++",
-      "stars": 267
-    },
-    {
-      "rank": 13,
-      "repo_name": "siddharthvaddem/openscreen",
-      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "description_ja": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "readme_summary": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> &nbsp; <a href=\"https://discord.gg/yAQQhRaEeg\"> <img src=\"https://img.shields.io/discord/pHAUbcqNd?logo=discord&label=Discord&color=5865F2\" alt=\"Join Disco...",
-      "readme_summary_ja": "> [!WARNING] > This is very much in beta and might be buggy here and there (but hope you have a good experience!). <p align=\"center\"> <img src=\"public/openscreen.png\" alt=\"OpenScreen Logo\" width=\"64\" /> <br /> <br /> <a href=\"https://deepwiki.com/siddharthvaddem/openscreen\"> <img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\" /> </a> &nbsp; <a href=\"https://discord.gg/yAQQhRaEeg\"> <img src=\"https://img.shields.io/discord/pHAUbcqNd?logo=discord&label=Discord&color=5865F2\" alt=\"Join Disco...",
-      "language": "TypeScript",
-      "stars": 1838
-    },
-    {
-      "rank": 14,
+      "rank": 3,
       "repo_name": "NVIDIA/personaplex",
       "description": "PersonaPlex code.",
       "description_ja": "PersonaPlex code.",
       "readme_summary": "PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models ![Weights](https://huggingface.co/nvidia/personaplex-7b-v1) ![Paper](https://arxiv.org/abs/2602.06053) ![Demo](https://research.nvidia.com/labs/adlr/personaplex/) ![Discord](https://discord.gg/5jAXrrbwRb) PersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona control through text-based role prompts and audio-based voice conditioning. Trained on a combination of synthetic a...",
       "readme_summary_ja": "PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models ![Weights](https://huggingface.co/nvidia/personaplex-7b-v1) ![Paper](https://arxiv.org/abs/2602.06053) ![Demo](https://research.nvidia.com/labs/adlr/personaplex/) ![Discord](https://discord.gg/5jAXrrbwRb) PersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona control through text-based role prompts and audio-based voice conditioning. Trained on a combination of synthetic a...",
       "language": "Python",
-      "stars": 295
+      "stars": 662
+    },
+    {
+      "rank": 4,
+      "repo_name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "description_ja": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "readme_summary": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
+      "readme_summary_ja": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
+      "language": "TypeScript",
+      "stars": 1195
+    },
+    {
+      "rank": 5,
+      "repo_name": "tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "description_ja": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "readme_summary": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and knowledge bases. Search with keywords or natural language",
+      "readme_summary_ja": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and knowledge bases. Search with keywords or natural language",
+      "language": "TypeScript",
+      "stars": 859
+    },
+    {
+      "rank": 6,
+      "repo_name": "forrestchang/andrej-karpathy-skills",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" > \"They really like to overcomplicate code and AP...",
+      "readme_summary_ja": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" > \"They really like to overcomplicate code and AP...",
+      "language": "",
+      "stars": 51
+    },
+    {
+      "rank": 7,
+      "repo_name": "elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "description_ja": "Create Reddit Videos with just✨ one command ✨",
+      "readme_summary": "Reddit Video Maker Bot 🎥 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨. Created by Lewis Menelaws & TMRRW <a target=\"_blank\" href=\"https://tmrrwinc.ca\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528535-e274dc0b-7972-4b27-af22-637f8c370133.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54...",
+      "readme_summary_ja": "Reddit Video Maker Bot 🎥 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨. Created by Lewis Menelaws & TMRRW <a target=\"_blank\" href=\"https://tmrrwinc.ca\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528535-e274dc0b-7972-4b27-af22-637f8c370133.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54...",
+      "language": "Python",
+      "stars": 636
+    },
+    {
+      "rank": 8,
+      "repo_name": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "description_ja": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "readme_summary": "<div align=\"center\"> <img src=\"assets/logo-ver2.png\" alt=\"DeepTutor\" width=\"140\" style=\"border-radius: 15px;\"> DeepTutor: Agent-Native Personalized Tutoring ![Python 3.11+](https://www.python.org/downloads/) ![Next.js 16](https://nextjs.org/) ![License](LICENSE) ![GitHub release](https://github.com/HKUDS/DeepTutor/releases) ![arXiv](#) ![Discord](https://discord.gg/eRsjPgMU4t) ![Feishu](./Communication.md) ![WeChat](https://github.com/HKUDS/DeepTutor/issues/78) Features · Get Started · Explore ·...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/logo-ver2.png\" alt=\"DeepTutor\" width=\"140\" style=\"border-radius: 15px;\"> DeepTutor: Agent-Native Personalized Tutoring ![Python 3.11+](https://www.python.org/downloads/) ![Next.js 16](https://nextjs.org/) ![License](LICENSE) ![GitHub release](https://github.com/HKUDS/DeepTutor/releases) ![arXiv](#) ![Discord](https://discord.gg/eRsjPgMU4t) ![Feishu](./Communication.md) ![WeChat](https://github.com/HKUDS/DeepTutor/issues/78) Features · Get Started · Explore ·...",
+      "language": "Python",
+      "stars": 168
+    },
+    {
+      "rank": 9,
+      "repo_name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "description_ja": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "readme_summary": "SEO Machine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. Overview SEO Machine is built on Claude Code and provides: - **Custom Commands**: /research, /write, /rewrite, /analyze-existing, /optimize, /performance-review, /publish-draft, /article, /priorities, plus specialized research and landing page commands - **Speciali...",
+      "readme_summary_ja": "SEO Machine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. Overview SEO Machine is built on Claude Code and provides: - **Custom Commands**: /research, /write, /rewrite, /analyze-existing, /optimize, /performance-review, /publish-draft, /article, /priorities, plus specialized research and landing page commands - **Speciali...",
+      "language": "Python",
+      "stars": 215
     }
   ]
 }
