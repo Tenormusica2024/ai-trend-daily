@@ -1,96 +1,116 @@
 {
-  "updated_at": "2026-04-08 03:53:07",
-  "total_repos": 9,
+  "updated_at": "2026-04-09 03:49:58",
+  "total_repos": 11,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "google-ai-edge/gallery",
-      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "description_ja": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "readme_summary": "Google AI Edge Gallery ✨ ![License](LICENSE) ![GitHub release (latest by date)](https://github.com/google-ai-edge/gallery/releases) **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.** AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. **Now Featurin...",
-      "readme_summary_ja": "Google AI Edge Gallery ✨ ![License](LICENSE) ![GitHub release (latest by date)](https://github.com/google-ai-edge/gallery/releases) **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.** AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. **Now Featurin...",
-      "language": "Kotlin",
-      "stars": 897
-    },
-    {
-      "rank": 2,
-      "repo_name": "google-ai-edge/LiteRT-LM",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance (blog). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI: 🌟 Key Features - 📱 **Cross-Platform Support**: Android, iOS, Web, Desktop, and IoT (e.g",
-      "readme_summary_ja": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance (blog). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI: 🌟 Key Features - 📱 **Cross-Platform Support**: Android, iOS, Web, Desktop, and IoT (e.g",
-      "language": "C++",
-      "stars": 528
-    },
-    {
-      "rank": 3,
-      "repo_name": "NVIDIA/personaplex",
-      "description": "PersonaPlex code.",
-      "description_ja": "PersonaPlex code.",
-      "readme_summary": "PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models ![Weights](https://huggingface.co/nvidia/personaplex-7b-v1) ![Paper](https://arxiv.org/abs/2602.06053) ![Demo](https://research.nvidia.com/labs/adlr/personaplex/) ![Discord](https://discord.gg/5jAXrrbwRb) PersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona control through text-based role prompts and audio-based voice conditioning. Trained on a combination of synthetic a...",
-      "readme_summary_ja": "PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models ![Weights](https://huggingface.co/nvidia/personaplex-7b-v1) ![Paper](https://arxiv.org/abs/2602.06053) ![Demo](https://research.nvidia.com/labs/adlr/personaplex/) ![Discord](https://discord.gg/5jAXrrbwRb) PersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona control through text-based role prompts and audio-based voice conditioning. Trained on a combination of synthetic a...",
-      "language": "Python",
-      "stars": 662
-    },
-    {
-      "rank": 4,
-      "repo_name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "description_ja": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "readme_summary": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
-      "readme_summary_ja": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
-      "language": "TypeScript",
-      "stars": 1195
-    },
-    {
-      "rank": 5,
-      "repo_name": "tobi/qmd",
-      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "description_ja": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "readme_summary": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and knowledge bases. Search with keywords or natural language",
-      "readme_summary_ja": "QMD - Query Markup Documents An on-device search engine for everything you need to remember. Index your markdown notes, meeting transcripts, documentation, and knowledge bases. Search with keywords or natural language",
-      "language": "TypeScript",
-      "stars": 859
-    },
-    {
-      "rank": 6,
       "repo_name": "forrestchang/andrej-karpathy-skills",
       "description": "No description provided",
       "description_ja": "説明なし",
       "readme_summary": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" > \"They really like to overcomplicate code and AP...",
       "readme_summary_ja": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" > \"They really like to overcomplicate code and AP...",
       "language": "",
-      "stars": 51
+      "stars": 702
     },
     {
-      "rank": 7,
-      "repo_name": "elebumm/RedditVideoMakerBot",
-      "description": "Create Reddit Videos with just✨ one command ✨",
-      "description_ja": "Create Reddit Videos with just✨ one command ✨",
-      "readme_summary": "Reddit Video Maker Bot 🎥 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨. Created by Lewis Menelaws & TMRRW <a target=\"_blank\" href=\"https://tmrrwinc.ca\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528535-e274dc0b-7972-4b27-af22-637f8c370133.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54...",
-      "readme_summary_ja": "Reddit Video Maker Bot 🎥 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨. Created by Lewis Menelaws & TMRRW <a target=\"_blank\" href=\"https://tmrrwinc.ca\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528535-e274dc0b-7972-4b27-af22-637f8c370133.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54...",
-      "language": "Python",
-      "stars": 636
-    },
-    {
-      "rank": 8,
-      "repo_name": "HKUDS/DeepTutor",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "description_ja": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "readme_summary": "<div align=\"center\"> <img src=\"assets/logo-ver2.png\" alt=\"DeepTutor\" width=\"140\" style=\"border-radius: 15px;\"> DeepTutor: Agent-Native Personalized Tutoring ![Python 3.11+](https://www.python.org/downloads/) ![Next.js 16](https://nextjs.org/) ![License](LICENSE) ![GitHub release](https://github.com/HKUDS/DeepTutor/releases) ![arXiv](#) ![Discord](https://discord.gg/eRsjPgMU4t) ![Feishu](./Communication.md) ![WeChat](https://github.com/HKUDS/DeepTutor/issues/78) Features · Get Started · Explore ·...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/logo-ver2.png\" alt=\"DeepTutor\" width=\"140\" style=\"border-radius: 15px;\"> DeepTutor: Agent-Native Personalized Tutoring ![Python 3.11+](https://www.python.org/downloads/) ![Next.js 16](https://nextjs.org/) ![License](LICENSE) ![GitHub release](https://github.com/HKUDS/DeepTutor/releases) ![arXiv](#) ![Discord](https://discord.gg/eRsjPgMU4t) ![Feishu](./Communication.md) ![WeChat](https://github.com/HKUDS/DeepTutor/issues/78) Features · Get Started · Explore ·...",
-      "language": "Python",
-      "stars": 168
-    },
-    {
-      "rank": 9,
+      "rank": 2,
       "repo_name": "TheCraigHewitt/seomachine",
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "description_ja": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "readme_summary": "SEO Machine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. Overview SEO Machine is built on Claude Code and provides: - **Custom Commands**: /research, /write, /rewrite, /analyze-existing, /optimize, /performance-review, /publish-draft, /article, /priorities, plus specialized research and landing page commands - **Speciali...",
       "readme_summary_ja": "SEO Machine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. Overview SEO Machine is built on Claude Code and provides: - **Custom Commands**: /research, /write, /rewrite, /analyze-existing, /optimize, /performance-review, /publish-draft, /article, /priorities, plus specialized research and landing page commands - **Speciali...",
       "language": "Python",
-      "stars": 215
+      "stars": 649
+    },
+    {
+      "rank": 3,
+      "repo_name": "google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "description_ja": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "readme_summary": "Google AI Edge Gallery ✨ ![License](LICENSE) ![GitHub release (latest by date)](https://github.com/google-ai-edge/gallery/releases) **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.** AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. **Now Featurin...",
+      "readme_summary_ja": "Google AI Edge Gallery ✨ ![License](LICENSE) ![GitHub release (latest by date)](https://github.com/google-ai-edge/gallery/releases) **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.** AI Edge Gallery is the premier destination for running the world's most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast. **Now Featurin...",
+      "language": "Kotlin",
+      "stars": 853
+    },
+    {
+      "rank": 4,
+      "repo_name": "NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "description_ja": "PersonaPlex code.",
+      "readme_summary": "PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models ![Weights](https://huggingface.co/nvidia/personaplex-7b-v1) ![Paper](https://arxiv.org/abs/2602.06053) ![Demo](https://research.nvidia.com/labs/adlr/personaplex/) ![Discord](https://discord.gg/5jAXrrbwRb) PersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona control through text-based role prompts and audio-based voice conditioning. Trained on a combination of synthetic a...",
+      "readme_summary_ja": "PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models ![Weights](https://huggingface.co/nvidia/personaplex-7b-v1) ![Paper](https://arxiv.org/abs/2602.06053) ![Demo](https://research.nvidia.com/labs/adlr/personaplex/) ![Discord](https://discord.gg/5jAXrrbwRb) PersonaPlex is a real-time, full-duplex speech-to-speech conversational model that enables persona control through text-based role prompts and audio-based voice conditioning. Trained on a combination of synthetic a...",
+      "language": "Python",
+      "stars": 586
+    },
+    {
+      "rank": 5,
+      "repo_name": "google-ai-edge/LiteRT-LM",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance (blog). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI: 🌟 Key Features - 📱 **Cross-Platform Support**: Android, iOS, Web, Desktop, and IoT (e.g",
+      "readme_summary_ja": "LiteRT-LM LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices. 🔗 Product Website 🔥 What's New: Gemma 4 support with LiteRT-LM Deploy Gemma 4 across a broad range of hardware with stellar performance (blog). 👉 Try on Linux, macOS, Windows (WSL) or Raspberry Pi with the LiteRT-LM CLI: 🌟 Key Features - 📱 **Cross-Platform Support**: Android, iOS, Web, Desktop, and IoT (e.g",
+      "language": "C++",
+      "stars": 501
+    },
+    {
+      "rank": 6,
+      "repo_name": "elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "description_ja": "Create Reddit Videos with just✨ one command ✨",
+      "readme_summary": "Reddit Video Maker Bot 🎥 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨. Created by Lewis Menelaws & TMRRW <a target=\"_blank\" href=\"https://tmrrwinc.ca\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528535-e274dc0b-7972-4b27-af22-637f8c370133.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54...",
+      "readme_summary_ja": "Reddit Video Maker Bot 🎥 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨. Created by Lewis Menelaws & TMRRW <a target=\"_blank\" href=\"https://tmrrwinc.ca\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528535-e274dc0b-7972-4b27-af22-637f8c370133.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54...",
+      "language": "Python",
+      "stars": 555
+    },
+    {
+      "rank": 7,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 2028
+    },
+    {
+      "rank": 8,
+      "repo_name": "newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "description_ja": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "readme_summary": "![License](https://opensource.org/licenses/Apache-2.0) !GitHub commit activity ![codecov](https://codecov.io/gh/newton-physics/newton) ![Push - AWS GPU](https://github.com/newton-physics/newton/actions/workflows/push_aws_gpu.yml) Newton Newton is a GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. Newton extends and generalizes Warp's (deprecated) warp.sim module, and integrates MuJoCo Warp as its primary backend. New...",
+      "readme_summary_ja": "![License](https://opensource.org/licenses/Apache-2.0) !GitHub commit activity ![codecov](https://codecov.io/gh/newton-physics/newton) ![Push - AWS GPU](https://github.com/newton-physics/newton/actions/workflows/push_aws_gpu.yml) Newton Newton is a GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. Newton extends and generalizes Warp's (deprecated) warp.sim module, and integrates MuJoCo Warp as its primary backend. New...",
+      "language": "Python",
+      "stars": 91
+    },
+    {
+      "rank": 9,
+      "repo_name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "description_ja": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "readme_summary": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
+      "readme_summary_ja": "GitNexus ⚠️ Important Notice:** GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any other platform is **not affiliated with, endorsed by, or created by** this project or its maintainers. Do not purchase any cryptocurrency claiming association with GitNexus",
+      "language": "TypeScript",
+      "stars": 980
+    },
+    {
+      "rank": 10,
+      "repo_name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "description_ja": "An AI Hedge Fund Team",
+      "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "readme_summary_ja": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "language": "Python",
+      "stars": 151
+    },
+    {
+      "rank": 11,
+      "repo_name": "goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "description_ja": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "readme_summary": "Harbor ![CI](https://github.com/goharbor/harbor/actions/workflows/CI.yml) ![Go Report Card](https://goreportcard.com/report/github.com/goharbor/harbor) ![Coverage Status](https://codecov.io/gh/goharbor/harbor) ![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/2095) ![Codacy Badge](https://www.codacy.com/gh/goharbor/harbor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=goharbor/harbor&amp;utm_campaign=Badge_Grade) !Code scanning - action !OCI Dis...",
+      "readme_summary_ja": "Harbor ![CI](https://github.com/goharbor/harbor/actions/workflows/CI.yml) ![Go Report Card](https://goreportcard.com/report/github.com/goharbor/harbor) ![Coverage Status](https://codecov.io/gh/goharbor/harbor) ![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/2095) ![Codacy Badge](https://www.codacy.com/gh/goharbor/harbor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=goharbor/harbor&amp;utm_campaign=Badge_Grade) !Code scanning - action !OCI Dis...",
+      "language": "Go",
+      "stars": 42
     }
   ]
 }
