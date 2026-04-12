@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-04-11 03:39:41",
-  "total_repos": 12,
+  "updated_at": "2026-04-12 04:12:55",
+  "total_repos": 13,
   "ranking": [
     {
       "rank": 1,
-      "repo_name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "description_ja": "Python tool for converting files and office documents to Markdown.",
-      "readme_summary": "MarkItDown ![PyPI](https://pypi.org/project/markitdown/) !PyPI - Downloads ![Built by AutoGen Team](https://github.com/microsoft/autogen) > [!TIP] > MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. > [!IMPORTANT] > Breaking changes between 0.0.1 to 0.1.0: > * Dependencies are now organized into optional feature-groups (further details below)",
-      "readme_summary_ja": "MarkItDown ![PyPI](https://pypi.org/project/markitdown/) !PyPI - Downloads ![Built by AutoGen Team](https://github.com/microsoft/autogen) > [!TIP] > MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. > [!IMPORTANT] > Breaking changes between 0.0.1 to 0.1.0: > * Dependencies are now organized into optional feature-groups (further details below)",
-      "language": "Python",
-      "stars": 2352
-    },
-    {
-      "rank": 2,
-      "repo_name": "coleam00/Archon",
-      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "description_ja": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo.png\" alt=\"Archon\" width=\"160\" /> </p> <h1 align=\"center\">Archon</h1> <p align=\"center\"> The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/13964\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13964\" alt=\"coleam00%2FArchon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"ce...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo.png\" alt=\"Archon\" width=\"160\" /> </p> <h1 align=\"center\">Archon</h1> <p align=\"center\"> The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/13964\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13964\" alt=\"coleam00%2FArchon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"ce...",
-      "language": "TypeScript",
-      "stars": 756
-    },
-    {
-      "rank": 3,
       "repo_name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "description_ja": "The agent that grows with you",
       "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "language": "Python",
-      "stars": 7671
+      "stars": 6438
+    },
+    {
+      "rank": 2,
+      "repo_name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "description_ja": "Python tool for converting files and office documents to Markdown.",
+      "readme_summary": "MarkItDown ![PyPI](https://pypi.org/project/markitdown/) !PyPI - Downloads ![Built by AutoGen Team](https://github.com/microsoft/autogen) > [!TIP] > MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. > [!IMPORTANT] > Breaking changes between 0.0.1 to 0.1.0: > * Dependencies are now organized into optional feature-groups (further details below)",
+      "readme_summary_ja": "MarkItDown ![PyPI](https://pypi.org/project/markitdown/) !PyPI - Downloads ![Built by AutoGen Team](https://github.com/microsoft/autogen) > [!TIP] > MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. > [!IMPORTANT] > Breaking changes between 0.0.1 to 0.1.0: > * Dependencies are now organized into optional feature-groups (further details below)",
+      "language": "Python",
+      "stars": 3086
+    },
+    {
+      "rank": 3,
+      "repo_name": "coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "description_ja": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo.png\" alt=\"Archon\" width=\"160\" /> </p> <h1 align=\"center\">Archon</h1> <p align=\"center\"> The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/13964\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13964\" alt=\"coleam00%2FArchon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"ce...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo.png\" alt=\"Archon\" width=\"160\" /> </p> <h1 align=\"center\">Archon</h1> <p align=\"center\"> The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/13964\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13964\" alt=\"coleam00%2FArchon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"ce...",
+      "language": "TypeScript",
+      "stars": 1346
     },
     {
       "rank": 4,
-      "repo_name": "rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "description_ja": "Open-source AI coworker, with memory",
-      "readme_summary": "<a href=\"https://www.youtube.com/watch?v=5AWoGo-L16I\" target=\"_blank\" rel=\"noopener noreferrer\"> <img width=\"1339\" height=\"607\" alt=\"rowboat-github-2\" src=\"https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901\" /> </a> <h5 align=\"center\"> <p align=\"center\" style=\"display: flex; justify-content: center; gap: 20px; align-items: center;\"> <a href=\"https://trendshift.io/repositories/13609\" target=\"blank\"> <img src=\"https://trendshift.io/api/badge/repositories/13609\" alt=\"ro...",
-      "readme_summary_ja": "<a href=\"https://www.youtube.com/watch?v=5AWoGo-L16I\" target=\"_blank\" rel=\"noopener noreferrer\"> <img width=\"1339\" height=\"607\" alt=\"rowboat-github-2\" src=\"https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901\" /> </a> <h5 align=\"center\"> <p align=\"center\" style=\"display: flex; justify-content: center; gap: 20px; align-items: center;\"> <a href=\"https://trendshift.io/repositories/13609\" target=\"blank\"> <img src=\"https://trendshift.io/api/badge/repositories/13609\" alt=\"ro...",
-      "language": "TypeScript",
-      "stars": 507
+      "repo_name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_ja": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "readme_summary": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" > \"They really like to overcomplicate code and AP...",
+      "readme_summary_ja": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" > \"They really like to overcomplicate code and AP...",
+      "language": "",
+      "stars": 1066
     },
     {
       "rank": 5,
@@ -50,77 +50,87 @@
       "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/banner.jpg\" alt=\"Multica — humans and agents, side by side\" width=\"100%\"> </p> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/assets/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/assets/logo-light.svg\"> <img alt=\"Multica\" src=\"docs/assets/logo-light.svg\" width=\"50\"> </picture> Multica **Your next 10 hires won't be human.** The open-source managed agents platform.<br/> Turn coding agent...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/banner.jpg\" alt=\"Multica — humans and agents, side by side\" width=\"100%\"> </p> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/assets/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/assets/logo-light.svg\"> <img alt=\"Multica\" src=\"docs/assets/logo-light.svg\" width=\"50\"> </picture> Multica **Your next 10 hires won't be human.** The open-source managed agents platform.<br/> Turn coding agent...",
       "language": "TypeScript",
-      "stars": 1506
+      "stars": 1948
     },
     {
       "rank": 6,
-      "repo_name": "forrestchang/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "description_ja": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "readme_summary": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" > \"They really like to overcomplicate code and AP...",
-      "readme_summary_ja": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" > \"They really like to overcomplicate code and AP...",
-      "language": "",
-      "stars": 1450
-    },
-    {
-      "rank": 7,
-      "repo_name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "description_ja": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "readme_summary": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img...",
-      "readme_summary_ja": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img...",
-      "language": "Python",
-      "stars": 601
-    },
-    {
-      "rank": 8,
-      "repo_name": "HKUDS/DeepTutor",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "description_ja": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "readme_summary": "<div align=\"center\"> <img src=\"assets/logo-ver2.png\" alt=\"DeepTutor\" width=\"140\" style=\"border-radius: 15px;\"> DeepTutor: Agent-Native Personalized Tutoring <a href=\"https://trendshift.io/repositories/17099\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17099\" alt=\"HKUDS%2FDeepTutor | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![Python 3.11+](https://www.python.org/downloads/) ![Next.js 16](https://nextjs.org/) ![License](LICENSE) ![Git...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/logo-ver2.png\" alt=\"DeepTutor\" width=\"140\" style=\"border-radius: 15px;\"> DeepTutor: Agent-Native Personalized Tutoring <a href=\"https://trendshift.io/repositories/17099\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17099\" alt=\"HKUDS%2FDeepTutor | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![Python 3.11+](https://www.python.org/downloads/) ![Next.js 16](https://nextjs.org/) ![License](LICENSE) ![Git...",
-      "language": "Python",
-      "stars": 1424
-    },
-    {
-      "rank": 9,
-      "repo_name": "opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "description_ja": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "readme_summary": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
-      "readme_summary_ja": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
-      "language": "Java",
-      "stars": 1306
-    },
-    {
-      "rank": 10,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 2150
-    },
-    {
-      "rank": 11,
-      "repo_name": "jqlang/jq",
-      "description": "Command-line JSON processor",
-      "description_ja": "Command-line JSON processor",
-      "readme_summary": "jq jq is a lightweight and flexible command-line JSON processor akin to sed,awk,grep, and friends for JSON data. It's written in portable C and has zero runtime dependencies, allowing you to easily slice, filter, map, and transform structured data. Documentation - **Official Documentation**: jqlang.org - **Try jq Online**: play.jqlang.org Installation Prebuilt Binaries Download the latest releases from the GitHub release page",
-      "readme_summary_ja": "jq jq is a lightweight and flexible command-line JSON processor akin to sed,awk,grep, and friends for JSON data. It's written in portable C and has zero runtime dependencies, allowing you to easily slice, filter, map, and transform structured data. Documentation - **Official Documentation**: jqlang.org - **Try jq Online**: play.jqlang.org Installation Prebuilt Binaries Download the latest releases from the GitHub release page",
-      "language": "C",
-      "stars": 75
-    },
-    {
-      "rank": 12,
       "repo_name": "shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "description_ja": "practice made claude perfect",
       "readme_summary": "claude-code-best-practice from vibe coding to agentic engineering - practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orche...",
       "readme_summary_ja": "claude-code-best-practice from vibe coding to agentic engineering - practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orche...",
       "language": "HTML",
-      "stars": 1251
+      "stars": 1475
+    },
+    {
+      "rank": 7,
+      "repo_name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "description_ja": "所有小初高、大学PDF教材。",
+      "readme_summary": "项目的由来 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 学习数学 希望未来出现更多不是为了考学而读书的人。 小学数学 - 一年级上册 - 一年级下册 - 二年级上册 - 二年级下册 - 三年级上册 - 三年级下册 - 四年级上册 - 四年级下册 - 五年级上册 - 五年级下册 - 六年级上册 - 六年级下册 初中数学 - 初一上册 - 初一下册 - 初二上册 - 初二下册 - 初三上册 - 初三下册 高中数学 - 目录 大学数学 - 高等数学 - 线性代数 - 离散数学 - 概率论 - 更多数学资料-(大学数学网) 问题：如何合并被拆分的文件？ 由于 GitHub 对单个文件的上传有最大限制，超过 100MB 的文件会被拒绝上传，超过 50MB 的文件上传时会收到警告。因此，文件大小超过 50MB 的文件会被拆分成每个 35MB 的多个文件。 示...",
+      "readme_summary_ja": "项目的由来 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 学习数学 希望未来出现更多不是为了考学而读书的人。 小学数学 - 一年级上册 - 一年级下册 - 二年级上册 - 二年级下册 - 三年级上册 - 三年级下册 - 四年级上册 - 四年级下册 - 五年级上册 - 五年级下册 - 六年级上册 - 六年级下册 初中数学 - 初一上册 - 初一下册 - 初二上册 - 初二下册 - 初三上册 - 初三下册 高中数学 - 目录 大学数学 - 高等数学 - 线性代数 - 离散数学 - 概率论 - 更多数学资料-(大学数学网) 问题：如何合并被拆分的文件？ 由于 GitHub 对单个文件的上传有最大限制，超过 100MB 的文件会被拒绝上传，超过 50MB 的文件上传时会收到警告。因此，文件大小超过 50MB 的文件会被拆分成每个 35MB 的多个文件。 示...",
+      "language": "Roff",
+      "stars": 361
+    },
+    {
+      "rank": 8,
+      "repo_name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "description_ja": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "readme_summary": "<h2 align=\"center\">VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</h2> <p align=\"center\"> <b>English</b> | <a href=\"./README_zh.md\">中文</a> </p> <p align=\"center\"> <a href=\"https://github.com/OpenBMB/VoxCPM/\"><img src=\"https://img.shields.io/badge/Project%20Page-GitHub-blue\" alt=\"Project Page\"></a> <a href=\"https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo\"><img src=\"https://img.shields.io/badge/Live%20Playground-Demo-orange\" alt=\"L...",
+      "readme_summary_ja": "<h2 align=\"center\">VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</h2> <p align=\"center\"> <b>English</b> | <a href=\"./README_zh.md\">中文</a> </p> <p align=\"center\"> <a href=\"https://github.com/OpenBMB/VoxCPM/\"><img src=\"https://img.shields.io/badge/Project%20Page-GitHub-blue\" alt=\"Project Page\"></a> <a href=\"https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo\"><img src=\"https://img.shields.io/badge/Live%20Playground-Demo-orange\" alt=\"L...",
+      "language": "Python",
+      "stars": 1084
+    },
+    {
+      "rank": 9,
+      "repo_name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "description_ja": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "readme_summary": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img...",
+      "readme_summary_ja": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img...",
+      "language": "Python",
+      "stars": 595
+    },
+    {
+      "rank": 10,
+      "repo_name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "description_ja": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "readme_summary": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
+      "readme_summary_ja": "<!-- AI-AGENT-SUMMARY name: opendataloader-pdf category: PDF data extraction, PDF accessibility automation license: Apache-2.0 solves: [PDF to structured data for RAG/LLM pipelines, automate PDF accessibility compliance — layout analysis + auto-tagging to Tagged PDF (first open-source end-to-end)] input: PDF files (digital, scanned, tagged) output: Markdown, JSON (with bounding boxes), HTML, Tagged PDF, PDF/UA (enterprise) sdk: Python, Node.js, Java requirements: Java 11+ pricing: open-source co...",
+      "language": "Java",
+      "stars": 775
+    },
+    {
+      "rank": 11,
+      "repo_name": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "description_ja": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "readme_summary": "<div align=\"center\"> <img src=\"assets/logo-ver2.png\" alt=\"DeepTutor\" width=\"140\" style=\"border-radius: 15px;\"> DeepTutor: Agent-Native Personalized Tutoring <a href=\"https://trendshift.io/repositories/17099\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17099\" alt=\"HKUDS%2FDeepTutor | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![Python 3.11+](https://www.python.org/downloads/) ![Next.js 16](https://nextjs.org/) ![License](LICENSE) ![Git...",
+      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/logo-ver2.png\" alt=\"DeepTutor\" width=\"140\" style=\"border-radius: 15px;\"> DeepTutor: Agent-Native Personalized Tutoring <a href=\"https://trendshift.io/repositories/17099\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17099\" alt=\"HKUDS%2FDeepTutor | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> ![Python 3.11+](https://www.python.org/downloads/) ![Next.js 16](https://nextjs.org/) ![License](LICENSE) ![Git...",
+      "language": "Python",
+      "stars": 837
+    },
+    {
+      "rank": 12,
+      "repo_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "description_ja": "An agentic skills framework & software development methodology that works.",
+      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
+      "language": "Shell",
+      "stars": 1591
+    },
+    {
+      "rank": 13,
+      "repo_name": "alexpate/awesome-design-systems",
+      "description": "💅🏻 ⚒ A collection of awesome design systems",
+      "description_ja": "💅🏻 ⚒ A collection of awesome design systems",
+      "readme_summary": "!cover !Contributions Welcome Know a resource that isn't listed below? Feel free to create a new pull request. > A design system is a collection of documentation on principles and best practices, that helps guide a team to build digital products. They are often embodied in UI libraries and pattern libraries, but can extend to include guides on other areas such as 'Voice and Tone'",
+      "readme_summary_ja": "!cover !Contributions Welcome Know a resource that isn't listed below? Feel free to create a new pull request. > A design system is a collection of documentation on principles and best practices, that helps guide a team to build digital products. They are often embodied in UI libraries and pattern libraries, but can extend to include guides on other areas such as 'Voice and Tone'",
+      "language": "",
+      "stars": 2050
     }
   ]
 }
