@@ -1,146 +1,166 @@
 {
-  "updated_at": "2026-04-13 04:22:43",
-  "total_repos": 14,
+  "updated_at": "2026-04-14 04:11:50",
+  "total_repos": 16,
   "ranking": [
     {
       "rank": 1,
+      "repo_name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_ja": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "readme_summary": "Karpathy-Inspired Claude Code Guidelines > **Looking for a managed agents platform?** Check out Multica — an open-source platform for running and managing coding agents with reusable skills. A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking",
+      "readme_summary_ja": "Karpathy-Inspired Claude Code Guidelines > **Looking for a managed agents platform?** Check out Multica — an open-source platform for running and managing coding agents with reusable skills. A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking",
+      "language": "",
+      "stars": 5733
+    },
+    {
+      "rank": 2,
       "repo_name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "description_ja": "The agent that grows with you",
       "readme_summary": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> Hermes Agent ☤ <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousResearch\"><img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"></a> <a href=\"https://github.com/NousR...",
       "language": "Python",
-      "stars": 7454
+      "stars": 11289
     },
     {
-      "rank": 2,
+      "rank": 3,
       "repo_name": "shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "description_ja": "Kronos: A Foundation Model for the Language of Financial Markets",
       "readme_summary": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img...",
       "readme_summary_ja": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img...",
       "language": "Python",
-      "stars": 1985
-    },
-    {
-      "rank": 3,
-      "repo_name": "forrestchang/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "description_ja": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "readme_summary": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" > \"They really like to overcomplicate code and AP...",
-      "readme_summary_ja": "Karpathy-Inspired Claude Code Guidelines A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking. They don't manage their confusion, don't seek clarifications, don't surface inconsistencies, don't present tradeoffs, don't push back when they should.\" > \"They really like to overcomplicate code and AP...",
-      "language": "",
-      "stars": 2369
+      "stars": 1554
     },
     {
       "rank": 4,
-      "repo_name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "description_ja": "Python tool for converting files and office documents to Markdown.",
-      "readme_summary": "MarkItDown ![PyPI](https://pypi.org/project/markitdown/) !PyPI - Downloads ![Built by AutoGen Team](https://github.com/microsoft/autogen) > [!TIP] > MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. > [!IMPORTANT] > Breaking changes between 0.0.1 to 0.1.0: > * Dependencies are now organized into optional feature-groups (further details below)",
-      "readme_summary_ja": "MarkItDown ![PyPI](https://pypi.org/project/markitdown/) !PyPI - Downloads ![Built by AutoGen Team](https://github.com/microsoft/autogen) > [!TIP] > MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. > [!IMPORTANT] > Breaking changes between 0.0.1 to 0.1.0: > * Dependencies are now organized into optional feature-groups (further details below)",
-      "language": "Python",
-      "stars": 2513
-    },
-    {
-      "rank": 5,
-      "repo_name": "multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "description_ja": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/banner.jpg\" alt=\"Multica — humans and agents, side by side\" width=\"100%\"> </p> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/assets/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/assets/logo-light.svg\"> <img alt=\"Multica\" src=\"docs/assets/logo-light.svg\" width=\"50\"> </picture> Multica **Your next 10 hires won't be human.** The open-source managed agents platform.<br/> Turn coding agent...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/banner.jpg\" alt=\"Multica — humans and agents, side by side\" width=\"100%\"> </p> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/assets/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/assets/logo-light.svg\"> <img alt=\"Multica\" src=\"docs/assets/logo-light.svg\" width=\"50\"> </picture> Multica **Your next 10 hires won't be human.** The open-source managed agents platform.<br/> Turn coding agent...",
-      "language": "TypeScript",
-      "stars": 1609
-    },
-    {
-      "rank": 6,
-      "repo_name": "coleam00/Archon",
-      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "description_ja": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo.png\" alt=\"Archon\" width=\"160\" /> </p> <h1 align=\"center\">Archon</h1> <p align=\"center\"> The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/13964\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13964\" alt=\"coleam00%2FArchon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"ce...",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo.png\" alt=\"Archon\" width=\"160\" /> </p> <h1 align=\"center\">Archon</h1> <p align=\"center\"> The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/13964\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13964\" alt=\"coleam00%2FArchon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"ce...",
-      "language": "TypeScript",
-      "stars": 612
-    },
-    {
-      "rank": 7,
-      "repo_name": "shanraisshan/claude-code-best-practice",
-      "description": "practice made claude perfect",
-      "description_ja": "practice made claude perfect",
-      "readme_summary": "claude-code-best-practice from vibe coding to agentic engineering - practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orche...",
-      "readme_summary_ja": "claude-code-best-practice from vibe coding to agentic engineering - practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orche...",
-      "language": "HTML",
-      "stars": 1548
-    },
-    {
-      "rank": 8,
-      "repo_name": "OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "description_ja": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "readme_summary": "<h2 align=\"center\">VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</h2> <p align=\"center\"> <b>English</b> | <a href=\"./README_zh.md\">中文</a> </p> <p align=\"center\"> <a href=\"https://github.com/OpenBMB/VoxCPM/\"><img src=\"https://img.shields.io/badge/Project%20Page-GitHub-blue\" alt=\"Project Page\"></a> <a href=\"https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo\"><img src=\"https://img.shields.io/badge/Live%20Playground-Demo-orange\" alt=\"L...",
-      "readme_summary_ja": "<h2 align=\"center\">VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</h2> <p align=\"center\"> <b>English</b> | <a href=\"./README_zh.md\">中文</a> </p> <p align=\"center\"> <a href=\"https://github.com/OpenBMB/VoxCPM/\"><img src=\"https://img.shields.io/badge/Project%20Page-GitHub-blue\" alt=\"Project Page\"></a> <a href=\"https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo\"><img src=\"https://img.shields.io/badge/Live%20Playground-Demo-orange\" alt=\"L...",
-      "language": "Python",
-      "stars": 1278
-    },
-    {
-      "rank": 9,
       "repo_name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
       "readme_summary_ja": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
       "language": "TypeScript",
-      "stars": 753
+      "stars": 3175
     },
     {
-      "rank": 10,
-      "repo_name": "ahujasid/blender-mcp",
-      "description": "No description provided",
-      "description_ja": "説明なし",
-      "readme_summary": "BlenderMCP - Blender Model Context Protocol Integration BlenderMCP connects Blender to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Blender. This integration enables prompt assisted 3D modeling, scene creation, and manipulation. **We have no official website",
-      "readme_summary_ja": "BlenderMCP - Blender Model Context Protocol Integration BlenderMCP connects Blender to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Blender. This integration enables prompt assisted 3D modeling, scene creation, and manipulation. **We have no official website",
+      "rank": 5,
+      "repo_name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "description_ja": "Python tool for converting files and office documents to Markdown.",
+      "readme_summary": "MarkItDown ![PyPI](https://pypi.org/project/markitdown/) !PyPI - Downloads ![Built by AutoGen Team](https://github.com/microsoft/autogen) > [!TIP] > MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. > [!IMPORTANT] > Breaking changes between 0.0.1 to 0.1.0: > * Dependencies are now organized into optional feature-groups (further details below)",
+      "readme_summary_ja": "MarkItDown ![PyPI](https://pypi.org/project/markitdown/) !PyPI - Downloads ![Built by AutoGen Team](https://github.com/microsoft/autogen) > [!TIP] > MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See markitdown-mcp for more information. > [!IMPORTANT] > Breaking changes between 0.0.1 to 0.1.0: > * Dependencies are now organized into optional feature-groups (further details below)",
       "language": "Python",
-      "stars": 215
+      "stars": 2808
     },
     {
-      "rank": 11,
-      "repo_name": "rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "description_ja": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "readme_summary": "![RustFS](https://rustfs.com) <p align=\"center\">RustFS is a high-performance, distributed object storage system built in Rust.</p> <p align=\"center\"> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build and Push Docker Images\" src=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml/badge.sv...",
-      "readme_summary_ja": "![RustFS](https://rustfs.com) <p align=\"center\">RustFS is a high-performance, distributed object storage system built in Rust.</p> <p align=\"center\"> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build and Push Docker Images\" src=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml/badge.sv...",
-      "language": "Rust",
-      "stars": 182
+      "rank": 6,
+      "repo_name": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description_ja": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "readme_summary": "<p align=\"center\"> <img src=\"docs/assets/banner.jpg\" alt=\"Multica — humans and agents, side by side\" width=\"100%\"> </p> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/assets/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/assets/logo-light.svg\"> <img alt=\"Multica\" src=\"docs/assets/logo-light.svg\" width=\"50\"> </picture> Multica **Your next 10 hires won't be human.** The open-source managed agents platform.<br/> Turn coding agent...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"docs/assets/banner.jpg\" alt=\"Multica — humans and agents, side by side\" width=\"100%\"> </p> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/assets/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/assets/logo-light.svg\"> <img alt=\"Multica\" src=\"docs/assets/logo-light.svg\" width=\"50\"> </picture> Multica **Your next 10 hires won't be human.** The open-source managed agents platform.<br/> Turn coding agent...",
+      "language": "TypeScript",
+      "stars": 1715
     },
     {
-      "rank": 12,
-      "repo_name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "description_ja": "An AI Hedge Fund Team",
-      "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
-      "readme_summary_ja": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
-      "language": "Python",
-      "stars": 663
+      "rank": 7,
+      "repo_name": "coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "description_ja": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "readme_summary": "<p align=\"center\"> <img src=\"assets/logo.png\" alt=\"Archon\" width=\"160\" /> </p> <h1 align=\"center\">Archon</h1> <p align=\"center\"> The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/13964\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13964\" alt=\"coleam00%2FArchon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"ce...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"assets/logo.png\" alt=\"Archon\" width=\"160\" /> </p> <h1 align=\"center\">Archon</h1> <p align=\"center\"> The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/13964\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13964\" alt=\"coleam00%2FArchon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"ce...",
+      "language": "TypeScript",
+      "stars": 677
     },
     {
-      "rank": 13,
+      "rank": 8,
       "repo_name": "snarktank/ralph",
       "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
       "description_ja": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
       "readme_summary": "Ralph !Ralph Ralph is an autonomous AI agent loop that runs AI coding tools (Amp or Claude Code) repeatedly until all PRD items are complete. Each iteration is a fresh instance with clean context. Memory persists via git history, progress.txt, and prd.json",
       "readme_summary_ja": "Ralph !Ralph Ralph is an autonomous AI agent loop that runs AI coding tools (Amp or Claude Code) repeatedly until all PRD items are complete. Each iteration is a fresh instance with clean context. Memory persists via git history, progress.txt, and prd.json",
       "language": "TypeScript",
-      "stars": 463
+      "stars": 691
+    },
+    {
+      "rank": 9,
+      "repo_name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "description_ja": "An AI Hedge Fund Team",
+      "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "readme_summary_ja": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
+      "language": "Python",
+      "stars": 783
+    },
+    {
+      "rank": 10,
+      "repo_name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "description_ja": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "readme_summary": "Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free here). While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Claude API",
+      "readme_summary_ja": "Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free here). While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Claude API",
+      "language": "Jupyter Notebook",
+      "stars": 1012
+    },
+    {
+      "rank": 11,
+      "repo_name": "shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "description_ja": "practice made claude perfect",
+      "readme_summary": "claude-code-best-practice from vibe coding to agentic engineering - practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orche...",
+      "readme_summary_ja": "claude-code-best-practice from vibe coding to agentic engineering - practice makes claude perfect !updated with Claude Code-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br> ![Best Practice](best-practice/) ![Implemented](implementation/) ![Orchestration Workflow](orche...",
+      "language": "HTML",
+      "stars": 2461
+    },
+    {
+      "rank": 12,
+      "repo_name": "jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "description_ja": "The open-source voice synthesis studio",
+      "readme_summary": "<p align=\"center\"> <img src=\".github/assets/icon-dark.webp\" alt=\"Voicebox\" width=\"120\" height=\"120\" /> </p> <h1 align=\"center\">Voicebox</h1> <p align=\"center\"> <strong>The open-source voice synthesis studio.</strong><br/> Clone voices. Generate speech. Apply effects",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\".github/assets/icon-dark.webp\" alt=\"Voicebox\" width=\"120\" height=\"120\" /> </p> <h1 align=\"center\">Voicebox</h1> <p align=\"center\"> <strong>The open-source voice synthesis studio.</strong><br/> Clone voices. Generate speech. Apply effects",
+      "language": "TypeScript",
+      "stars": 512
+    },
+    {
+      "rank": 13,
+      "repo_name": "ahujasid/blender-mcp",
+      "description": "No description provided",
+      "description_ja": "説明なし",
+      "readme_summary": "BlenderMCP - Blender Model Context Protocol Integration BlenderMCP connects Blender to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Blender. This integration enables prompt assisted 3D modeling, scene creation, and manipulation. **We have no official website",
+      "readme_summary_ja": "BlenderMCP - Blender Model Context Protocol Integration BlenderMCP connects Blender to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Blender. This integration enables prompt assisted 3D modeling, scene creation, and manipulation. **We have no official website",
+      "language": "Python",
+      "stars": 339
     },
     {
       "rank": 14,
+      "repo_name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "description_ja": "real time face swap and one-click video deepfake with only a single image",
+      "readme_summary": "<h1 align=\"center\">Deep-Live-Cam 2.1.2</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Discla...",
+      "readme_summary_ja": "<h1 align=\"center\">Deep-Live-Cam 2.1.2</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p align=\"center\"> <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\"> </p> Discla...",
+      "language": "Python",
+      "stars": 217
+    },
+    {
+      "rank": 15,
+      "repo_name": "gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "description_ja": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "readme_summary": "<div align=\"center\"> GET SHIT DONE **English** · Português · 简体中文 · 日本語 · 한국어 **A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code, OpenCode, Gemini CLI, Kilo, Codex, Copilot, Cursor, Windsurf, Antigravity, Augment, Trae, Qwen Code, Cline, and CodeBuddy.** **Solves context rot — the quality degradation that happens as Claude fills its context window.** ![npm version](https://www.npmjs.com/package/get-shit-done-cc) ![npm downloads](h...",
+      "readme_summary_ja": "<div align=\"center\"> GET SHIT DONE **English** · Português · 简体中文 · 日本語 · 한국어 **A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code, OpenCode, Gemini CLI, Kilo, Codex, Copilot, Cursor, Windsurf, Antigravity, Augment, Trae, Qwen Code, Cline, and CodeBuddy.** **Solves context rot — the quality degradation that happens as Claude fills its context window.** ![npm version](https://www.npmjs.com/package/get-shit-done-cc) ![npm downloads](h...",
+      "language": "JavaScript",
+      "stars": 655
+    },
+    {
+      "rank": 16,
       "repo_name": "TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "description_ja": "所有小初高、大学PDF教材。",
       "readme_summary": "项目的由来 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 学习数学 希望未来出现更多不是为了考学而读书的人。 小学数学 - 一年级上册 - 一年级下册 - 二年级上册 - 二年级下册 - 三年级上册 - 三年级下册 - 四年级上册 - 四年级下册 - 五年级上册 - 五年级下册 - 六年级上册 - 六年级下册 初中数学 - 初一上册 - 初一下册 - 初二上册 - 初二下册 - 初三上册 - 初三下册 高中数学 - 目录 大学数学 - 高等数学 - 线性代数 - 离散数学 - 概率论 - 更多数学资料-(大学数学网) 问题：如何合并被拆分的文件？ 由于 GitHub 对单个文件的上传有最大限制，超过 100MB 的文件会被拒绝上传，超过 50MB 的文件上传时会收到警告。因此，文件大小超过 50MB 的文件会被拆分成每个 35MB 的多个文件。 示...",
       "readme_summary_ja": "项目的由来 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 学习数学 希望未来出现更多不是为了考学而读书的人。 小学数学 - 一年级上册 - 一年级下册 - 二年级上册 - 二年级下册 - 三年级上册 - 三年级下册 - 四年级上册 - 四年级下册 - 五年级上册 - 五年级下册 - 六年级上册 - 六年级下册 初中数学 - 初一上册 - 初一下册 - 初二上册 - 初二下册 - 初三上册 - 初三下册 高中数学 - 目录 大学数学 - 高等数学 - 线性代数 - 离散数学 - 概率论 - 更多数学资料-(大学数学网) 问题：如何合并被拆分的文件？ 由于 GitHub 对单个文件的上传有最大限制，超过 100MB 的文件会被拒绝上传，超过 50MB 的文件上传时会收到警告。因此，文件大小超过 50MB 的文件会被拆分成每个 35MB 的多个文件。 示...",
       "language": "Roff",
-      "stars": 454
+      "stars": 703
     }
   ]
 }
