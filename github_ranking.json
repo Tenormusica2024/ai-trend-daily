@@ -1,136 +1,146 @@
 {
-  "updated_at": "2026-04-16 04:16:50",
-  "total_repos": 13,
+  "updated_at": "2026-04-17 04:13:56",
+  "total_repos": 14,
   "ranking": [
     {
       "rank": 1,
       "repo_name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "description_ja": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "readme_summary": "Karpathy-Inspired Claude Code Guidelines > Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. > > Follow me on X: https://x.com/jiayuan_jy A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking",
-      "readme_summary_ja": "Karpathy-Inspired Claude Code Guidelines > Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. > > Follow me on X: https://x.com/jiayuan_jy A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. The Problems From Andrej's post: > \"The models make wrong assumptions on your behalf and just run along with them without checking",
+      "readme_summary": null,
+      "readme_summary_ja": null,
       "language": "",
-      "stars": 9646
+      "stars": 7959
     },
     {
       "rank": 2,
-      "repo_name": "pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "description_ja": "Create and share 3D architectural projects.",
-      "readme_summary": "Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. ![MIT License](LICENSE) ![npm @pascal-app/core](https://www.npmjs.com/package/@pascal-app/core) ![npm @pascal-app/viewer](https://www.npmjs.com/package/@pascal-app/viewer) ![Discord](https://discord.gg/SaBRA9t2) ![X (Twitter)](https://x.com/pascal_app) https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Repository Architecture This is a Turborepo monorepo with three main packages: Separation o...",
-      "readme_summary_ja": "Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. ![MIT License](LICENSE) ![npm @pascal-app/core](https://www.npmjs.com/package/@pascal-app/core) ![npm @pascal-app/viewer](https://www.npmjs.com/package/@pascal-app/viewer) ![Discord](https://discord.gg/SaBRA9t2) ![X (Twitter)](https://x.com/pascal_app) https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Repository Architecture This is a Turborepo monorepo with three main packages: Separation o...",
-      "language": "TypeScript",
-      "stars": 1391
-    },
-    {
-      "rank": 3,
       "repo_name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "description_ja": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "readme_summary": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
-      "readme_summary_ja": "<h1 align=\"center\"> <br> <a href=\"https://github.com/thedotmack/claude-mem\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\"> <img src=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cl...",
+      "readme_summary": null,
+      "readme_summary_ja": null,
       "language": "TypeScript",
-      "stars": 2305
+      "stars": 1897
     },
     {
-      "rank": 4,
-      "repo_name": "Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "description_ja": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "readme_summary": "<p align=\"center\"> <h1 align=\"center\">《动手学大模型》系列编程实践教程</h1> </p> <p align=\"center\"> <a href=\"https://img.shields.io/badge/version-v0.1.0-blue\"> <img alt=\"version\" src=\"https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922\" /> </a> <a > <img alt=\"Status-building\" src=\"https://img.shields.io/badge/Status-building-blue\" /> </a> <a > <img alt=\"PRs-Welcome\" src=\"https://img.shields.io/badge/PRs-Welcome-red\" /> </a> <a href=\"https://github.com/Lordog/dive-into-llms/stargazers\"> <i...",
-      "readme_summary_ja": "<p align=\"center\"> <h1 align=\"center\">《动手学大模型》系列编程实践教程</h1> </p> <p align=\"center\"> <a href=\"https://img.shields.io/badge/version-v0.1.0-blue\"> <img alt=\"version\" src=\"https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922\" /> </a> <a > <img alt=\"Status-building\" src=\"https://img.shields.io/badge/Status-building-blue\" /> </a> <a > <img alt=\"PRs-Welcome\" src=\"https://img.shields.io/badge/PRs-Welcome-red\" /> </a> <a href=\"https://github.com/Lordog/dive-into-llms/stargazers\"> <i...",
-      "language": "Jupyter Notebook",
-      "stars": 941
-    },
-    {
-      "rank": 5,
-      "repo_name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "description_ja": "An AI Hedge Fund Team",
-      "readme_summary": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
-      "readme_summary_ja": "AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment",
-      "language": "Python",
-      "stars": 1058
-    },
-    {
-      "rank": 6,
-      "repo_name": "chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "description_ja": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "readme_summary": "Apollo-11 [![NASA][1]][2] [![SWH]][SWH_URL] [![Comanche]][ComancheMilestone] [![Luminary]][LuminaryMilestone] 🌐 [Azerbaijani][AZ], [bahasa Indonesia][ID], [Basa Jawa][JV], [Català][CA], [Čeština][CZ], [Dansk][DA], [Deutsch][DE], [English][EN], [Español][ES], [Français][FR], [Galego][GL], [Italiano][IT], [Kurdî][KU], [Lietuvių][LT], [Mongolian][MN], [Nederlands][NL], [Norsk][NO], [Polski][PL], [Português][PT_BR], [Română][RO], [Suomi][FI], [Svenska][SV], [tiếng Việt][VI], [Türkçe][TR], [Ελληνικά]...",
-      "readme_summary_ja": "Apollo-11 [![NASA][1]][2] [![SWH]][SWH_URL] [![Comanche]][ComancheMilestone] [![Luminary]][LuminaryMilestone] 🌐 [Azerbaijani][AZ], [bahasa Indonesia][ID], [Basa Jawa][JV], [Català][CA], [Čeština][CZ], [Dansk][DA], [Deutsch][DE], [English][EN], [Español][ES], [Français][FR], [Galego][GL], [Italiano][IT], [Kurdî][KU], [Lietuvių][LT], [Mongolian][MN], [Nederlands][NL], [Norsk][NO], [Polski][PL], [Português][PT_BR], [Română][RO], [Suomi][FI], [Svenska][SV], [tiếng Việt][VI], [Türkçe][TR], [Ελληνικά]...",
-      "language": "Assembly",
-      "stars": 606
-    },
-    {
-      "rank": 7,
-      "repo_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "description_ja": "An agentic skills framework & software development methodology that works.",
-      "readme_summary": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "readme_summary_ja": "Superpowers Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. How it works It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code",
-      "language": "Shell",
-      "stars": 2055
-    },
-    {
-      "rank": 8,
-      "repo_name": "jamiepine/voicebox",
-      "description": "The open-source voice synthesis studio",
-      "description_ja": "The open-source voice synthesis studio",
-      "readme_summary": "<p align=\"center\"> <img src=\".github/assets/icon-dark.webp\" alt=\"Voicebox\" width=\"120\" height=\"120\" /> </p> <h1 align=\"center\">Voicebox</h1> <p align=\"center\"> <strong>The open-source voice synthesis studio.</strong><br/> Clone voices. Generate speech. Apply effects",
-      "readme_summary_ja": "<p align=\"center\"> <img src=\".github/assets/icon-dark.webp\" alt=\"Voicebox\" width=\"120\" height=\"120\" /> </p> <h1 align=\"center\">Voicebox</h1> <p align=\"center\"> <strong>The open-source voice synthesis studio.</strong><br/> Clone voices. Generate speech. Apply effects",
-      "language": "TypeScript",
-      "stars": 1062
-    },
-    {
-      "rank": 9,
-      "repo_name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "description_ja": "A collective list of free APIs",
-      "readme_summary": "Try Public APIs for free The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years",
-      "readme_summary_ja": "Try Public APIs for free The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years",
-      "language": "Python",
-      "stars": 950
-    },
-    {
-      "rank": 10,
-      "repo_name": "vercel-labs/open-agents",
-      "description": "An open source template for building cloud agents.",
-      "description_ja": "An open source template for building cloud agents.",
-      "readme_summary": "Open Agents ![Deploy with Vercel](https://vercel.com/new/clone?project-name=open-agents&repository-name=open-agents&repository-url=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Fopen-agents&demo-title=Open+Agents&demo-description=Open-source+reference+app+for+building+and+running+background+coding+agents+on+Vercel.&demo-url=https%3A%2F%2Fopen-agents.dev%2F&env=POSTGRES_URL%2CJWE_SECRET%2CENCRYPTION_KEY%2CNEXT_PUBLIC_VERCEL_APP_CLIENT_ID%2CVERCEL_APP_CLIENT_SECRET%2CNEXT_PUBLIC_GITHUB_CLIENT_ID%2CGITHU...",
-      "readme_summary_ja": "Open Agents ![Deploy with Vercel](https://vercel.com/new/clone?project-name=open-agents&repository-name=open-agents&repository-url=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Fopen-agents&demo-title=Open+Agents&demo-description=Open-source+reference+app+for+building+and+running+background+coding+agents+on+Vercel.&demo-url=https%3A%2F%2Fopen-agents.dev%2F&env=POSTGRES_URL%2CJWE_SECRET%2CENCRYPTION_KEY%2CNEXT_PUBLIC_VERCEL_APP_CLIENT_ID%2CVERCEL_APP_CLIENT_SECRET%2CNEXT_PUBLIC_GITHUB_CLIENT_ID%2CGITHU...",
-      "language": "TypeScript",
-      "stars": 915
-    },
-    {
-      "rank": 11,
+      "rank": 3,
       "repo_name": "lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "description_ja": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "readme_summary": "<div align=\"center\"> <img src=\"assets/images/bar.jpg\" width=\"880\"/> </div> <p align=\"center\"> <a href=\"#english\">English</a> | <a href=\"#chinese\">中文</a> </p> --- <a name=\"english\"></a> 🌟 Overview **GenericAgent** is a minimal, self-evolving autonomous agent framework. Its core is just **~3K lines of code**. Through **9 atomic tools + a ~100-line Agent Loop**, it grants any LLM system-level control over a local computer — covering browser, terminal, filesystem, keyboard/mouse input, screen vision...",
-      "readme_summary_ja": "<div align=\"center\"> <img src=\"assets/images/bar.jpg\" width=\"880\"/> </div> <p align=\"center\"> <a href=\"#english\">English</a> | <a href=\"#chinese\">中文</a> </p> --- <a name=\"english\"></a> 🌟 Overview **GenericAgent** is a minimal, self-evolving autonomous agent framework. Its core is just **~3K lines of code**. Through **9 atomic tools + a ~100-line Agent Loop**, it grants any LLM system-level control over a local computer — covering browser, terminal, filesystem, keyboard/mouse input, screen vision...",
+      "readme_summary": null,
+      "readme_summary_ja": null,
       "language": "Python",
-      "stars": 446
+      "stars": 872
     },
     {
-      "rank": 12,
+      "rank": 4,
+      "repo_name": "jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "description_ja": "The open-source voice synthesis studio",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "TypeScript",
+      "stars": 880
+    },
+    {
+      "rank": 5,
+      "repo_name": "vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "description_ja": "An open source template for building cloud agents.",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "TypeScript",
+      "stars": 738
+    },
+    {
+      "rank": 6,
       "repo_name": "google/magika",
       "description": "Fast and accurate AI powered file content types detection",
       "description_ja": "Fast and accurate AI powered file content types detection",
-      "readme_summary": "Magika ![image](https://pypi.python.org/pypi/magika) ![NPM Version](https://npmjs.com/package/magika) ![image](https://pypi.python.org/pypi/magika) ![image](https://pypi.python.org/pypi/magika) ![Go Version](https://pkg.go.dev/github.com/google/magika/go) <!-- ![OpenSSF Scorecard](https://scorecard.dev/viewer/?uri=github.com/google/magika) --> ![OpenSSF Best Practices](https://www.bestpractices.dev/en/projects/8706) !CodeQL ![Actions status](https://github.com/google/magika/actions) ![PyPI Month...",
-      "readme_summary_ja": "Magika ![image](https://pypi.python.org/pypi/magika) ![NPM Version](https://npmjs.com/package/magika) ![image](https://pypi.python.org/pypi/magika) ![image](https://pypi.python.org/pypi/magika) ![Go Version](https://pkg.go.dev/github.com/google/magika/go) <!-- ![OpenSSF Scorecard](https://scorecard.dev/viewer/?uri=github.com/google/magika) --> ![OpenSSF Best Practices](https://www.bestpractices.dev/en/projects/8706) !CodeQL ![Actions status](https://github.com/google/magika/actions) ![PyPI Month...",
+      "readme_summary": null,
+      "readme_summary_ja": null,
       "language": "Python",
-      "stars": 768
+      "stars": 854
+    },
+    {
+      "rank": 7,
+      "repo_name": "steipete/wacli",
+      "description": "WhatsApp CLI",
+      "description_ja": "WhatsApp CLI",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Go",
+      "stars": 321
+    },
+    {
+      "rank": 8,
+      "repo_name": "topoteretes/cognee",
+      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "description_ja": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Python",
+      "stars": 170
+    },
+    {
+      "rank": 9,
+      "repo_name": "z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "description_ja": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Python",
+      "stars": 195
+    },
+    {
+      "rank": 10,
+      "repo_name": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "description_ja": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Jupyter Notebook",
+      "stars": 1385
+    },
+    {
+      "rank": 11,
+      "repo_name": "openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "description_ja": "A lightweight, powerful framework for multi-agent workflows",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Python",
+      "stars": 172
+    },
+    {
+      "rank": 12,
+      "repo_name": "EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "description_ja": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "JavaScript",
+      "stars": 812
     },
     {
       "rank": 13,
-      "repo_name": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "description_ja": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "readme_summary": "<p align=\"center\"> <h1 align=\"center\">Claude Code Game Studios</h1> <p align=\"center\"> Turn a single Claude Code session into a full game development studio. <br /> 49 agents. 72 skills",
-      "readme_summary_ja": "<p align=\"center\"> <h1 align=\"center\">Claude Code Game Studios</h1> <p align=\"center\"> Turn a single Claude Code session into a full game development studio. <br /> 49 agents. 72 skills",
+      "repo_name": "SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "description_ja": "Claude Code skill to support Android app's reverse engineering",
+      "readme_summary": null,
+      "readme_summary_ja": null,
       "language": "Shell",
-      "stars": 612
+      "stars": 375
+    },
+    {
+      "rank": 14,
+      "repo_name": "BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "description_ja": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "readme_summary": null,
+      "readme_summary_ja": null,
+      "language": "Dart",
+      "stars": 378
     }
   ]
 }
