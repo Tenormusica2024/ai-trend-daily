@@ -1,0 +1,106 @@
+{
+  "updated_at": "2026-04-19 04:16:31",
+  "total_repos": 10,
+  "ranking": [
+    {
+      "rank": 1,
+      "repo_name": "thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "description_ja": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "readme_summary": "Thunderbolt ![CI](https://github.com/thunderbird/thunderbolt/actions/workflows/ci.yml) **AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.** !Thunderbolt Main Dashboard > [!IMPORTANT] > ⚠️ **We are excited about the amount of interest Thunderbolt has been getting and want to clarify that it is still early and under active development**",
+      "readme_summary_ja": "Thunderbolt ![CI](https://github.com/thunderbird/thunderbolt/actions/workflows/ci.yml) **AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.** !Thunderbolt Main Dashboard > [!IMPORTANT] > ⚠️ **We are excited about the amount of interest Thunderbolt has been getting and want to clarify that it is still early and under active development**",
+      "language": "TypeScript",
+      "stars": 447
+    },
+    {
+      "rank": 2,
+      "repo_name": "BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "description_ja": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "readme_summary": "<div align=\"center\"> **omi** A 2nd brain you trust more than your 1st Omi captures your screen and conversations, transcribes in real-time, generates summaries and action items, and gives you an AI chat that remembers everything you've seen and heard. Works on desktop, phone and wearables. Fully open source",
+      "readme_summary_ja": "<div align=\"center\"> **omi** A 2nd brain you trust more than your 1st Omi captures your screen and conversations, transcribes in real-time, generates summaries and action items, and gives you an AI chat that remembers everything you've seen and heard. Works on desktop, phone and wearables. Fully open source",
+      "language": "Dart",
+      "stars": 609
+    },
+    {
+      "rank": 3,
+      "repo_name": "openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "description_ja": "A lightweight, powerful framework for multi-agent workflows",
+      "readme_summary": "OpenAI Agents SDK ![PyPI](https://pypi.org/project/openai-agents/) The OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic, supporting the OpenAI Responses and Chat Completions APIs, as well as 100+ other LLMs. <img src=\"https://cdn.openai.com/API/docs/images/orchestration.png\" alt=\"Image of the Agents Tracing UI\" style=\"max-height: 803px;\"> > [!NOTE] > Looking for the JavaScript/TypeScript version? Check out Agents SDK JS/TS",
+      "readme_summary_ja": "OpenAI Agents SDK ![PyPI](https://pypi.org/project/openai-agents/) The OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic, supporting the OpenAI Responses and Chat Completions APIs, as well as 100+ other LLMs. <img src=\"https://cdn.openai.com/API/docs/images/orchestration.png\" alt=\"Image of the Agents Tracing UI\" style=\"max-height: 803px;\"> > [!NOTE] > Looking for the JavaScript/TypeScript version? Check out Agents SDK JS/TS",
+      "language": "Python",
+      "stars": 470
+    },
+    {
+      "rank": 4,
+      "repo_name": "EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "description_ja": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "readme_summary": "🧬 Evolver ![GitHub stars](https://github.com/EvoMap/evolver/stargazers) ![License: GPL-3.0](https://opensource.org/licenses/GPL-3.0) ![Node.js >= 18](https://nodejs.org/) ![GitHub last commit](https://github.com/EvoMap/evolver/commits/main) ![GitHub issues](https://github.com/EvoMap/evolver/issues) !Evolver Cover **evomap.ai** | Documentation | Chinese / 中文文档 | Japanese / 日本語ドキュメント | GitHub | Releases --- > **Notice — Moving Toward Source-Available** > > Evolver has been fully open source since ...",
+      "readme_summary_ja": "🧬 Evolver ![GitHub stars](https://github.com/EvoMap/evolver/stargazers) ![License: GPL-3.0](https://opensource.org/licenses/GPL-3.0) ![Node.js >= 18](https://nodejs.org/) ![GitHub last commit](https://github.com/EvoMap/evolver/commits/main) ![GitHub issues](https://github.com/EvoMap/evolver/issues) !Evolver Cover **evomap.ai** | Documentation | Chinese / 中文文档 | Japanese / 日本語ドキュメント | GitHub | Releases --- > **Notice — Moving Toward Source-Available** > > Evolver has been fully open source since ...",
+      "language": "JavaScript",
+      "stars": 1131
+    },
+    {
+      "rank": 5,
+      "repo_name": "deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "description_ja": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "readme_summary": "DeepGEMM DeepGEMM is a unified, high-performance tensor core kernel library that brings together the key computation primitives of modern large language models — GEMMs (FP8, FP4, BF16), fused MoE with overlapped communication (Mega MoE), MQA scoring for the lightning indexer, HyperConnection (HC), and more — into a single, cohesive CUDA codebase. All kernels are compiled at runtime via a lightweight Just-In-Time (JIT) module, requiring no CUDA compilation during installation. DeepGEMM leverages ...",
+      "readme_summary_ja": "DeepGEMM DeepGEMM is a unified, high-performance tensor core kernel library that brings together the key computation primitives of modern large language models — GEMMs (FP8, FP4, BF16), fused MoE with overlapped communication (Mega MoE), MQA scoring for the lightning indexer, HyperConnection (HC), and more — into a single, cohesive CUDA codebase. All kernels are compiled at runtime via a lightweight Just-In-Time (JIT) module, requiring no CUDA compilation during installation. DeepGEMM leverages ...",
+      "language": "Cuda",
+      "stars": 31
+    },
+    {
+      "rank": 6,
+      "repo_name": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "description_ja": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "readme_summary": "<p align=\"center\"> <h1 align=\"center\">《动手学大模型》系列编程实践教程</h1> </p> <p align=\"center\"> <a href=\"https://img.shields.io/badge/version-v0.1.0-blue\"> <img alt=\"version\" src=\"https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922\" /> </a> <a > <img alt=\"Status-building\" src=\"https://img.shields.io/badge/Status-building-blue\" /> </a> <a > <img alt=\"PRs-Welcome\" src=\"https://img.shields.io/badge/PRs-Welcome-red\" /> </a> <a href=\"https://github.com/Lordog/dive-into-llms/stargazers\"> <i...",
+      "readme_summary_ja": "<p align=\"center\"> <h1 align=\"center\">《动手学大模型》系列编程实践教程</h1> </p> <p align=\"center\"> <a href=\"https://img.shields.io/badge/version-v0.1.0-blue\"> <img alt=\"version\" src=\"https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922\" /> </a> <a > <img alt=\"Status-building\" src=\"https://img.shields.io/badge/Status-building-blue\" /> </a> <a > <img alt=\"PRs-Welcome\" src=\"https://img.shields.io/badge/PRs-Welcome-red\" /> </a> <a href=\"https://github.com/Lordog/dive-into-llms/stargazers\"> <i...",
+      "language": "Jupyter Notebook",
+      "stars": 547
+    },
+    {
+      "rank": 7,
+      "repo_name": "aaddrick/claude-desktop-debian",
+      "description": "Claude Desktop for Debian-based Linux distributions",
+      "description_ja": "Claude Desktop for Debian-based Linux distributions",
+      "readme_summary": "Claude Desktop for Linux This project provides build scripts to run Claude Desktop natively on Linux systems. It repackages the official Windows application for Linux distributions, producing .deb packages (Debian/Ubuntu), .rpm packages (Fedora/RHEL), distribution-agnostic AppImages, an AUR package for Arch Linux, and a Nix flake for NixOS. **Note:** This is an unofficial build script",
+      "readme_summary_ja": "Claude Desktop for Linux This project provides build scripts to run Claude Desktop natively on Linux systems. It repackages the official Windows application for Linux distributions, producing .deb packages (Debian/Ubuntu), .rpm packages (Fedora/RHEL), distribution-agnostic AppImages, an AUR package for Arch Linux, and a Nix flake for NixOS. **Note:** This is an unofficial build script",
+      "language": "Shell",
+      "stars": 44
+    },
+    {
+      "rank": 8,
+      "repo_name": "rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "description_ja": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "readme_summary": "<p align=\"center\"> <img src=\"res/logo-header.svg\" alt=\"RustDesk - Your remote desktop\"><br> <a href=\"#raw-steps-to-build\">Build</a> • <a href=\"#how-to-build-with-docker\">Docker</a> • <a href=\"#file-structure\">Structure</a> • <a href=\"#snapshot\">Snapshot</a><br> [<a href=\"docs/README-UA.md\">Українська</a>] | [<a href=\"docs/README-CS.md\">česky</a>] | [<a href=\"docs/README-ZH.md\">中文</a>] | [<a href=\"docs/README-HU.md\">Magyar</a>] | [<a href=\"docs/README-ES.md\">Español</a>] | [<a href=\"docs/README-F...",
+      "readme_summary_ja": "<p align=\"center\"> <img src=\"res/logo-header.svg\" alt=\"RustDesk - Your remote desktop\"><br> <a href=\"#raw-steps-to-build\">Build</a> • <a href=\"#how-to-build-with-docker\">Docker</a> • <a href=\"#file-structure\">Structure</a> • <a href=\"#snapshot\">Snapshot</a><br> [<a href=\"docs/README-UA.md\">Українська</a>] | [<a href=\"docs/README-CS.md\">česky</a>] | [<a href=\"docs/README-ZH.md\">中文</a>] | [<a href=\"docs/README-HU.md\">Magyar</a>] | [<a href=\"docs/README-ES.md\">Español</a>] | [<a href=\"docs/README-F...",
+      "language": "Rust",
+      "stars": 393
+    },
+    {
+      "rank": 9,
+      "repo_name": "SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "description_ja": "Claude Code skill to support Android app's reverse engineering",
+      "readme_summary": "Android Reverse Engineering & API Extraction — Claude Code skill A Claude Code skill that decompiles Android APK/XAPK/JAR/AAR files and **extracts the HTTP APIs** used by the app — Retrofit endpoints, OkHttp calls, hardcoded URLs, authentication patterns — so you can document and reproduce them without the original source code. What it does - **Decompiles** APK, XAPK, JAR, and AAR files using jadx and Fernflower/Vineflower (single engine or side-by-side comparison) - **Extracts and documents API...",
+      "readme_summary_ja": "Android Reverse Engineering & API Extraction — Claude Code skill A Claude Code skill that decompiles Android APK/XAPK/JAR/AAR files and **extracts the HTTP APIs** used by the app — Retrofit endpoints, OkHttp calls, hardcoded URLs, authentication patterns — so you can document and reproduce them without the original source code. What it does - **Decompiles** APK, XAPK, JAR, and AAR files using jadx and Fernflower/Vineflower (single engine or side-by-side comparison) - **Extracts and documents API...",
+      "language": "Shell",
+      "stars": 403
+    },
+    {
+      "rank": 10,
+      "repo_name": "tractorjuice/arc-kit",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "description_ja": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "readme_summary": "ArcKit - Enterprise Architecture Governance Toolkit ![GitHub Stars](https://github.com/tractorjuice/arc-kit/stargazers) ![GitHub Forks](https://github.com/tractorjuice/arc-kit/network/members) ![License: MIT](LICENSE) ![Latest Release](https://github.com/tractorjuice/arc-kit/releases) ![GitHub Issues](https://github.com/tractorjuice/arc-kit/issues) ![Ask DeepWiki](https://deepwiki.com/tractorjuice/arc-kit) !ArcKit - Enterprise Architecture Governance Toolkit **Build better enterprise architectur...",
+      "readme_summary_ja": "ArcKit - Enterprise Architecture Governance Toolkit ![GitHub Stars](https://github.com/tractorjuice/arc-kit/stargazers) ![GitHub Forks](https://github.com/tractorjuice/arc-kit/network/members) ![License: MIT](LICENSE) ![Latest Release](https://github.com/tractorjuice/arc-kit/releases) ![GitHub Issues](https://github.com/tractorjuice/arc-kit/issues) ![Ask DeepWiki](https://deepwiki.com/tractorjuice/arc-kit) !ArcKit - Enterprise Architecture Governance Toolkit **Build better enterprise architectur...",
+      "language": "HTML",
+      "stars": 135
+    }
+  ]
+}
